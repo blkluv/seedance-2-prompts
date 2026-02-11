@@ -14,6 +14,7 @@ export interface VideoPrompt {
   author?: { name: string; link?: string };
   sourceLink?: string;
   sourcePublishedAt?: string;
+  translatedContent?: string;
   sourceVideos?: Array<{ url: string; thumbnail?: string }>;
   videos?: Array<{
     cloudflareStream?: { thumbnailUrl?: string };
@@ -34,6 +35,7 @@ export interface ProcessedPrompt {
   id: number;
   title: string;
   content: string;
+  translatedContent?: string;
   description?: string;
   language: string;
   author?: { name: string; link?: string };
@@ -70,12 +72,13 @@ function extractThumbnail(doc: VideoPrompt): string | null {
   return null;
 }
 
-export async function fetchSeedancePrompts(): Promise<ProcessedPrompt[]> {
+export async function fetchSeedancePrompts(locale: string = 'en'): Promise<ProcessedPrompt[]> {
   const query = stringify({
     where: { model: { equals: 'seedance-2.0' } },
     sort: '-sourcePublishedAt',
     limit: 200,
     depth: 2,
+    locale,
     select: { sourceMeta: false, raw: false },
   }, { addQueryPrefix: true });
 
@@ -103,6 +106,7 @@ export async function fetchSeedancePrompts(): Promise<ProcessedPrompt[]> {
       id: doc.id,
       title: doc.title,
       content: doc.content,
+      translatedContent: doc.translatedContent || undefined,
       description: doc.description || undefined,
       language: doc.language,
       author: doc.author && typeof doc.author === 'object' ? doc.author : undefined,
