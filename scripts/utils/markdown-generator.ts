@@ -20,15 +20,15 @@ export function generateReadme(prompts: ProcessedPrompt[]): string {
   const header = `# 🎬 Awesome Seedance 2.0 Video Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-0-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-prompts/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)
 
 A curated collection of high-quality video generation prompts for **Seedance 2.0**.
 
 ## 🤖 What is Seedance 2.0?
 
-[Seedance 2.0](https://youmind.com/en-US/seedance-prompts) is a video generation model developed by **ByteDance**. It is the industry's first model supporting **simultaneous quad-modal input** — image, video, audio, and text.
+[Seedance 2.0](https://youmind.com/en-US/seedance-2-0-prompts) is a video generation model developed by **ByteDance**. It is the industry's first model supporting **simultaneous quad-modal input** — image, video, audio, and text.
 
 **Key Features:**
 - 🎥 **Text-to-Video** — Generate videos from text descriptions
@@ -40,7 +40,7 @@ A curated collection of high-quality video generation prompts for **Seedance 2.0
 
 ## 🔗 Explore the Full Gallery
 
-👉 **[Browse all Seedance 2.0 prompts on YouMind](https://youmind.com/en-US/seedance-prompts)**
+👉 **[Browse all Seedance 2.0 prompts on YouMind](https://youmind.com/en-US/seedance-2-0-prompts)**
 
 ## 📊 Stats
 
@@ -63,7 +63,7 @@ A curated collection of high-quality video generation prompts for **Seedance 2.0
       : '';
     const sourceLine = p.sourceLink ? ` | **Source:** [Link](${p.sourceLink})` : '';
     const dateLine = p.sourcePublishedAt ? ` | **Published:** ${formatDate(p.sourcePublishedAt)}` : '';
-    const tryLink = `https://youmind.com/en-US/seedance-prompts?id=${p.id}`;
+    const tryLink = `https://youmind.com/en-US/seedance-2-0-prompts?id=${p.id}`;
 
     return `### ${p.title}
 
@@ -77,7 +77,7 @@ ${p.content}
 
 ${authorLine}${sourceLine}${dateLine}
 
-🚀 **[Try it now →](${tryLink})**
+🎬 **[Watch Video →](${tryLink})**
 
 ---
 `;
@@ -104,7 +104,7 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-0-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-0-prompts&Date)
 `;
 
   return header + promptSections + footer;

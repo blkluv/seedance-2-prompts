@@ -1,15 +1,15 @@
 # 🎬 Awesome Seedance 2.0 Video Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)
+[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-0-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)
 
 A curated collection of high-quality video generation prompts for **Seedance 2.0**.
 
 ## 🤖 What is Seedance 2.0?
 
-[Seedance 2.0](https://youmind.com/en-US/seedance-prompts) is a video generation model developed by **ByteDance**. It is the industry's first model supporting **simultaneous quad-modal input** — image, video, audio, and text.
+[Seedance 2.0](https://youmind.com/en-US/seedance-2-0-prompts) is a video generation model developed by **ByteDance**. It is the industry's first model supporting **simultaneous quad-modal input** — image, video, audio, and text.
 
 **Key Features:**
 - 🎥 **Text-to-Video** — Generate videos from text descriptions
@@ -21,7 +21,7 @@ A curated collection of high-quality video generation prompts for **Seedance 2.0
 
 ## 🔗 Explore the Full Gallery
 
-👉 **[Browse all Seedance 2.0 prompts on YouMind](https://youmind.com/en-US/seedance-prompts)**
+👉 **[Browse all Seedance 2.0 prompts on YouMind](https://youmind.com/en-US/seedance-2-0-prompts)**
 
 ## 📊 Stats
 
@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for **Seedance 2.0
 
 **Author:** [Jared Liu](https://x.com/jaredliu_bravo) | **Published:** Feb 10, 2026
 
-🚀 **[Try it now →](https://youmind.com/en-US/seedance-prompts?id=2)**
+🎬 **[Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2)**
 
 ---
 
@@ -64,7 +64,7 @@ elon musk 变成了一只恶龙，从地狱火焰中飞出，并朝着屏幕前�
 
 **Author:** [Jared Liu](https://x.com/jaredliu_bravo) | **Source:** [Link](https://x.com/songguoxiansen/status/1991795708308189668) | **Published:** Feb 9, 2026
 
-🚀 **[Try it now →](https://youmind.com/en-US/seedance-prompts?id=1)**
+🎬 **[Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=1)**
 
 ---
 
@@ -82,7 +82,7 @@ elon musk 变成了一只恶龙，从地狱火焰中飞出，并朝着屏幕前�
 
 **Author:** [尾鳍Vicky](https://x.com/BFAVicky) | **Source:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **Published:** Feb 8, 2026
 
-🚀 **[Try it now →](https://youmind.com/en-US/seedance-prompts?id=3)**
+🎬 **[Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=3)**
 
 ---
 
@@ -106,4 +106,4 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-seedance-2-0-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-seedance-2-0-prompts&Date)
