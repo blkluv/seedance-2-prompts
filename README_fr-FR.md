@@ -61,7 +61,7 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **24** |
+| 📝 Total des prompts | **37** |
 | 🔄 Dernière mise à jour | **2026-02-11** |
 
 ---
@@ -104,473 +104,534 @@ Elon Musk transformed into a fierce dragon, soaring out of the inferno of hell a
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=1)**
 
 ---
-### Surrealist Cinematic Sci-Fi Reveal
+### Prompt vidéo surréaliste de mégalophobie avec description détaillée de la scène
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed, multi-scene prompt for Seedance 2.0 to generate a 15-second surrealist video with Hollywood-level visual effects. The video transitions from a calm, sunny sky to a shocking reveal: the sky is unzipped by a giant hand, exposing a hidden cyberpunk future or a mechanical eye, suggesting our world is merely a miniature glass globe observed by a giant.
+> Une invite très détaillée, scène par scène, pour générer une vidéo surréaliste de 15 secondes sur le thème de la mégalophobie, avec des effets spéciaux de niveau hollywoodien et un éclairage réaliste. Le récit implique une fermeture éclair géante ouvrant le ciel pour révéler un monde cyberpunk, culminant avec la révélation que le monde entier est un globe de verre miniature observé par un géant.
 
 ```
-[Style] Surrealism, Megalophobia, Epic visual spectacle, Hollywood special effects quality, extremely realistic light and shadow rendering.
-[Duration] 15 seconds
-[Scene] A clear sky above a city, or an open wheat field.
+[Style] Surréalisme, mégalophobie, spectacle visuel épique, qualité d'effets spéciaux hollywoodiens, rendu d'éclairage extrêmement réaliste.
+[Durée] 15 secondes
+[Scène] Un ciel de ville clair, ou un champ de blé ouvert.
 
-[00:00-00:05] Shot 1: The Illusion of Calm (The Calm).
-The screen shows a beautiful, cloudless blue sky, sunny, with birds flying by. The camera slowly tilts up, giving a feeling of peaceful time.
-Key Detail: Suddenly, a huge, silver metallic sheen appears in the sky—it is a **“zipper”** running across the sky.
+[00:00-00:05] Plan 1 : L'illusion de calme (Le calme).
+L'écran montre un beau ciel bleu sans nuages, un soleil éclatant et des oiseaux qui volent. La caméra panoramique lentement vers le haut, donnant une sensation de temps paisible.
+Détail clé : Soudain, une énorme brillance métallique argentée apparaît dans le ciel – une **« fermeture éclair »** traversant l'horizon.
 
-[00:05-00:10] Shot 2: The Unzipping (The Unzipping).
-A **giant, translucent Hand of God** grips the zipper head and slowly unzips the blue sky, accompanied by a huge roar (sound effect).
-Action: As the zipper opens, the “blue sky” wrinkles and droops like fabric.
-Visual Spectacle: What is revealed behind the zipper is **not the universe**, but a **cyberpunk future world filled with neon lights, flying cars, and giant mechanical structures** (or a giant mechanical eyeball is watching us).
+[00:05-00:10] Plan 2 : La fermeture éclair s'ouvre (Le dézippage).
+Une **main de Dieu géante et translucide** saisit la tirette de la fermeture éclair et ouvre lentement le ciel bleu, accompagnée d'un énorme rugissement (effet sonore).
+Action : Au fur et à mesure que la fermeture éclair s'ouvre, le « ciel bleu » se froisse et s'affaisse comme un tissu.
+Spectacle visuel : Ce qui est révélé derrière la fermeture éclair n'est **pas l'espace**, mais un **monde futur cyberpunk rempli de néons, de voitures volantes et de structures mécaniques géantes** (ou un œil mécanique géant nous observe).
 
-[00:10-00:15] Shot 3: The Confrontation of Two Worlds (The Revelation).
-Only a corner of the blue sky remains hanging. It turns out that the world we live in is just a covered “terrarium.”
-Ending: The camera quickly zooms out, revealing that our entire world (city/wheat field) is actually just a **glass miniature landscape globe** on a giant's table. The giant is leaning in to observe us.
+[00:10-00:15] Plan 3 : Le regard de deux mondes (La révélation).
+Seul un coin du ciel bleu reste suspendu. Il s'avère que le monde dans lequel nous vivons n'est qu'un « terrarium » couvert.
+Fin : La caméra recule rapidement, révélant que notre monde entier (ville/champ de blé) n'est en fait qu'un **globe miniature en verre** posé sur la table d'un géant. Le géant se penche pour nous observer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c155170c7c08be194bbd8b3faa1365b/thumbnails/thumbnail.jpg" width="600" alt="Surrealist Cinematic Sci-Fi Reveal">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9404273a11891cc02b34829ad09582c6/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo surréaliste de mégalophobie avec description détaillée de la scène">
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020727853281628276) | **Publié:** Feb 9, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=17)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=47)**
 
 ---
-### Storyboard-to-Video Generation with Cinematic Pacing
+### Exemples de génération de combats de personnages d'anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ce tweet suggère l'utilisation de Seedance 2.0 pour générer des combats d'anime très appréciés des fans, mentionnant spécifiquement Gojo contre Naruto et Saitama contre Genos, ce qui implique que le modèle gère des interactions et des styles de personnages complexes.
+
+```
+Gojo vs Naruto. Saitama vs Genos
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e779bf19cd1133aee93f81e84595d49/thumbnails/thumbnail.jpg" width="600" alt="Exemples de génération de combats de personnages d'anime">
+
+**Auteur:** [ImPaul](https://x.com/impaulxyz) | **Source:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **Publié:** Feb 8, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=58)**
+
+---
+### Génération de vidéos multi-perspectives et de storyboards
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt instruction for Seedance 2.0 emphasizing the use of storyboard images (3x3 grid layout) to generate a video clip. The key requirement is to utilize different camera angles and shot transitions to achieve a rhythmic and cinematic feel, transforming static visual concepts into a dynamic short film.
+> Une instruction générale pour la création d'un court métrage avec Seedance 2.0, mettant l'accent sur l'utilisation de storyboards et le passage entre différentes perspectives pour améliorer le rythme et la qualité cinématographique. Il s'agit d'une instruction de haut niveau plutôt que d'une invite de scène spécifique.
 
 ```
-Generate video from storyboard images. Need to utilize storyboarding and switching between different perspectives to make the overall footage more rhythmic and cinematic.
+Générer une vidéo à partir d'images de storyboard. Il est nécessaire d'utiliser le storyboarding et le changement de perspective pour rendre l'ensemble plus rythmé et cinématographique.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f24aee6efd202870ce638b4d4aef999b/thumbnails/thumbnail.jpg" width="600" alt="Storyboard-to-Video Generation with Cinematic Pacing">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0880f13ea1ecdea31c2404bafdeeb1/thumbnails/thumbnail.jpg" width="600" alt="Génération de vidéos multi-perspectives et de storyboards">
 
 **Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2020589661769372053) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=16)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=46)**
 
 ---
-### Screenshot to animation
+### Narration multi-caméras avec des personnages cohérents
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt used to convert a screenshot of a script into an animation by specifying the desired style.
+> Une démonstration de la capacité de Seedance 2.0 à générer une narration multi-caméras avec des personnages cohérents sur chaque plan, le tout à partir d'une seule invite. Cela met en évidence les capacités narratives et de cohérence avancées du modèle.
 
 ```
-prompt the style and here is the result
+Récits multi-caméras avec des personnages cohérents sur chaque plan.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/096fa0ccf9aae03f7640d831abefb073/thumbnails/thumbnail.jpg" width="600" alt="Screenshot to animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8cf0161c9460319ca8149996fa9d263c/thumbnails/thumbnail.jpg" width="600" alt="Narration multi-caméras avec des personnages cohérents">
 
-**Auteur:** [Rayleigh_AI](https://x.com/Long4AI) | **Source:** [Link](https://x.com/Long4AI/status/2020530375223882203) | **Publié:** Feb 8, 2026
+**Auteur:** [Mobbi AI](https://x.com/MobbiAI) | **Source:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=34)**
 
 ---
-### First-person roller coaster with scene transitions
+### Montagnes russes à la première personne avec transitions saisonnières
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt used with Seedance 2.0 to generate a continuous shot of a first-person roller coaster experience with natural scene transitions, using four seasonal scene images as input.
+> Une invite pour générer des montagnes russes continues à la première personne qui passent sans transition par quatre scènes saisonnières différentes, démontrant la capacité de Seedance 2.0 à gérer des transitions de scène complexes et des prises de vue continues.
 
 ```
-first-person roller coaster, one continuous shot, natural scene transitions.
+montagnes russes à la première personne, un plan séquence, transitions de scène naturelles.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6122db3bf3b3efd7cb4a4c6c357dbff/thumbnails/thumbnail.jpg" width="600" alt="First-person roller coaster with scene transitions">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/744846b495f42f13095c3144a5abc9e2/thumbnails/thumbnail.jpg" width="600" alt="Montagnes russes à la première personne avec transitions saisonnières">
 
 **Auteur:** [Latte](https://x.com/0xbisc) | **Source:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=9)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=37)**
 
 ---
-### Hollywood professional racing movie scene
+### Génération de scènes de films de course hollywoodiens
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, multi-shot prompt for Seedance 2.0 to generate a 15-second scene from a Hollywood professional racing movie, specifying style, duration, shot composition, character actions, and dialogue cues for three distinct shots.
+> Une invite détaillée, multi-plans, conçue pour générer une scène de course nocturne cinématographique à enjeux élevés, dans le style d'un film de course professionnel hollywoodien (style Le Mans), mettant en scène deux pilotes : Le Vétéran et Le Challenger.
 
 ```
-Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rain, High Stakes Sport.
-Duration: 15s.
+Style : Film de course professionnel hollywoodien (style Le Mans), nuit cinématique, pluie, sport à enjeux élevés.
+Durée : 15 s.
 
-[00-05s] Shot 1: The Veteran (Interior/Close-up).
-Rain lashes the windshield of a high-tech race car on a track. The Veteran driver (in helmet) looks over, calm and focused. Dashboard lights reflect on his visor.
-Dialogue Cue: He gives a subtle nod and mouths "Let's go."
+[00-05s] Plan 1 : Le Vétéran (Intérieur/Gros plan).
+La pluie fouette le pare-brise d'une voiture de course high-tech sur une piste. Le pilote vétéran (casqué) jette un coup d'œil, calme et concentré. Les lumières du tableau de bord se reflètent sur sa visière.
+Indication de dialogue : Il fait un signe de tête subtil et murmure « Allons-y ».
 
-[05-10s] Shot 2: The Challenger (Interior/Close-up).
-Cut to the rival car next to him. The younger driver grips the wheel tight, breathing heavily. Eyes wide with adrenaline.
-Dialogue Cue: He whispers "Focus" to himself.
+[05-10s] Plan 2 : Le Challenger (Intérieur/Gros plan).
+Coupe sur la voiture rivale à côté de lui. Le jeune pilote serre fort le volant, respirant difficilement. Les yeux écarquillés par l'adrénaline.
+Indication de dialogue : Il se murmure « Concentre-toi ».
 
-[10-15s] Shot 3: The Green Light (Wide Action).
-The starting lights turn Green. Both cars accelerate in perfect sync on the wet asphalt. Water sprays massively into the camera lens. Motion blur turns the stadium lights into long streaks of color.
+[10-15s] Plan 3 : Le feu vert (Action large).
+Les feux de départ passent au vert. Les deux voitures accélèrent en parfaite synchronisation sur l'asphalte mouillé. L'eau gicle massivement sur l'objectif de la caméra. Le flou de mouvement transforme les lumières du stade en longues traînées de couleur.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/833bb89fbf994cc7acd2f4c7e0954105/thumbnails/thumbnail.jpg" width="600" alt="Hollywood professional racing movie scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b6afe113a6eb4531db761b022d92cad/thumbnails/thumbnail.jpg" width="600" alt="Génération de scènes de films de course hollywoodiens">
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020515830874636716) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=7)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=35)**
 
 ---
-### Restaurant review video generation
+### Scène de film d'action cinématique
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite détaillée pour générer une séquence d'action cinématographique mettant en scène une guerrière dans un décor industriel abandonné, en mettant l'accent sur un plan-séquence continu, un équipement tactique de haute technologie et un combat dynamique contre des zombies.
+
+```
+Ambiance de blockbuster d'action cinématographique, plan-séquence continu. Une guerrière vêtue d'une combinaison tactique noire high-tech est au centre d'une usine industrielle lourde, désertée et rouillée. La caméra la suit avec un mouvement fluide. Elle fait preuve de superbes compétences de combat, donnant d'abord un coup de pied volant à un zombie avec un coup de pied retourné précis, immédiatement suivi d'un tir de pistolet précis à une main, avec des flammes féroces jaillissant du canon.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b1339ee5ae8ad3a8e3ff263fb39585e/thumbnails/thumbnail.jpg" width="600" alt="Scène de film d'action cinématique">
+
+**Auteur:** [AI少年](https://x.com/aehyok) | **Source:** [Link](https://x.com/aehyok/status/2020510749760868619) | **Publié:** Feb 8, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=48)**
+
+---
+### Génération de vidéos d'évaluation de restaurants
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple prompt demonstrating Seedance 2.0's ability to generate a full review video of a restaurant based on an uploaded menu and the text prompt.
+> Une invite demandant à Seedance 2.0 de générer une vidéo d'évaluation de restaurant basée sur un menu téléchargé, démontrant la capacité du modèle à synthétiser des informations provenant de documents externes dans un format vidéo structuré.
 
 ```
-generate a review video on a restaurant from a menu i found online
+générer une vidéo de critique sur un restaurant à partir d'un menu que j'ai trouvé en ligne
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2221348c0daee6aa10fe078c02c8a819/thumbnails/thumbnail.jpg" width="600" alt="Restaurant review video generation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c47fdee3cb1be13dced6864b7c948071/thumbnails/thumbnail.jpg" width="600" alt="Génération de vidéos d'évaluation de restaurants">
 
 **Auteur:** [Miko](https://x.com/Mho_23) | **Source:** [Link](https://x.com/Mho_23/status/2020492666538950832) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=8)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=39)**
 
 ---
-### 90s Anime Action Sequence Prompt
+### Séquence d'action d'anime des années 90 : Embuscade au café
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex prompt designed to generate a dynamic action sequence video in the 90s anime style using Seedance 2.0. The scene involves a peaceful cafe setting that is suddenly interrupted by masked intruders, forcing the main female character to take cover and prepare for a fight.
+> Une invite complexe conçue pour générer une séquence d'action dans un style anime des années 90. Elle met en scène une femme en robe de soirée noire assise paisiblement dans un café, qui est soudainement prise en embuscade par des hommes armés masqués. La séquence détaille sa réaction immédiate : elle renverse une table pour se couvrir.
 
 ```
-90s anime style, action sequence. A woman with brown wavy hair in a black evening dress sits peacefully in a cafe drinking coffee. Suddenly, masked men with guns kick the door open. The woman flips the table for cover, revealing
+Style anime des années 90, séquence d'action. Une femme aux cheveux bruns ondulés, vêtue d'une robe de soirée noire, est assise paisiblement dans un café, buvant un café. Soudain, des hommes masqués armés défoncent la porte. La femme renverse la table pour se couvrir, révélant
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8256cac9a259350f07927daf73352b2e/thumbnails/thumbnail.jpg" width="600" alt="90s Anime Action Sequence Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7247164e9c83dbf0d687b9957b8bae24/thumbnails/thumbnail.jpg" width="600" alt="Séquence d'action d'anime des années 90 : Embuscade au café">
 
-**Auteur:** [Mr.Iancu](https://x.com/Iancu_ai) | **Source:** [Link](https://x.com/Iancu_ai/status/2020479709256229206) | **Publié:** Feb 8, 2026
+**Auteur:** [Mr.Iancu](https://x.com/Iancu_ai) | **Source:** [Link](https://x.com/Iancu_ai/status/2020479714520117349) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=45)**
 
 ---
-### Extreme Kinetic Energy Wuxia Showdown
+### L'Ultime Confrontation Wuxia Orientale à l'Énergie Cinétique Extrême
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, three-part prompt for generating a 15-second, high-energy Eastern Wuxia duel between a white-robed master and a black-robed master, focusing on environmental destruction, cinematic particle effects, and extreme kinetic energy.
+> Une invite détaillée en trois scènes pour une vidéo de 15 secondes dépeignant un duel Wuxia oriental ultime entre un maître en blanc et un maître en noir. Elle spécifie « Énergie Cinétique Extrême », « Esthétique de Destruction Environnementale », un montage rapide, des effets de particules cinématographiques et une bande-son épique, détaillant la collision, le combat aérien et un climax final avec une explosion d'énergie.
 
 ```
-[Style] Eastern Wuxia ultimate showdown, Extreme Kinetic Energy, aesthetic of environmental destruction, fast-paced editing, cinematic particle effects, epic musical atmosphere. [Duration] 15 seconds [Characters] White-robed Master VS Black-robed Master [00:00-00:05] Shot 1: High-speed Collision. The white-robed and black-robed figures clash violently in the center of an ancient stone platform, transforming into afterimages. The moment their weapons touch, dazzling sparks and a visible circular high-pressure airwave (Shockwave) erupt, causing the surrounding stone ground to instantly crack and fragments to fly up. [00:05-00:10] Shot 2: Mid-air Combat & Destruction. The two figures leap into the air, rapidly moving and fighting among falling boulders, too fast to discern their moves. Every parry triggers a sound effect of air distortion. They crash through a giant stone pillar, which collapses and shatters, filling the air with smoke and dust, demonstrating ultimate destructive power. [00:10-00:15] Shot 3: Ultimate Climax. Both figures land and simultaneously unleash their ultimate moves, two massive energy masses (one cyan, one red) colliding. This triggers an earth-shattering explosion of dust and energy, a mushroom cloud of smoke obscures everything, and the entire stone platform base begins to collapse and sink.
+[Style] Confrontation ultime de Wuxia oriental, énergie cinétique extrême, esthétique de destruction environnementale, montage rapide, effets de particules cinématographiques, ambiance de bande-son épique. [Durée] 15 secondes [Personnages] Maître en blanc VS Maître en noir [00:00-00:05] Plan 1 : Collision à grande vitesse. Les silhouettes vêtues de blanc et de noir s'entrechoquent violemment au centre d'une ancienne plate-forme de pierre, se déplaçant comme des images rémanentes. Au moment où leurs armes se touchent, des étincelles éblouissantes et une onde de choc circulaire à haute pression visible éclatent, fissurant instantanément le sol de pierre environnant et projetant des débris. [00:05-00:10] Plan 2 : Combat et destruction en plein air. Les deux silhouettes s'envolent, s'entremêlant et s'affrontant rapidement au milieu de rochers géants qui tombent, se déplaçant trop vite pour que leurs mouvements soient clairement visibles. Chaque parade déclenche un effet sonore suggérant une distorsion de l'air. Ils traversent un pilier de pierre massif, qui s'effondre et se brise, remplissant l'air de fumée et de poussière, démontrant une puissance destructrice ultime. [00:10-00:15] Plan 3 : Climax ultime. Les deux silhouettes atterrissent et déchaînent simultanément leurs mouvements ultimes, deux masses d'énergie massives (une cyan, une rouge) entrant en collision. Cela déclenche une explosion cataclysmique de poussière et d'énergie, un nuage de fumée en forme de champignon obscurcit tout, et la base entière de la plate-forme de pierre commence à s'effondrer et à s'enfoncer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e3ac0e7c45d59cda61962a1102960dd/thumbnails/thumbnail.jpg" width="600" alt="Extreme Kinetic Energy Wuxia Showdown">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/989f850f69ef69a40946842aeeae36cc/thumbnails/thumbnail.jpg" width="600" alt="L'Ultime Confrontation Wuxia Orientale à l'Énergie Cinétique Extrême">
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020468650570842604) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=20)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=52)**
 
 ---
-### Wuxia Swordsman in Moonlight Bamboo Forest
+### Mannequin posant avec plusieurs tenues
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Il s'agit d'une invite de génération d'images conçue pour créer une série de poses pour un modèle, en utilisant plusieurs images de référence pour différentes tenues et une seule image de référence pour les traits du visage. Le modèle est invité à prendre diverses poses ludiques, cool, mignonnes, surprises et élégantes tout en portant les tenues spécifiées.
+
+```
+Référez-vous aux traits du visage du modèle dans l'image @ image1. Le modèle, portant les tenues des images @ image 2 @ image 3 @ image 4 @ image 5 @ image 6, s'approche de l'appareil photo et pose de manière joueuse, cool, mignonne, surprise et élégante, chaque pose étant associée à une tenue différente.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a43c624cd8559b35f1e44543bb10cf9e/thumbnails/thumbnail.jpg" width="600" alt="Mannequin posant avec plusieurs tenues">
+
+**Auteur:** [Patrick](https://x.com/patrickassale) | **Source:** [Link](https://x.com/patrickassale/status/2020451487810211991) | **Publié:** Feb 8, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=41)**
+
+---
+### Scène du samouraï dans la forêt de bambous éclairée par la lune
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed prompt for generating a cinematic Wuxia scene featuring a swordsman in a bamboo forest under the moonlight, emphasizing camera movement, sound design, and a dramatic action sequence.
+> Une invite détaillée pour générer une séquence vidéo cinématographique mettant en scène un épéiste dans une forêt de bambous éclairée par la lune. L'invite spécifie les mouvements de caméra (rotation à 360 degrés, long plan en travelling avant), les séquences d'action (tirer l'épée, couper le bambou avec une énergie d'épée) et les effets sonores environnementaux, visant un style de film d'arts martiaux dramatique.
 
 ```
-A bamboo forest under the moonlight. A white-robed swordsman stands deep within the forest, his robes fluttering in the wind. He slowly draws his sword, the blade reflecting the moonlight. The camera rotates 360 degrees around him, and bamboo leaves fall one after another. The swordsman suddenly strikes with his sword, a sword energy slashes through the bamboo forest, and several bamboo stalks snap instantly. A long take, one shot, moves from a wide shot to a close-up of the swordsman's face, showing a cold and resolute expression. Environmental sound: wind, rustling bamboo leaves, sword clang.
+Une forêt de bambous sous le clair de lune. Un épéiste vêtu de blanc se tient au cœur de la bambouseraie, ses robes flottant au vent. Il tire lentement son épée, la lame reflétant le clair de lune. La caméra tourne à 360 degrés autour de lui, et des feuilles de bambou tombent continuellement. L'épéiste frappe soudainement, une énergie d'épée traverse la forêt de bambous, et plusieurs tiges de bambou se brisent instantanément. Un long plan séquence, un seul plan, passe d'un plan large à un gros plan du visage de l'épéiste, montrant une expression froide et résolue. Son ambiant : vent, bruissement des feuilles de bambou, cliquetis d'épée.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c8bb16ba7e3d5d4fe522e4d14a77268/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Swordsman in Moonlight Bamboo Forest">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15369ff50d213b965ca86a4d0b9062b6/thumbnails/thumbnail.jpg" width="600" alt="Scène du samouraï dans la forêt de bambous éclairée par la lune">
 
 **Auteur:** [Howard](https://x.com/channelerHua) | **Source:** [Link](https://x.com/channelerHua/status/2020450999589322812) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=18)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=50)**
 
 ---
-### Rewriting Video Plot with a Single Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This prompt demonstrates Seedance 2.0's ability to completely rewrite the narrative or 'plot' of an existing video clip (Video1) using a detailed, time-coded text description, showcasing its powerful post-production editing capabilities.
-
-```
-Subvert the entire plot of Video1.
-0–3 seconds: A man in a suit sits in a bar, calm and composed, lightly swirling a glass of wine…
-3–6 seconds: The woman behind him asks nervously, “How big?” …
-6–9 seconds: Suddenly the man pulls out… a huge, exaggerated snack gift pack…
-13–15 seconds: …subtitle: “No matter how busy, remember to have a snack~”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f6e2f0ff0f091fdc1acf9777a801058/thumbnails/thumbnail.jpg" width="600" alt="Rewriting Video Plot with a Single Prompt">
-
-**Auteur:** [underwood](https://x.com/underwoodxie96) | **Source:** [Link](https://x.com/underwoodxie96/status/2020440350930899399) | **Publié:** Feb 8, 2026
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=5)**
-
----
-### Wong Kar-wai Style Melancholy Scene
+### Scène de cabine téléphonique mélancolique à la Wong Kar-wai
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt for generating a 10-second video in the style of 90s Hong Kong Art Cinema (Wong Kar-wai), focusing on a melancholy atmosphere, high ISO film grain, yellow-green tint, and signature visual techniques like step-printing and motion blur, centered around a man in a rainy phone booth.
+> Une invite détaillée en trois plans pour une vidéo de 10 secondes imitant le style du cinéma d'art hongkongais des années 90 (Wong Kar-wai). Elle spécifie des éléments visuels (grain de film rétro, teinte jaune-vert, impression pas à pas/traînée d'obturation lente), une ligne de dialogue clé et des techniques de caméra (regarder à travers une vitre, très gros plan, sensation de caméra à l'épaule) pour transmettre une intense solitude et une émotion refoulée dans une scène de cabine téléphonique sous la pluie.
 
 ```
-[Film Style]: 90s Hong Kong Art Cinema style, retro film texture, High ISO Grain, ambiguous Yellow-Green Tint, Step-printing effect, melancholic atmosphere.
+[Style de film] : Style cinéma d'art hongkongais des années 90, grain de film rétro, grain ISO élevé, teinte jaune-vert ambiguë, effet de tirage par étapes, atmosphère mélancolique.
 
-[Core Dialogue (used to control emotion)]: “If memory is a can of food, I hope it never expires.”
+[Dialogue principal (pour le contrôle émotionnel)] : « Si la mémoire était une boîte de conserve, j'espère qu'elle n'expirerait jamais. »
 
-[Video Duration]: 10 seconds
-[Storyboard]:
+[Durée de la vidéo] : 10 secondes
+[Storyboard] :
 
-[00:00-00:04] Shot 1: Through the Glass.
-Scene: A red public telephone booth covered in rain.
-Character: A man (or woman) wearing a khaki trench coat, tightly gripping the receiver, not speaking, just listening.
-Emotional Performance: Through the refraction of the glass, their eyes appear vacant yet deep. Rain flows on the glass, distorting their face like an oil painting.
-Subtitle/Narration Feel: The image seems frozen, only the sound of rain remains.
+[00:00-00:04] Plan 1 : À travers la vitre.
+Scène : Une cabine téléphonique publique rouge couverte d'eau de pluie.
+Personnage : Un homme (ou une femme) portant un trench-coat kaki, serrant fermement le combiné, ne parlant pas, juste écoutant.
+Performance émotionnelle : À travers la réfraction de la vitre, leurs yeux apparaissent vides mais profondément émotifs. La pluie coule sur la vitre, déformant leur visage comme une peinture à l'huile.
+Ambiance du sous-titre/narration : La scène semble figée, avec seulement le son de la pluie.
 
-[00:04-00:07] Shot 2: Extreme Close-up & Micro-expression.
-Scene: Focuses on the character's lips and half of their face.
-Action: He/She whispers softly into the microphone. Lips tremble slightly, seeming to want to say something but swallowing it back.
-Lighting: Neon light bokeh from the roadside flows across their face, flickering on and off.
-Dialogue Emotion Mapping: Expresses extreme restraint and loneliness, like “wanting to touch but pulling the hand back.”
+[00:04-00:07] Plan 2 : Très gros plan et micro-expression.
+Scène : Se concentre sur les lèvres du personnage et la moitié de son visage.
+Action : Il/Elle chuchote doucement dans le combiné. Les lèvres tremblent légèrement, semblant vouloir dire quelque chose mais se retenant.
+Éclairage : Le bokeh des néons de la rue traverse leur visage, s'allumant et s'éteignant.
+Cartographie des émotions du dialogue : Exprime une retenue et une solitude extrêmes, comme « vouloir toucher mais retirer la main ».
 
-[00:07-00:10] Shot 3: Signature Smeary Slow Motion.
-Scene: The character hangs up the phone, turns, and walks into the crowd in the rainy night.
-Visual Effects: Uses a Step-printing (stop-motion feel) effect, the character's back view becomes blurred and has Motion Blur, as if the soul remained in place and only the body is moving.
-Environment: The background is the flowing car lights of the city, forming elongated light trails.
+[00:07-00:10] Plan 3 : Ralenti flou caractéristique.
+Scène : Le personnage raccroche le téléphone, se retourne et s'enfonce dans la foule sous la pluie nocturne.
+Effets visuels : Utilise un effet de tirage par étapes (sensation de stop-motion), la silhouette du personnage devient floue et présente un flou de mouvement, comme si son âme restait en place tandis que seul son corps bougeait.
+Environnement : L'arrière-plan présente des lumières de voitures de ville en mouvement, formant des traînées lumineuses allongées.
 
-[Technical Parameters]: Simulated Handheld Camera, shallow depth of field, color shift, rich emotion.
+[Paramètres techniques] : Caméra à main simulée, faible profondeur de champ, décalage de couleur, émotion intense.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33ed5d312c6bbd4a2f624f82b7cf3294/thumbnails/thumbnail.jpg" width="600" alt="Wong Kar-wai Style Melancholy Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74ec2cbe7c0a9a919479e4214da32059/thumbnails/thumbnail.jpg" width="600" alt="Scène de cabine téléphonique mélancolique à la Wong Kar-wai">
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020415877993156966) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=23)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=54)**
 
 ---
-### Cyberpunk Anti-Gravity Chase Scene
+### Scène de poursuite cyberpunk de science-fiction hollywoodienne
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, three-shot prompt for generating a 10-second Hollywood sci-fi blockbuster scene with a Cyberpunk aesthetic. It features a high-speed anti-gravity vehicle chase through a rainy megacity, emphasizing complex neon reflections, dynamic camera shake, and an epic pull-back shot.
+> Une invite très détaillée en trois plans pour une vidéo de 10 secondes simulant un blockbuster hollywoodien de science-fiction avec une esthétique cyberpunk. Elle spécifie les techniques de caméra (travelling grand-angle, plan d'action serré, recul épique), l'environnement (mégapole pluvieuse, néons, publicités holographiques) et les paramètres techniques (8k UHD, étalonnage Teal & Orange, HDR, effets de particules complexes) en se concentrant sur une course-poursuite de véhicules antigravité à grande vitesse.
 
 ```
-[Film Style]: Hollywood Sci-Fi Blockbuster, Cyberpunk Aesthetics, high-contrast neon lighting, IMAX film quality, epic musical score. [Video Duration]: 10 seconds [Storyboard]: [00:00-00:04] Shot 1: Wide Angle Tracking Shot with extreme depth. Scene: A futuristic Megacity canyon, night falls, and it is raining. Action: A streamlined Anti-gravity Vehicle speeds through the skyscrapers. Environmental Details (Core Test Point): Countless giant Holographic Ads are flashing, and the neon lights reflect complexly on the wet glass curtain walls and the surface of the vehicle. The vehicle's tail leaves long blue Light Trails. [00:04-00:07] Shot 2: Tight Action Shot / Cockpit View. Action: The vehicle makes a sharp turn and side-slip maneuver to avoid an obstacle. Details: The camera is very close to the vehicle, showing Sparks and water mist generated as the body scrapes past the edge of a building. Rain hits the lens densely and is blown away by the high-speed airflow. The screen is full of Camera Shake caused by speed. [00:07-00:10] Shot 3: Epic Pull-back / Crane Shot. Action: The vehicle rushes out of the narrow cluster of buildings and flies towards an open central city square. Scene: The view suddenly opens up, revealing a breathtaking panoramic view of the giant city. The vehicle breaks through a layer of massive low-altitude clouds, which churn and roll due to the airflow (Volumetric Clouds & Turbulence). A huge Lens Flare spans the screen. [Technical Parameters]: 8k ultra-high definition, cinematic color grading (Teal & Orange), extremely high dynamic range (HDR), complex particle effect rendering.
+[Style de film] : Superproduction hollywoodienne de science-fiction, esthétique cyberpunk, éclairage néon à contraste élevé, texture cinématographique IMAX, ambiance de bande-son épique. [Durée de la vidéo] : 10 secondes [Storyboard] : [00:00-00:04] Plan 1 : Plan de suivi grand-angle avec une profondeur de champ extrême. Scène : Un canyon de mégalopole futuriste la nuit, il pleut. Action : Un véhicule anti-gravité profilé fonce à travers les gratte-ciel. Détails environnementaux (point de test principal) : D'innombrables publicités holographiques géantes clignotent, et les néons se reflètent de manière complexe sur les murs-rideaux de verre humides et la surface du véhicule. La queue du véhicule laisse de longues traînées lumineuses bleues. [00:04-00:07] Plan 2 : Plan d'action rapproché / Vue du cockpit. Action : Le véhicule effectue un virage serré et une manœuvre de dérapage latéral pour éviter un obstacle. Détails : La caméra est très proche du véhicule, montrant des étincelles et du brouillard générés lorsque le fuselage frôle le bord d'un bâtiment. La pluie frappe la lentille densément et est balayée par le flux d'air à grande vitesse. L'écran est rempli de la sensation de vibration causée par la vitesse (Camera Shake). [00:07-00:10] Plan 3 : Plan épique en recul / Plan grue. Action : Le véhicule sort de l'étroit amas de bâtiments et s'envole vers une place centrale ouverte. Scène : La vue s'ouvre soudainement, révélant une vue panoramique à couper le souffle de la ville géante. Le véhicule traverse une couche de nuages massifs à basse altitude, qui roulent et déferlent en raison du flux d'air (Volumetric Clouds & Turbulence). Un énorme Lens Flare traverse l'écran. [Paramètres techniques] : 8k Ultra HD, étalonnage des couleurs cinématographique (Teal & Orange), plage dynamique extrêmement élevée (HDR), rendu d'effets de particules complexes.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ceb89e94afac9055d48b32d9d282663/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Anti-Gravity Chase Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28c76c0eea8870db0e93d22952b7cfb9/thumbnails/thumbnail.jpg" width="600" alt="Scène de poursuite cyberpunk de science-fiction hollywoodienne">
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020414452147933437) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=19)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=53)**
 
 ---
-### Wuxia fight scene with image references
+### Scène de combat fantastique d'arts martiaux
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A Chinese prompt for Seedance 2.0 to generate a Wuxia (martial arts fantasy) fight scene between two girls, referencing two images for the characters and location, and specifying cinematic style, effects, dialogue, and outcome.
+> Une instruction détaillée en chinois pour générer une scène de combat d'arts martiaux fantastiques entre deux filles sur le toit d'un bâtiment, imitant le style, les effets spéciaux et les dialogues d'une série télévisée Xuanhuan (wuxia fantastique), se terminant par la victoire de la fille en blanc.
 
 ```
-The two girls in Image 1 are fighting on top of the building in Image 2. The camera work, special effects, and dialogue should all imitate the style of a fantasy Wuxia film/TV series, and the girl wearing white ultimately wins.
+Les deux jeunes filles de l'Image 1 se battent sur le toit du bâtiment de l'Image 2. Le travail de caméra, les effets spéciaux et les dialogues doivent tous imiter le style d'une série télévisée Xuanhuan (arts martiaux fantastiques), la jeune fille vêtue de blanc remportant finalement une grande victoire.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f64e1eada5172823a2b6df0aa203066/thumbnails/thumbnail.jpg" width="600" alt="Wuxia fight scene with image references">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0c12781fd74d945b553d5bdc2727365/thumbnails/thumbnail.jpg" width="600" alt="Scène de combat fantastique d'arts martiaux">
 
 **Auteur:** [天霸•巫芒•角天](https://x.com/wumatv) | **Source:** [Link](https://x.com/wumatv/status/2020400327632326741) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=42)**
 
 ---
-### AI Short Drama Script for Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed script prompt for generating a 15-second short drama video using Seedance 2.0, focusing on a scene of a middle-aged man working intensely on a computer, followed by a sudden realization or breakdown. The prompt specifies timing, actions, dialogue/narration, and background music/sound effects, designed for high-impact short-form content.
-
-```
-Time, Scene, Action/Dialogue, BGM/Sound Effects
-0-2 seconds: A middle-aged man frantically typing on the computer, fingers twitching like a robot. Sad piano music (in the style of 'Erquan Yingyue')
-2-3 seconds: Suddenly freezes, fingers suspended in mid-air, eyes gradually becoming hollow. "Ding—" (Computer crash sound effect)
-3-5 seconds: Mechanically turns his head to look at the camera, neck making two "ka-ka" sounds (post-production sound effect). Piano music continues.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01bd6e0f67e840ea24bbcc8f05c1a2ae/thumbnails/thumbnail.jpg" width="600" alt="AI Short Drama Script for Seedance 2.0">
-
-**Auteur:** [逸尘](https://x.com/gengdaJ) | **Source:** [Link](https://x.com/gengdaJ/status/2020375376908947482) | **Publié:** Feb 8, 2026
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=4)**
-
----
-### Watercolor Ink Sword Performance
+### Performance de l'épée à l'encre aquarelle
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A post expressing awe at a video generated by Seedance 2.0, which created a 'breathtaking watercolor ink sword performance' from a single prompt.
+> Une invite utilisée pour générer une performance d'épée époustouflante, rendue dans un style d'encre aquarelle, démontrant la capacité du modèle à gérer des actions complexes et des styles artistiques à partir d'une seule instruction.
 
 ```
-breathtaking watercolor ink sword performance
+performance d'épée à l'encre aquarelle.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bf2d2d62ae359c49b37d8f0e358673ed/thumbnails/thumbnail.jpg" width="600" alt="Watercolor Ink Sword Performance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01bf973df9c5e5972d91a65232f79cfb/thumbnails/thumbnail.jpg" width="600" alt="Performance de l'épée à l'encre aquarelle">
 
 **Auteur:** [Aicean](https://x.com/Aicean_ai) | **Source:** [Link](https://x.com/Aicean_ai/status/2020375288513958067) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=38)**
 
 ---
-### Eastern Classical Wuxia Bamboo Forest Duel
+### Duel de Wuxia classique dans la forêt de bambous
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, three-shot prompt for generating a 10-second video showcasing the aesthetic of Eastern classical Wuxia cinema, featuring a duel between a male and female martial artist in a bamboo forest, emphasizing light, movement, and the graceful use of 'Qinggong' (lightness skill).
+> Une invite pour une vidéo de 10 secondes générant une scène classique de Wuxia oriental dans une forêt de bambous. Elle spécifie l'esthétique (vert émeraude, éclairage cinématographique, doux rayons de lumière), définit deux personnages (un homme en blanc, une femme en cyan) et détaille trois plans : un plan large établissant la scène avec de légers mouvements, un plan moyen au ralenti de l'entrechoquement des épées, et un plan de suivi dynamique accentuant la vitesse et le mouvement des feuilles de bambou.
 
 ```
-[Visual Style] Eastern classical Wuxia aesthetic, cinematic visual language, bamboo forest sea landscape, emerald green main color tone, rich light and shadow layers, soft light beam effects visible in the forest. [Character Definition] 1. Male Swordsman: Dressed in a plain white robe, stable posture, concise and powerful movements. 2. Female Swordsman: Dressed in a light cyan gauze dress, light and smooth movements, agile posture. [Video Duration] 10 seconds [Storyboard] [00:00-00:03] Shot 1: Wide Shot Composition. Scene: The tops of tall, dense bamboo forests, with clouds and mist slowly flowing through the woods. Action: The male and female swordsmen stand separately among the high bamboo shadows, their bodies light and stable, as if maintaining balance by leveraging airflow and the momentum of the bamboo. Detail Performance: Bamboo branches naturally bend and spring back in the breeze, and the figures of the two subtly fluctuate with the bamboo shadows, presenting an impressionistic effect of Qinggong (lightness skill). The overall picture is quiet yet tense. [00:00-00:06] Shot 2: Medium Shot, Slow Motion. Action: The two leap up almost simultaneously, crossing paths in the air. Interaction Performance: Two sword shadows briefly intersect in the air, forming a bright streak of light. Surrounding bamboo leaves are driven by the airflow, slowly spinning and scattering. Visual Focus: Leaves flutter in the air, forming distinct foreground and background layers. The movement is smooth, without exaggerated impact. [00:06-00:10] Shot 3: Tracking Shot. Action: The female swordsman glides forward, her sleeve brushing past bamboo branches to change direction; the male swordsman follows closely behind, continuously borrowing force with light, rhythmic steps. Environmental Feedback: The camera follows the movement smoothly, and the bamboo forest forms a natural speed blur effect at the edges of the frame. Visual Effects: Every movement kicks up large amounts of scattered bamboo leaves, flowing like a rain of leaves in the frame, enhancing the sense of spatial depth and dynamic beauty. [Technical Requirements] Cinematic lighting, saturated but clearly layered colors, natural depth of field, stable and clean picture, overall presenting the impressionistic beauty and spatial tension of Eastern Wuxia.
+[Style Visuel] Esthétique Wuxia classique orientale, langage visuel cinématographique, paysage de mer de bambous, ton de couleur principal vert émeraude, riches couches de lumière et d'ombre, effets de rayons lumineux doux visibles dans la forêt. [Définition des Personnages] 1. Épéiste masculin : Vêtu d'une longue robe blanche unie, posture stable, mouvements concis et puissants. 2. Épéiste féminine : Vêtue d'une robe légère en gaze couleur phénix-cyan, mouvements légers et fluides, posture agile. [Durée de la Vidéo] 10 secondes [Storyboard] [00:00-00:03] Plan 1 : Composition en plan large. Scène : Les cimes des forêts de bambous hautes et denses, avec des nuages et de la brume qui s'écoulent lentement à travers le bosquet. Action : Les épéistes masculin et féminin se tiennent séparément parmi les hautes ombres de bambous, leurs corps légers et stables, comme s'ils maintenaient l'équilibre en utilisant le flux d'air et l'élan des bambous. Détail : Les branches de bambou se plient et se redressent naturellement sous la brise, et les postures des personnages fluctuent subtilement avec les ombres de bambou, présentant un effet impressionniste de Qinggong (compétence de légèreté). La scène globale est calme mais tendue. [00:00-00:06] Plan 2 : Plan moyen, ralenti. Action : Les deux personnages bondissent presque simultanément, se croisant en l'air. Interaction : Deux ombres d'épée se croisent brièvement en l'air, formant une traînée lumineuse. Les feuilles de bambou environnantes sont entraînées par le flux d'air, tourbillonnant et se dispersant lentement. Focus visuel : Les feuilles flottent dans l'air, créant des couches distinctes de premier plan et d'arrière-plan. Le mouvement est fluide, sans impact exagéré. [00:06-00:10] Plan 3 : Plan de suivi dynamique. Action : L'épéiste féminine glisse vers l'avant, sa manche frôlant les branches de bambou pour changer de direction ; l'épéiste masculin la suit continuellement, utilisant le bambou comme levier, avec des pas légers et rythmés. Retour environnemental : La caméra suit le mouvement en douceur. La forêt de bambous crée un effet de flou de vitesse naturel sur les bords du cadre. Effet visuel : Chaque mouvement soulève une grande quantité de feuilles de bambou dispersées, s'écoulant comme une pluie de feuilles dans le cadre, améliorant le sens de la profondeur spatiale et de la beauté dynamique. [Exigences Techniques] Éclairage cinématographique, couleurs saturées mais clairement superposées, profondeur de champ naturelle, visuels stables et nets, présentant la beauté impressionniste globale et la tension spatiale du Wuxia oriental.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d3d9db3536528c8913fe305a6a871e8/thumbnails/thumbnail.jpg" width="600" alt="Eastern Classical Wuxia Bamboo Forest Duel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cf9109ac5a86a8c935c9d3f317481df8/thumbnails/thumbnail.jpg" width="600" alt="Duel de Wuxia classique dans la forêt de bambous">
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020370929755283887) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=24)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=56)**
 
 ---
-### Action Video Generation with Multi-Reference Inputs
+### Explication de la conversion de bande dessinée en vidéo (La Pérégrination vers l'Ouest)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> This is a technical prompt template for Seedance 2.0, detailing how to use multiple reference inputs (up to 9 images, 3 videos, 3 audio tracks) to generate complex action sequences. It shows how to use specific tags (e.g., @图片1, @视频1) within the prompt to assign roles to each input, controlling actions, camera work, and sound design.
+> Une invite pour convertir une image de bande dessinée en une vidéo explicative avec un style de vulgarisation scientifique et une voix off, détaillant l'histoire de Sun Wukong empruntant l'Éventail de Bananier à la Princesse à l'Éventail de Fer, son refus en raison du conflit impliquant son fils Red Boy, et la dispute qui s'ensuit.
 
 ```
-Control actions, camera shots, and scenes through the prompt.
-
-You can specify the purpose of each image, video, and audio file using "@material name," for example: @Image1 as the first frame, @Video1 for reference camera language, and @Audio1 for background music.
+Utilisez un style et un ton de vulgarisation scientifique pour interpréter le contenu de l'Image 1. Le contenu doit raconter la courte histoire de Wukong se rendant à la montagne Cuiyun pour emprunter l'éventail de bananier à la Princesse Éventail de Fer afin de traverser la Montagne de Flammes. La Princesse Éventail de Fer refuse de prêter l'éventail et cherche à se venger parce que son fils, Red Boy, a été maîtrisé par Wukong et est devenu un disciple de Guanyin, causant la séparation de la mère et du fils. La persuasion de Wukong est infructueuse, et les deux commencent immédiatement à se disputer.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/908886431a64850c4e2e488fbb016439/thumbnails/thumbnail.jpg" width="600" alt="Action Video Generation with Multi-Reference Inputs">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cf66e7f3e859f6a8e9992ee03f18b6c8/thumbnails/thumbnail.jpg" width="600" alt="Explication de la conversion de bande dessinée en vidéo (La Pérégrination vers l'Ouest)">
 
-**Auteur:** [小互](https://x.com/xiaohu) | **Source:** [Link](https://x.com/xiaohu/status/2020341491600879861) | **Publié:** Feb 8, 2026
+**Auteur:** [小互](https://x.com/xiaohu) | **Source:** [Link](https://x.com/xiaohu/status/2020349317693993000) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=15)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=49)**
 
 ---
-### Wuxia Film Style Video Prompt for Seedance 2.0
+### **Prompt d'adaptation de bande dessinée en vidéo (La Pérégrination vers l'Ouest)**
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A text-to-video prompt designed for Seedance 2.0, aiming to generate a 10-second martial arts film clip in the style of director King Hu. The prompt specifies the aesthetic, including 70s film texture, Peking Opera movements, Zen elements, and uses a detailed shot list (Extreme Wide Shot) for the first three seconds.
+> Une invite pour adapter une bande dessinée en vidéo, en conservant les dialogues et la séquence des images originales, en ajoutant des effets sonores spéciaux pour les transitions de scène et les points clés de l'intrigue, et en adoptant un style humoristique basé sur une vidéo de référence.
 
 ```
-[Director Style]: King Hu style, martial arts film aesthetic, 70s film texture, Peking Opera movements, Zen concept, negative space.
-
-[Video Duration]: 10 seconds
-[Shot Logic]:
-
-[00:00-00:03] Shot 1: Extreme Wide Shot.
+Adaptez l'image 1 en une interprétation comique en suivant la séquence de gauche à droite et de haut en bas, en maintenant la cohérence entre le dialogue des personnages et les images. Ajoutez des effets sonores spéciaux pour les transitions de scène et les points clés de l'intrigue, en conservant un style globalement humoristique ; le style de présentation doit faire référence à la vidéo 1.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34ba1659081ef0216dca903d15f1f092/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Film Style Video Prompt for Seedance 2.0">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cf17b936ea378d0ac2dbae6c2c6d7289/thumbnails/thumbnail.jpg" width="600" alt="**Prompt d'adaptation de bande dessinée en vidéo (La Pérégrination vers l'Ouest)**">
 
-**Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020336711381795058) | **Publié:** Feb 8, 2026
+**Auteur:** [小互](https://x.com/xiaohu) | **Source:** [Link](https://x.com/xiaohu/status/2020342990318047233) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=22)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=51)**
 
 ---
-### Tang Bohu E-Sports Duel at the Spring Festival Gala
+### Esthétique des films Wuxia de style King Hu : invite vidéo
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed, 10-second prompt for generating a surreal and humorous video blending traditional Chinese culture with modern e-sports, featuring the Ming Dynasty scholar Tang Bohu playing a MOBA game on a Spring Festival Gala stage, focusing on visual contrast, dynamic camera work, and specific dialogue delivery.
+> Un prompt détaillé pour générer une vidéo de 10 secondes dans le style du réalisateur King Hu, axée sur l'esthétique des films Wuxia, le grain des films des années 70, les mouvements de l'Opéra de Pékin, la philosophie Zen et l'utilisation de l'espace négatif. Le prompt spécifie la durée de la vidéo et le premier plan comme un très grand angle.
 
 ```
-10-second Chinese Spring Festival Gala style stage performance: “Tang Bohu E-Sports Duel”
+[Style du réalisateur] : Style King Hu, esthétique de film Wuxia, texture de grain de film des années 70, mouvements d'opéra de Pékin, philosophie zen, espace négatif.
 
-0–2 seconds:
-Medium-long shot establishes the environment.
-The stage is designed as the magnificent Spring Festival Gala main stage, enveloped in rich red and gold festive lighting, with digitized lantern projections in the background.
-In the center of the stage, Tang Bohu sits on a professional e-sports chair.
-Key historical accuracy requirement: He is dressed in authentic Ming Dynasty scholar attire—wearing a black square scarf (fangjin) on his head and a flowing blue round-collar robe (lan shan).
-Strong contrast: Over the traditional scarf, he wears a pair of heavy, modern professional e-sports headphones, with LED light effects flashing on the edges.
+[Durée de la vidéo] : 10 secondes
+[Logique du storyboard] :
 
-2–4 seconds:
-Cut to a close-up of the hands and desktop.
-From the wide sleeves of the Ming Dynasty scholar's robe, fingers rapidly tap a glowing RGB mechanical keyboard.
-Three curved e-sports monitors are placed in front of him.
-Screen content: Displays a MOBA-type game (similar to 'League of Legends'), but the overall art style has been completely reconstructed into traditional Chinese ink wash painting style.
-
-4–6 seconds:
-Dynamic camera movement: The camera rapidly pushes forward, seemingly passing directly through the ink wash battlefield on the central monitor, finally landing on an **Extreme Close-Up (ECU)** of Tang Bohu's eyes.
-The cold blue light emitted by the monitor strongly reflects in his pupils, contrasting sharply with the warm stage lighting on his face.
-He looks focused and passionate, his mouth movements synchronized as he recites:
-“Others laugh at me for being too crazy, I laugh at them for not seeing through!”
-
-6–8 seconds:
-The camera quickly pulls back to a tight medium shot, showing his highly engaged expression.
-He shouts excitedly into the headset microphone, veins bulging on his neck:
-“Mid lane push, Qiuxiang is my support, who dares to gank her?”
-
-8–10 seconds:
-Full stage shot, moment of victory.
-Tang Bohu slams the keyboard and raises his hands in celebration.
-Golden streamers explode around his e-sports equipment.
-The huge LED screen behind the Spring Festival Gala flashes large ink-wash calligraphy characters—
-“Victory.”
-
-Style and Atmosphere:
-
-**Visual Core:** Strong clash of eras—the warmth, solemnity, and high-spec stage feel of the CCTV Spring Festival Gala × the cold, high-intensity blue light effects of e-sports equipment.
-
-**Costume Setting:** Serious, historically accurate Ming Dynasty scholar attire, forming an absurd contrast with modern e-sports gear.
-
-**Camera Language:** Highly dynamic, emphasizing “push-through-screen” shots and extreme close-ups.
-
-**Aspect Ratio:** 16:9
+[00:00-00:03] Plan 1 : Très gros plan.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd0d5f076f75c25e68539d8ca922e2b3/thumbnails/thumbnail.jpg" width="600" alt="Tang Bohu E-Sports Duel at the Spring Festival Gala">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0b266b941e7f40826c8ccbb4562c2bd/thumbnails/thumbnail.jpg" width="600" alt="Esthétique des films Wuxia de style King Hu : invite vidéo">
+
+**Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020336821012476301) | **Publié:** Feb 8, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=57)**
+
+---
+### Tang Bohu E-Sports Showdown (style Gala du Nouvel An chinois)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite de 10 secondes très détaillée pour une vidéo mêlant l'esthétique des érudits de la dynastie Ming aux e-sports modernes, le tout sur une grande scène du Gala du Festival du Printemps. Le script spécifie la tenue des personnages (robes de la dynastie Ming + casque de jeu LED), l'environnement (éclairage festif rouge/doré, clavier RGB, jeu MOBA à l'encre de Chine), les mouvements de caméra dynamiques (travelling avant, très gros plan) et les dialogues, créant une scène absurde et très contrastée.
+
+```
+Performance scénique de 10 secondes, style Gala du Nouvel An chinois : « Tang Bohu E-Sports Showdown »
+
+0–2 secondes :
+Un plan mi-long établit l'environnement.
+La scène est conçue comme la magnifique scène principale du Gala du Nouvel An chinois, enveloppée de riches lumières festives rouges et dorées, avec des projections de lanternes numériques en arrière-plan.
+Au centre de la scène, Tang Bohu est assis sur une chaise e-sport professionnelle.
+Exigence clé de précision historique : Il est vêtu d'une authentique tenue d'érudit de la dynastie Ming — portant un foulard carré noir (fangjin) sur la tête et une robe ample à col rond bleue (lan shan).
+Contraste saisissant : Par-dessus le foulard traditionnel, il porte un casque e-sport professionnel moderne et lourd, avec des effets de lumière LED clignotant sur les bords.
+
+2–4 secondes :
+Coupe sur un gros plan des mains et du bureau.
+Les doigts tapent rapidement sur un clavier mécanique RVB lumineux, émergeant de larges manches d'érudit de la dynastie Ming.
+Trois moniteurs e-sport incurvés sont placés devant lui.
+Contenu de l'écran : Affiche un jeu de type MOBA (similaire à « League of Legends »), mais le style artistique général a été entièrement reconstruit dans le style traditionnel chinois de la peinture à l'encre.
+
+4–6 secondes :
+Mouvement de caméra dynamique : La caméra avance rapidement, semblant traverser directement le champ de bataille de peinture à l'encre sur le moniteur central, pour finalement atterrir sur un **Très Gros Plan (TGP)** des yeux de Tang Bohu.
+La lumière bleue froide émise par le moniteur se reflète fortement dans ses pupilles, contrastant nettement avec l'éclairage chaud de la scène sur son visage.
+Il a l'air concentré et passionné, ses mouvements de bouche synchronisés alors qu'il récite :
+« Les autres rient de ma folie, mais je ris de leur incapacité à voir ! »
+
+6–8 secondes :
+La caméra recule rapidement pour un gros plan serré à mi-corps, montrant son expression très engagée.
+Il crie avec enthousiasme dans le microphone du casque, les veines du cou saillantes :
+« Poussée sur la voie du milieu, Qiuxiang est mon support, qui ose la ganker ? »
+
+8–10 secondes :
+Plan de scène complet, moment de victoire.
+Tang Bohu claque le clavier et lève les mains en signe de célébration.
+Des serpentins dorés explosent autour de son équipement e-sport.
+L'écran LED du Gala du Nouvel An chinois derrière lui affiche d'énormes caractères calligraphiques à l'encre —
+« Victoire. »
+
+Style et atmosphère :
+
+**Noyau visuel :** Fort choc des époques — la chaleur, la solennité et l'ambiance scénique de haute qualité du Gala du Nouvel An chinois de la CCTV × les effets de lumière bleue froide et de haute intensité de l'équipement e-sport.
+
+**Cadre du costume :** Tenue d'érudit de la dynastie Ming sérieuse et historiquement précise, formant un contraste absurde avec l'équipement e-sport moderne.
+
+**Langage de la caméra :** Très dynamique, mettant l'accent sur les plans « push-in pénétrant l'écran » et les très gros plans.
+
+**Format d'image :** 16:9
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86aba8430485a43f8af8a96eee515d76/thumbnails/thumbnail.jpg" width="600" alt="Tang Bohu E-Sports Showdown (style Gala du Nouvel An chinois)">
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020329496847569111) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=21)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=55)**
 
 ---
-### Character breakdown scene with image and video references
+### Scène de crise émotionnelle avec références d'images et de vidéos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex prompt for Seedance 2.0 that uses multiple image and video references to generate a dramatic scene where a woman walks up to a mirror, contemplates, and then breaks down screaming, requiring precise action and emotion referencing.
+> Une invite complexe utilisant plusieurs références : une image pour le personnage, une image pour la pose et une vidéo pour l'action, les émotions et les expressions faciales lors d'une scène de crise dramatique et de cri.
 
 ```
-The woman in @ Image 1 walks up to the mirror and looks at her reflection. Her pose should reference @ Image 2. After a moment of contemplation, she suddenly breaks down and starts screaming. The action of grabbing the mirror, as well as the emotions and facial expressions during the breakdown and scream, should fully reference @Video 1.
+La femme de l'image 1 s'approche du miroir et regarde son reflet. Sa pose doit faire référence à l'image 2. Après un moment de contemplation, elle s'effondre soudainement et se met à crier. L'action de saisir le miroir, ainsi que les émotions et les expressions faciales pendant l'effondrement et le cri, doivent entièrement faire référence à la vidéo 1.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1b7eb6c66031fc81fd222f125dbf3da/thumbnails/thumbnail.jpg" width="600" alt="Character breakdown scene with image and video references">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53a8adab132a28dc1c87754805e1ab1f/thumbnails/thumbnail.jpg" width="600" alt="Scène de crise émotionnelle avec références d'images et de vidéos">
 
 **Auteur:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2020305327749763090) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=6)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=36)**
 
 ---
-### Skiing Video Generation with Precise Reference Image Control
+### Un homme fuit la police dans une course-poursuite urbaine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite détaillée pour générer une séquence vidéo dynamique. Elle décrit un homme en veste noire courant désespérément dans une rue urbaine, fuyant une foule floue et déchaînée de policiers et de civils. La caméra est spécifiée comme un plan de suivi en contre-plongée, gardant l'homme centré pour une scène frénétique et pleine d'action.
+
+```
+Un homme en veste noire, le visage marqué par la panique, sprinte désespérément dans une large rue urbaine, fuyant une foule floue et déchaînée de policiers et de civils. Un plan en contre-plongée le suit dans sa course effrénée, le maintenant au centre tandis que l'arrière-plan défile.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/052a095bfac44e15ea409f146c382769/thumbnails/thumbnail.jpg" width="600" alt="Un homme fuit la police dans une course-poursuite urbaine">
+
+**Auteur:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2020299416549421253) | **Publié:** Feb 8, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=43)**
+
+---
+### Génération de vidéos de ski : invite avec répartition détaillée des scènes
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, multi-scene prompt designed for Seedance 2.0 to generate a dynamic, cinematic skiing video. The prompt specifies the overall bright and energetic style, precise time-axis control, and detailed camera movements (shaking, close-ups, wide shots, rapid cuts) across five distinct segments (0-15 seconds), emphasizing speed, rhythm, and a strong sense of movement, based on an uploaded reference image of the subject.
+> Une instruction très détaillée, scène par scène, pour générer une vidéo de ski de 15 secondes à l'aide de Seedance 2.0. L'instruction spécifie le style général (lumineux, énergique, cinématique), les mouvements de caméra, les types de plans (gros plan, plan moyen, plongée), les actions et le ton émotionnel sur cinq segments temporels distincts, en se concentrant sur la vitesse, le rythme et le mouvement dynamique. Cette instruction nécessite une image de référence du personnage principal.
 
 ```
-Please generate a skiing video based on the provided reference image. The overall style should be bright, refreshing, and full of athletic vitality, with smooth footage and cinematic camera language. The timeline and shot design are as follows:
- 0–3 seconds: The person in the image smiles and looks at the camera in the snow. The camera shakes slightly, and snowflakes fall. The background wind noise gradually increases, and the screen shows a fast-moving flow of wind and snow.
- 3–5 seconds: Quickly cut to an extreme close-up of the person's feet, showing the moment the snowboard buckles and the snow is crushed. At the same time, the camera rises, transitioning to a top-down view of a steep slope, where the steepness is obvious and the sense of speed is about to explode.
- 5–8 seconds: The person in the image slides down from a high point at high speed. Shot one is a side-front medium shot follow-up, with the body leaning forward and the movements sharp; shot two cuts to a top-down view, where the steep slope extends downwards, and the snow track lines stretch rapidly, giving an extreme sense of speed.
- 8–11 seconds: Continuous rapid shot switching. A low-angle ground-level shot where the snowboard skims the snow surface, and snow powder is thrown up at high speed; a long shot showing the person making a beautiful turn on the steep slope, forming a smooth curve with the snow line.
- 11–13 seconds: The camera returns to a front-facing follow-up shot, where the person in the image rushes towards the camera at high speed, makes a sharp turn at close range, and large amounts of snow are kicked up.
- 13–15 seconds: A large amount of snow powder splashes directly onto the lens, the screen is covered by white snow mist, and the lens briefly loses focus before freezing, leaving a strong dynamic aftertaste. The overall emphasis is on speed, cutting rhythm, realistic movement, and youthful vitality. The picture is bright and not heavy, highlighting the excitement and freedom of skiing.
+Veuillez générer une vidéo de ski basée sur l'image de référence fournie. Le style général doit être lumineux, rafraîchissant, plein de vitalité athlétique, avec des visuels fluides et un langage cinématographique de la caméra. La chronologie et la conception des plans sont les suivantes :
+0-3 secondes : La personne sur l'image sourit et regarde la caméra dans la neige. La caméra tremble légèrement et des flocons de neige tombent. Le bruit du vent en arrière-plan augmente progressivement, et l'écran donne une impression de vent et de neige rapides.
+3-5 secondes : Coupe rapide sur un très gros plan des pieds de la personne, au moment où les fixations de ski se bloquent, et la neige est écrasée. En même temps, la caméra se lève, se connectant à une vue plongeante d'une pente raide, avec un dégradé clair, suggérant une explosion de vitesse imminente.
+5-8 secondes : La personne sur l'image dévale la pente à grande vitesse depuis un point élevé. Le plan un est un plan moyen de suivi de côté-avant, avec le corps penché en avant et des mouvements vifs ; le plan deux passe à une vue plongeante, la pente raide s'étend vers le bas, et les traces de neige s'étirent rapidement, créant une intense sensation de vitesse.
+8-11 secondes : Coupes rapides continues. Plan au ras du sol en contre-plongée, les skis rasent la surface de la neige, et de la poudreuse est projetée à grande vitesse ; un plan large montre la personne effectuant un beau virage sur la pente raide, formant une courbe douce avec la ligne de neige.
+11-13 secondes : La caméra revient à un plan de suivi frontal. La personne fonce vers la caméra, effectuant un virage serré à bout portant, ce qui provoque la projection d'une grande quantité de neige.
+13-15 secondes : Une grande quantité de poudreuse éclabousse directement l'objectif. L'écran est couvert par un brouillard de neige blanche, et l'objectif perd brièvement la mise au point avant de se figer, laissant un fort arrière-goût dynamique. L'accent est mis sur la vitesse, le rythme de coupe, le mouvement réaliste et la vitalité juvénile. Les visuels sont lumineux, pas lourds, soulignant l'excitation et la liberté du ski.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f22ed28c6e89c02a53ae0aeaa028c694/thumbnails/thumbnail.jpg" width="600" alt="Skiing Video Generation with Precise Reference Image Control">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65bb6dbe5586f47fe995678cfd87ff8d/thumbnails/thumbnail.jpg" width="600" alt="Génération de vidéos de ski : invite avec répartition détaillée des scènes">
 
 **Auteur:** [Michelle](https://x.com/Michell81147285) | **Source:** [Link](https://x.com/Michell81147285/status/2020298394175172870) | **Publié:** Feb 8, 2026
 
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=14)**
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=44)**
+
+---
+### Génération de vidéos de mode avec références multiples
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite utilisée pour générer une vidéo de mode complète avec des effets complexes (changements de pose, coupes de tenue, objectif fisheye, ghosting, transitions scintillantes) en fournissant au modèle une référence de visage, cinq images de tenue et une référence vidéo.
+
+```
+référence de visage + 5 images de tenues + référence vidéo et cela a généré une vidéo de mode complète
+
+Changements de pose. Coupes de tenues. Objectif fisheye. Effets de ghosting. Transitions scintillantes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74cbad6b95c521bfc714bda02332d35f/thumbnails/thumbnail.jpg" width="600" alt="Génération de vidéos de mode avec références multiples">
+
+**Auteur:** [SD | AI Animation Storyteller](https://x.com/SDxArt) | **Source:** [Link](https://x.com/SDxArt/status/2020296241297416682) | **Publié:** Feb 8, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=40)**
 
 ---
 ### Seedance 2.0 video ad prompt for a perfume product
@@ -588,6 +649,200 @@ Generate an advertisement video for the perfume product in @image2 based on the 
 **Auteur:** [尾鳍Vicky](https://x.com/BFAVicky) | **Source:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **Publié:** Feb 7, 2026
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3)**
+
+---
+### Générer une vidéo à partir d'un prompt avec des références d'images
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite détaillée pour générer une scène vidéo à l'aide de Seedance 2.0. Elle spécifie l'utilisation de l'Image 1 comme image de départ, dicte le mouvement de la caméra (rotation et zoom avant), et exige que les traits du visage du personnage soient basés sur l'Image 2, culminant dans un rugissement fort et comique.
+
+```
+Utilisez l'image 1 comme première image de la scène.
+La caméra tourne et se rapproche. Le personnage lève soudainement les yeux. Les traits du visage du personnage doivent être basés sur l'image 2. Il commence à rugir bruyamment, plein d'excitation avec une touche de comédie, en référence au visage.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/404c30c523c4506c44d2b4996604acef/thumbnails/thumbnail.jpg" width="600" alt="Générer une vidéo à partir d'un prompt avec des références d'images">
+
+**Auteur:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **Source:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=28)**
+
+---
+### Seedance 2.0 : Génération de vidéos de danse urbaine
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite utilisée pour générer une vidéo de street dance de 15 secondes, créée en une seule fois à l'aide d'un seul selfie comme image de référence et d'une invite textuelle.
+
+```
+Bonjour à toutes et à tous ! Ensuite, je vais vous faire une démonstration de street dance !!!!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32cb455ba14a3fe13b851d7128bfd300/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 : Génération de vidéos de danse urbaine">
+
+**Auteur:** [井然](https://x.com/jingran96) | **Source:** [Link](https://x.com/jingran96/status/2020207082478452842) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=29)**
+
+---
+### Invite de physique pour le pétrissage de la pâte
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une invite détaillée conçue pour tester la capacité de Seedance 2.0 à restituer une physique et un mouvement réalistes, décrivant le processus de préparation de la pâte, y compris le saupoudrage de sel, le mélange, le versement d'eau, le cassage d'un œuf et le pétrissage.
+
+```
+Le sujet principal entre dans le cadre, saupoudre d'abord légèrement de sel dans la farine, puis le mélange uniformément à la main, avant d'y verser une quantité d'eau appropriée, d'y casser un œuf et de commencer à pétrir la pâte.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5cf573a8a912a9bcb2cbeab2d3aac006/thumbnails/thumbnail.jpg" width="600" alt="Invite de physique pour le pétrissage de la pâte">
+
+**Auteur:** [Patrick](https://x.com/patrickassale) | **Source:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=25)**
+
+---
+### Créer une vidéo à partir d'images de storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Instructions sur la façon d'utiliser Dreamina AI pour générer une vidéo en téléchargeant une image de grille 3x3 et en fournissant une invite spécifique.
+
+```
+Créez une vidéo à partir d'images de storyboard.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f8358b46662e74ad3cd0a2ff1e7a06e/thumbnails/thumbnail.jpg" width="600" alt="Créer une vidéo à partir d'images de storyboard">
+
+**Auteur:** [Mr.Iancu](https://x.com/Iancu_ai) | **Source:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=33)**
+
+---
+### Scénario vidéo pour une scène de bagarre dans une taverne
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Il s'agit d'une invite détaillée de génération vidéo pour créer une scène de combat dynamique dans une taverne, axée sur une femme en noir affrontant des assassins. L'invite spécifie l'utilisation des images de début et de fin comme points de référence, nécessitant des transitions fluides, une composition de plan et différents angles de caméra pour obtenir une sensation rythmique et cinématographique.
+
+```
+Voici les images de début et de fin d'une scène d'arts martiaux dans une taverne. En vous basant sur ces deux scènes, veuillez générer une séquence de combat fluide mettant en scène une femme en noir affrontant plusieurs assassins. Il est nécessaire d'utiliser le storyboard et de changer de perspective pour rendre l'ensemble de la scène plus rythmique et cinématographique.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a01d206d6f7c0d6bb16cdab8984c03/thumbnails/thumbnail.jpg" width="600" alt="Scénario vidéo pour une scène de bagarre dans une taverne">
+
+**Auteur:** [YangGuang丨AI创业](https://x.com/YangGuangAI) | **Source:** [Link](https://x.com/YangGuangAI/status/2020165414752539112) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=32)**
+
+---
+### Prompt narratif de Dark Fantasy/Horreur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une longue invite narrative très descriptive, axée sur une scène sombre, froide et orageuse dans une forêt, mettant l'accent sur les détails sensoriels tels que le vent, la neige cinglante, la lumière tremblante d'une torche et la sensation de « froid anormal » d'une cotte de mailles. Cette invite vise une génération vidéo cinématique et atmosphérique.
+
+```
+Le vent s'insinue à travers les pins noirs comme une lame émoussée raclant l'os. La neige ne tombe pas, elle fouette de côté, cinglant les interstices d'un col, fondant en une douleur vive et immédiate. La lumière de la torche tremble dans la tempête blanche, révélant un tronc, une branche, un lambeau de terre, puis les abandonnant à nouveau à l'obscurité plus profonde. Ils avancent lentement. Les bottes s'enfoncent avec un craquement étouffé, et chaque pas ressemble à une dispute avec la forêt : s'il vous plaît, ne nous remarquez pas. Quelqu'un tousse une fois et le regrette instantanément – le son rebondit, ténu et humiliant, comme si les arbres se moquaient de sa peur. La cotte de mailles devrait être chaude à présent, tempérée par la chaleur corporelle, mais elle ne l'est pas. Elle est d'un froid étrange, comme si un frisson invisible rampait sur le métal de l'extérieur vers l'intérieur.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/218615785da51c2e08ff2c035d423556/thumbnails/thumbnail.jpg" width="600" alt="Prompt narratif de Dark Fantasy/Horreur">
+
+**Auteur:** [underwood](https://x.com/underwoodxie96) | **Source:** [Link](https://x.com/underwoodxie96/status/2020051265863188594) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=27)**
+
+---
+### Seedance 2.0 Video Prompt : Talk-show de Zhen Huan et Consort Hua
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite détaillée de génération de vidéo multi-scènes pour Seedance 2.0 de ByteDance, créant une vidéo de 10 secondes inter-genres mettant en scène des personnages du drame de la dynastie Qing « Empresses in the Palace » participant à un talk-show moderne dans le style du Gala du Nouvel An chinois (Chunwan). L'invite spécifie les plans de caméra, les actions des personnages, les dialogues, les détails des costumes et les contrastes stylistiques.
+
+```
+Prestation scénique de 10 secondes dans le style du Gala du Nouvel An chinois (Chunwan) : « Talk-show de Zhen Huan et de la concubine Hua »
+
+0 à 2 secondes :
+Plan moyen à deux.
+Le décor est un « sketch de salon », mais la périphérie est entourée d'un grand écran LED rouge et or typique du Chunwan.
+Zhen Huan (à gauche) et la concubine Hua (à droite) sont assises côte à côte sur un canapé de talk-show moderne.
+Exigence clé en matière de précision historique : toutes deux portent des robes de cour mandchoues de la dynastie Qing (Qizhuang) richement ornées et distinctement différenciées, avec des cols montants, des broderies complexes et exquises ; leurs coiffures sont des « Da La Chi » ou « Dian Zi Tou » fidèlement restaurées, ornées de décorations à pompons.
+La concubine Hua a l'air décontractée, tenant un concombre mariné (concombre aigre) et le grignotant, portant de longs protège-ongles dorés (couvre-doigts) sur ses doigts.
+
+2 à 4 secondes :
+La caméra passe à un plan par-dessus l'épaule (OTS), se concentrant sur la concubine Hua.
+La concubine Hua lève les yeux au ciel de manière exagérée (l'expression classique du « lever les yeux au ciel »).
+Tout en tenant le concombre mariné, elle pointe et gesticule avec ses doigts portant de longs protège-ongles, parlant d'un ton arrogant (synchronisation labiale) :
+« Cette année, mon KPI est encore une fois de vaincre ces petits démons. Qu'est-ce que ce vieil homme, l'Empereur, connaît à l'esthétique ? »
+
+4 à 6 secondes :
+Passage rapide au plan par-dessus l'épaule (OTS) de Zhen Huan.
+Détail contrastant : Zhen Huan porte un écouteur Bluetooth blanc moderne à une oreille (un contraste frappant avec les bijoux anciens), et fait défiler du contenu sur une fine tablette tactile dans sa main.
+Elle répond calmement et professionnellement (synchronisation labiale) :
+« Ma sœur, ne te fâche pas, c'est ce qu'on appelle l'involution au travail. Je pense à démissionner et à vendre du 'Shu Hen Jiao' (baume anti-cicatrices). »
+
+6 à 8 secondes :
+Gros plan sur la table basse entre les deux.
+Une tasse de bubble tea en plastique moderne étiquetée « Yi Zhang Hong » (Une tige rouge) est placée à côté d'un vase en porcelaine traditionnel.
+La caméra revient rapidement sur les deux personnages.
+
+8 à 10 secondes :
+Vue complète de la scène.
+Effet de rires du public (présenté par des changements de lumière / lumières d'applaudissements).
+La concubine Hua prend sa pose finale : jambes croisées, menton levé, levant à nouveau les yeux au ciel.
+Zhen Huan sourit professionnellement à la caméra, comme une présentatrice de journal télévisé.
+Des serpentins dorés tombent du ciel.
+L'atmosphère festive rouge est poussée à son paroxysme.
+
+Style et atmosphère :
+
+**Visuels :** Tons rouges et dorés à haute saturation du Chunwan
+**Costumes :** Tenues de cour de la dynastie Qing de qualité musée (soie, broderies fines, coiffes lourdes)
+**Contraste principal :** La solennité de l'étiquette de la cour Qing × la posture détendue et plaintive des employés de bureau modernes / invités de talk-show
+**Cinematographie :** Rythme vif, points comiques clairs, montage de style sitcom
+**Format d'image :** 16:9
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b8b18e407c32c2fd4cad23626c3bc3/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt : Talk-show de Zhen Huan et Consort Hua">
+
+**Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2020027994429911370) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=31)**
+
+---
+### Capture d'écran de manga en invite vidéo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un utilisateur a réussi à générer une vidéo à l'aide de Seedance 2.0, basée sur une capture d'écran du manga One Piece. L'invite demande à l'IA de générer une vidéo à partir d'un texte de référence, incluant la coloration automatique.
+
+```
+Vidéo générée à partir du texte de référence, avec coloration automatique.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1003680b2b5219b790c06ff45022aa4/thumbnails/thumbnail.jpg" width="600" alt="Capture d'écran de manga en invite vidéo">
+
+**Auteur:** [underwood](https://x.com/underwoodxie96) | **Source:** [Link](https://x.com/underwoodxie96/status/2020015660483649991) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=26)**
+
+---
+### Seedance 2.0 : Bande-annonce de drame historique de voyage dans le temps – Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une invite détaillée et multi-scènes pour Seedance 2.0 afin de générer une bande-annonce de 15 secondes pour un drame historique de voyage dans le temps intitulé « Drunken Dream of Splendor », en utilisant une image de référence pour l'apparence du protagoniste masculin.
+
+```
+Générez une bande-annonce pour un drame historique de voyage dans le temps en utilisant l'image du personnage de la photo de référence. Scène de 0 à 3 secondes : le protagoniste masculin, dont l'apparence est basée sur l'image de référence 1, tient un ballon de basket et lève les yeux vers la caméra. Il dit : « Je voulais juste boire un verre, suis-je sur le point de voyager dans le temps... ? » Scène de 4 à 8 secondes : la caméra tremble soudainement et violemment, la scène du terrain de jeu commence à vibrer intensément, passant instantanément à une nuit pluvieuse dans un ancien manoir. Une belle protagoniste féminine en costume ancien, les yeux froids perçant la pluie, regarde vers la caméra. Le tonnerre gronde et les vêtements flottent au vent. La protagoniste féminine dit : « Qui ose s'introduire dans mon manoir de Yongning Marquis ? » Scène de 9 à 13 secondes : la caméra coupe sur un homme en tenue officielle de la dynastie Ming, assis dans un yamen (tribunal), les yeux perçants comme des couteaux, disant avec colère : « Gardes ! Saisissez immédiatement ce 'démon' ! » Flashbacks : le protagoniste masculin porte des vêtements grossiers mal ajustés ; il fuit désespérément, encerclé par des policiers ; sa silhouette croise celle de la protagoniste féminine dans une ruelle pluvieuse ; le protagoniste masculin marche dans le palais impérial vêtu de robes officielles. Scène de 14 à 15 secondes : écran noir, affichant le titre « Drunken Dream of Splendor », accompagné de lourds battements de tambour.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67176660c9d213d429fd5526c80a95f3/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 : Bande-annonce de drame historique de voyage dans le temps – Prompt">
+
+**Auteur:** [allen](https://x.com/angela781105) | **Source:** [Link](https://x.com/angela781105/status/2019983370420466133) | **Publié:** Feb 7, 2026
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=30)**
 
 ---
 
@@ -627,6 +882,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-02-11T13:10:00.647Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-02-11T17:04:32.722Z</sub>
 
 </div>

@@ -61,7 +61,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **24** |
+| 📝 提示词总数 | **37** |
 | 🔄 最后更新 | **2026-02-11** |
 
 ---
@@ -104,473 +104,566 @@ Elon Musk transformed into a fierce dragon, soaring out of the inferno of hell a
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=1)**
 
 ---
-### Surrealist Cinematic Sci-Fi Reveal
+### 超现实巨物恐惧症视频提示及详细场景分解
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed, multi-scene prompt for Seedance 2.0 to generate a 15-second surrealist video with Hollywood-level visual effects. The video transitions from a calm, sunny sky to a shocking reveal: the sky is unzipped by a giant hand, exposing a hidden cyberpunk future or a mechanical eye, suggesting our world is merely a miniature glass globe observed by a giant.
+> 一个高度详细、逐场景的提示，用于生成一个 15 秒的超现实主义视频，主题为巨物恐惧症，具有好莱坞级别的特效和逼真的灯光。故事讲述一个巨大的拉链拉开天空，露出一个赛博朋克世界，最终揭示整个世界是一个被巨人观察的微型玻璃球。
 
 ```
-[Style] Surrealism, Megalophobia, Epic visual spectacle, Hollywood special effects quality, extremely realistic light and shadow rendering.
-[Duration] 15 seconds
-[Scene] A clear sky above a city, or an open wheat field.
+[风格] 超现实主义、巨物恐惧、史诗级视觉奇观、好莱坞特效品质、极致真实的灯光渲染。
+[时长] 15 秒
+[场景] 晴朗的城市天空，或一片开阔的麦田。
 
-[00:00-00:05] Shot 1: The Illusion of Calm (The Calm).
-The screen shows a beautiful, cloudless blue sky, sunny, with birds flying by. The camera slowly tilts up, giving a feeling of peaceful time.
-Key Detail: Suddenly, a huge, silver metallic sheen appears in the sky—it is a **“zipper”** running across the sky.
+[00:00-00:05] 镜头 1：平静的假象 (The Calm)。
+画面展现一片美丽无云的蓝色天空，阳光明媚，鸟儿飞过。镜头缓慢向上平移，营造出一种宁静的时光感。
+关键细节：突然，天空中出现一道巨大的、银色的金属光泽——一道横跨地平线的“拉链”。
 
-[00:05-00:10] Shot 2: The Unzipping (The Unzipping).
-A **giant, translucent Hand of God** grips the zipper head and slowly unzips the blue sky, accompanied by a huge roar (sound effect).
-Action: As the zipper opens, the “blue sky” wrinkles and droops like fabric.
-Visual Spectacle: What is revealed behind the zipper is **not the universe**, but a **cyberpunk future world filled with neon lights, flying cars, and giant mechanical structures** (or a giant mechanical eyeball is watching us).
+[00:05-00:10] 镜头 2：拉链开启 (The Unzipping)。
+一只巨大的、半透明的“上帝之手”抓住拉链头，伴随着巨大的轰鸣声（音效），缓慢地拉开蓝色天空。
+动作：随着拉链的开启，“蓝色天空”像布料一样褶皱下垂。
+视觉奇观：拉链后面展现的不是太空，而是一个充满霓虹灯、飞行汽车和巨大机械结构的赛博朋克未来世界（或一只巨大的机械眼正在注视着我们）。
 
-[00:10-00:15] Shot 3: The Confrontation of Two Worlds (The Revelation).
-Only a corner of the blue sky remains hanging. It turns out that the world we live in is just a covered “terrarium.”
-Ending: The camera quickly zooms out, revealing that our entire world (city/wheat field) is actually just a **glass miniature landscape globe** on a giant's table. The giant is leaning in to observe us.
+[00:10-00:15] 镜头 3：双世界的凝视 (The Revelation)。
+只剩下蓝色天空的一角悬挂着。原来我们所处的世界只是一个被覆盖的“生态缸”。
+结局：镜头迅速拉远，揭示我们整个世界（城市/麦田）实际上只是巨人桌上一个玻璃微缩景观球。巨人俯身观察着我们。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c155170c7c08be194bbd8b3faa1365b/thumbnails/thumbnail.jpg" width="600" alt="Surrealist Cinematic Sci-Fi Reveal">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9404273a11891cc02b34829ad09582c6/thumbnails/thumbnail.jpg" width="600" alt="超现实巨物恐惧症视频提示及详细场景分解">
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020727853281628276) | **发布时间:** Feb 9, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=17)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=47)**
 
 ---
-### Storyboard-to-Video Generation with Cinematic Pacing
+### 动漫角色对战生成示例
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这条推文建议使用 Seedance 2.0 来生成粉丝最喜欢的动漫对战，特别提到了五条悟对鸣人以及埼玉对杰诺斯，这暗示该模型能够处理复杂的角色互动和风格。
+
+```
+五条悟 vs 鸣人。埼玉 vs 杰诺斯
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e779bf19cd1133aee93f81e84595d49/thumbnails/thumbnail.jpg" width="600" alt="动漫角色对战生成示例">
+
+**作者:** [ImPaul](https://x.com/impaulxyz) | **来源:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **发布时间:** Feb 8, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=58)**
+
+---
+### 故事板与多视角视频生成
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt instruction for Seedance 2.0 emphasizing the use of storyboard images (3x3 grid layout) to generate a video clip. The key requirement is to utilize different camera angles and shot transitions to achieve a rhythmic and cinematic feel, transforming static visual concepts into a dynamic short film.
+> 使用 Seedance 2.0 创作短片的通用说明，强调使用故事板和在不同视角之间切换，以增强节奏感和电影感。这是一项高层次的指导，而非具体的场景提示。
 
 ```
-Generate video from storyboard images. Need to utilize storyboarding and switching between different perspectives to make the overall footage more rhythmic and cinematic.
+从故事板图像生成视频。需要使用故事板和不同视角的切换，使整体画面更具节奏感和电影感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f24aee6efd202870ce638b4d4aef999b/thumbnails/thumbnail.jpg" width="600" alt="Storyboard-to-Video Generation with Cinematic Pacing">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0880f13ea1ecdea31c2404bafdeeb1/thumbnails/thumbnail.jpg" width="600" alt="故事板与多视角视频生成">
 
 **作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2020589661769372053) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=16)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=46)**
 
 ---
-### Screenshot to animation
+### 多机位叙事与一致的角色
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt used to convert a screenshot of a script into an animation by specifying the desired style.
+> Seedance 2.0 能够仅凭一个提示词，就生成具有多机位叙事、且每个镜头中的角色都保持一致的视频。这突显了该模型先进的叙事和一致性能力。
 
 ```
-prompt the style and here is the result
+多机位叙事，确保每个镜头中的角色都保持一致。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/096fa0ccf9aae03f7640d831abefb073/thumbnails/thumbnail.jpg" width="600" alt="Screenshot to animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8cf0161c9460319ca8149996fa9d263c/thumbnails/thumbnail.jpg" width="600" alt="多机位叙事与一致的角色">
 
-**作者:** [Rayleigh_AI](https://x.com/Long4AI) | **来源:** [Link](https://x.com/Long4AI/status/2020530375223882203) | **发布时间:** Feb 8, 2026
+**作者:** [Mobbi AI](https://x.com/MobbiAI) | **来源:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=10)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=34)**
 
 ---
-### First-person roller coaster with scene transitions
+### 第一人称过山车，带季节变换
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt used with Seedance 2.0 to generate a continuous shot of a first-person roller coaster experience with natural scene transitions, using four seasonal scene images as input.
+> 一个用于生成连续、第一人称视角的过山车骑行体验的提示，该体验无缝地过渡四个不同的季节场景，展示了 Seedance 2.0 处理复杂场景过渡和连续镜头的能力。
 
 ```
-first-person roller coaster, one continuous shot, natural scene transitions.
+第一人称过山车视角，一镜到底，自然场景过渡。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6122db3bf3b3efd7cb4a4c6c357dbff/thumbnails/thumbnail.jpg" width="600" alt="First-person roller coaster with scene transitions">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/744846b495f42f13095c3144a5abc9e2/thumbnails/thumbnail.jpg" width="600" alt="第一人称过山车，带季节变换">
 
 **作者:** [Latte](https://x.com/0xbisc) | **来源:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=9)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=37)**
 
 ---
-### Hollywood professional racing movie scene
+### 好莱坞赛车电影场景生成
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, multi-shot prompt for Seedance 2.0 to generate a 15-second scene from a Hollywood professional racing movie, specifying style, duration, shot composition, character actions, and dialogue cues for three distinct shots.
+> 一个详细的多镜头提示，旨在生成一个高风险、电影般的夜间赛车场景，风格类似于好莱坞专业赛车电影（勒芒风格），主角是两位车手：老将和挑战者。
 
 ```
-Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rain, High Stakes Sport.
-Duration: 15s.
+风格：好莱坞专业赛车电影（勒芒风格），电影般的夜晚，雨，高风险运动。
+时长：15 秒。
 
-[00-05s] Shot 1: The Veteran (Interior/Close-up).
-Rain lashes the windshield of a high-tech race car on a track. The Veteran driver (in helmet) looks over, calm and focused. Dashboard lights reflect on his visor.
-Dialogue Cue: He gives a subtle nod and mouths "Let's go."
+[00-05 秒] 镜头 1：老将（车内/特写）。
+雨水拍打着赛道上一辆高科技赛车的挡风玻璃。老将车手（戴头盔）看过来，镇定而专注。仪表盘灯光映照在他的面罩上。
+对白提示：他微微点头，嘴里说着“走吧”。
 
-[05-10s] Shot 2: The Challenger (Interior/Close-up).
-Cut to the rival car next to him. The younger driver grips the wheel tight, breathing heavily. Eyes wide with adrenaline.
-Dialogue Cue: He whispers "Focus" to himself.
+[05-10 秒] 镜头 2：挑战者（车内/特写）。
+切换到他旁边的对手赛车。年轻的车手紧握方向盘，呼吸急促。肾上腺素飙升，双眼圆睁。
+对白提示：他低声对自己说“专注”。
 
-[10-15s] Shot 3: The Green Light (Wide Action).
-The starting lights turn Green. Both cars accelerate in perfect sync on the wet asphalt. Water sprays massively into the camera lens. Motion blur turns the stadium lights into long streaks of color.
+[10-15 秒] 镜头 3：绿灯（广角动作）。
+发车灯变为绿色。两辆赛车在湿滑的柏油路上完美同步加速。水花大量溅向镜头。运动模糊将体育场灯光变成一道道长长的彩色光束。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/833bb89fbf994cc7acd2f4c7e0954105/thumbnails/thumbnail.jpg" width="600" alt="Hollywood professional racing movie scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b6afe113a6eb4531db761b022d92cad/thumbnails/thumbnail.jpg" width="600" alt="好莱坞赛车电影场景生成">
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020515830874636716) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=7)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=35)**
 
 ---
-### Restaurant review video generation
+### 电影动作片场景提示
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个详细的提示，用于生成一段电影般的动作序列。该序列将以一名女战士在一个废弃的工业环境中为主角，强调连续长镜头、高科技战术装备以及与僵尸的动态战斗。
+
+```
+电影动作大片的感觉，连续长镜头。一名身穿黑色高科技战术紧身衣的女战士，置身于一座废弃、锈迹斑斑的重工业工厂中央。镜头平稳地跟随她移动。她展示了精湛的格斗技巧，先是一个凌厉的旋踢将一只僵尸踢飞，紧接着是精准的单手手枪射击，枪口喷射出猛烈的火焰。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1b1339ee5ae8ad3a8e3ff263fb39585e/thumbnails/thumbnail.jpg" width="600" alt="电影动作片场景提示">
+
+**作者:** [AI少年](https://x.com/aehyok) | **来源:** [Link](https://x.com/aehyok/status/2020510749760868619) | **发布时间:** Feb 8, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=48)**
+
+---
+### 餐厅点评视频生成
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple prompt demonstrating Seedance 2.0's ability to generate a full review video of a restaurant based on an uploaded menu and the text prompt.
+> 一个提示，指示 Seedance 2.0 根据上传的菜单生成餐厅评论视频，展示了该模型将外部文档信息合成为结构化视频格式的能力。
 
 ```
-generate a review video on a restaurant from a menu i found online
+根据我在线找到的菜单，制作一个餐厅评论视频
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2221348c0daee6aa10fe078c02c8a819/thumbnails/thumbnail.jpg" width="600" alt="Restaurant review video generation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c47fdee3cb1be13dced6864b7c948071/thumbnails/thumbnail.jpg" width="600" alt="餐厅点评视频生成">
 
 **作者:** [Miko](https://x.com/Mho_23) | **来源:** [Link](https://x.com/Mho_23/status/2020492666538950832) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=8)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=39)**
 
 ---
-### 90s Anime Action Sequence Prompt
+### 90 年代动漫动作序列：咖啡馆伏击
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex prompt designed to generate a dynamic action sequence video in the 90s anime style using Seedance 2.0. The scene involves a peaceful cafe setting that is suddenly interrupted by masked intruders, forcing the main female character to take cover and prepare for a fight.
+> 一个复杂的提示，旨在生成一段 90 年代动漫风格的动作序列。画面中，一名身穿黑色晚礼服的女子正平静地坐在咖啡馆里，突然遭到蒙面枪手的伏击。序列详细描述了她立即掀翻桌子作为掩护的反应。
 
 ```
-90s anime style, action sequence. A woman with brown wavy hair in a black evening dress sits peacefully in a cafe drinking coffee. Suddenly, masked men with guns kick the door open. The woman flips the table for cover, revealing
+90 年代动漫风格，动作场景。一名留着棕色波浪长发的女子身穿黑色晚礼服，平静地坐在咖啡馆里喝咖啡。突然，持枪蒙面男子一脚踢开门。女子掀翻桌子作为掩护，露出了
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8256cac9a259350f07927daf73352b2e/thumbnails/thumbnail.jpg" width="600" alt="90s Anime Action Sequence Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7247164e9c83dbf0d687b9957b8bae24/thumbnails/thumbnail.jpg" width="600" alt="90 年代动漫动作序列：咖啡馆伏击">
 
-**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **来源:** [Link](https://x.com/Iancu_ai/status/2020479709256229206) | **发布时间:** Feb 8, 2026
+**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **来源:** [Link](https://x.com/Iancu_ai/status/2020479714520117349) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=12)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=45)**
 
 ---
-### Extreme Kinetic Energy Wuxia Showdown
+### 东方武侠终极对决，极致动能爆发
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, three-part prompt for generating a 15-second, high-energy Eastern Wuxia duel between a white-robed master and a black-robed master, focusing on environmental destruction, cinematic particle effects, and extreme kinetic energy.
+> 一个详细的三场景提示，用于制作一个 15 秒的视频，描绘一位白衣大师和一位黑衣大师之间终极的东方武侠对决。它指定了“极致动能”、“环境破坏美学”、快节奏剪辑、电影级粒子效果和史诗般的配乐，详细描述了碰撞、空中缠斗和最终的能量爆发高潮。
 
 ```
-[Style] Eastern Wuxia ultimate showdown, Extreme Kinetic Energy, aesthetic of environmental destruction, fast-paced editing, cinematic particle effects, epic musical atmosphere. [Duration] 15 seconds [Characters] White-robed Master VS Black-robed Master [00:00-00:05] Shot 1: High-speed Collision. The white-robed and black-robed figures clash violently in the center of an ancient stone platform, transforming into afterimages. The moment their weapons touch, dazzling sparks and a visible circular high-pressure airwave (Shockwave) erupt, causing the surrounding stone ground to instantly crack and fragments to fly up. [00:05-00:10] Shot 2: Mid-air Combat & Destruction. The two figures leap into the air, rapidly moving and fighting among falling boulders, too fast to discern their moves. Every parry triggers a sound effect of air distortion. They crash through a giant stone pillar, which collapses and shatters, filling the air with smoke and dust, demonstrating ultimate destructive power. [00:10-00:15] Shot 3: Ultimate Climax. Both figures land and simultaneously unleash their ultimate moves, two massive energy masses (one cyan, one red) colliding. This triggers an earth-shattering explosion of dust and energy, a mushroom cloud of smoke obscures everything, and the entire stone platform base begins to collapse and sink.
+[风格] 东方武侠终极对决，极致动能，环境破坏美学，快节奏剪辑，电影级粒子特效，史诗配乐氛围。[时长] 15 秒 [人物] 白衣尊者 VS 黑衣尊者 [00:00-00:05] 镜头 1：高速碰撞。白袍和黑袍身影在古老石台中央猛烈碰撞，身形如残影般移动。武器接触的瞬间，爆发出耀眼火花和可见的圆形高压冲击波，瞬间震裂周围石地，碎石飞溅。[00:05-00:10] 镜头 2：空中激战与破坏。两人腾空而起，在坠落的巨石间快速穿梭、交锋，动作快到无法看清。每一次格挡都伴随着空气扭曲的音效。他们撞穿一根巨大的石柱，石柱轰然倒塌、碎裂，烟尘弥漫，展现出极致的破坏力。[00:10-00:15] 镜头 3：终极高潮。两人落地，同时施展终极招式，两团巨大的能量团（一青一红）相撞。这引发了一场灾难性的尘土和能量爆炸，蘑菇云般的烟雾遮蔽一切，整个石台基座开始崩塌下沉。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e3ac0e7c45d59cda61962a1102960dd/thumbnails/thumbnail.jpg" width="600" alt="Extreme Kinetic Energy Wuxia Showdown">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/989f850f69ef69a40946842aeeae36cc/thumbnails/thumbnail.jpg" width="600" alt="东方武侠终极对决，极致动能爆发">
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020468650570842604) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=20)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=52)**
 
 ---
-### Wuxia Swordsman in Moonlight Bamboo Forest
+### 模特身着多套服装摆拍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个图像生成提示，旨在为模特创建一系列姿势，其中利用多张参考图像来展示不同的服装，并使用一张参考图像来呈现面部特征。模特被要求摆出各种俏皮、酷炫、可爱、惊讶和帅气的姿势，同时穿着指定的服装。
+
+```
+参照 @ image1 中模特的五官。模特身穿 @ image 2 @ image 3 @ image 4 @ image 5 @ image 6 中的服装，靠近镜头，摆出俏皮、酷炫、可爱、惊讶和帅气的姿势，每个姿势都搭配不同的服装。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a43c624cd8559b35f1e44543bb10cf9e/thumbnails/thumbnail.jpg" width="600" alt="模特身着多套服装摆拍">
+
+**作者:** [Patrick](https://x.com/patrickassale) | **来源:** [Link](https://x.com/patrickassale/status/2020451487810211991) | **发布时间:** Feb 8, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=41)**
+
+---
+### 月光竹林剑客场景
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed prompt for generating a cinematic Wuxia scene featuring a swordsman in a bamboo forest under the moonlight, emphasizing camera movement, sound design, and a dramatic action sequence.
+> 一个详细的提示，用于生成一段电影般的视频序列，内容是一位剑客在月光下的竹林中。该提示详细说明了摄像机运动（360 度旋转、长镜头推近）、动作序列（拔剑、用剑气斩断竹子）和环境音效，旨在营造一种戏剧性的武侠电影风格。
 
 ```
-A bamboo forest under the moonlight. A white-robed swordsman stands deep within the forest, his robes fluttering in the wind. He slowly draws his sword, the blade reflecting the moonlight. The camera rotates 360 degrees around him, and bamboo leaves fall one after another. The swordsman suddenly strikes with his sword, a sword energy slashes through the bamboo forest, and several bamboo stalks snap instantly. A long take, one shot, moves from a wide shot to a close-up of the swordsman's face, showing a cold and resolute expression. Environmental sound: wind, rustling bamboo leaves, sword clang.
+月光下的竹林。一名白衣剑客伫立在竹林深处，衣袂随风飘动。他缓缓拔出剑，剑刃映照着月光。镜头围绕他 360 度旋转，竹叶不断飘落。剑客突然出招，一道剑气划破竹林，数根竹子应声而断。一个长镜头，一镜到底，从广角推向剑客面部的特写，展现出他冰冷而坚毅的表情。环境音效：风声、竹叶沙沙声、剑鸣声。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c8bb16ba7e3d5d4fe522e4d14a77268/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Swordsman in Moonlight Bamboo Forest">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/15369ff50d213b965ca86a4d0b9062b6/thumbnails/thumbnail.jpg" width="600" alt="月光竹林剑客场景">
 
 **作者:** [Howard](https://x.com/channelerHua) | **来源:** [Link](https://x.com/channelerHua/status/2020450999589322812) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=18)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=50)**
 
 ---
-### Rewriting Video Plot with a Single Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This prompt demonstrates Seedance 2.0's ability to completely rewrite the narrative or 'plot' of an existing video clip (Video1) using a detailed, time-coded text description, showcasing its powerful post-production editing capabilities.
-
-```
-Subvert the entire plot of Video1.
-0–3 seconds: A man in a suit sits in a bar, calm and composed, lightly swirling a glass of wine…
-3–6 seconds: The woman behind him asks nervously, “How big?” …
-6–9 seconds: Suddenly the man pulls out… a huge, exaggerated snack gift pack…
-13–15 seconds: …subtitle: “No matter how busy, remember to have a snack~”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f6e2f0ff0f091fdc1acf9777a801058/thumbnails/thumbnail.jpg" width="600" alt="Rewriting Video Plot with a Single Prompt">
-
-**作者:** [underwood](https://x.com/underwoodxie96) | **来源:** [Link](https://x.com/underwoodxie96/status/2020440350930899399) | **发布时间:** Feb 8, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=5)**
-
----
-### Wong Kar-wai Style Melancholy Scene
+### 王家卫风格的忧郁电话亭场景
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt for generating a 10-second video in the style of 90s Hong Kong Art Cinema (Wong Kar-wai), focusing on a melancholy atmosphere, high ISO film grain, yellow-green tint, and signature visual techniques like step-printing and motion blur, centered around a man in a rainy phone booth.
+> 一个详细的三镜头提示，用于制作一个模仿 90 年代香港艺术电影（王家卫）风格的 10 秒视频。它指定了视觉元素（复古胶片颗粒、黄绿色调、跳帧/慢速快门拖影）、一句关键对白和摄影技巧（透过玻璃窥视、特写、手持感），以在雨中的电话亭场景中传达强烈的孤独感和压抑的情绪。
 
 ```
-[Film Style]: 90s Hong Kong Art Cinema style, retro film texture, High ISO Grain, ambiguous Yellow-Green Tint, Step-printing effect, melancholic atmosphere.
+[影片风格]：90 年代香港艺术电影风格，复古胶片颗粒感，高 ISO 噪点，模糊的黄绿色调，跳帧效果，忧郁氛围。
 
-[Core Dialogue (used to control emotion)]: “If memory is a can of food, I hope it never expires.”
+[核心对白（用于情绪控制）]：“如果记忆是一罐罐头，我希望它永不过期。”
 
-[Video Duration]: 10 seconds
-[Storyboard]:
+[视频时长]：10 秒
+[分镜脚本]：
 
-[00:00-00:04] Shot 1: Through the Glass.
-Scene: A red public telephone booth covered in rain.
-Character: A man (or woman) wearing a khaki trench coat, tightly gripping the receiver, not speaking, just listening.
-Emotional Performance: Through the refraction of the glass, their eyes appear vacant yet deep. Rain flows on the glass, distorting their face like an oil painting.
-Subtitle/Narration Feel: The image seems frozen, only the sound of rain remains.
+[00:00-00:04] 镜头 1：隔着玻璃。
+场景：一个被雨水覆盖的红色公共电话亭。
+人物：一个穿着卡其色风衣的男人（或女人），紧握听筒，不说话，只是倾听。
+情绪表演：透过玻璃的折射，他们的眼睛显得空洞却又饱含深情。雨水顺着玻璃流下，将他们的脸扭曲成一幅油画。
+字幕/旁白感受：场景仿佛凝固，只有雨声。
 
-[00:04-00:07] Shot 2: Extreme Close-up & Micro-expression.
-Scene: Focuses on the character's lips and half of their face.
-Action: He/She whispers softly into the microphone. Lips tremble slightly, seeming to want to say something but swallowing it back.
-Lighting: Neon light bokeh from the roadside flows across their face, flickering on and off.
-Dialogue Emotion Mapping: Expresses extreme restraint and loneliness, like “wanting to touch but pulling the hand back.”
+[00:04-00:07] 镜头 2：特写与微表情。
+场景：聚焦于人物的嘴唇和半张脸。
+动作：他/她对着听筒轻声细语。嘴唇微微颤抖，似乎想说什么却又欲言又止。
+灯光：街上的霓虹灯散景流淌过他们的脸，忽明忽暗。
+对白情绪映射：表达了极度的克制和孤独，如同“想触碰却又收回手”。
 
-[00:07-00:10] Shot 3: Signature Smeary Slow Motion.
-Scene: The character hangs up the phone, turns, and walks into the crowd in the rainy night.
-Visual Effects: Uses a Step-printing (stop-motion feel) effect, the character's back view becomes blurred and has Motion Blur, as if the soul remained in place and only the body is moving.
-Environment: The background is the flowing car lights of the city, forming elongated light trails.
+[00:07-00:10] 镜头 3：标志性的模糊慢动作。
+场景：人物挂断电话，转身，走进雨夜中的人群。
+视觉效果：使用跳帧效果（定格动画感），人物的轮廓变得模糊并带有运动模糊，仿佛灵魂停留在原地，只有身体在移动。
+环境：背景是流动的城市车灯，形成拉长的光轨。
 
-[Technical Parameters]: Simulated Handheld Camera, shallow depth of field, color shift, rich emotion.
+[技术参数]：模拟手持摄像机，浅景深，色彩偏移，强烈情感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33ed5d312c6bbd4a2f624f82b7cf3294/thumbnails/thumbnail.jpg" width="600" alt="Wong Kar-wai Style Melancholy Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74ec2cbe7c0a9a919479e4214da32059/thumbnails/thumbnail.jpg" width="600" alt="王家卫风格的忧郁电话亭场景">
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020415877993156966) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=23)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=54)**
 
 ---
-### Cyberpunk Anti-Gravity Chase Scene
+### 好莱坞科幻赛博朋克追逐场景
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, three-shot prompt for generating a 10-second Hollywood sci-fi blockbuster scene with a Cyberpunk aesthetic. It features a high-speed anti-gravity vehicle chase through a rainy megacity, emphasizing complex neon reflections, dynamic camera shake, and an epic pull-back shot.
+> 一个高度详细的三镜头提示，用于制作一个 10 秒的视频，模拟具有赛博朋克美学的好莱坞科幻大片。它详细说明了摄影技术（广角跟踪、特写动作镜头、史诗级拉远镜头）、环境（多雨的巨型城市、霓虹灯、全息广告）和技术参数（8k UHD、青橙色调、HDR、复杂粒子效果），重点是一场高速反重力车辆追逐。
 
 ```
-[Film Style]: Hollywood Sci-Fi Blockbuster, Cyberpunk Aesthetics, high-contrast neon lighting, IMAX film quality, epic musical score. [Video Duration]: 10 seconds [Storyboard]: [00:00-00:04] Shot 1: Wide Angle Tracking Shot with extreme depth. Scene: A futuristic Megacity canyon, night falls, and it is raining. Action: A streamlined Anti-gravity Vehicle speeds through the skyscrapers. Environmental Details (Core Test Point): Countless giant Holographic Ads are flashing, and the neon lights reflect complexly on the wet glass curtain walls and the surface of the vehicle. The vehicle's tail leaves long blue Light Trails. [00:04-00:07] Shot 2: Tight Action Shot / Cockpit View. Action: The vehicle makes a sharp turn and side-slip maneuver to avoid an obstacle. Details: The camera is very close to the vehicle, showing Sparks and water mist generated as the body scrapes past the edge of a building. Rain hits the lens densely and is blown away by the high-speed airflow. The screen is full of Camera Shake caused by speed. [00:07-00:10] Shot 3: Epic Pull-back / Crane Shot. Action: The vehicle rushes out of the narrow cluster of buildings and flies towards an open central city square. Scene: The view suddenly opens up, revealing a breathtaking panoramic view of the giant city. The vehicle breaks through a layer of massive low-altitude clouds, which churn and roll due to the airflow (Volumetric Clouds & Turbulence). A huge Lens Flare spans the screen. [Technical Parameters]: 8k ultra-high definition, cinematic color grading (Teal & Orange), extremely high dynamic range (HDR), complex particle effect rendering.
+[影片风格]：好莱坞科幻大片、赛博朋克美学、高对比度霓虹灯光、IMAX 电影质感、史诗级配乐感。
+[影片时长]：10 秒
+[分镜脚本]：
+[00:00-00:04] 镜头 1：广角跟踪镜头，景深极大。场景：夜晚的未来主义巨型城市峡谷，下着雨。动作：一辆流线型反重力载具在摩天大楼间疾驰。环境细节（核心测试点）：无数巨大的全息广告牌闪烁，霓虹灯复杂地反射在湿润的玻璃幕墙和载具表面。载具尾部留下长长的蓝色光轨。
+[00:04-00:07] 镜头 2：特写动作镜头 / 驾驶舱视角。动作：载具进行急转弯和侧滑机动以避开障碍物。细节：镜头非常接近载具，显示机身擦过建筑物边缘时产生的火花和雾气。雨点密集地打在镜头上，并被高速气流吹散。画面充满速度带来的震动感（镜头晃动）。
+[00:07-00:10] 镜头 3：史诗级拉远 / 摇臂镜头。动作：载具冲出狭窄的建筑群，飞向开阔的中心城市广场。场景：视野突然开阔，展现出巨型城市令人惊叹的全景。载具突破一层巨大的低空云层，云层因气流而翻滚涌动（体积云与湍流）。巨大的镜头光晕横跨屏幕。
+[技术参数]：8k 超高清、电影级调色（青色与橙色）、极高动态范围（HDR）、复杂粒子效果渲染。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ceb89e94afac9055d48b32d9d282663/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Anti-Gravity Chase Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/28c76c0eea8870db0e93d22952b7cfb9/thumbnails/thumbnail.jpg" width="600" alt="好莱坞科幻赛博朋克追逐场景">
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020414452147933437) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=19)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=53)**
 
 ---
-### Wuxia fight scene with image references
+### 奇幻武术打斗场景
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A Chinese prompt for Seedance 2.0 to generate a Wuxia (martial arts fantasy) fight scene between two girls, referencing two images for the characters and location, and specifying cinematic style, effects, dialogue, and outcome.
+> 一个详细的中文提示，用于生成两名女孩在楼顶进行奇幻武术打斗场景，模仿玄幻电视剧的风格、特效和对话，并以白衣女孩获胜告终。
 
 ```
-The two girls in Image 1 are fighting on top of the building in Image 2. The camera work, special effects, and dialogue should all imitate the style of a fantasy Wuxia film/TV series, and the girl wearing white ultimately wins.
+图片 1 中的两个女孩在图片 2 的建筑顶部打斗。镜头运用、特效和对白都应模仿玄幻电视剧的风格，其中穿白衣的女孩最终取得巨大胜利。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f64e1eada5172823a2b6df0aa203066/thumbnails/thumbnail.jpg" width="600" alt="Wuxia fight scene with image references">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e0c12781fd74d945b553d5bdc2727365/thumbnails/thumbnail.jpg" width="600" alt="奇幻武术打斗场景">
 
 **作者:** [天霸•巫芒•角天](https://x.com/wumatv) | **来源:** [Link](https://x.com/wumatv/status/2020400327632326741) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=11)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=42)**
 
 ---
-### AI Short Drama Script for Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed script prompt for generating a 15-second short drama video using Seedance 2.0, focusing on a scene of a middle-aged man working intensely on a computer, followed by a sudden realization or breakdown. The prompt specifies timing, actions, dialogue/narration, and background music/sound effects, designed for high-impact short-form content.
-
-```
-Time, Scene, Action/Dialogue, BGM/Sound Effects
-0-2 seconds: A middle-aged man frantically typing on the computer, fingers twitching like a robot. Sad piano music (in the style of 'Erquan Yingyue')
-2-3 seconds: Suddenly freezes, fingers suspended in mid-air, eyes gradually becoming hollow. "Ding—" (Computer crash sound effect)
-3-5 seconds: Mechanically turns his head to look at the camera, neck making two "ka-ka" sounds (post-production sound effect). Piano music continues.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01bd6e0f67e840ea24bbcc8f05c1a2ae/thumbnails/thumbnail.jpg" width="600" alt="AI Short Drama Script for Seedance 2.0">
-
-**作者:** [逸尘](https://x.com/gengdaJ) | **来源:** [Link](https://x.com/gengdaJ/status/2020375376908947482) | **发布时间:** Feb 8, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4)**
-
----
-### Watercolor Ink Sword Performance
+### 水彩墨剑表演
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A post expressing awe at a video generated by Seedance 2.0, which created a 'breathtaking watercolor ink sword performance' from a single prompt.
+> 一个用于生成水墨画风格的惊艳剑术表演的提示，展示了模型仅凭一条指令处理复杂动作和艺术风格的能力。
 
 ```
-breathtaking watercolor ink sword performance
+水彩墨剑表演。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bf2d2d62ae359c49b37d8f0e358673ed/thumbnails/thumbnail.jpg" width="600" alt="Watercolor Ink Sword Performance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01bf973df9c5e5972d91a65232f79cfb/thumbnails/thumbnail.jpg" width="600" alt="水彩墨剑表演">
 
 **作者:** [Aicean](https://x.com/Aicean_ai) | **来源:** [Link](https://x.com/Aicean_ai/status/2020375288513958067) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=13)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=38)**
 
 ---
-### Eastern Classical Wuxia Bamboo Forest Duel
+### 竹林中的经典武侠对决
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, three-shot prompt for generating a 10-second video showcasing the aesthetic of Eastern classical Wuxia cinema, featuring a duel between a male and female martial artist in a bamboo forest, emphasizing light, movement, and the graceful use of 'Qinggong' (lightness skill).
+> 一个用于生成 10 秒视频的提示，内容是竹林中的经典东方武侠场景。它指定了美学风格（翠绿色、电影级光照、柔和光束），定义了两个角色（白衣男子、青衣女子），并详细描述了三个镜头：一个广角镜头，通过轻微的动作来展现场景；一个剑光交错的慢动作中景镜头；以及一个强调速度和竹叶飘逸的动态跟踪镜头。
 
 ```
-[Visual Style] Eastern classical Wuxia aesthetic, cinematic visual language, bamboo forest sea landscape, emerald green main color tone, rich light and shadow layers, soft light beam effects visible in the forest. [Character Definition] 1. Male Swordsman: Dressed in a plain white robe, stable posture, concise and powerful movements. 2. Female Swordsman: Dressed in a light cyan gauze dress, light and smooth movements, agile posture. [Video Duration] 10 seconds [Storyboard] [00:00-00:03] Shot 1: Wide Shot Composition. Scene: The tops of tall, dense bamboo forests, with clouds and mist slowly flowing through the woods. Action: The male and female swordsmen stand separately among the high bamboo shadows, their bodies light and stable, as if maintaining balance by leveraging airflow and the momentum of the bamboo. Detail Performance: Bamboo branches naturally bend and spring back in the breeze, and the figures of the two subtly fluctuate with the bamboo shadows, presenting an impressionistic effect of Qinggong (lightness skill). The overall picture is quiet yet tense. [00:00-00:06] Shot 2: Medium Shot, Slow Motion. Action: The two leap up almost simultaneously, crossing paths in the air. Interaction Performance: Two sword shadows briefly intersect in the air, forming a bright streak of light. Surrounding bamboo leaves are driven by the airflow, slowly spinning and scattering. Visual Focus: Leaves flutter in the air, forming distinct foreground and background layers. The movement is smooth, without exaggerated impact. [00:06-00:10] Shot 3: Tracking Shot. Action: The female swordsman glides forward, her sleeve brushing past bamboo branches to change direction; the male swordsman follows closely behind, continuously borrowing force with light, rhythmic steps. Environmental Feedback: The camera follows the movement smoothly, and the bamboo forest forms a natural speed blur effect at the edges of the frame. Visual Effects: Every movement kicks up large amounts of scattered bamboo leaves, flowing like a rain of leaves in the frame, enhancing the sense of spatial depth and dynamic beauty. [Technical Requirements] Cinematic lighting, saturated but clearly layered colors, natural depth of field, stable and clean picture, overall presenting the impressionistic beauty and spatial tension of Eastern Wuxia.
+[视觉风格] 东方古典武侠美学，电影化视觉语言，竹林海景观，翠绿色主色调，丰富的光影层次，林间可见柔和的光束效果。
+
+[人物设定]
+1. 男性剑客：身着素白长袍，姿态沉稳，动作简洁有力。
+2. 女性剑客：身着青凤色轻纱裙，动作轻盈流畅，身姿灵动。
+
+[视频时长] 10 秒
+
+[分镜]
+
+[00:00-00:03] 镜头 1：广角构图。
+场景：高大茂密的竹林顶部，云雾在林间缓慢流淌。
+动作：男女剑客分别立于高竹影中，身形轻盈而稳固，仿佛借气流与竹势保持平衡。
+细节：竹枝随风自然弯曲回弹，人物身姿随竹影微妙起伏，呈现出写意化的轻功效果。整体画面静谧而富有张力。
+
+[00:00-00:06] 镜头 2：中景，慢动作。
+动作：两人几乎同时跃起，在空中交错而过。
+互动：两道剑影在空中短暂交汇，形成一道亮丽的光痕。周围竹叶被气流带动，缓慢旋转散落。
+视觉焦点：叶片在空中飞舞，形成清晰的前景与背景层次。动作流畅，无夸张的冲击感。
+
+[00:06-00:10] 镜头 3：动态追踪镜头。
+动作：女剑客向前滑行，衣袖拂过竹枝借力变向；男剑客持续追随，借竹为支点，步法轻盈富有节奏感。
+环境反馈：镜头平稳追踪运动。竹林在画面边缘形成自然的动态模糊效果。
+视觉效果：每一次动作都带起大量散落的竹叶，如叶雨般在画面中流淌，增强空间纵深感和动态美。
+
+[技术要求] 电影级打光，色彩饱和但层次分明，自然的景深，画面稳定干净，呈现东方武侠整体的写意美感与空间张力。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d3d9db3536528c8913fe305a6a871e8/thumbnails/thumbnail.jpg" width="600" alt="Eastern Classical Wuxia Bamboo Forest Duel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cf9109ac5a86a8c935c9d3f317481df8/thumbnails/thumbnail.jpg" width="600" alt="竹林中的经典武侠对决">
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020370929755283887) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=24)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=56)**
 
 ---
-### Action Video Generation with Multi-Reference Inputs
+### 漫画转视频解说提示（西游记）
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> This is a technical prompt template for Seedance 2.0, detailing how to use multiple reference inputs (up to 9 images, 3 videos, 3 audio tracks) to generate complex action sequences. It shows how to use specific tags (e.g., @图片1, @视频1) within the prompt to assign roles to each input, controlling actions, camera work, and sound design.
+> 将漫画图像转换为科普风格的解说视频，并配上画外音，详细讲述孙悟空向铁扇公主借芭蕉扇，铁扇公主因其子红孩儿的恩怨而拒绝，以及随后的争执。
 
 ```
-Control actions, camera shots, and scenes through the prompt.
-
-You can specify the purpose of each image, video, and audio file using "@material name," for example: @Image1 as the first frame, @Video1 for reference camera language, and @Audio1 for background music.
+用科普风格和语气解读图 1 中的内容。内容应解释悟空前往翠云山向铁扇公主借芭蕉扇，以穿越火焰山的短篇故事。铁扇公主拒绝借扇并寻求报复，因为她的儿子红孩儿被悟空制服，成为了观音的弟子，导致母子分离。悟空劝说无果，两人随即争吵起来。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/908886431a64850c4e2e488fbb016439/thumbnails/thumbnail.jpg" width="600" alt="Action Video Generation with Multi-Reference Inputs">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cf66e7f3e859f6a8e9992ee03f18b6c8/thumbnails/thumbnail.jpg" width="600" alt="漫画转视频解说提示（西游记）">
 
-**作者:** [小互](https://x.com/xiaohu) | **来源:** [Link](https://x.com/xiaohu/status/2020341491600879861) | **发布时间:** Feb 8, 2026
+**作者:** [小互](https://x.com/xiaohu) | **来源:** [Link](https://x.com/xiaohu/status/2020349317693993000) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=15)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=49)**
 
 ---
-### Wuxia Film Style Video Prompt for Seedance 2.0
+### 漫画转视频改编提示（西游记）
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A text-to-video prompt designed for Seedance 2.0, aiming to generate a 10-second martial arts film clip in the style of director King Hu. The prompt specifies the aesthetic, including 70s film texture, Peking Opera movements, Zen elements, and uses a detailed shot list (Extreme Wide Shot) for the first three seconds.
+> 将漫画改编成视频的提示，保留原始图像的对话和顺序，为场景过渡和关键情节添加特殊音效，并根据参考视频采用幽默风格。
 
 ```
-[Director Style]: King Hu style, martial arts film aesthetic, 70s film texture, Peking Opera movements, Zen concept, negative space.
-
-[Video Duration]: 10 seconds
-[Shot Logic]:
-
-[00:00-00:03] Shot 1: Extreme Wide Shot.
+将 @Image 1 改编成漫画，按照从左到右、从上到下的顺序进行解读，并保持人物对话与图像之间的一致性。为场景过渡和关键情节添加特殊音效，整体风格保持幽默；呈现方式应参考 @Video 1。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34ba1659081ef0216dca903d15f1f092/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Film Style Video Prompt for Seedance 2.0">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cf17b936ea378d0ac2dbae6c2c6d7289/thumbnails/thumbnail.jpg" width="600" alt="漫画转视频改编提示（西游记）">
 
-**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020336711381795058) | **发布时间:** Feb 8, 2026
+**作者:** [小互](https://x.com/xiaohu) | **来源:** [Link](https://x.com/xiaohu/status/2020342990318047233) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=22)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=51)**
 
 ---
-### Tang Bohu E-Sports Duel at the Spring Festival Gala
+### 胡金铨风格武侠电影美学视频提示词
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed, 10-second prompt for generating a surreal and humorous video blending traditional Chinese culture with modern e-sports, featuring the Ming Dynasty scholar Tang Bohu playing a MOBA game on a Spring Festival Gala stage, focusing on visual contrast, dynamic camera work, and specific dialogue delivery.
+> 一个详细的提示，用于生成一个 10 秒的视频，风格效仿导演胡金铨，重点突出武侠电影美学、70 年代胶片颗粒、京剧动作、禅宗哲学以及留白运用。该提示指定了视频时长，并将第一个镜头设定为超广角镜头。
 
 ```
-10-second Chinese Spring Festival Gala style stage performance: “Tang Bohu E-Sports Duel”
+[导演风格]：胡金铨风格，武侠电影美学，70 年代胶片颗粒质感，京剧动作，禅宗哲学，留白。
 
-0–2 seconds:
-Medium-long shot establishes the environment.
-The stage is designed as the magnificent Spring Festival Gala main stage, enveloped in rich red and gold festive lighting, with digitized lantern projections in the background.
-In the center of the stage, Tang Bohu sits on a professional e-sports chair.
-Key historical accuracy requirement: He is dressed in authentic Ming Dynasty scholar attire—wearing a black square scarf (fangjin) on his head and a flowing blue round-collar robe (lan shan).
-Strong contrast: Over the traditional scarf, he wears a pair of heavy, modern professional e-sports headphones, with LED light effects flashing on the edges.
+[视频时长]：10 秒
+[故事板逻辑]：
 
-2–4 seconds:
-Cut to a close-up of the hands and desktop.
-From the wide sleeves of the Ming Dynasty scholar's robe, fingers rapidly tap a glowing RGB mechanical keyboard.
-Three curved e-sports monitors are placed in front of him.
-Screen content: Displays a MOBA-type game (similar to 'League of Legends'), but the overall art style has been completely reconstructed into traditional Chinese ink wash painting style.
-
-4–6 seconds:
-Dynamic camera movement: The camera rapidly pushes forward, seemingly passing directly through the ink wash battlefield on the central monitor, finally landing on an **Extreme Close-Up (ECU)** of Tang Bohu's eyes.
-The cold blue light emitted by the monitor strongly reflects in his pupils, contrasting sharply with the warm stage lighting on his face.
-He looks focused and passionate, his mouth movements synchronized as he recites:
-“Others laugh at me for being too crazy, I laugh at them for not seeing through!”
-
-6–8 seconds:
-The camera quickly pulls back to a tight medium shot, showing his highly engaged expression.
-He shouts excitedly into the headset microphone, veins bulging on his neck:
-“Mid lane push, Qiuxiang is my support, who dares to gank her?”
-
-8–10 seconds:
-Full stage shot, moment of victory.
-Tang Bohu slams the keyboard and raises his hands in celebration.
-Golden streamers explode around his e-sports equipment.
-The huge LED screen behind the Spring Festival Gala flashes large ink-wash calligraphy characters—
-“Victory.”
-
-Style and Atmosphere:
-
-**Visual Core:** Strong clash of eras—the warmth, solemnity, and high-spec stage feel of the CCTV Spring Festival Gala × the cold, high-intensity blue light effects of e-sports equipment.
-
-**Costume Setting:** Serious, historically accurate Ming Dynasty scholar attire, forming an absurd contrast with modern e-sports gear.
-
-**Camera Language:** Highly dynamic, emphasizing “push-through-screen” shots and extreme close-ups.
-
-**Aspect Ratio:** 16:9
+[00:00-00:03] 镜头 1：超远景。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd0d5f076f75c25e68539d8ca922e2b3/thumbnails/thumbnail.jpg" width="600" alt="Tang Bohu E-Sports Duel at the Spring Festival Gala">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c0b266b941e7f40826c8ccbb4562c2bd/thumbnails/thumbnail.jpg" width="600" alt="胡金铨风格武侠电影美学视频提示词">
+
+**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020336821012476301) | **发布时间:** Feb 8, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=57)**
+
+---
+### 唐伯虎电竞争霸赛（春晚风格）
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个高度详细的 10 秒视频提示，融合了明代学者美学与现代电子竞技，背景设定在宏大的春节联欢晚会舞台上。脚本详细描述了人物服饰（明代长袍 + LED 游戏耳机）、环境（红金色节日灯光、RGB 键盘、水墨画 MOBA 游戏）、动态摄像机运动（推轨镜头、特写镜头）和对话，营造出一种荒诞而对比强烈的场景。
+
+```
+10 秒春晚风格舞台表演：“唐伯虎电竞对决”
+
+0–2 秒：
+中长景镜头，交代环境。
+舞台设计为宏伟的春晚主舞台，笼罩在浓郁的红金色节日灯光中，背景是数字灯笼投影。
+舞台中央，唐伯虎端坐在一张专业的电竞椅上。
+关键历史准确性要求：他身着地道的明代士人服饰——头上戴着黑色方巾，身穿飘逸的蓝色圆领袍。
+强烈对比：在传统方巾之上，他戴着一副厚重的现代专业电竞耳机，边缘闪烁着 LED 灯效。
+
+2–4 秒：
+切换至手部和桌面特写。
+手指从宽大的明代士人袖中伸出，在发光的 RGB 机械键盘上快速敲击。
+三台弧面电竞显示器摆放在他面前。
+屏幕内容：显示一款 MOBA 类游戏（类似于《英雄联盟》），但整体美术风格已被完全重构为中国传统水墨画风。
+
+4–6 秒：
+动态运镜：镜头快速向前推进，仿佛直接穿过中央显示器上的水墨战场，最终定格在唐伯虎眼睛的**特写（ECU）**。
+显示器发出的冷蓝色光线强烈地映照在他的瞳孔中，与他脸上温暖的舞台灯光形成鲜明对比。
+他神情专注而充满激情，嘴巴同步翕动，念出台词：
+“世人笑我太疯癫，我笑他人看不穿！”
+
+6–8 秒：
+镜头迅速拉回至半身近景，展现他高度投入的神情。
+他激动地对着耳机麦克风大喊，颈部青筋暴起：
+“中路推进，秋香是我辅助，谁敢来抓她？”
+
+8–10 秒：
+全景舞台镜头，胜利时刻。
+唐伯虎猛拍键盘，举起双手庆祝。
+金色的彩带在他的电竞设备周围炸开。
+他身后的春晚 LED 大屏幕闪现巨大的水墨书法字——
+“胜利”。
+
+风格与氛围：
+
+**视觉核心：** 强烈的时代冲突——央视春晚的温暖、庄重、高规格舞台感 × 电竞设备的冰冷、高强度蓝光特效。
+
+**服装设定：** 严肃、符合历史的明代士人服饰，与现代电竞装备形成荒诞的对比。
+
+**镜头语言：** 极具动感，强调“穿屏式推入”镜头和特写。
+
+**画面比例：** 16:9
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86aba8430485a43f8af8a96eee515d76/thumbnails/thumbnail.jpg" width="600" alt="唐伯虎电竞争霸赛（春晚风格）">
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020329496847569111) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=21)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=55)**
 
 ---
-### Character breakdown scene with image and video references
+### 情感崩溃场景，含图片和视频参考
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex prompt for Seedance 2.0 that uses multiple image and video references to generate a dramatic scene where a woman walks up to a mirror, contemplates, and then breaks down screaming, requiring precise action and emotion referencing.
+> 一个复杂的提示，利用了多个参考：一张用于角色的图片，一张用于姿势的图片，以及一段用于戏剧性崩溃和尖叫场景中的动作、情绪和面部表情的视频。
 
 ```
-The woman in @ Image 1 walks up to the mirror and looks at her reflection. Her pose should reference @ Image 2. After a moment of contemplation, she suddenly breaks down and starts screaming. The action of grabbing the mirror, as well as the emotions and facial expressions during the breakdown and scream, should fully reference @Video 1.
+@ Image 1 中的女性走到镜子前，看着镜中的自己。她的姿势应参考 @ Image 2。短暂的沉思后，她突然崩溃并开始尖叫。抓住镜子的动作，以及崩溃和尖叫时的情绪和面部表情，应完全参考 @Video 1。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1b7eb6c66031fc81fd222f125dbf3da/thumbnails/thumbnail.jpg" width="600" alt="Character breakdown scene with image and video references">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53a8adab132a28dc1c87754805e1ab1f/thumbnails/thumbnail.jpg" width="600" alt="情感崩溃场景，含图片和视频参考">
 
 **作者:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **来源:** [Link](https://x.com/woleswoosh/status/2020305327749763090) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=6)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=36)**
 
 ---
-### Skiing Video Generation with Precise Reference Image Control
+### 在城市追逐场景中，男子驾车逃离警察
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示，用于生成动态视频序列。它描述了一名男子身穿黑色夹克，在一条城市街道上拼命奔跑，身后是模糊而汹涌的警察和民众。摄像机被指定为低角度跟踪拍摄，将该男子置于画面中心，以营造一个疯狂、充满动作感的场景。
+
+```
+一名身穿黑色夹克的男子，脸上刻满了恐慌，在一个宽阔的城市街道上拼命奔跑，身后是模糊而汹涌的警察和民众。一个低角度的跟拍镜头紧随他仓皇的脚步，将他置于画面中央，而背景则……
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/052a095bfac44e15ea409f146c382769/thumbnails/thumbnail.jpg" width="600" alt="在城市追逐场景中，男子驾车逃离警察">
+
+**作者:** [Brent Lynch](https://x.com/BrentLynch) | **来源:** [Link](https://x.com/BrentLynch/status/2020299416549421253) | **发布时间:** Feb 8, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=43)**
+
+---
+### 滑雪视频生成提示，附详细场景分解
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, multi-scene prompt designed for Seedance 2.0 to generate a dynamic, cinematic skiing video. The prompt specifies the overall bright and energetic style, precise time-axis control, and detailed camera movements (shaking, close-ups, wide shots, rapid cuts) across five distinct segments (0-15 seconds), emphasizing speed, rhythm, and a strong sense of movement, based on an uploaded reference image of the subject.
+> 这是一个高度详细的、逐场景的提示，用于使用 Seedance 2.0 生成一个 15 秒的滑雪视频。该提示指定了整体风格（明亮、充满活力、电影感）、摄像机运动、镜头类型（特写、中景、俯视）、动作以及五个不同时间段的情感基调，重点关注速度、节奏和动态运动。此提示需要主角的参考图像。
 
 ```
-Please generate a skiing video based on the provided reference image. The overall style should be bright, refreshing, and full of athletic vitality, with smooth footage and cinematic camera language. The timeline and shot design are as follows:
- 0–3 seconds: The person in the image smiles and looks at the camera in the snow. The camera shakes slightly, and snowflakes fall. The background wind noise gradually increases, and the screen shows a fast-moving flow of wind and snow.
- 3–5 seconds: Quickly cut to an extreme close-up of the person's feet, showing the moment the snowboard buckles and the snow is crushed. At the same time, the camera rises, transitioning to a top-down view of a steep slope, where the steepness is obvious and the sense of speed is about to explode.
- 5–8 seconds: The person in the image slides down from a high point at high speed. Shot one is a side-front medium shot follow-up, with the body leaning forward and the movements sharp; shot two cuts to a top-down view, where the steep slope extends downwards, and the snow track lines stretch rapidly, giving an extreme sense of speed.
- 8–11 seconds: Continuous rapid shot switching. A low-angle ground-level shot where the snowboard skims the snow surface, and snow powder is thrown up at high speed; a long shot showing the person making a beautiful turn on the steep slope, forming a smooth curve with the snow line.
- 11–13 seconds: The camera returns to a front-facing follow-up shot, where the person in the image rushes towards the camera at high speed, makes a sharp turn at close range, and large amounts of snow are kicked up.
- 13–15 seconds: A large amount of snow powder splashes directly onto the lens, the screen is covered by white snow mist, and the lens briefly loses focus before freezing, leaving a strong dynamic aftertaste. The overall emphasis is on speed, cutting rhythm, realistic movement, and youthful vitality. The picture is bright and not heavy, highlighting the excitement and freedom of skiing.
+请根据提供的参考图片生成一段滑雪视频。整体风格应明亮、清新，充满运动活力，画面流畅，镜头语言富有电影感。时间线和镜头设计如下：
+
+0–3 秒：图中人物在雪中微笑看向镜头。镜头轻微晃动，雪花飘落。背景风声逐渐增强，画面呈现出疾风飞雪的快速流动感。
+3–5 秒：快速切换至人物脚部的特写，表现雪板固定器锁死的瞬间，以及雪被踩碎的细节。同时，镜头上摇，连接到一个陡峭雪坡的俯瞰镜头，坡度清晰，暗示即将爆发的速度。
+5–8 秒：图中人物从高处高速滑下。镜头一为侧前方中景跟拍，身体前倾，动作凌厉；镜头二切换至俯瞰视角，陡峭的雪坡向下延伸，雪道线条快速拉伸，营造出强烈的速度感。
+8–11 秒：连续快速剪辑。低角度贴地镜头，雪板擦过雪面，高速扬起雪粉；远景镜头展现人物在陡坡上做出优美转弯，与雪线形成流畅的弧度。
+11–13 秒：镜头回到正前方跟拍。人物高速冲向镜头，近距离急转弯，扬起大量雪花。
+13–15 秒：大量雪粉直接溅到镜头上。画面被白色雪雾覆盖，镜头短暂失焦后定格，留下强烈的动态余味。整体强调速度感、剪辑节奏、真实的运动感和青春活力。画面明亮，不沉重，突出滑雪的刺激与自由。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f22ed28c6e89c02a53ae0aeaa028c694/thumbnails/thumbnail.jpg" width="600" alt="Skiing Video Generation with Precise Reference Image Control">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/65bb6dbe5586f47fe995678cfd87ff8d/thumbnails/thumbnail.jpg" width="600" alt="滑雪视频生成提示，附详细场景分解">
 
 **作者:** [Michelle](https://x.com/Michell81147285) | **来源:** [Link](https://x.com/Michell81147285/status/2020298394175172870) | **发布时间:** Feb 8, 2026
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=14)**
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=44)**
+
+---
+### 多参考时尚视频生成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 通过向模型提供一张面部参考图、五张服装图片和一段视频参考，使用一个提示词生成了一个包含复杂效果（姿势切换、服装剪裁、鱼眼镜头、重影、闪烁转场）的完整时尚视频。
+
+```
+输入面部参考图 + 5 张服装图片 + 视频参考，它就生成了一个完整的时尚视频。
+
+姿势切换。服装剪辑。鱼眼镜头。残影效果。闪烁转场。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/74cbad6b95c521bfc714bda02332d35f/thumbnails/thumbnail.jpg" width="600" alt="多参考时尚视频生成">
+
+**作者:** [SD | AI Animation Storyteller](https://x.com/SDxArt) | **来源:** [Link](https://x.com/SDxArt/status/2020296241297416682) | **发布时间:** Feb 8, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=40)**
 
 ---
 ### Seedance 2.0 video ad prompt for a perfume product
@@ -588,6 +681,208 @@ Generate an advertisement video for the perfume product in @image2 based on the 
 **作者:** [尾鳍Vicky](https://x.com/BFAVicky) | **来源:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **发布时间:** Feb 7, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3)**
+
+---
+### 带图像参考的视频生成提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个使用 Seedance 2.0 生成视频场景的详细提示。它指定使用图像 1 作为起始帧，指示摄像机运动（旋转和推近），并要求角色的面部特征基于图像 2，最终以一声响亮、滑稽的咆哮结束。
+
+```
+使用 @ Image 1 作为场景的第一帧。
+镜头旋转并推近。角色突然抬头。角色的面部特征应基于 @ Image 2。他们开始大声咆哮，充满兴奋，带有一丝喜剧色彩，参考面部表情。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/404c30c523c4506c44d2b4996604acef/thumbnails/thumbnail.jpg" width="600" alt="带图像参考的视频生成提示">
+
+**作者:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **来源:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=28)**
+
+---
+### Seedance 2.0 街舞视频生成
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 用于生成 15 秒街舞视频的提示，该视频以一张自拍照作为参考图像，并结合文本提示一次性生成。
+
+```
+大家好！接下来我将为大家表演一段街舞!!!!
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32cb455ba14a3fe13b851d7128bfd300/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 街舞视频生成">
+
+**作者:** [井然](https://x.com/jingran96) | **来源:** [Link](https://x.com/jingran96/status/2020207082478452842) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=29)**
+
+---
+### 揉面物理学提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的提示，旨在测试 Seedance 2.0 渲染逼真物理效果和运动的能力，描述了准备面团的过程，包括撒盐、搅拌、倒水、打鸡蛋和揉捏。
+
+```
+主要角色进入画面，先将盐轻轻撒入面粉中，然后用手搅拌均匀，接着倒入适量的水，打入一个鸡蛋，开始揉面。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5cf573a8a912a9bcb2cbeab2d3aac006/thumbnails/thumbnail.jpg" width="600" alt="揉面物理学提示">
+
+**作者:** [Patrick](https://x.com/patrickassale) | **来源:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=25)**
+
+---
+### 从故事板图像创建视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 如何使用 Dreamina AI 通过上传 3x3 网格图片并提供特定提示来生成视频。
+
+```
+使用故事板图像创建视频。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f8358b46662e74ad3cd0a2ff1e7a06e/thumbnails/thumbnail.jpg" width="600" alt="从故事板图像创建视频">
+
+**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **来源:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=33)**
+
+---
+### 酒馆打斗场景的视频提示
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 这是一个详细的视频生成提示，用于在酒馆中创建一场动态的打斗场景，重点是一位身穿黑衣的女性与刺客搏斗。该提示指定使用起始帧和结束帧作为参考点，要求平滑的过渡、镜头构图和不同的摄像机角度，以实现富有节奏感和电影感的画面。
+
+```
+这是一个酒馆武术场景的开头和结尾画面。请根据这两个场景，创作一段流畅的打斗戏，内容是一位黑衣女子与几名刺客搏斗。需要利用故事板和不同的视角切换，使整个场景更具节奏感和电影感。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a01d206d6f7c0d6bb16cdab8984c03/thumbnails/thumbnail.jpg" width="600" alt="酒馆打斗场景的视频提示">
+
+**作者:** [YangGuang丨AI创业](https://x.com/YangGuangAI) | **来源:** [Link](https://x.com/YangGuangAI/status/2020165414752539112) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=32)**
+
+---
+### 黑暗奇幻/恐怖叙事提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个冗长、极具描述性的叙事提示，聚焦于森林中一个黑暗、寒冷、暴风骤雨的场景，强调感官细节，如风、鞭打的雪、摇曳的火把光，以及锁子甲“异样的寒冷”感。此提示旨在生成电影般的、富有氛围感的视频。
+
+```
+风穿过黑松林，像一把钝刀刮擦着骨头。雪不是落下，而是横向抽打，刺痛着衣领的缝隙，融化成一种尖锐而即时的疼痛。火把的光芒在白色风暴中颤抖，照亮了一段树干、一根树枝、一小片地面，然后又将其交还给更深的黑暗。他们缓慢地移动着。靴子踩下，发出沉闷的嘎吱声，每一步都像是与森林的争辩：请不要注意到我们。有人咳了一声，立刻就后悔了——声音反弹回来，微弱而令人羞辱，仿佛树木正在嘲笑他的恐惧。锁子甲现在应该已经暖和了，被体温所温热，但它没有。它是一种异样的冰冷，仿佛一股看不见的寒意正从外向内爬上金属。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/218615785da51c2e08ff2c035d423556/thumbnails/thumbnail.jpg" width="600" alt="黑暗奇幻/恐怖叙事提示">
+
+**作者:** [underwood](https://x.com/underwoodxie96) | **来源:** [Link](https://x.com/underwoodxie96/status/2020051265863188594) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=27)**
+
+---
+### Seedance 2.0 视频提示词：甄嬛与华妃脱口秀
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个为字节跳动 Seedance 2.0 设计的详细多场景视频生成提示，旨在创作一个 10 秒的跨类型视频。该视频将以清宫剧《甄嬛传》中的角色为主角，表演一场现代脱口秀，风格类似于春节联欢晚会（春晚）。该提示详细说明了镜头、角色动作、对话、服装细节和风格对比。
+
+```
+10 秒春晚风格舞台表演：“甄嬛与华妃脱口秀”
+
+0–2 秒：
+中景双人镜头。
+舞台布景是“客厅小品”，但外围环绕着春晚典型的宏大、红金相间的 LED 主屏幕。
+甄嬛（左）和华妃（右）并排坐在一张现代脱口秀沙发上。
+关键历史准确性要求：两人都穿着华丽、明显区分的满清宫廷旗装，立领，复杂精致的刺绣；发型准确还原为“大拉翅”或“钿子头”，并饰有流苏。
+华妃看起来很随意，手里拿着一根腌黄瓜（酸黄瓜）啃着，手指上戴着长长的金色护甲。
+
+2–4 秒：
+镜头切换到过肩镜头，聚焦华妃。
+华妃夸张地翻了个白眼（经典的“翻白眼”表情）。
+她一边拿着腌黄瓜，一边用戴着长护甲的手指指点着，傲慢地（对口型）说：
+“今年我的 KPI 又是打败这些小妖精。皇上那个老头子懂什么审美？”
+
+4–6 秒：
+快速切换到甄嬛的过肩镜头。
+对比细节：甄嬛一只耳朵戴着现代白色蓝牙耳机（与古代首饰形成强烈对比），手里正在薄薄的平板电脑上滑动。
+她平静而专业地（对口型）回应：
+“姐姐，别生气，这叫职场内卷。我正想着辞职去卖‘舒痕胶’呢。”
+
+6–8 秒：
+特写镜头聚焦两人之间的咖啡桌。
+一个标有“一丈红”的现代塑料奶茶杯放在一个传统瓷花瓶旁边。
+镜头迅速拉回两人。
+
+8–10 秒：
+全景舞台。
+观众笑声效果（通过灯光变化/掌声灯呈现）。
+华妃摆出她的最终造型：翘着二郎腿，抬着下巴，再次翻了个白眼。
+甄嬛像新闻主播一样，专业地对着镜头微笑。
+金色的彩带从空中飘落。
+喜庆的红色氛围被推向高潮。
+
+风格与氛围：
+
+**视觉效果：** 高饱和度春晚红和金色调
+**服装：** 博物馆级别的清代宫廷服饰（丝绸、精细刺绣、厚重头饰）
+**核心对比：** 清宫礼仪的庄重 × 现代上班族/脱口秀嘉宾的放松、抱怨姿态
+**电影摄影：** 节奏明快，笑点清晰，情景喜剧式剪辑
+**画面比例：** 16:9
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2b8b18e407c32c2fd4cad23626c3bc3/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 视频提示词：甄嬛与华妃脱口秀">
+
+**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2020027994429911370) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=31)**
+
+---
+### 漫画截图转视频提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一位用户成功地根据《海贼王》漫画的截图，使用 Seedance 2.0 生成了一段视频。该提示词指示 AI 根据参考文本生成视频，包括自动着色。
+
+```
+根据参考文本生成的视频，并自动着色。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1003680b2b5219b790c06ff45022aa4/thumbnails/thumbnail.jpg" width="600" alt="漫画截图转视频提示">
+
+**作者:** [underwood](https://x.com/underwoodxie96) | **来源:** [Link](https://x.com/underwoodxie96/status/2020015660483649991) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=26)**
+
+---
+### Seedance 2.0 历史穿越剧预告片提示
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个详细的多场景提示，用于 Seedance 2.0 生成一个 15 秒的历史穿越剧预告片，剧名为《醉花梦》，并使用一张参考图片来呈现男主角的外貌。
+
+```
+根据参考照片中的人物形象，生成一个历史穿越剧的预告片。
+
+0-3 秒场景：男主角（形象基于参考图 1）举着篮球，抬头看向镜头，说：“我只是想喝杯酒，难道要穿越了……？”
+
+4-8 秒场景：镜头突然剧烈晃动，操场场景开始强烈震动，瞬间切换到古代宅邸的雨夜。一位身着古装的美丽女主角，眼神冰冷，穿透雨幕看向镜头。雷声轰鸣，衣袂在风中飘扬。女主角说：“何人胆敢擅闯我永宁侯府？”
+
+9-13 秒场景：镜头切换到一位身穿明代官服的男子坐在衙门里，眼神如刀般锐利，怒斥道：“侍卫！速将此‘妖孽’拿下！”闪回：男主角穿着不合身的粗布衣；他被捕快包围，拼命逃跑；他的身影在雨巷中与女主角擦肩而过；男主角身穿官服走在皇宫中。
+
+14-15 秒场景：黑屏，显示片名“醉花梦”，伴随着沉重的鼓点。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/67176660c9d213d429fd5526c80a95f3/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 历史穿越剧预告片提示">
+
+**作者:** [allen](https://x.com/angela781105) | **来源:** [Link](https://x.com/angela781105/status/2019983370420466133) | **发布时间:** Feb 7, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=30)**
 
 ---
 
@@ -627,6 +922,6 @@ Generate an advertisement video for the perfume product in @image2 based on the 
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-11T13:09:58.647Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-11T17:04:30.063Z</sub>
 
 </div>
