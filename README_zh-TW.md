@@ -896,6 +896,6 @@ Generate an advertisement video for the perfume product in @image2 based on the 
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-11T17:04:30.303Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-11T20:38:55.357Z</sub>
 
 </div>
