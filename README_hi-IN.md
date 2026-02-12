@@ -61,7 +61,7 @@ ByteDance के Seedance 2.0 के लिए उच्च गुणवत्�
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **180** |
+| 📝 कुल प्रॉम्पट्स | **171** |
 | 🔄 अंतिम अपडेट | **2026-02-12** |
 
 ---
@@ -127,7 +127,7 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/215fc649a96669ea5b76c1857561d2d1/thumbnails/thumbnail.jpg" width="600" alt="Action Sequence Prompt for Fighter Pilot Combat">
 
-**लेखक:** [𝕏Caliber](https://x.com/XCaliber) | **स्रोत:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [𝕏Caliber](https://x.com/XCaliber) | **स्रोत:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=170)**
 
@@ -146,7 +146,7 @@ A woman tensely asks the man in the shadows to come out. Slow push in as she tel
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d438d1f29a992559a026378861ee440/thumbnails/thumbnail.jpg" width="600" alt="Woman Confronts Man in Shadows">
 
-**लेखक:** [Gavin Purcell](https://x.com/gavinpurcell) | **स्रोत:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Gavin Purcell](https://x.com/gavinpurcell) | **स्रोत:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=208)**
 
@@ -165,7 +165,7 @@ Handheld running shot with an overflowing bag of gold coins, jumping into water,
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Handheld Running Shot with Gold Coins Underwater">
 
-**लेखक:** [CoffeeVectors](https://x.com/CoffeeVectors) | **स्रोत:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [CoffeeVectors](https://x.com/CoffeeVectors) | **स्रोत:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=161)**
 
@@ -184,7 +184,7 @@ Handheld shot circling two boxers practice sparring in a gritty gym, purposefull
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60c8ce94909a1785f745bf018e1d007a/thumbnails/thumbnail.jpg" width="600" alt="Gritty Boxing Sparring Session">
 
-**लेखक:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **स्रोत:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **स्रोत:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=140)**
 
@@ -233,28 +233,9 @@ Scene 4: Rider Self-Mockingly Continues Galloping Away (0:20-0:30, 10 seconds)
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31130a874536d7d55a28e682d4cf4105/thumbnails/thumbnail.jpg" width="600" alt="Absurd Comedy Video Prompt for Seedance 2.0: Nothing">
 
-**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2021706240272069021) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2021706240272069021) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=186)**
-
----
-### Text Prompt for Cinematic Scene Generation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A simple text prompt used to direct a full cinematic scene, including multiple cuts, different angles, and Hollywood-level lighting, demonstrating the power of Seedance 2.0.
-
-#### 📝 प्रॉम्पट
-
-```
-A text prompt just directed a full cinematic scene. Multiple cuts. Different angles. Hollywood-level lighting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1cc51a8b5712d590b47416817afa6ffd/thumbnails/thumbnail.jpg" width="600" alt="Text Prompt for Cinematic Scene Generation">
-
-**लेखक:** [Mr Vibe](https://x.com/mr_vibe_it) | **स्रोत:** [Link](https://x.com/mr_vibe_it/status/2021702364969984233) | **प्रकाशित:** Feb 12, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=217)**
 
 ---
 ### Surreal Battlefield Ronin Action Scene
@@ -275,7 +256,7 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="Surreal Battlefield Ronin Action Scene">
 
-**लेखक:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **स्रोत:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **स्रोत:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=133)**
 
@@ -294,7 +275,7 @@ generate a video about a running scene, behind is a giant monster big as a build
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b90edd9ac7efa64817e14e6d40df279/thumbnails/thumbnail.jpg" width="600" alt="Running from a Giant Monster (Arcane Style)">
 
-**लेखक:** [Dipper](https://x.com/dipperdao) | **स्रोत:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Dipper](https://x.com/dipperdao) | **स्रोत:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=142)**
 
@@ -326,7 +307,7 @@ A low, resonant hum builds. The air ahead fractures like glass. A circular porta
 
 <img src="https://pbs.twimg.com/ext_tw_video_thumb/2021687496200138752/pu/img/5dvJPMJNeKbkhWXw.jpg" width="600" alt="The Flash Director's Prompt">
 
-**लेखक:** [Rufus](https://x.com/Rufus87078959) | **स्रोत:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Rufus](https://x.com/Rufus87078959) | **स्रोत:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=167)**
 
@@ -345,31 +326,9 @@ A colossal armored baboon charges through a burning Maasai village, it picks up 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02f55f5c494f8d1f9d0a718ac57b2e65/thumbnails/thumbnail.jpg" width="600" alt="Chaos in a Maasai Village">
 
-**लेखक:** [Travis Davids](https://x.com/MrDavids1) | **स्रोत:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Travis Davids](https://x.com/MrDavids1) | **स्रोत:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=160)**
-
----
-### Cinematic Video Enhancement Prompts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A set of four technical prompt additions recommended for achieving better, more cinematic results in video generation, focusing on camera work, lighting, and color grading.
-
-#### 📝 प्रॉम्पट
-
-```
-Multiple dynamic camera cuts
-Professional color grading
-Theatrical lighting
-Cinematic depth of field
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ebea774ce2faf40469d0b6af4c9b9193/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Video Enhancement Prompts">
-
-**लेखक:** [S0ft](https://x.com/softisaccurate) | **स्रोत:** [Link](https://x.com/softisaccurate/status/2021679182498168915) | **प्रकाशित:** Feb 12, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=177)**
 
 ---
 ### Will Smith Fighting a Spaghetti Monster (80s Action)
@@ -386,28 +345,9 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 
 <img src="https://cms-assets.youmind.com/media/1770877985462_1ibmxy_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster (80s Action)">
 
-**लेखक:** [S0ft](https://x.com/softisaccurate) | **स्रोत:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [S0ft](https://x.com/softisaccurate) | **स्रोत:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=178)**
-
----
-### Hitler vs Michael Jackson Epic Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A controversial and highly cinematic single prompt used to test the power of Seedance 2.0, generating an epic movie scene of a battle between historical and pop culture figures.
-
-#### 📝 प्रॉम्पट
-
-```
-Hitler vs Michael Jackson, movie scene, epic battle
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07503938432b0b1991103d45018a5918/thumbnails/thumbnail.jpg" width="600" alt="Hitler vs Michael Jackson Epic Battle">
-
-**लेखक:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **स्रोत:** [Link](https://x.com/Preda2005/status/2021650626544021860) | **प्रकाशित:** Feb 12, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=150)**
 
 ---
 ### Cinematic WW2 Motorcycle Escape
@@ -424,7 +364,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5092796a86a2832e73822aa47ca603/thumbnails/thumbnail.jpg" width="600" alt="Cinematic WW2 Motorcycle Escape">
 
-**लेखक:** [pewden AI](https://x.com/pewdenai) | **स्रोत:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [pewden AI](https://x.com/pewdenai) | **स्रोत:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=126)**
 
@@ -453,7 +393,7 @@ Stationary camera. One continuous shot as characters walk in and takes their sea
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e38054ccc4db74903e650688542c0343/thumbnails/thumbnail.jpg" width="600" alt="Multi-Character Cabin Scene with Dialogue">
 
-**लेखक:** [Jason W - AI](https://x.com/PocketScreenAI) | **स्रोत:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Jason W - AI](https://x.com/PocketScreenAI) | **स्रोत:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=138)**
 
@@ -472,7 +412,7 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Thanos Apologizes to Spider-Man Prompt">
 
-**लेखक:** [xAi✨](https://x.com/xai_42) | **स्रोत:** [Link](https://x.com/xai_42/status/2021637349247951131) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [xAi✨](https://x.com/xai_42) | **स्रोत:** [Link](https://x.com/xai_42/status/2021637349247951131) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=207)**
 
@@ -491,7 +431,7 @@ Lumpen, Hobo, female version, old battered cat, with chains to draw attention wi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85d1aebb62f992fff11664df0d9583bc/thumbnails/thumbnail.jpg" width="600" alt="Lumpen Hobo woman with chains">
 
-**लेखक:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **स्रोत:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **स्रोत:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=205)**
 
@@ -513,7 +453,7 @@ He transforms into a giant black dragon and grabs everyone from the sky (Loki's 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a9d6e1efa7aef7c68a9a890b31c79f5/thumbnails/thumbnail.jpg" width="600" alt="One Piece Inspired Text-to-Video Prompt">
 
-**लेखक:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **स्रोत:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **स्रोत:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=199)**
 
@@ -532,7 +472,7 @@ You provide the intent; the engine handles the cinematic soul. Lighting, texture
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4bd4e49f0d6ebb7ed21ee725dbc9767/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Intent-Based Generation">
 
-**लेखक:** [YTMasterAi](https://x.com/YTMasterAi) | **स्रोत:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [YTMasterAi](https://x.com/YTMasterAi) | **स्रोत:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=218)**
 
@@ -551,7 +491,7 @@ A massive kraken attacks a pirate ship, the captain slices it with his sword.  h
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cab0603b68df8f1d2824e07ef9ada6df/thumbnails/thumbnail.jpg" width="600" alt="Kraken Attack Cinematic Scene">
 
-**लेखक:** [Mark Gadala-Maria](https://x.com/markgadala) | **स्रोत:** [Link](https://x.com/markgadala/status/2021615497670737953) | **प्रकाशित:** Feb 12, 2026
+**लेखक:** [Mark Gadala-Maria](https://x.com/markgadala) | **स्रोत:** [Link](https://x.com/markgadala/status/2021615497670737953) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=152)**
 
@@ -895,25 +835,6 @@ Use Seedance 2.0 to generate an anime video: funny sequence with Chinese Officer
 **लेखक:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **स्रोत:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=146)**
-
----
-### Luffy Throwing MacBook into the Sea (Alternative Translation)
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt used with Seedance 2.0 to generate a video of Luffy coding on the Thousand Sunny, getting angry, and throwing the computer into the sea, highlighting the impressive capabilities of the AI developed by the creators of TikTok.
-
-#### 📝 प्रॉम्पट
-
-```
-Luffy using a MacBook for coding on the Thousand Sunny, getting furious and throwing the computer into the sea
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec3a4cc9c743d36a73fde36a82fe7c6/thumbnails/thumbnail.jpg" width="600" alt="Luffy Throwing MacBook into the Sea (Alternative Translation)">
-
-**लेखक:** [まかねこ| AI×仮想通貨](https://x.com/makaneko_AI) | **स्रोत:** [Link](https://x.com/makaneko_AI/status/2021557569089892501) | **प्रकाशित:** Feb 11, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=197)**
 
 ---
 ### Cinematic Entrance Scene Script: Galloping Through Vancouver Mansions
@@ -1658,25 +1579,6 @@ Your current identity is a dedicated Prompt writer for cinematic video generatio
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=192)**
 
 ---
-### Will Smith Fighting a Spaghetti Monster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Seedance 2.0 to generate an epic 80s-style action film scene featuring Will Smith fighting a spaghetti monster, including multiple camera cuts.
-
-#### 📝 प्रॉम्पट
-
-```
-Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10409131b35695c890e23860ebdaba40/thumbnails/thumbnail.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster">
-
-**लेखक:** [Jamian Gerard](https://x.com/JamianGerard) | **स्रोत:** [Link](https://x.com/JamianGerard/status/2021424735704449318) | **प्रकाशित:** Feb 11, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=159)**
-
----
 ### Seedance 2.0 T2V Anime Scene Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1694,25 +1596,6 @@ Anime scene of Lumine from Genshin Impact dashing across a shattered temple cour
 **लेखक:** [Kokoboy](https://x.com/Kokoboy886711) | **स्रोत:** [Link](https://x.com/Kokoboy886711/status/2021421581558481040) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=211)**
-
----
-### Will Smith vs. Spaghetti Monster Action Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Seedance 2.0 to create an epic, 80s-style action film scene featuring Will Smith fighting a spaghetti monster, utilizing different camera cuts.
-
-#### 📝 प्रॉम्पट
-
-```
-Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/803861e1ab4482486aab30f9c57b1e61/thumbnails/thumbnail.jpg" width="600" alt="Will Smith vs. Spaghetti Monster Action Scene">
-
-**लेखक:** [Random AI](https://x.com/Random_AI000) | **स्रोत:** [Link](https://x.com/Random_AI000/status/2021418623567602065) | **प्रकाशित:** Feb 11, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=162)**
 
 ---
 ### Ronin vs. Colossal Mechanical Beast
@@ -1810,25 +1693,6 @@ Generate a video based on the text description in the reference image.
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=206)**
 
 ---
-### Seedance 2.0 Multi-Modal Prompting Capabilities
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed description of Seedance 2.0's advanced multi-modal prompting, allowing users to attach reference photos (for actors/clothes), audio tracks, and even entire videos, combining them with text instructions for video generation and editing.
-
-#### 📝 प्रॉम्पट
-
-```
-extend this video backward, replace this with that
-```
-
-<img src="https://cms-assets.youmind.com/media/1770870220812_j6jl7j_HA13OS5aAAEdOdv.jpg" width="600" alt="Seedance 2.0 Multi-Modal Prompting Capabilities">
-
-**लेखक:** [@levelsio](https://x.com/levelsio) | **स्रोत:** [Link](https://x.com/levelsio/status/2021403820702552331) | **प्रकाशित:** Feb 11, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=166)**
-
----
 ### Fashion Montage Focusing on Glasses
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1846,25 +1710,6 @@ create a quick fashion montage and focus on the glasses
 **लेखक:** [Fanis](https://x.com/pfanis) | **स्रोत:** [Link](https://x.com/pfanis/status/2021402352251699638) | **प्रकाशित:** Feb 11, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=139)**
-
----
-### Couple Arguing and Slapping Scene Video Prompt (Same as previous)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This tweet references the exact same prompt used in a previous generation (ID 2021396920284086660) to compare results across different models (Kling 3.0 vs Seedance 2.0).
-
-#### 📝 प्रॉम्पट
-
-```
-the man and woman agrue about going off-planet, the man says something insulting, she slaps him and storms off, he turns towards the rocket in the distace
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0938c29f9d3fa16c81a3190184d0714/thumbnails/thumbnail.jpg" width="600" alt="Couple Arguing and Slapping Scene Video Prompt (Same as previous)">
-
-**लेखक:** [Gavin Purcell](https://x.com/gavinpurcell) | **स्रोत:** [Link](https://x.com/gavinpurcell/status/2021398856999764300) | **प्रकाशित:** Feb 11, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=174)**
 
 ---
 ### Argument and storm-off scene prompt
@@ -2016,28 +1861,9 @@ Luffy programming on a Macbook on the Thousand Sunny, ENRAGED, and then throwing
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/601518beceb637df826e310314ea4c9a/thumbnails/thumbnail.jpg" width="600" alt="1980 के दशक की ट्रेनिंग मोंटाज VHS स्टाइल प्रॉम्प्ट">
 
-**लेखक:** [A.I.Warper](https://x.com/AIWarper) | **स्रोत:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [A.I.Warper](https://x.com/AIWarper) | **स्रोत:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=108)**
-
----
-### थौज़ेंड सन्नी पर लफ़ी कोडिंग करते हुए
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सीडेंस 2.0 (Seedance 2.0) के लिए एक डायनामिक प्रॉम्प्ट जिसमें एनिमे कैरेक्टर लफी (Luffy) थाउज़ेंड सनी (Thousand Sunny) जहाज पर मैकबुक (Macbook) पर कोडिंग कर रहा है, गुस्सा व्यक्त कर रहा है, और फिर लैपटॉप को जहाज से बाहर फेंक रहा है।
-
-#### 📝 प्रॉम्पट
-
-```
-लफी थाउज़ेंड सन्नी पर मैकबुक पर कोडिंग कर रहा है, गुस्से में है, फिर उसे जहाज से बाहर फेंक देता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d660a1f00aed91ee7be97a7284711730/thumbnails/thumbnail.jpg" width="600" alt="थौज़ेंड सन्नी पर लफ़ी कोडिंग करते हुए">
-
-**लेखक:** [BOOTOSHI 👑](https://x.com/KingBootoshi) | **स्रोत:** [Link](https://x.com/KingBootoshi/status/2021349878232907790) | **प्रकाशित:** Feb 11, 2026
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=86)**
 
 ---
 ### पूछताछ कक्ष का दृश्य प्रॉम्प्ट
@@ -2054,7 +1880,7 @@ Luffy programming on a Macbook on the Thousand Sunny, ENRAGED, and then throwing
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0d4a9bc64b3090010c9c235e08ea8471/thumbnails/thumbnail.jpg" width="600" alt="पूछताछ कक्ष का दृश्य प्रॉम्प्ट">
 
-**लेखक:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **स्रोत:** [Link](https://x.com/plasm0/status/2021348721775214616) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **स्रोत:** [Link](https://x.com/plasm0/status/2021348721775214616) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=103)**
 
@@ -2073,7 +1899,7 @@ Luffy programming on a Macbook on the Thousand Sunny, ENRAGED, and then throwing
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c6fb0ae43ed911c1c1fc5fe8603156c/thumbnails/thumbnail.jpg" width="600" alt="ब्राज़ीलियन फ़ोंक एनिमे एडिट प्रॉम्प्ट">
 
-**लेखक:** [nachos2d](https://x.com/NACHOS2D_) | **स्रोत:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [nachos2d](https://x.com/NACHOS2D_) | **स्रोत:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=105)**
 
@@ -2092,7 +1918,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44a4cde36e3d158548f9a721f3f8084d/thumbnails/thumbnail.jpg" width="600" alt="Action with Morphing Turn">
 
-**लेखक:** [madpencil_](https://x.com/madpencil_) | **स्रोत:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [madpencil_](https://x.com/madpencil_) | **स्रोत:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=214)**
 
@@ -2111,7 +1937,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1e733c7e963ac77c87158f2d3bcf788/thumbnails/thumbnail.jpg" width="600" alt="मल्टी-शॉट सिनेमैटिक किचन कॉमेडी प्रॉम्प्ट">
 
-**लेखक:** [AI Pulse](https://x.com/youraipulse) | **स्रोत:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [AI Pulse](https://x.com/youraipulse) | **स्रोत:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=102)**
 
@@ -2130,7 +1956,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc96e2f68aa3f98bae3f39e72a880939/thumbnails/thumbnail.jpg" width="600" alt="फ्लेमथ्रोअर के साथ समुद्री डाकू सराय का प्रवेश द्वार">
 
-**लेखक:** [Theoretically Media](https://x.com/TheoMediaAI) | **स्रोत:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [Theoretically Media](https://x.com/TheoMediaAI) | **स्रोत:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=93)**
 
@@ -2149,7 +1975,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a161c0a0756fd7db2f92759c86846967/thumbnails/thumbnail.jpg" width="600" alt="विस्तृत 5-कट सीन जनरेशन">
 
-**लेखक:** [Brett Stuart](https://x.com/bstuartTI) | **स्रोत:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [Brett Stuart](https://x.com/bstuartTI) | **स्रोत:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=124)**
 
@@ -2168,7 +1994,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a440755a726b2e993fd5bb3778a8f2/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक रैली कार सीन">
 
-**लेखक:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **स्रोत:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **स्रोत:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=123)**
 
@@ -2187,7 +2013,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/081a43eafe80dd6976b0e3de8229ed8a/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक रोमांटिक एपिक फ़िल्म ट्रेलर">
 
-**लेखक:** [Brent Lynch](https://x.com/BrentLynch) | **स्रोत:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [Brent Lynch](https://x.com/BrentLynch) | **स्रोत:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=98)**
 
@@ -2206,7 +2032,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f8b3776cdca944ff68b97cd4e9d4624/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक हाई-स्पीड मोटरसाइकिल चेज़ सीन">
 
-**लेखक:** [Blaine Brown](https://x.com/blizaine) | **स्रोत:** [Link](https://x.com/blizaine/status/2021295079043023257) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [Blaine Brown](https://x.com/blizaine) | **स्रोत:** [Link](https://x.com/blizaine/status/2021295079043023257) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=96)**
 
@@ -2225,7 +2051,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/789a1bae3e5386be7755306f518af70f/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक हैंडहेल्ड फाइट सीन प्रॉम्प्ट">
 
-**लेखक:** [Mr. Abu Joe](https://x.com/mrabujoe) | **स्रोत:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [Mr. Abu Joe](https://x.com/mrabujoe) | **स्रोत:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=107)**
 
@@ -2244,7 +2070,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fc22a4bd8a7349ae5edcf1927913dba/thumbnails/thumbnail.jpg" width="600" alt="एपिक गॉथिक बैटल सीन वीडियो प्रॉम्प्ट">
 
-**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2021277605224165468) | **प्रकाशित:** Feb 11, 2026
+**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2021277605224165468) | **प्रकाशित:** Feb 10, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=110)**
 
@@ -2813,7 +2639,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27a0947c9229f6dbc87a1f19c355e88e/thumbnails/thumbnail.jpg" width="600" alt="सीडेंस 2.0 की अल्पकालिक लोकप्रियता के उपलक्ष्य में विस्तृत सिनेमाई प्रॉम्प्ट">
 
-**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2020990215477723360) | **प्रकाशित:** Feb 10, 2026
+**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2020990215477723360) | **प्रकाशित:** Feb 9, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=60)**
 
@@ -2832,7 +2658,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eeba965f95627789ea8c1558500872be/thumbnails/thumbnail.jpg" width="600" alt="ओलंपिक जिमनास्टिक्स बीम फाइनल">
 
-**लेखक:** [Justine Moore](https://x.com/venturetwins) | **स्रोत:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **प्रकाशित:** Feb 10, 2026
+**लेखक:** [Justine Moore](https://x.com/venturetwins) | **स्रोत:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **प्रकाशित:** Feb 9, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=65)**
 
@@ -2851,7 +2677,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93b779f2d0618204260679f051a1d717/thumbnails/thumbnail.jpg" width="600" alt="ओलंपिक स्नोबोर्ड बिग एयर प्रतियोगिता">
 
-**लेखक:** [Justine Moore](https://x.com/venturetwins) | **स्रोत:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **प्रकाशित:** Feb 10, 2026
+**लेखक:** [Justine Moore](https://x.com/venturetwins) | **स्रोत:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **प्रकाशित:** Feb 9, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=66)**
 
@@ -2872,7 +2698,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02b7739ca42faa1f76549e9a1a3ea826/thumbnails/thumbnail.jpg" width="600" alt="नाटकीय दृश्य जनरेशन प्रॉम्प्ट">
 
-**लेखक:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **स्रोत:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **प्रकाशित:** Feb 10, 2026
+**लेखक:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **स्रोत:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **प्रकाशित:** Feb 9, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=72)**
 
@@ -3275,7 +3101,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e779bf19cd1133aee93f81e84595d49/thumbnails/thumbnail.jpg" width="600" alt="एनीमे कैरेक्टर बैटल जनरेशन के उदाहरण">
 
-**लेखक:** [ImPaul](https://x.com/impaulxyz) | **स्रोत:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **प्रकाशित:** Feb 9, 2026
+**लेखक:** [ImPaul](https://x.com/impaulxyz) | **स्रोत:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **प्रकाशित:** Feb 8, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=58)**
 
@@ -3294,7 +3120,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0880f13ea1ecdea31c2404bafdeeb1/thumbnails/thumbnail.jpg" width="600" alt="स्टोरीबोर्डिंग और मल्टी-पर्सपेक्टिव वीडियो जनरेशन">
 
-**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2020589661769372053) | **प्रकाशित:** Feb 9, 2026
+**लेखक:** [John](https://x.com/john87445528) | **स्रोत:** [Link](https://x.com/john87445528/status/2020589661769372053) | **प्रकाशित:** Feb 8, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=46)**
 
@@ -3313,7 +3139,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8cf0161c9460319ca8149996fa9d263c/thumbnails/thumbnail.jpg" width="600" alt="सुसंगत पात्रों के साथ मल्टी-कैमरा स्टोरीटेलिंग">
 
-**लेखक:** [Mobbi AI](https://x.com/MobbiAI) | **स्रोत:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **प्रकाशित:** Feb 9, 2026
+**लेखक:** [Mobbi AI](https://x.com/MobbiAI) | **स्रोत:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **प्रकाशित:** Feb 8, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=34)**
 
@@ -3332,7 +3158,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/744846b495f42f13095c3144a5abc9e2/thumbnails/thumbnail.jpg" width="600" alt="मौसमी बदलावों के साथ फर्स्ट-पर्सन रोलर कोस्टर">
 
-**लेखक:** [Latte](https://x.com/0xbisc) | **स्रोत:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **प्रकाशित:** Feb 9, 2026
+**लेखक:** [Latte](https://x.com/0xbisc) | **स्रोत:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **प्रकाशित:** Feb 8, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=37)**
 
@@ -3821,7 +3647,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://cms-assets.youmind.com/media/1770873362455_yp0c51_HAluy_8WYAANsv_.jpg" width="600" alt="सीडेंस 2.0 के लिए परफ्यूम उत्पाद विज्ञापन जनरेशन प्रॉम्प्ट">
 
-**लेखक:** [尾鳍Vicky](https://x.com/BFAVicky) | **स्रोत:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **प्रकाशित:** Feb 8, 2026
+**लेखक:** [尾鳍Vicky](https://x.com/BFAVicky) | **स्रोत:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **प्रकाशित:** Feb 7, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=209)**
 
@@ -3841,7 +3667,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://cms-assets.youmind.com/media/1770827642595_44mu91_HAlAArSaIAAIgfq.png" width="600" alt="छवि संदर्भों के साथ वीडियो जनरेशन प्रॉम्प्ट">
 
-**लेखक:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **स्रोत:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **प्रकाशित:** Feb 8, 2026
+**लेखक:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **स्रोत:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **प्रकाशित:** Feb 7, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=28)**
 
@@ -3860,7 +3686,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32cb455ba14a3fe13b851d7128bfd300/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 स्ट्रीट डांस वीडियो जनरेशन">
 
-**लेखक:** [井然](https://x.com/jingran96) | **स्रोत:** [Link](https://x.com/jingran96/status/2020207082478452842) | **प्रकाशित:** Feb 8, 2026
+**लेखक:** [井然](https://x.com/jingran96) | **स्रोत:** [Link](https://x.com/jingran96/status/2020207082478452842) | **प्रकाशित:** Feb 7, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=29)**
 
@@ -3879,7 +3705,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5cf573a8a912a9bcb2cbeab2d3aac006/thumbnails/thumbnail.jpg" width="600" alt="आटा गूंथने के भौतिकी प्रॉम्प्ट">
 
-**लेखक:** [Patrick](https://x.com/patrickassale) | **स्रोत:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **प्रकाशित:** Feb 8, 2026
+**लेखक:** [Patrick](https://x.com/patrickassale) | **स्रोत:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **प्रकाशित:** Feb 7, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=25)**
 
@@ -3898,7 +3724,7 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 
 <img src="https://cms-assets.youmind.com/media/1770827655179_cn1hcu_HAkUoaHacAIVNkD.jpg" width="600" alt="स्टोरीबोर्ड इमेज से वीडियो बनाएं">
 
-**लेखक:** [Mr.Iancu](https://x.com/Iancu_ai) | **स्रोत:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **प्रकाशित:** Feb 8, 2026
+**लेखक:** [Mr.Iancu](https://x.com/Iancu_ai) | **स्रोत:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **प्रकाशित:** Feb 7, 2026
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=33)**
 
@@ -4075,6 +3901,6 @@ Seedance 2.0 टेक्स्ट-टू-वीडियो प्रॉम्�
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-02-12T07:59:18.725Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-02-12T08:47:05.549Z</sub>
 
 </div>

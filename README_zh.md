@@ -61,7 +61,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **180** |
+| 📝 提示词总数 | **171** |
 | 🔄 最后更新 | **2026-02-12** |
 
 ---
@@ -127,7 +127,7 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/215fc649a96669ea5b76c1857561d2d1/thumbnails/thumbnail.jpg" width="600" alt="Action Sequence Prompt for Fighter Pilot Combat">
 
-**作者:** [𝕏Caliber](https://x.com/XCaliber) | **来源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **发布时间:** Feb 12, 2026
+**作者:** [𝕏Caliber](https://x.com/XCaliber) | **来源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=170)**
 
@@ -146,7 +146,7 @@ A woman tensely asks the man in the shadows to come out. Slow push in as she tel
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d438d1f29a992559a026378861ee440/thumbnails/thumbnail.jpg" width="600" alt="Woman Confronts Man in Shadows">
 
-**作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **来源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **发布时间:** Feb 12, 2026
+**作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **来源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=208)**
 
@@ -165,7 +165,7 @@ Handheld running shot with an overflowing bag of gold coins, jumping into water,
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Handheld Running Shot with Gold Coins Underwater">
 
-**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **来源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **发布时间:** Feb 12, 2026
+**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **来源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=161)**
 
@@ -184,7 +184,7 @@ Handheld shot circling two boxers practice sparring in a gritty gym, purposefull
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60c8ce94909a1785f745bf018e1d007a/thumbnails/thumbnail.jpg" width="600" alt="Gritty Boxing Sparring Session">
 
-**作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **来源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **发布时间:** Feb 12, 2026
+**作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **来源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=140)**
 
@@ -233,28 +233,9 @@ Scene 4: Rider Self-Mockingly Continues Galloping Away (0:20-0:30, 10 seconds)
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31130a874536d7d55a28e682d4cf4105/thumbnails/thumbnail.jpg" width="600" alt="Absurd Comedy Video Prompt for Seedance 2.0: Nothing">
 
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **发布时间:** Feb 12, 2026
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=186)**
-
----
-### Text Prompt for Cinematic Scene Generation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A simple text prompt used to direct a full cinematic scene, including multiple cuts, different angles, and Hollywood-level lighting, demonstrating the power of Seedance 2.0.
-
-#### 📝 提示词
-
-```
-A text prompt just directed a full cinematic scene. Multiple cuts. Different angles. Hollywood-level lighting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1cc51a8b5712d590b47416817afa6ffd/thumbnails/thumbnail.jpg" width="600" alt="Text Prompt for Cinematic Scene Generation">
-
-**作者:** [Mr Vibe](https://x.com/mr_vibe_it) | **来源:** [Link](https://x.com/mr_vibe_it/status/2021702364969984233) | **发布时间:** Feb 12, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=217)**
 
 ---
 ### Surreal Battlefield Ronin Action Scene
@@ -275,7 +256,7 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="Surreal Battlefield Ronin Action Scene">
 
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 12, 2026
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=133)**
 
@@ -294,7 +275,7 @@ generate a video about a running scene, behind is a giant monster big as a build
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b90edd9ac7efa64817e14e6d40df279/thumbnails/thumbnail.jpg" width="600" alt="Running from a Giant Monster (Arcane Style)">
 
-**作者:** [Dipper](https://x.com/dipperdao) | **来源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **发布时间:** Feb 12, 2026
+**作者:** [Dipper](https://x.com/dipperdao) | **来源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=142)**
 
@@ -326,7 +307,7 @@ A low, resonant hum builds. The air ahead fractures like glass. A circular porta
 
 <img src="https://pbs.twimg.com/ext_tw_video_thumb/2021687496200138752/pu/img/5dvJPMJNeKbkhWXw.jpg" width="600" alt="The Flash Director's Prompt">
 
-**作者:** [Rufus](https://x.com/Rufus87078959) | **来源:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **发布时间:** Feb 12, 2026
+**作者:** [Rufus](https://x.com/Rufus87078959) | **来源:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=167)**
 
@@ -345,31 +326,9 @@ A colossal armored baboon charges through a burning Maasai village, it picks up 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02f55f5c494f8d1f9d0a718ac57b2e65/thumbnails/thumbnail.jpg" width="600" alt="Chaos in a Maasai Village">
 
-**作者:** [Travis Davids](https://x.com/MrDavids1) | **来源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **发布时间:** Feb 12, 2026
+**作者:** [Travis Davids](https://x.com/MrDavids1) | **来源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=160)**
-
----
-### Cinematic Video Enhancement Prompts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A set of four technical prompt additions recommended for achieving better, more cinematic results in video generation, focusing on camera work, lighting, and color grading.
-
-#### 📝 提示词
-
-```
-Multiple dynamic camera cuts
-Professional color grading
-Theatrical lighting
-Cinematic depth of field
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ebea774ce2faf40469d0b6af4c9b9193/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Video Enhancement Prompts">
-
-**作者:** [S0ft](https://x.com/softisaccurate) | **来源:** [Link](https://x.com/softisaccurate/status/2021679182498168915) | **发布时间:** Feb 12, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=177)**
 
 ---
 ### Will Smith Fighting a Spaghetti Monster (80s Action)
@@ -386,28 +345,9 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 
 <img src="https://cms-assets.youmind.com/media/1770877985462_1ibmxy_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster (80s Action)">
 
-**作者:** [S0ft](https://x.com/softisaccurate) | **来源:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **发布时间:** Feb 12, 2026
+**作者:** [S0ft](https://x.com/softisaccurate) | **来源:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=178)**
-
----
-### Hitler vs Michael Jackson Epic Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A controversial and highly cinematic single prompt used to test the power of Seedance 2.0, generating an epic movie scene of a battle between historical and pop culture figures.
-
-#### 📝 提示词
-
-```
-Hitler vs Michael Jackson, movie scene, epic battle
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07503938432b0b1991103d45018a5918/thumbnails/thumbnail.jpg" width="600" alt="Hitler vs Michael Jackson Epic Battle">
-
-**作者:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **来源:** [Link](https://x.com/Preda2005/status/2021650626544021860) | **发布时间:** Feb 12, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=150)**
 
 ---
 ### Cinematic WW2 Motorcycle Escape
@@ -424,7 +364,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5092796a86a2832e73822aa47ca603/thumbnails/thumbnail.jpg" width="600" alt="Cinematic WW2 Motorcycle Escape">
 
-**作者:** [pewden AI](https://x.com/pewdenai) | **来源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **发布时间:** Feb 12, 2026
+**作者:** [pewden AI](https://x.com/pewdenai) | **来源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=126)**
 
@@ -453,7 +393,7 @@ Stationary camera. One continuous shot as characters walk in and takes their sea
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e38054ccc4db74903e650688542c0343/thumbnails/thumbnail.jpg" width="600" alt="Multi-Character Cabin Scene with Dialogue">
 
-**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **来源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **发布时间:** Feb 12, 2026
+**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **来源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=138)**
 
@@ -472,7 +412,7 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Thanos Apologizes to Spider-Man Prompt">
 
-**作者:** [xAi✨](https://x.com/xai_42) | **来源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **发布时间:** Feb 12, 2026
+**作者:** [xAi✨](https://x.com/xai_42) | **来源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=207)**
 
@@ -491,7 +431,7 @@ Lumpen, Hobo, female version, old battered cat, with chains to draw attention wi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85d1aebb62f992fff11664df0d9583bc/thumbnails/thumbnail.jpg" width="600" alt="Lumpen Hobo woman with chains">
 
-**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **来源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **发布时间:** Feb 12, 2026
+**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **来源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=205)**
 
@@ -513,7 +453,7 @@ He transforms into a giant black dragon and grabs everyone from the sky (Loki's 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a9d6e1efa7aef7c68a9a890b31c79f5/thumbnails/thumbnail.jpg" width="600" alt="One Piece Inspired Text-to-Video Prompt">
 
-**作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **来源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **发布时间:** Feb 12, 2026
+**作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **来源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=199)**
 
@@ -532,7 +472,7 @@ You provide the intent; the engine handles the cinematic soul. Lighting, texture
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4bd4e49f0d6ebb7ed21ee725dbc9767/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Intent-Based Generation">
 
-**作者:** [YTMasterAi](https://x.com/YTMasterAi) | **来源:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **发布时间:** Feb 12, 2026
+**作者:** [YTMasterAi](https://x.com/YTMasterAi) | **来源:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=218)**
 
@@ -551,7 +491,7 @@ A massive kraken attacks a pirate ship, the captain slices it with his sword.  h
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cab0603b68df8f1d2824e07ef9ada6df/thumbnails/thumbnail.jpg" width="600" alt="Kraken Attack Cinematic Scene">
 
-**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **发布时间:** Feb 12, 2026
+**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=152)**
 
@@ -895,25 +835,6 @@ Use Seedance 2.0 to generate an anime video: funny sequence with Chinese Officer
 **作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **来源:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=146)**
-
----
-### Luffy Throwing MacBook into the Sea (Alternative Translation)
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt used with Seedance 2.0 to generate a video of Luffy coding on the Thousand Sunny, getting angry, and throwing the computer into the sea, highlighting the impressive capabilities of the AI developed by the creators of TikTok.
-
-#### 📝 提示词
-
-```
-Luffy using a MacBook for coding on the Thousand Sunny, getting furious and throwing the computer into the sea
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec3a4cc9c743d36a73fde36a82fe7c6/thumbnails/thumbnail.jpg" width="600" alt="Luffy Throwing MacBook into the Sea (Alternative Translation)">
-
-**作者:** [まかねこ| AI×仮想通貨](https://x.com/makaneko_AI) | **来源:** [Link](https://x.com/makaneko_AI/status/2021557569089892501) | **发布时间:** Feb 11, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=197)**
 
 ---
 ### Cinematic Entrance Scene Script: Galloping Through Vancouver Mansions
@@ -1658,25 +1579,6 @@ Your current identity is a dedicated Prompt writer for cinematic video generatio
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=192)**
 
 ---
-### Will Smith Fighting a Spaghetti Monster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Seedance 2.0 to generate an epic 80s-style action film scene featuring Will Smith fighting a spaghetti monster, including multiple camera cuts.
-
-#### 📝 提示词
-
-```
-Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10409131b35695c890e23860ebdaba40/thumbnails/thumbnail.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster">
-
-**作者:** [Jamian Gerard](https://x.com/JamianGerard) | **来源:** [Link](https://x.com/JamianGerard/status/2021424735704449318) | **发布时间:** Feb 11, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=159)**
-
----
 ### Seedance 2.0 T2V Anime Scene Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1694,25 +1596,6 @@ Anime scene of Lumine from Genshin Impact dashing across a shattered temple cour
 **作者:** [Kokoboy](https://x.com/Kokoboy886711) | **来源:** [Link](https://x.com/Kokoboy886711/status/2021421581558481040) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=211)**
-
----
-### Will Smith vs. Spaghetti Monster Action Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Seedance 2.0 to create an epic, 80s-style action film scene featuring Will Smith fighting a spaghetti monster, utilizing different camera cuts.
-
-#### 📝 提示词
-
-```
-Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/803861e1ab4482486aab30f9c57b1e61/thumbnails/thumbnail.jpg" width="600" alt="Will Smith vs. Spaghetti Monster Action Scene">
-
-**作者:** [Random AI](https://x.com/Random_AI000) | **来源:** [Link](https://x.com/Random_AI000/status/2021418623567602065) | **发布时间:** Feb 11, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=162)**
 
 ---
 ### Ronin vs. Colossal Mechanical Beast
@@ -1810,25 +1693,6 @@ Generate a video based on the text description in the reference image.
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=206)**
 
 ---
-### Seedance 2.0 Multi-Modal Prompting Capabilities
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed description of Seedance 2.0's advanced multi-modal prompting, allowing users to attach reference photos (for actors/clothes), audio tracks, and even entire videos, combining them with text instructions for video generation and editing.
-
-#### 📝 提示词
-
-```
-extend this video backward, replace this with that
-```
-
-<img src="https://cms-assets.youmind.com/media/1770870220812_j6jl7j_HA13OS5aAAEdOdv.jpg" width="600" alt="Seedance 2.0 Multi-Modal Prompting Capabilities">
-
-**作者:** [@levelsio](https://x.com/levelsio) | **来源:** [Link](https://x.com/levelsio/status/2021403820702552331) | **发布时间:** Feb 11, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=166)**
-
----
 ### Fashion Montage Focusing on Glasses
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1846,25 +1710,6 @@ create a quick fashion montage and focus on the glasses
 **作者:** [Fanis](https://x.com/pfanis) | **来源:** [Link](https://x.com/pfanis/status/2021402352251699638) | **发布时间:** Feb 11, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=139)**
-
----
-### Couple Arguing and Slapping Scene Video Prompt (Same as previous)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This tweet references the exact same prompt used in a previous generation (ID 2021396920284086660) to compare results across different models (Kling 3.0 vs Seedance 2.0).
-
-#### 📝 提示词
-
-```
-the man and woman agrue about going off-planet, the man says something insulting, she slaps him and storms off, he turns towards the rocket in the distace
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0938c29f9d3fa16c81a3190184d0714/thumbnails/thumbnail.jpg" width="600" alt="Couple Arguing and Slapping Scene Video Prompt (Same as previous)">
-
-**作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **来源:** [Link](https://x.com/gavinpurcell/status/2021398856999764300) | **发布时间:** Feb 11, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=174)**
 
 ---
 ### Argument and storm-off scene prompt
@@ -2016,28 +1861,9 @@ Luffy programming on a Macbook on the Thousand Sunny, ENRAGED, and then throwing
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/601518beceb637df826e310314ea4c9a/thumbnails/thumbnail.jpg" width="600" alt="20 世纪 80 年代训练蒙太奇 VHS 风格提示">
 
-**作者:** [A.I.Warper](https://x.com/AIWarper) | **来源:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **发布时间:** Feb 11, 2026
+**作者:** [A.I.Warper](https://x.com/AIWarper) | **来源:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=108)**
-
----
-### 路飞在桑尼号上编程
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Seedance 2.0 的动态提示，描绘了动漫角色路飞在阳光号上用 MacBook 编程，他怒火中烧，然后将笔记本电脑扔下了船。
-
-#### 📝 提示词
-
-```
-路飞在桑尼号上用 MacBook 狂热地编程，然后把它扔到海里。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d660a1f00aed91ee7be97a7284711730/thumbnails/thumbnail.jpg" width="600" alt="路飞在桑尼号上编程">
-
-**作者:** [BOOTOSHI 👑](https://x.com/KingBootoshi) | **来源:** [Link](https://x.com/KingBootoshi/status/2021349878232907790) | **发布时间:** Feb 11, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=86)**
 
 ---
 ### 审讯室场景提示
@@ -2054,7 +1880,7 @@ Luffy programming on a Macbook on the Thousand Sunny, ENRAGED, and then throwing
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0d4a9bc64b3090010c9c235e08ea8471/thumbnails/thumbnail.jpg" width="600" alt="审讯室场景提示">
 
-**作者:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **来源:** [Link](https://x.com/plasm0/status/2021348721775214616) | **发布时间:** Feb 11, 2026
+**作者:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **来源:** [Link](https://x.com/plasm0/status/2021348721775214616) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=103)**
 
@@ -2073,7 +1899,7 @@ Luffy programming on a Macbook on the Thousand Sunny, ENRAGED, and then throwing
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c6fb0ae43ed911c1c1fc5fe8603156c/thumbnails/thumbnail.jpg" width="600" alt="巴西 Phonk 动漫剪辑提示词">
 
-**作者:** [nachos2d](https://x.com/NACHOS2D_) | **来源:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **发布时间:** Feb 11, 2026
+**作者:** [nachos2d](https://x.com/NACHOS2D_) | **来源:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=105)**
 
@@ -2092,7 +1918,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44a4cde36e3d158548f9a721f3f8084d/thumbnails/thumbnail.jpg" width="600" alt="Action with Morphing Turn">
 
-**作者:** [madpencil_](https://x.com/madpencil_) | **来源:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **发布时间:** Feb 11, 2026
+**作者:** [madpencil_](https://x.com/madpencil_) | **来源:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=214)**
 
@@ -2111,7 +1937,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1e733c7e963ac77c87158f2d3bcf788/thumbnails/thumbnail.jpg" width="600" alt="多镜头电影厨房喜剧提示词">
 
-**作者:** [AI Pulse](https://x.com/youraipulse) | **来源:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **发布时间:** Feb 11, 2026
+**作者:** [AI Pulse](https://x.com/youraipulse) | **来源:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=102)**
 
@@ -2130,7 +1956,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc96e2f68aa3f98bae3f39e72a880939/thumbnails/thumbnail.jpg" width="600" alt="海盗酒馆入口，带火焰喷射器">
 
-**作者:** [Theoretically Media](https://x.com/TheoMediaAI) | **来源:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **发布时间:** Feb 11, 2026
+**作者:** [Theoretically Media](https://x.com/TheoMediaAI) | **来源:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=93)**
 
@@ -2149,7 +1975,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a161c0a0756fd7db2f92759c86846967/thumbnails/thumbnail.jpg" width="600" alt="详细的 5 镜头场景生成">
 
-**作者:** [Brett Stuart](https://x.com/bstuartTI) | **来源:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **发布时间:** Feb 11, 2026
+**作者:** [Brett Stuart](https://x.com/bstuartTI) | **来源:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=124)**
 
@@ -2168,7 +1994,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a440755a726b2e993fd5bb3778a8f2/thumbnails/thumbnail.jpg" width="600" alt="电影级拉力赛车场景">
 
-**作者:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **来源:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **发布时间:** Feb 11, 2026
+**作者:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **来源:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=123)**
 
@@ -2187,7 +2013,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/081a43eafe80dd6976b0e3de8229ed8a/thumbnails/thumbnail.jpg" width="600" alt="史诗浪漫电影预告片">
 
-**作者:** [Brent Lynch](https://x.com/BrentLynch) | **来源:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **发布时间:** Feb 11, 2026
+**作者:** [Brent Lynch](https://x.com/BrentLynch) | **来源:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=98)**
 
@@ -2206,7 +2032,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f8b3776cdca944ff68b97cd4e9d4624/thumbnails/thumbnail.jpg" width="600" alt="电影级高速摩托车追逐场景">
 
-**作者:** [Blaine Brown](https://x.com/blizaine) | **来源:** [Link](https://x.com/blizaine/status/2021295079043023257) | **发布时间:** Feb 11, 2026
+**作者:** [Blaine Brown](https://x.com/blizaine) | **来源:** [Link](https://x.com/blizaine/status/2021295079043023257) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=96)**
 
@@ -2225,7 +2051,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/789a1bae3e5386be7755306f518af70f/thumbnails/thumbnail.jpg" width="600" alt="电影级手持打斗场景提示">
 
-**作者:** [Mr. Abu Joe](https://x.com/mrabujoe) | **来源:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **发布时间:** Feb 11, 2026
+**作者:** [Mr. Abu Joe](https://x.com/mrabujoe) | **来源:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=107)**
 
@@ -2244,7 +2070,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fc22a4bd8a7349ae5edcf1927913dba/thumbnails/thumbnail.jpg" width="600" alt="史诗哥特式战斗场景视频提示">
 
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021277605224165468) | **发布时间:** Feb 11, 2026
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021277605224165468) | **发布时间:** Feb 10, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=110)**
 
@@ -2841,7 +2667,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27a0947c9229f6dbc87a1f19c355e88e/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 纪念其昙花一现人气的电影级详细提示词">
 
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2020990215477723360) | **发布时间:** Feb 10, 2026
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2020990215477723360) | **发布时间:** Feb 9, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=60)**
 
@@ -2860,7 +2686,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eeba965f95627789ea8c1558500872be/thumbnails/thumbnail.jpg" width="600" alt="奥运体操平衡木决赛">
 
-**作者:** [Justine Moore](https://x.com/venturetwins) | **来源:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **发布时间:** Feb 10, 2026
+**作者:** [Justine Moore](https://x.com/venturetwins) | **来源:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **发布时间:** Feb 9, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=65)**
 
@@ -2879,7 +2705,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93b779f2d0618204260679f051a1d717/thumbnails/thumbnail.jpg" width="600" alt="奥运单板滑雪大跳台比赛">
 
-**作者:** [Justine Moore](https://x.com/venturetwins) | **来源:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **发布时间:** Feb 10, 2026
+**作者:** [Justine Moore](https://x.com/venturetwins) | **来源:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **发布时间:** Feb 9, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=66)**
 
@@ -2900,7 +2726,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02b7739ca42faa1f76549e9a1a3ea826/thumbnails/thumbnail.jpg" width="600" alt="戏剧性场景生成提示">
 
-**作者:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **来源:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **发布时间:** Feb 10, 2026
+**作者:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **来源:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **发布时间:** Feb 9, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=72)**
 
@@ -3309,7 +3135,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e779bf19cd1133aee93f81e84595d49/thumbnails/thumbnail.jpg" width="600" alt="动漫角色对战生成示例">
 
-**作者:** [ImPaul](https://x.com/impaulxyz) | **来源:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **发布时间:** Feb 9, 2026
+**作者:** [ImPaul](https://x.com/impaulxyz) | **来源:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **发布时间:** Feb 8, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=58)**
 
@@ -3328,7 +3154,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0880f13ea1ecdea31c2404bafdeeb1/thumbnails/thumbnail.jpg" width="600" alt="故事板与多视角视频生成">
 
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2020589661769372053) | **发布时间:** Feb 9, 2026
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2020589661769372053) | **发布时间:** Feb 8, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=46)**
 
@@ -3347,7 +3173,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8cf0161c9460319ca8149996fa9d263c/thumbnails/thumbnail.jpg" width="600" alt="多机位叙事与一致的角色">
 
-**作者:** [Mobbi AI](https://x.com/MobbiAI) | **来源:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **发布时间:** Feb 9, 2026
+**作者:** [Mobbi AI](https://x.com/MobbiAI) | **来源:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **发布时间:** Feb 8, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=34)**
 
@@ -3366,7 +3192,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/744846b495f42f13095c3144a5abc9e2/thumbnails/thumbnail.jpg" width="600" alt="第一人称过山车，带季节变换">
 
-**作者:** [Latte](https://x.com/0xbisc) | **来源:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **发布时间:** Feb 9, 2026
+**作者:** [Latte](https://x.com/0xbisc) | **来源:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **发布时间:** Feb 8, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=37)**
 
@@ -3887,7 +3713,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://cms-assets.youmind.com/media/1770873362455_yp0c51_HAluy_8WYAANsv_.jpg" width="600" alt="Seedance 2.0 香水产品广告生成提示">
 
-**作者:** [尾鳍Vicky](https://x.com/BFAVicky) | **来源:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **发布时间:** Feb 8, 2026
+**作者:** [尾鳍Vicky](https://x.com/BFAVicky) | **来源:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **发布时间:** Feb 7, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=209)**
 
@@ -3907,7 +3733,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://cms-assets.youmind.com/media/1770827642595_44mu91_HAlAArSaIAAIgfq.png" width="600" alt="带图像参考的视频生成提示">
 
-**作者:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **来源:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **发布时间:** Feb 8, 2026
+**作者:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **来源:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **发布时间:** Feb 7, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=28)**
 
@@ -3926,7 +3752,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32cb455ba14a3fe13b851d7128bfd300/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 街舞视频生成">
 
-**作者:** [井然](https://x.com/jingran96) | **来源:** [Link](https://x.com/jingran96/status/2020207082478452842) | **发布时间:** Feb 8, 2026
+**作者:** [井然](https://x.com/jingran96) | **来源:** [Link](https://x.com/jingran96/status/2020207082478452842) | **发布时间:** Feb 7, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=29)**
 
@@ -3945,7 +3771,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5cf573a8a912a9bcb2cbeab2d3aac006/thumbnails/thumbnail.jpg" width="600" alt="揉面物理学提示">
 
-**作者:** [Patrick](https://x.com/patrickassale) | **来源:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **发布时间:** Feb 8, 2026
+**作者:** [Patrick](https://x.com/patrickassale) | **来源:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **发布时间:** Feb 7, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=25)**
 
@@ -3964,7 +3790,7 @@ Seedance 2.0 文本转视频提示词
 
 <img src="https://cms-assets.youmind.com/media/1770827655179_cn1hcu_HAkUoaHacAIVNkD.jpg" width="600" alt="从故事板图像创建视频">
 
-**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **来源:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **发布时间:** Feb 8, 2026
+**作者:** [Mr.Iancu](https://x.com/Iancu_ai) | **来源:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **发布时间:** Feb 7, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=33)**
 
@@ -4149,6 +3975,6 @@ Seedance 2.0 文本转视频提示词
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-12T07:59:07.708Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-12T08:47:03.377Z</sub>
 
 </div>

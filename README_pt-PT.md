@@ -61,7 +61,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **180** |
+| 📝 Total de prompts | **171** |
 | 🔄 Última atualização | **2026-02-12** |
 
 ---
@@ -127,7 +127,7 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/215fc649a96669ea5b76c1857561d2d1/thumbnails/thumbnail.jpg" width="600" alt="Action Sequence Prompt for Fighter Pilot Combat">
 
-**Autor:** [𝕏Caliber](https://x.com/XCaliber) | **Fonte:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Publicado:** Feb 12, 2026
+**Autor:** [𝕏Caliber](https://x.com/XCaliber) | **Fonte:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=170)**
 
@@ -146,7 +146,7 @@ A woman tensely asks the man in the shadows to come out. Slow push in as she tel
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d438d1f29a992559a026378861ee440/thumbnails/thumbnail.jpg" width="600" alt="Woman Confronts Man in Shadows">
 
-**Autor:** [Gavin Purcell](https://x.com/gavinpurcell) | **Fonte:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Publicado:** Feb 12, 2026
+**Autor:** [Gavin Purcell](https://x.com/gavinpurcell) | **Fonte:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=208)**
 
@@ -165,7 +165,7 @@ Handheld running shot with an overflowing bag of gold coins, jumping into water,
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Handheld Running Shot with Gold Coins Underwater">
 
-**Autor:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Fonte:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Publicado:** Feb 12, 2026
+**Autor:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Fonte:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=161)**
 
@@ -184,7 +184,7 @@ Handheld shot circling two boxers practice sparring in a gritty gym, purposefull
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60c8ce94909a1785f745bf018e1d007a/thumbnails/thumbnail.jpg" width="600" alt="Gritty Boxing Sparring Session">
 
-**Autor:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Fonte:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Publicado:** Feb 12, 2026
+**Autor:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Fonte:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=140)**
 
@@ -233,28 +233,9 @@ Scene 4: Rider Self-Mockingly Continues Galloping Away (0:20-0:30, 10 seconds)
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31130a874536d7d55a28e682d4cf4105/thumbnails/thumbnail.jpg" width="600" alt="Absurd Comedy Video Prompt for Seedance 2.0: Nothing">
 
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Publicado:** Feb 12, 2026
+**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=186)**
-
----
-### Text Prompt for Cinematic Scene Generation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A simple text prompt used to direct a full cinematic scene, including multiple cuts, different angles, and Hollywood-level lighting, demonstrating the power of Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-A text prompt just directed a full cinematic scene. Multiple cuts. Different angles. Hollywood-level lighting.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1cc51a8b5712d590b47416817afa6ffd/thumbnails/thumbnail.jpg" width="600" alt="Text Prompt for Cinematic Scene Generation">
-
-**Autor:** [Mr Vibe](https://x.com/mr_vibe_it) | **Fonte:** [Link](https://x.com/mr_vibe_it/status/2021702364969984233) | **Publicado:** Feb 12, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=217)**
 
 ---
 ### Surreal Battlefield Ronin Action Scene
@@ -275,7 +256,7 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="Surreal Battlefield Ronin Action Scene">
 
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publicado:** Feb 12, 2026
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=133)**
 
@@ -294,7 +275,7 @@ generate a video about a running scene, behind is a giant monster big as a build
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b90edd9ac7efa64817e14e6d40df279/thumbnails/thumbnail.jpg" width="600" alt="Running from a Giant Monster (Arcane Style)">
 
-**Autor:** [Dipper](https://x.com/dipperdao) | **Fonte:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Publicado:** Feb 12, 2026
+**Autor:** [Dipper](https://x.com/dipperdao) | **Fonte:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=142)**
 
@@ -326,7 +307,7 @@ A low, resonant hum builds. The air ahead fractures like glass. A circular porta
 
 <img src="https://pbs.twimg.com/ext_tw_video_thumb/2021687496200138752/pu/img/5dvJPMJNeKbkhWXw.jpg" width="600" alt="The Flash Director's Prompt">
 
-**Autor:** [Rufus](https://x.com/Rufus87078959) | **Fonte:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Publicado:** Feb 12, 2026
+**Autor:** [Rufus](https://x.com/Rufus87078959) | **Fonte:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=167)**
 
@@ -345,31 +326,9 @@ A colossal armored baboon charges through a burning Maasai village, it picks up 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02f55f5c494f8d1f9d0a718ac57b2e65/thumbnails/thumbnail.jpg" width="600" alt="Chaos in a Maasai Village">
 
-**Autor:** [Travis Davids](https://x.com/MrDavids1) | **Fonte:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Publicado:** Feb 12, 2026
+**Autor:** [Travis Davids](https://x.com/MrDavids1) | **Fonte:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=160)**
-
----
-### Cinematic Video Enhancement Prompts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A set of four technical prompt additions recommended for achieving better, more cinematic results in video generation, focusing on camera work, lighting, and color grading.
-
-#### 📝 Prompt
-
-```
-Multiple dynamic camera cuts
-Professional color grading
-Theatrical lighting
-Cinematic depth of field
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ebea774ce2faf40469d0b6af4c9b9193/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Video Enhancement Prompts">
-
-**Autor:** [S0ft](https://x.com/softisaccurate) | **Fonte:** [Link](https://x.com/softisaccurate/status/2021679182498168915) | **Publicado:** Feb 12, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=177)**
 
 ---
 ### Will Smith Fighting a Spaghetti Monster (80s Action)
@@ -386,28 +345,9 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 
 <img src="https://cms-assets.youmind.com/media/1770877985462_1ibmxy_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster (80s Action)">
 
-**Autor:** [S0ft](https://x.com/softisaccurate) | **Fonte:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **Publicado:** Feb 12, 2026
+**Autor:** [S0ft](https://x.com/softisaccurate) | **Fonte:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=178)**
-
----
-### Hitler vs Michael Jackson Epic Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A controversial and highly cinematic single prompt used to test the power of Seedance 2.0, generating an epic movie scene of a battle between historical and pop culture figures.
-
-#### 📝 Prompt
-
-```
-Hitler vs Michael Jackson, movie scene, epic battle
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/07503938432b0b1991103d45018a5918/thumbnails/thumbnail.jpg" width="600" alt="Hitler vs Michael Jackson Epic Battle">
-
-**Autor:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **Fonte:** [Link](https://x.com/Preda2005/status/2021650626544021860) | **Publicado:** Feb 12, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=150)**
 
 ---
 ### Cinematic WW2 Motorcycle Escape
@@ -424,7 +364,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5092796a86a2832e73822aa47ca603/thumbnails/thumbnail.jpg" width="600" alt="Cinematic WW2 Motorcycle Escape">
 
-**Autor:** [pewden AI](https://x.com/pewdenai) | **Fonte:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Publicado:** Feb 12, 2026
+**Autor:** [pewden AI](https://x.com/pewdenai) | **Fonte:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=126)**
 
@@ -453,7 +393,7 @@ Stationary camera. One continuous shot as characters walk in and takes their sea
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e38054ccc4db74903e650688542c0343/thumbnails/thumbnail.jpg" width="600" alt="Multi-Character Cabin Scene with Dialogue">
 
-**Autor:** [Jason W - AI](https://x.com/PocketScreenAI) | **Fonte:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Publicado:** Feb 12, 2026
+**Autor:** [Jason W - AI](https://x.com/PocketScreenAI) | **Fonte:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=138)**
 
@@ -472,7 +412,7 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Thanos Apologizes to Spider-Man Prompt">
 
-**Autor:** [xAi✨](https://x.com/xai_42) | **Fonte:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Publicado:** Feb 12, 2026
+**Autor:** [xAi✨](https://x.com/xai_42) | **Fonte:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=207)**
 
@@ -491,7 +431,7 @@ Lumpen, Hobo, female version, old battered cat, with chains to draw attention wi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85d1aebb62f992fff11664df0d9583bc/thumbnails/thumbnail.jpg" width="600" alt="Lumpen Hobo woman with chains">
 
-**Autor:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Fonte:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Publicado:** Feb 12, 2026
+**Autor:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Fonte:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=205)**
 
@@ -513,7 +453,7 @@ He transforms into a giant black dragon and grabs everyone from the sky (Loki's 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a9d6e1efa7aef7c68a9a890b31c79f5/thumbnails/thumbnail.jpg" width="600" alt="One Piece Inspired Text-to-Video Prompt">
 
-**Autor:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Fonte:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Publicado:** Feb 12, 2026
+**Autor:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Fonte:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=199)**
 
@@ -532,7 +472,7 @@ You provide the intent; the engine handles the cinematic soul. Lighting, texture
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4bd4e49f0d6ebb7ed21ee725dbc9767/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Intent-Based Generation">
 
-**Autor:** [YTMasterAi](https://x.com/YTMasterAi) | **Fonte:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **Publicado:** Feb 12, 2026
+**Autor:** [YTMasterAi](https://x.com/YTMasterAi) | **Fonte:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=218)**
 
@@ -551,7 +491,7 @@ A massive kraken attacks a pirate ship, the captain slices it with his sword.  h
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cab0603b68df8f1d2824e07ef9ada6df/thumbnails/thumbnail.jpg" width="600" alt="Kraken Attack Cinematic Scene">
 
-**Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Fonte:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Publicado:** Feb 12, 2026
+**Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Fonte:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=152)**
 
@@ -895,25 +835,6 @@ Use Seedance 2.0 to generate an anime video: funny sequence with Chinese Officer
 **Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Fonte:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=146)**
-
----
-### Luffy Throwing MacBook into the Sea (Alternative Translation)
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt used with Seedance 2.0 to generate a video of Luffy coding on the Thousand Sunny, getting angry, and throwing the computer into the sea, highlighting the impressive capabilities of the AI developed by the creators of TikTok.
-
-#### 📝 Prompt
-
-```
-Luffy using a MacBook for coding on the Thousand Sunny, getting furious and throwing the computer into the sea
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ec3a4cc9c743d36a73fde36a82fe7c6/thumbnails/thumbnail.jpg" width="600" alt="Luffy Throwing MacBook into the Sea (Alternative Translation)">
-
-**Autor:** [まかねこ| AI×仮想通貨](https://x.com/makaneko_AI) | **Fonte:** [Link](https://x.com/makaneko_AI/status/2021557569089892501) | **Publicado:** Feb 11, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=197)**
 
 ---
 ### Cinematic Entrance Scene Script: Galloping Through Vancouver Mansions
@@ -1658,25 +1579,6 @@ Your current identity is a dedicated Prompt writer for cinematic video generatio
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=192)**
 
 ---
-### Will Smith Fighting a Spaghetti Monster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Seedance 2.0 to generate an epic 80s-style action film scene featuring Will Smith fighting a spaghetti monster, including multiple camera cuts.
-
-#### 📝 Prompt
-
-```
-Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/10409131b35695c890e23860ebdaba40/thumbnails/thumbnail.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster">
-
-**Autor:** [Jamian Gerard](https://x.com/JamianGerard) | **Fonte:** [Link](https://x.com/JamianGerard/status/2021424735704449318) | **Publicado:** Feb 11, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=159)**
-
----
 ### Seedance 2.0 T2V Anime Scene Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1694,25 +1596,6 @@ Anime scene of Lumine from Genshin Impact dashing across a shattered temple cour
 **Autor:** [Kokoboy](https://x.com/Kokoboy886711) | **Fonte:** [Link](https://x.com/Kokoboy886711/status/2021421581558481040) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=211)**
-
----
-### Will Smith vs. Spaghetti Monster Action Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for Seedance 2.0 to create an epic, 80s-style action film scene featuring Will Smith fighting a spaghetti monster, utilizing different camera cuts.
-
-#### 📝 Prompt
-
-```
-Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/803861e1ab4482486aab30f9c57b1e61/thumbnails/thumbnail.jpg" width="600" alt="Will Smith vs. Spaghetti Monster Action Scene">
-
-**Autor:** [Random AI](https://x.com/Random_AI000) | **Fonte:** [Link](https://x.com/Random_AI000/status/2021418623567602065) | **Publicado:** Feb 11, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=162)**
 
 ---
 ### Ronin vs. Colossal Mechanical Beast
@@ -1810,25 +1693,6 @@ Generate a video based on the text description in the reference image.
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=206)**
 
 ---
-### Seedance 2.0 Multi-Modal Prompting Capabilities
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed description of Seedance 2.0's advanced multi-modal prompting, allowing users to attach reference photos (for actors/clothes), audio tracks, and even entire videos, combining them with text instructions for video generation and editing.
-
-#### 📝 Prompt
-
-```
-extend this video backward, replace this with that
-```
-
-<img src="https://cms-assets.youmind.com/media/1770870220812_j6jl7j_HA13OS5aAAEdOdv.jpg" width="600" alt="Seedance 2.0 Multi-Modal Prompting Capabilities">
-
-**Autor:** [@levelsio](https://x.com/levelsio) | **Fonte:** [Link](https://x.com/levelsio/status/2021403820702552331) | **Publicado:** Feb 11, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=166)**
-
----
 ### Fashion Montage Focusing on Glasses
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1846,25 +1710,6 @@ create a quick fashion montage and focus on the glasses
 **Autor:** [Fanis](https://x.com/pfanis) | **Fonte:** [Link](https://x.com/pfanis/status/2021402352251699638) | **Publicado:** Feb 11, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=139)**
-
----
-### Couple Arguing and Slapping Scene Video Prompt (Same as previous)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This tweet references the exact same prompt used in a previous generation (ID 2021396920284086660) to compare results across different models (Kling 3.0 vs Seedance 2.0).
-
-#### 📝 Prompt
-
-```
-the man and woman agrue about going off-planet, the man says something insulting, she slaps him and storms off, he turns towards the rocket in the distace
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0938c29f9d3fa16c81a3190184d0714/thumbnails/thumbnail.jpg" width="600" alt="Couple Arguing and Slapping Scene Video Prompt (Same as previous)">
-
-**Autor:** [Gavin Purcell](https://x.com/gavinpurcell) | **Fonte:** [Link](https://x.com/gavinpurcell/status/2021398856999764300) | **Publicado:** Feb 11, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=174)**
 
 ---
 ### Argument and storm-off scene prompt
@@ -2016,28 +1861,9 @@ title: "Nunca é Tarde Demais" duration: 15s style: era: anos 80 training montag
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/601518beceb637df826e310314ea4c9a/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Montagem de Treino Estilo VHS dos Anos 80">
 
-**Autor:** [A.I.Warper](https://x.com/AIWarper) | **Fonte:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **Publicado:** Feb 11, 2026
+**Autor:** [A.I.Warper](https://x.com/AIWarper) | **Fonte:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=108)**
-
----
-### Luffy Codificando no Thousand Sunny
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt dinâmico para Seedance 2.0 descrevendo o personagem de anime Luffy programando em um Macbook a bordo do navio Thousand Sunny, expressando raiva e, em seguida, jogando o laptop ao mar.
-
-#### 📝 Prompt
-
-```
-"Luffy programando em um Macbook no Thousand Sunny, FURIOSO, e depois jogando-o ao mar."
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d660a1f00aed91ee7be97a7284711730/thumbnails/thumbnail.jpg" width="600" alt="Luffy Codificando no Thousand Sunny">
-
-**Autor:** [BOOTOSHI 👑](https://x.com/KingBootoshi) | **Fonte:** [Link](https://x.com/KingBootoshi/status/2021349878232907790) | **Publicado:** Feb 11, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=86)**
 
 ---
 ### Cena de Sala de Interrogatório - Prompt
@@ -2054,7 +1880,7 @@ Plano geral de uma televisão barata em uma sala de interrogatório do governo. 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0d4a9bc64b3090010c9c235e08ea8471/thumbnails/thumbnail.jpg" width="600" alt="Cena de Sala de Interrogatório - Prompt">
 
-**Autor:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **Fonte:** [Link](https://x.com/plasm0/status/2021348721775214616) | **Publicado:** Feb 11, 2026
+**Autor:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **Fonte:** [Link](https://x.com/plasm0/status/2021348721775214616) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=103)**
 
@@ -2073,7 +1899,7 @@ Eu só pedi uma edição de phonk brasileiro com personagens famosos de anime, e
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c6fb0ae43ed911c1c1fc5fe8603156c/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Edição de Anime Phonk Brasileiro">
 
-**Autor:** [nachos2d](https://x.com/NACHOS2D_) | **Fonte:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **Publicado:** Feb 11, 2026
+**Autor:** [nachos2d](https://x.com/NACHOS2D_) | **Fonte:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=105)**
 
@@ -2092,7 +1918,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44a4cde36e3d158548f9a721f3f8084d/thumbnails/thumbnail.jpg" width="600" alt="Action with Morphing Turn">
 
-**Autor:** [madpencil_](https://x.com/madpencil_) | **Fonte:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **Publicado:** Feb 11, 2026
+**Autor:** [madpencil_](https://x.com/madpencil_) | **Fonte:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=214)**
 
@@ -2111,7 +1937,7 @@ Uma comédia cinematográfica de vários takes sobre uma família de criaturas m
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1e733c7e963ac77c87158f2d3bcf788/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Comédia Cinematográfica de Cozinha com Múltiplas Cenas">
 
-**Autor:** [AI Pulse](https://x.com/youraipulse) | **Fonte:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **Publicado:** Feb 11, 2026
+**Autor:** [AI Pulse](https://x.com/youraipulse) | **Fonte:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=102)**
 
@@ -2130,7 +1956,7 @@ Uma comédia cinematográfica de vários takes sobre uma família de criaturas m
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc96e2f68aa3f98bae3f39e72a880939/thumbnails/thumbnail.jpg" width="600" alt="Entrada da Taverna Pirata com Lança-chamas">
 
-**Autor:** [Theoretically Media](https://x.com/TheoMediaAI) | **Fonte:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **Publicado:** Feb 11, 2026
+**Autor:** [Theoretically Media](https://x.com/TheoMediaAI) | **Fonte:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=93)**
 
@@ -2149,7 +1975,7 @@ Uma comédia cinematográfica de vários takes sobre uma família de criaturas m
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a161c0a0756fd7db2f92759c86846967/thumbnails/thumbnail.jpg" width="600" alt="Geração Detalhada de Cenas com 5 Cortes">
 
-**Autor:** [Brett Stuart](https://x.com/bstuartTI) | **Fonte:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **Publicado:** Feb 11, 2026
+**Autor:** [Brett Stuart](https://x.com/bstuartTI) | **Fonte:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=124)**
 
@@ -2168,7 +1994,7 @@ Uma cena de corrida cinematográfica. Na UE, no início dos anos 2000, tempo nev
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a440755a726b2e993fd5bb3778a8f2/thumbnails/thumbnail.jpg" width="600" alt="Cena Cinematográfica de Carro de Rally">
 
-**Autor:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **Fonte:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **Publicado:** Feb 11, 2026
+**Autor:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **Fonte:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=123)**
 
@@ -2187,7 +2013,7 @@ trailer de filme épico romântico cinematográfico, cortes rápidos e profissio
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/081a43eafe80dd6976b0e3de8229ed8a/thumbnails/thumbnail.jpg" width="600" alt="Trailer de Filme Épico Romântico Cinematográfico">
 
-**Autor:** [Brent Lynch](https://x.com/BrentLynch) | **Fonte:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **Publicado:** Feb 11, 2026
+**Autor:** [Brent Lynch](https://x.com/BrentLynch) | **Fonte:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=98)**
 
@@ -2206,7 +2032,7 @@ cena de perseguição de moto em alta velocidade pela cidade. filme de ação ci
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f8b3776cdca944ff68b97cd4e9d4624/thumbnails/thumbnail.jpg" width="600" alt="Cena Cinematográfica de Perseguição de Moto em Alta Velocidade">
 
-**Autor:** [Blaine Brown](https://x.com/blizaine) | **Fonte:** [Link](https://x.com/blizaine/status/2021295079043023257) | **Publicado:** Feb 11, 2026
+**Autor:** [Blaine Brown](https://x.com/blizaine) | **Fonte:** [Link](https://x.com/blizaine/status/2021295079043023257) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=96)**
 
@@ -2225,7 +2051,7 @@ O gorila está lutando contra 100 homens, corta para closes de socos, corta para
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/789a1bae3e5386be7755306f518af70f/thumbnails/thumbnail.jpg" width="600" alt="Cena de Luta Cinematográfica com Câmera na Mão (Handheld)">
 
-**Autor:** [Mr. Abu Joe](https://x.com/mrabujoe) | **Fonte:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **Publicado:** Feb 11, 2026
+**Autor:** [Mr. Abu Joe](https://x.com/mrabujoe) | **Fonte:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=107)**
 
@@ -2244,7 +2070,7 @@ Use os três personagens e a cena da imagem para criar uma batalha. [Cenário] R
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fc22a4bd8a7349ae5edcf1927913dba/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo de Cena de Batalha Gótica Épica">
 
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2021277605224165468) | **Publicado:** Feb 11, 2026
+**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2021277605224165468) | **Publicado:** Feb 10, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=110)**
 
@@ -2813,7 +2639,7 @@ Cena 12 (congelamento de visão polar) é puxada para a escala cósmica. Aquári
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27a0947c9229f6dbc87a1f19c355e88e/thumbnails/thumbnail.jpg" width="600" alt="Prompt Cinematográfico Detalhado para Seedance 2.0 Comemorando Sua Curta Popularidade">
 
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2020990215477723360) | **Publicado:** Feb 10, 2026
+**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2020990215477723360) | **Publicado:** Feb 9, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=60)**
 
@@ -2832,7 +2658,7 @@ Cena fotorrealista da final da trave feminina nas Olimpíadas. Ginasta dos Estad
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eeba965f95627789ea8c1558500872be/thumbnails/thumbnail.jpg" width="600" alt="Final da Trave de Ginástica Olímpica">
 
-**Autor:** [Justine Moore](https://x.com/venturetwins) | **Fonte:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **Publicado:** Feb 10, 2026
+**Autor:** [Justine Moore](https://x.com/venturetwins) | **Fonte:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **Publicado:** Feb 9, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=65)**
 
@@ -2851,7 +2677,7 @@ Cena fotorrealista da competição feminina de snowboard big air nas Olimpíadas
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93b779f2d0618204260679f051a1d717/thumbnails/thumbnail.jpg" width="600" alt="Competição Olímpica de Snowboard Big Air">
 
-**Autor:** [Justine Moore](https://x.com/venturetwins) | **Fonte:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **Publicado:** Feb 10, 2026
+**Autor:** [Justine Moore](https://x.com/venturetwins) | **Fonte:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **Publicado:** Feb 9, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=66)**
 
@@ -2872,7 +2698,7 @@ Visuais: (Não se assemelham a nenhuma celebridade da vida real; os personagens 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02b7739ca42faa1f76549e9a1a3ea826/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Geração de Cena Dramática">
 
-**Autor:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **Fonte:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **Publicado:** Feb 10, 2026
+**Autor:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **Fonte:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **Publicado:** Feb 9, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=72)**
 
@@ -3275,7 +3101,7 @@ Gojo vs Naruto. Saitama vs Genos
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e779bf19cd1133aee93f81e84595d49/thumbnails/thumbnail.jpg" width="600" alt="Exemplos de geração de batalhas de personagens de anime">
 
-**Autor:** [ImPaul](https://x.com/impaulxyz) | **Fonte:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **Publicado:** Feb 9, 2026
+**Autor:** [ImPaul](https://x.com/impaulxyz) | **Fonte:** [Link](https://x.com/impaulxyz/status/2020609407021629862) | **Publicado:** Feb 8, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=58)**
 
@@ -3294,7 +3120,7 @@ Gerar vídeo a partir de imagens de storyboard. É preciso usar o storyboard e a
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df0880f13ea1ecdea31c2404bafdeeb1/thumbnails/thumbnail.jpg" width="600" alt="Geração de Vídeos com Storyboard e Múltiplas Perspectivas">
 
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2020589661769372053) | **Publicado:** Feb 9, 2026
+**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2020589661769372053) | **Publicado:** Feb 8, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=46)**
 
@@ -3313,7 +3139,7 @@ Narrativa multicâmera com personagens consistentes em cada tomada.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8cf0161c9460319ca8149996fa9d263c/thumbnails/thumbnail.jpg" width="600" alt="Narrativa Multi-Câmera com Personagens Consistentes">
 
-**Autor:** [Mobbi AI](https://x.com/MobbiAI) | **Fonte:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **Publicado:** Feb 9, 2026
+**Autor:** [Mobbi AI](https://x.com/MobbiAI) | **Fonte:** [Link](https://x.com/MobbiAI/status/2020577177738080330) | **Publicado:** Feb 8, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=34)**
 
@@ -3332,7 +3158,7 @@ montanha-russa em primeira pessoa, um plano contínuo, transições de cena natu
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/744846b495f42f13095c3144a5abc9e2/thumbnails/thumbnail.jpg" width="600" alt="Montanha-Russa em Primeira Pessoa com Transições Sazonais">
 
-**Autor:** [Latte](https://x.com/0xbisc) | **Fonte:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **Publicado:** Feb 9, 2026
+**Autor:** [Latte](https://x.com/0xbisc) | **Fonte:** [Link](https://x.com/0xbisc/status/2020528285105758613) | **Publicado:** Feb 8, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=37)**
 
@@ -3821,7 +3647,7 @@ Gere conteúdo publicitário para o produto de perfume @Image 2 com base no rote
 
 <img src="https://cms-assets.youmind.com/media/1770873362455_yp0c51_HAluy_8WYAANsv_.jpg" width="600" alt="Prompt de geração de anúncios de perfume para Seedance 2.0">
 
-**Autor:** [尾鳍Vicky](https://x.com/BFAVicky) | **Fonte:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **Publicado:** Feb 8, 2026
+**Autor:** [尾鳍Vicky](https://x.com/BFAVicky) | **Fonte:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **Publicado:** Feb 7, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=209)**
 
@@ -3841,7 +3667,7 @@ A câmera gira e se aproxima. O personagem de repente olha para cima. As caracte
 
 <img src="https://cms-assets.youmind.com/media/1770827642595_44mu91_HAlAArSaIAAIgfq.png" width="600" alt="Geração de Vídeo a Partir de Prompt com Referências de Imagem">
 
-**Autor:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **Fonte:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **Publicado:** Feb 8, 2026
+**Autor:** [Feyber | AI & WEB3](https://x.com/woleswoosh) | **Fonte:** [Link](https://x.com/woleswoosh/status/2020217014288363645) | **Publicado:** Feb 7, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=28)**
 
@@ -3860,7 +3686,7 @@ Olá a todos! Agora, vou fazer uma dança de rua para vocês!!!!
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32cb455ba14a3fe13b851d7128bfd300/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0: Geração de Vídeos de Dança de Rua">
 
-**Autor:** [井然](https://x.com/jingran96) | **Fonte:** [Link](https://x.com/jingran96/status/2020207082478452842) | **Publicado:** Feb 8, 2026
+**Autor:** [井然](https://x.com/jingran96) | **Fonte:** [Link](https://x.com/jingran96/status/2020207082478452842) | **Publicado:** Feb 7, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=29)**
 
@@ -3879,7 +3705,7 @@ O personagem principal entra em cena, primeiro polvilha levemente sal na farinha
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5cf573a8a912a9bcb2cbeab2d3aac006/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Física para Amassar Massa">
 
-**Autor:** [Patrick](https://x.com/patrickassale) | **Fonte:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **Publicado:** Feb 8, 2026
+**Autor:** [Patrick](https://x.com/patrickassale) | **Fonte:** [Link](https://x.com/patrickassale/status/2020180495900848470) | **Publicado:** Feb 7, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=25)**
 
@@ -3898,7 +3724,7 @@ Crie um vídeo usando imagens de storyboard.
 
 <img src="https://cms-assets.youmind.com/media/1770827655179_cn1hcu_HAkUoaHacAIVNkD.jpg" width="600" alt="Criar Vídeo a Partir de Imagens de Storyboard">
 
-**Autor:** [Mr.Iancu](https://x.com/Iancu_ai) | **Fonte:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **Publicado:** Feb 8, 2026
+**Autor:** [Mr.Iancu](https://x.com/Iancu_ai) | **Fonte:** [Link](https://x.com/Iancu_ai/status/2020169884085477685) | **Publicado:** Feb 7, 2026
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=33)**
 
@@ -4070,6 +3896,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-12T07:59:28.443Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-12T08:47:12.316Z</sub>
 
 </div>
