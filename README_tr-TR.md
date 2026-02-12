@@ -36,9 +36,9 @@ Neden galerimizi kullanmalısınız?
 
 | Feature | GitHub README | youmind.com Galerisi |
 |---------|--------------|---------------------|
-| 🎨 Görsel Düzen | Doğrusal liste | Güzel Masonry Grid |
-| 🔍 Ara | Sadece Ctrl+F | Filtrelerle tam metin arama |
-| 🌍 Diller | English | 16 Diller |
+| 🎬 Video Oynatma | ❌ Yalnızca statik küçük resimler | ✅ Streaming ile tam video oynatma |
+| 🔍 Ara | Sadece Ctrl+F | Çok alanlı bulanık eşleştirme araması |
+| 🤖 AI Önerisi | - | AI destekli prompt önerileri |
 | 📱 Mobil | Temel | Tamamen duyarlı |
 
 ---
@@ -3667,6 +3667,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-12T05:17:28.142Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-12T05:25:22.610Z</sub>
 
 </div>

@@ -36,9 +36,9 @@
 
 | Feature | GitHub README | youmind.com 畫廊 |
 |---------|--------------|---------------------|
-| 🎨 可視化佈局 | 線性列表 | 精美的瀑布流網格 |
-| 🔍 搜索 | 僅 Ctrl+F | 全文搜索和篩選 |
-| 🌍 多語言 | English | 16 多語言 |
+| 🎬 視頻播放 | ❌ 僅靜態縮略圖 | ✅ 完整視頻流暢播放 |
+| 🔍 搜索 | 僅 Ctrl+F | 多字段模糊匹配搜索 |
+| 🤖 AI 推薦 | - | AI 智能提示詞推薦 |
 | 📱 移動端 | 基礎 | 完全響應式 |
 
 ---
@@ -3684,6 +3684,6 @@ Seedance 2.0 文字轉影片提示
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-12T05:17:00.653Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-12T05:24:56.416Z</sub>
 
 </div>

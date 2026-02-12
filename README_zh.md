@@ -36,9 +36,9 @@
 
 | Feature | GitHub README | youmind.com 画廊 |
 |---------|--------------|---------------------|
-| 🎨 可视化布局 | 线性列表 | 精美的瀑布流网格 |
-| 🔍 搜索 | 仅 Ctrl+F | 全文搜索和筛选 |
-| 🌍 多语言 | English | 16 多语言 |
+| 🎬 视频播放 | ❌ 仅静态缩略图 | ✅ 完整视频流畅播放 |
+| 🔍 搜索 | 仅 Ctrl+F | 多字段模糊匹配搜索 |
+| 🤖 AI 推荐 | - | AI 智能提示词推荐 |
 | 📱 移动端 | 基础 | 完全响应式 |
 
 ---
@@ -3490,17 +3490,17 @@ Seedance 2.0 文本转视频提示词
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=40)**
 
 ---
-### Perfume product advertisement generation prompt for Seedance 2.0
+### Seedance 2.0 香水产品广告生成提示
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed prompt for generating a perfume product advertisement video using Seedance 2.0, specifying the use of two reference images for script and product appearance, requiring a natural female voiceover in English, careful attention to perfume bottle proportions, integration with natural lighting, and a fast-paced rhythm, while avoiding heavy texture mapping or cutout effects.
+> 一个用于生成香水产品广告视频的详细提示，使用 Seedance 2.0，指定使用两张参考图片作为脚本和产品外观，要求采用自然的女性英语画外音，仔细注意香水瓶的比例，与自然光线融合，并采用快节奏，同时避免使用厚重的纹理映射或抠图效果。
 
 ```
-Generate advertising content for the @Image 2 perfume product based on the script from @Image 1. The voiceover should reference a natural female voice reading in English. Pay attention to the proportion of the perfume bottle, integrate it into the background using natural light, avoid heavy texture mapping and cutout feelings, and the rhythm should be faster.
+根据 @Image 1 的脚本，为 @Image 2 香水产品生成广告内容。画外音应为自然的女性英语朗读。请注意香水瓶的比例，利用自然光将其融入背景，避免过重的纹理贴图和抠图感，节奏应更快。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86263184d1e934e2f26e93a564bdbc17/thumbnails/thumbnail.jpg" width="600" alt="Perfume product advertisement generation prompt for Seedance 2.0">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86263184d1e934e2f26e93a564bdbc17/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 香水产品广告生成提示">
 
 **作者:** [尾鳍Vicky](https://x.com/BFAVicky) | **来源:** [Link](https://x.com/BFAVicky/status/2020267913316561195) | **发布时间:** Feb 8, 2026
 
@@ -3746,6 +3746,6 @@ Generate advertising content for the @Image 2 perfume product based on the scrip
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-12T05:16:58.755Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-12T05:24:54.399Z</sub>
 
 </div>

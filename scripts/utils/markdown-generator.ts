@@ -100,9 +100,9 @@ ${t('galleryFeatures', locale)}
 
 | Feature | ${t('githubReadme', locale)} | ${t('youmindGallery', locale)} |
 |---------|--------------|---------------------|
-| 🎨 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
+| 🎬 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
 | 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
-| 🌍 ${t('languages', locale)} | English | 16 ${t('languages', locale)} |
+| 🤖 ${t('languages', locale)} | - | ${t('aiRecommendation', locale)} |
 | 📱 ${t('mobile', locale)} | ${t('basic', locale)} | ${t('fullyResponsive', locale)} |
 
 ---

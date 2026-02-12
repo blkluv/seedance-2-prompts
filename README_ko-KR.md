@@ -36,9 +36,9 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 | Feature | GitHub README | youmind.com 갤러리 |
 |---------|--------------|---------------------|
-| 🎨 비주얼 레이아웃 | 선형 목록 | 아름다운 메이슨리 그리드 |
-| 🔍 검색 | Ctrl+F만 | 전체 텍스트 검색 및 필터 |
-| 🌍 언어 | English | 16 언어 |
+| 🎬 비디오 재생 | ❌ 정적 썸네일만 | ✅ 풀 비디오 스트리밍 재생 |
+| 🔍 검색 | Ctrl+F만 | 다중 필드 퍼지 매칭 검색 |
+| 🤖 AI 추천 | - | AI 기반 프롬프트 추천 |
 | 📱 모바일 | 기본 | 완전 반응형 |
 
 ---
@@ -3678,6 +3678,6 @@ Seedance2.0을 사용해 영화 Her 전체를 재현했습니다.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-12T05:17:05.174Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-12T05:25:00.609Z</sub>
 
 </div>

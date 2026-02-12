@@ -36,9 +36,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Feature | GitHub README | Thư viện youmind.com |
 |---------|--------------|---------------------|
-| 🎨 Bố cục trực quan | Danh sách tuyến tính | Lưới Masonry đẹp mắt |
-| 🔍 Tìm kiếm | Chỉ Ctrl+F | Tìm kiếm toàn văn với bộ lọc |
-| 🌍 Ngôn ngữ | English | 16 Ngôn ngữ |
+| 🎬 Phát video | ❌ Chỉ hình thu nhỏ tĩnh | ✅ Phát video đầy đủ với streaming |
+| 🔍 Tìm kiếm | Chỉ Ctrl+F | Tìm kiếm khớp mờ đa trường |
+| 🤖 Gợi ý AI | - | Gợi ý prompt bằng AI |
 | 📱 Di động | Cơ bản | Hoàn toàn phản hồi |
 
 ---
@@ -3668,6 +3668,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-12T05:17:09.583Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-12T05:25:04.352Z</sub>
 
 </div>

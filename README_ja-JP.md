@@ -36,9 +36,9 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 | Feature | GitHub README | youmind.com ギャラリー |
 |---------|--------------|---------------------|
-| 🎨 ビジュアルレイアウト | 線形リスト | 美しいメイソンリグリッド |
-| 🔍 検索 | Ctrl+Fのみ | 全文検索とフィルター |
-| 🌍 言語 | English | 16 言語 |
+| 🎬 動画再生 | ❌ 静止サムネイルのみ | ✅ フルビデオストリーミング再生 |
+| 🔍 検索 | Ctrl+Fのみ | 複数フィールドのあいまい検索 |
+| 🤖 AI レコメンド | - | AI 搭載プロンプト推薦 |
 | 📱 モバイル | 基本 | 完全レスポンシブ |
 
 ---
@@ -3692,6 +3692,6 @@ Seedance 2.0 テキスト to ビデオ プロンプト
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-12T05:17:02.967Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-12T05:24:58.441Z</sub>
 
 </div>

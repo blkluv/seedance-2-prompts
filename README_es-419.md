@@ -36,9 +36,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Feature | GitHub README | Galería youmind.com |
 |---------|--------------|---------------------|
-| 🎨 Diseño visual | Lista lineal | Hermosa cuadrícula Masonry |
-| 🔍 Buscar | Solo Ctrl+F | Búsqueda de texto completo con filtros |
-| 🌍 Idiomas | English | 16 Idiomas |
+| 🎬 Reproducción de video | ❌ Solo miniaturas estáticas | ✅ Reproducción completa con streaming |
+| 🔍 Buscar | Solo Ctrl+F | Búsqueda de coincidencia difusa multicampo |
+| 🤖 Recomendación IA | - | Recomendaciones de prompts con IA |
 | 📱 Móvil | Básico | Totalmente responsive |
 
 ---
@@ -3667,6 +3667,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-12T05:17:15.845Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-12T05:25:10.546Z</sub>
 
 </div>

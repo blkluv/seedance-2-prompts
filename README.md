@@ -36,9 +36,9 @@ Why use our gallery?
 
 | Feature | GitHub README | youmind.com Gallery |
 |---------|--------------|---------------------|
-| 🎨 Visual Layout | Linear list | Beautiful Masonry Grid |
-| 🔍 Search | Ctrl+F only | Full-text search with filters |
-| 🌍 Languages | English | 16 Languages |
+| 🎬 Video Playback | ❌ Static thumbnails only | ✅ Full video playback with streaming |
+| 🔍 Search | Ctrl+F only | Multi-field fuzzy matching search |
+| 🤖 AI Recommendation | - | AI-powered prompt recommendations |
 | 📱 Mobile | Basic | Fully responsive |
 
 ---
@@ -3650,6 +3650,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-02-12T05:16:56.691Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-02-12T05:24:52.425Z</sub>
 
 </div>
