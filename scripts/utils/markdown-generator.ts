@@ -160,15 +160,20 @@ ${t('whatIsIntro', locale)}
     // Use translatedContent if available, fallback to content
     const promptContent = p.translatedContent || p.content;
 
+    // Image priority: referenceImages > media > thumbnail
+    const displayImage = (p.referenceImages?.[0]) || (p.mediaImages?.[0]) || p.thumbnail;
+
     md += `### ${p.title}
 
 ${langBadge}
 ${desc}
+#### 📝 ${t('prompt', locale)}
+
 \`\`\`
 ${promptContent}
 \`\`\`
 
-<img src="${p.thumbnail}" width="600" alt="${p.title}">
+<img src="${displayImage}" width="600" alt="${p.title}">
 
 ${authorLine}${sourceLine}${dateLine}
 

@@ -29,6 +29,10 @@ export interface VideoPrompt {
       model?: { slug?: string };
     }>;
   };
+  referenceImages?: Array<{ url?: string } | number>;
+  sourceReferenceImages?: string[];
+  media?: Array<{ url?: string } | number>;
+  sourceMedia?: string[];
 }
 
 export interface ProcessedPrompt {
@@ -42,6 +46,8 @@ export interface ProcessedPrompt {
   sourceLink?: string;
   sourcePublishedAt?: string;
   thumbnail: string;
+  referenceImages?: string[];
+  mediaImages?: string[];
 }
 
 function extractThumbnail(doc: VideoPrompt): string | null {
@@ -102,6 +108,28 @@ export async function fetchSeedancePrompts(locale: string = 'en'): Promise<Proce
       console.log(`Skipping "${doc.title}" — no thumbnail`);
       continue;
     }
+    // Extract reference images
+    const refImgs: string[] = [];
+    if (doc.referenceImages?.length) {
+      for (const img of doc.referenceImages) {
+        if (typeof img === 'object' && img !== null && img.url) refImgs.push(img.url);
+      }
+    }
+    if (!refImgs.length && doc.sourceReferenceImages?.length) {
+      for (const url of doc.sourceReferenceImages) { if (url) refImgs.push(url); }
+    }
+
+    // Extract media images
+    const mediaImgs: string[] = [];
+    if (doc.media?.length) {
+      for (const m of doc.media) {
+        if (typeof m === 'object' && m !== null && m.url) mediaImgs.push(m.url);
+      }
+    }
+    if (!mediaImgs.length && doc.sourceMedia?.length) {
+      for (const url of doc.sourceMedia) { if (url) mediaImgs.push(url); }
+    }
+
     results.push({
       id: doc.id,
       title: doc.title,
@@ -113,6 +141,8 @@ export async function fetchSeedancePrompts(locale: string = 'en'): Promise<Proce
       sourceLink: doc.sourceLink || undefined,
       sourcePublishedAt: doc.sourcePublishedAt || undefined,
       thumbnail,
+      referenceImages: refImgs.length ? refImgs : undefined,
+      mediaImages: mediaImgs.length ? mediaImgs : undefined,
     });
   }
 
