@@ -20,6 +20,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Seedance 2.0 của By
 - [🌐 Xem trong Thư viện Web](#-xem-trong-th-vin-web)
 - [🤔 Seedance 2.0 là gì?](#-seedance-20-l-g)
 - [📊 Thống kê](#-thng-k)
+- [⭐ Prompt nổi bật](#-prompt-ni-bt)
 - [🎬 Tất cả prompt](#-tt-c-prompt)
 - [🤝 Cách đóng góp](#-cch-ng-gp)
 - [📄 Giấy phép](#-giy-php)
@@ -68,16 +69,18 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 | Chỉ số | Số lượng |
 |--------|-------|
 | 📝 Tổng số prompt | **175** |
+| ⭐ Prompt nổi bật | **3** |
 | 🔄 Cập nhật lần cuối | **2026-02-12** |
 
 ---
 
-## 🎬 Tất cả prompt
+## ⭐ Prompt nổi bật
 
-> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
+> Các prompt chất lượng cao được chọn lọc
 
 ### Optimus Prime đấu Godzilla ở Tokyo
 
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Mô tả một video CGI được tạo bởi Seedance 2.0, mô tả một chiếc xe hơi hạng sang biến hình thành Optimus Prime và chiến đấu với Godzilla trên nền đêm Tokyo mưa gió với những vụ nổ và tia năng lượng.
@@ -88,13 +91,77 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 Một chiếc xe hơi hạng sang biến hình thành Optimus Prime và chiến đấu với Godzilla, giải phóng những vụ nổ và luồng năng lượng dữ dội trong bối cảnh đêm Tokyo mưa gió.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="600" alt="Optimus Prime đấu Godzilla ở Tokyo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime đấu Godzilla ở Tokyo">
 
 **Tác giả:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Nguồn:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Đã xuất bản:** Feb 12, 2026
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=210)**
 
 ---
+### Cảnh Hành Động Ronin Trên Chiến Trường Siêu Thực
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt rất chi tiết, đa cảnh quay cho Seedance 2.0 mô tả một cảnh chiến trường siêu thực, hành động cao trên bầu trời, với một ronin đeo mặt nạ bị truy đuổi bởi một quái vật khổng lồ có cánh mà ngực của nó là một xoáy lốc của những đám mây bão. Prompt bao gồm các chuyển động camera cụ thể, chi tiết kỹ thuật (720p, 16:9, 15 giây) và một kết thúc đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Một chiến trường siêu thực trên bầu trời: những hòn đảo đá trôi nổi lơ lửng giữa cơn giông bão, những đám mây cuộn xoáy bên dưới như một đại dương. Ronin đeo mặt nạ lao đi trên những nền tảng trôi dạt, bị truy đuổi bởi một con quái vật khổng lồ có cánh với lồng ngực là một xoáy nước cuồn cuộn của mây bão và sấm sét. Camera lướt nhanh từ đảo này sang đảo khác, cố gắng theo kịp khi những tảng đá nghiêng, xoay và vỡ vụn bên dưới họ. Mỗi nhịp đập cánh tạo ra sóng xung kích trong không khí, làm rung chuyển khung hình và thổi mảnh vụn cùng mưa thẳng vào mặt người xem. Những cú cắt nhanh bằng tay quay ghi lại cảnh ronin nhảy qua những khoảng trống không thể tin được, thanh kiếm vạch ra những vệt sáng cắt xuyên bóng tối trong chốc lát. Đoạn kết cho thấy camera lặn xuống phía sau anh ta khi anh ta nhảy khỏi tảng đá cuối cùng đang vỡ vụn, cưỡi một tia sét lao thẳng vào xoáy nước ở ngực con quái vật bằng một nhát chém cuối cùng, tất cả hoặc không có gì, làm nổ tung cơn bão từ bên trong và làm bầu trời quang đãng trong một tia chớp chói lòa.
+
+720p
+16:9
+15 giây
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="Cảnh Hành Động Ronin Trên Chiến Trường Siêu Thực">
+
+**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Đã xuất bản:** Feb 12, 2026
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=133)**
+
+---
+### Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một lời nhắc video chi tiết, tràn đầy năng lượng dành cho Seedance 2.0, tạo ra một bản chuyển thể người thật đóng dài 15 giây theo phong cách chiến đấu của Demon Slayer (Thủy Chi Hô Hấp đấu Lôi Chi Hô Hấp). Lời nhắc chỉ định phong cách (chuyển thể manga người thật đóng kiểu Hollywood, samurai bóng tối, 4K, cắt cảnh cực nhanh, hiệu ứng ánh sáng hạt), bối cảnh (khu rừng sương mù vào ban đêm) và ba cảnh quay riêng biệt mô tả hành động của các nhân vật, chuỗi tăng sức mạnh và cuộc đụng độ cuối cùng.
+
+#### 📝 Prompt
+
+```
+Chuyển Thể Manga Người Đóng · Đại Chiến Hơi Thở Quyết Định (15 giây · Phiên Bản Hiệu Ứng Đặc Biệt Cực Cháy)
+【Trọng tâm cốt lõi】: Hơi Thở Của Nước (Thủy Long Xanh) VS Hơi Thở Của Sấm Sét (Sét Vàng), màn đấu tay đôi tốc độ cực cao người đóng.
+【Phong cách】: Chất lượng phim chuyển thể manga người đóng kiểu Hollywood, phong cách samurai đen tối, 4K siêu nét, cắt cảnh cực nhanh, hiệu ứng ánh sáng hạt bùng nổ, không máu me.
+【Thời lượng】: 15 giây
+【Bối cảnh】: Rừng sương mù dưới ánh trăng, đất lầy lội, lá rụng.
+[00:00-00:05] Cảnh 1: Khúc Dạo Đầu Giai Điệu Nước · Khởi Đầu (Cảm giác xung trận)
+Hình ảnh: Một samurai trẻ tuổi mặc haori (áo khoác) kẻ caro xanh đen, hạ thấp trọng tâm dưới ánh trăng, cầm kiếm bằng cả hai tay.
+Hành động: Anh ta hít một hơi thật sâu, không khí xung quanh lập tức đông đặc lại. Khi anh ta rút kiếm, một con rồng nước xanh khổng lồ, ngưng tụ từ dòng nước áp suất cao, xuất hiện từ hư không, xoay tròn nhanh chóng quanh cơ thể và lưỡi kiếm của anh ta, phát ra tiếng gầm của dòng nước chảy.
+Chi tiết hiệu ứng đặc biệt: Dòng nước có cảm giác bắn tung tóe chân thực, chiếu sáng khu rừng tối.
+[00:05-00:10] Cảnh 2: Sét Đánh · Xung Phong (Cảm giác tốc độ cực cao)
+Hình ảnh: Đối thủ của anh ta, một kiếm sĩ tóc vàng mặc haori họa tiết tam giác màu vàng, hạ thấp người cực độ, vào tư thế Iaijutsu (kỹ thuật rút kiếm).
+Hành động: Mặt đất đột nhiên nổ tung. Toàn bộ cơ thể anh ta ngay lập tức biến thành một vệt sáng vàng chói lóa, nhanh chóng khúc xạ và tiến lên theo hình chữ 'Z' xuyên qua những cái cây với tốc độ mà mắt thường không thể nhìn thấy.
+Chi tiết hiệu ứng đặc biệt: Hồ quang điện vàng và lá rụng cháy xém còn lại ở những nơi anh ta đi qua.
+[00:10-00:15] Cảnh 3: Thủy-Lôi Va Chạm · Âm Thanh Cuối Cùng (Va chạm của những chiêu thức tối thượng)
+Hình ảnh: Va chạm trực diện tốc độ cực cao. Samurai trẻ tuổi vung con rồng nước xanh khổng lồ xuống để đón đòn tấn công, và kiếm sĩ tóc vàng, biến thành sét, lao vào nó.
+Hành động: Hai thanh kiếm va chạm dữ dội ở giữa khung hình.
+Cảnh tượng hiệu ứng đặc biệt: Rồng nước xanh và sét vàng ngay lập tức phát nổ, tạo thành một cơn bão năng lượng thủy-lôi khổng lồ lan tỏa ra ngoài. Những cây lớn xung quanh bị sóng năng lượng bẻ gãy làm đôi, và bùn, nước, ánh sáng che khuất camera. Cảnh quay kết thúc trong một ánh sáng xanh, vàng và trắng cực kỳ chói lóa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="700" alt="Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0">
+
+**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Đã xuất bản:** Feb 11, 2026
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=189)**
+
+---
+## 🎬 Tất cả prompt
+
+> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
+
 ### Kịch bản phim kinh dị ngắn: Lỗi Gương
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -245,29 +312,6 @@ Cảnh 4: Kỵ sĩ tự chế giễu tiếp tục phi nước đại đi xa (0:2
 **Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Đã xuất bản:** Feb 12, 2026
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=186)**
-
----
-### Cảnh Hành Động Ronin Trên Chiến Trường Siêu Thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt rất chi tiết, đa cảnh quay cho Seedance 2.0 mô tả một cảnh chiến trường siêu thực, hành động cao trên bầu trời, với một ronin đeo mặt nạ bị truy đuổi bởi một quái vật khổng lồ có cánh mà ngực của nó là một xoáy lốc của những đám mây bão. Prompt bao gồm các chuyển động camera cụ thể, chi tiết kỹ thuật (720p, 16:9, 15 giây) và một kết thúc đầy kịch tính.
-
-#### 📝 Prompt
-
-```
-Một chiến trường siêu thực trên bầu trời: những hòn đảo đá trôi nổi lơ lửng giữa cơn giông bão, những đám mây cuộn xoáy bên dưới như một đại dương. Ronin đeo mặt nạ lao đi trên những nền tảng trôi dạt, bị truy đuổi bởi một con quái vật khổng lồ có cánh với lồng ngực là một xoáy nước cuồn cuộn của mây bão và sấm sét. Camera lướt nhanh từ đảo này sang đảo khác, cố gắng theo kịp khi những tảng đá nghiêng, xoay và vỡ vụn bên dưới họ. Mỗi nhịp đập cánh tạo ra sóng xung kích trong không khí, làm rung chuyển khung hình và thổi mảnh vụn cùng mưa thẳng vào mặt người xem. Những cú cắt nhanh bằng tay quay ghi lại cảnh ronin nhảy qua những khoảng trống không thể tin được, thanh kiếm vạch ra những vệt sáng cắt xuyên bóng tối trong chốc lát. Đoạn kết cho thấy camera lặn xuống phía sau anh ta khi anh ta nhảy khỏi tảng đá cuối cùng đang vỡ vụn, cưỡi một tia sét lao thẳng vào xoáy nước ở ngực con quái vật bằng một nhát chém cuối cùng, tất cả hoặc không có gì, làm nổ tung cơn bão từ bên trong và làm bầu trời quang đãng trong một tia chớp chói lòa.
-
-720p
-16:9
-15 giây
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="Cảnh Hành Động Ronin Trên Chiến Trường Siêu Thực">
-
-**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Đã xuất bản:** Feb 12, 2026
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=133)**
 
 ---
 ### Chạy trốn khỏi Quái vật khổng lồ (Phong cách Arcane)
@@ -522,41 +566,6 @@ Luffy và Goku có một cảnh chiến đấu hoành tráng trên Sunny.
 **Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Đã xuất bản:** Feb 11, 2026
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=163)**
-
----
-### Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một lời nhắc video chi tiết, tràn đầy năng lượng dành cho Seedance 2.0, tạo ra một bản chuyển thể người thật đóng dài 15 giây theo phong cách chiến đấu của Demon Slayer (Thủy Chi Hô Hấp đấu Lôi Chi Hô Hấp). Lời nhắc chỉ định phong cách (chuyển thể manga người thật đóng kiểu Hollywood, samurai bóng tối, 4K, cắt cảnh cực nhanh, hiệu ứng ánh sáng hạt), bối cảnh (khu rừng sương mù vào ban đêm) và ba cảnh quay riêng biệt mô tả hành động của các nhân vật, chuỗi tăng sức mạnh và cuộc đụng độ cuối cùng.
-
-#### 📝 Prompt
-
-```
-Chuyển Thể Manga Người Đóng · Đại Chiến Hơi Thở Quyết Định (15 giây · Phiên Bản Hiệu Ứng Đặc Biệt Cực Cháy)
-【Trọng tâm cốt lõi】: Hơi Thở Của Nước (Thủy Long Xanh) VS Hơi Thở Của Sấm Sét (Sét Vàng), màn đấu tay đôi tốc độ cực cao người đóng.
-【Phong cách】: Chất lượng phim chuyển thể manga người đóng kiểu Hollywood, phong cách samurai đen tối, 4K siêu nét, cắt cảnh cực nhanh, hiệu ứng ánh sáng hạt bùng nổ, không máu me.
-【Thời lượng】: 15 giây
-【Bối cảnh】: Rừng sương mù dưới ánh trăng, đất lầy lội, lá rụng.
-[00:00-00:05] Cảnh 1: Khúc Dạo Đầu Giai Điệu Nước · Khởi Đầu (Cảm giác xung trận)
-Hình ảnh: Một samurai trẻ tuổi mặc haori (áo khoác) kẻ caro xanh đen, hạ thấp trọng tâm dưới ánh trăng, cầm kiếm bằng cả hai tay.
-Hành động: Anh ta hít một hơi thật sâu, không khí xung quanh lập tức đông đặc lại. Khi anh ta rút kiếm, một con rồng nước xanh khổng lồ, ngưng tụ từ dòng nước áp suất cao, xuất hiện từ hư không, xoay tròn nhanh chóng quanh cơ thể và lưỡi kiếm của anh ta, phát ra tiếng gầm của dòng nước chảy.
-Chi tiết hiệu ứng đặc biệt: Dòng nước có cảm giác bắn tung tóe chân thực, chiếu sáng khu rừng tối.
-[00:05-00:10] Cảnh 2: Sét Đánh · Xung Phong (Cảm giác tốc độ cực cao)
-Hình ảnh: Đối thủ của anh ta, một kiếm sĩ tóc vàng mặc haori họa tiết tam giác màu vàng, hạ thấp người cực độ, vào tư thế Iaijutsu (kỹ thuật rút kiếm).
-Hành động: Mặt đất đột nhiên nổ tung. Toàn bộ cơ thể anh ta ngay lập tức biến thành một vệt sáng vàng chói lóa, nhanh chóng khúc xạ và tiến lên theo hình chữ 'Z' xuyên qua những cái cây với tốc độ mà mắt thường không thể nhìn thấy.
-Chi tiết hiệu ứng đặc biệt: Hồ quang điện vàng và lá rụng cháy xém còn lại ở những nơi anh ta đi qua.
-[00:10-00:15] Cảnh 3: Thủy-Lôi Va Chạm · Âm Thanh Cuối Cùng (Va chạm của những chiêu thức tối thượng)
-Hình ảnh: Va chạm trực diện tốc độ cực cao. Samurai trẻ tuổi vung con rồng nước xanh khổng lồ xuống để đón đòn tấn công, và kiếm sĩ tóc vàng, biến thành sét, lao vào nó.
-Hành động: Hai thanh kiếm va chạm dữ dội ở giữa khung hình.
-Cảnh tượng hiệu ứng đặc biệt: Rồng nước xanh và sét vàng ngay lập tức phát nổ, tạo thành một cơn bão năng lượng thủy-lôi khổng lồ lan tỏa ra ngoài. Những cây lớn xung quanh bị sóng năng lượng bẻ gãy làm đôi, và bùn, nước, ánh sáng che khuất camera. Cảnh quay kết thúc trong một ánh sáng xanh, vàng và trắng cực kỳ chói lóa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0">
-
-**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Đã xuất bản:** Feb 11, 2026
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=189)**
 
 ---
 ### Mèo Hát Trên Đảo Bay
@@ -2752,13 +2761,70 @@ Một đoạn phim cyberpunk dài 15 giây, có cảnh một hacker săn ký ứ
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=67)**
 
 ---
+### Lời nhắc tạo quảng cáo ứng dụng theo phong cách Fluent
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một bản trình diễn Seedance 2.0 tạo ra một quảng cáo ứng dụng kiểu Fluent sạch, dài 15 giây với các hoạt ảnh kính mượt mà chỉ bằng một hình ảnh ngẫu nhiên và một lời nhắc nhanh, chỉ mất khoảng 2 phút.
+
+#### 📝 Prompt
+
+```
+quảng cáo ứng dụng 15 giây theo phong cách Fluent, sạch sẽ với các hình ảnh động kính mượt mà
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbf6295c8fffee5bf34672066439e22/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc tạo quảng cáo ứng dụng theo phong cách Fluent">
+
+**Tác giả:** [laurenz](https://x.com/laur3nzb) | **Nguồn:** [Link](https://x.com/laur3nzb/status/2020837174522864020) | **Đã xuất bản:** Feb 9, 2026
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=84)**
+
+---
+### Tái tạo bộ phim "Her" với lời nhắc đơn giản
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Người dùng giải thích cách họ tái tạo bộ phim 'Her' bằng Seedance 2.0, lưu ý rằng lời nhắc ban đầu rất đơn giản và sản phẩm @Creaibo của họ đã sử dụng Gemini để tự động trau chuốt bản nháp và bảng phân cảnh. Kết quả cho thấy sự nhất quán vững chắc của nhân vật.
+
+#### 📝 Prompt
+
+```
+Tôi đã tái tạo toàn bộ bộ phim Her bằng Seedance2.0.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/411781de82bfe8ab48c478b34ed6246a/thumbnails/thumbnail.jpg" width="600" alt="Tái tạo bộ phim "Her" với lời nhắc đơn giản">
+
+**Tác giả:** [Rylynn.W](https://x.com/BiuRylynn) | **Nguồn:** [Link](https://x.com/BiuRylynn/status/2020796814912610651) | **Đã xuất bản:** Feb 9, 2026
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=83)**
+
+---
+### Cảnh hành động MAX POWER Desert Storm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc chi tiết, đa cảnh quay được thiết kế để tạo ra một cảnh hành động sa mạc hoành tráng, gai góc theo phong cách Denis Villeneuve, với một cơn bão cát khổng lồ và một đoàn xe quân sự, tập trung vào quy mô, sự hoảng loạn và cao trào.
+
+#### 📝 Prompt
+
+```
+Phong cách: Phim IMAX 70mm, Phong cách Denis Villeneuve, Chủ nghĩa hiện thực gai góc, Quy mô hoành tráng, Giảm bão hòa. Thời lượng: 15 giây. [00-05 giây] Cảnh quay cực rộng (Quy mô). Một cơn bão cát khổng lồ, cao hàng dặm, nuốt chửng một cảnh quan sa mạc rộng lớn. Một đoàn xe quân sự bọc thép nhỏ bé đang chạy trốn khỏi nó. Quy mô của thiên nhiên so với con người thật đáng sợ. Sự căng thẳng theo phong cách Hans Zimmer. [05-10 giây] Camera buồng lái (Sự hoảng loạn). Bên trong chiếc xe trinh sát dẫn đầu. Phi công hét lên "ĐI! ĐI!" (Phụ đề: TỐI ĐA SỨC MẠNH!). Camera rung lắc dữ dội. Cát đập vào kính chắn gió. Mặt trời bị che khuất bởi bức tường bụi đang đến gần. [10-15 giây] Cú nhảy (Cao trào). Chiếc xe trinh sát đâm vào một cồn cát lớn và phóng lên không trung (Chuyển động chậm). Hình bóng nổi bật trên nền cơn bão tối tăm. Sét đánh trong đám mây bụi. Mảnh vỡ bay qua ống kính. Cắt sang màu đen khi va chạm.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động MAX POWER Desert Storm">
+
+**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **Đã xuất bản:** Feb 9, 2026
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=62)**
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 55 prompt khác không hiển thị ở đây
+### 🎯 52 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2813,6 +2879,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-12T16:23:28.703Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-12T16:42:44.050Z</sub>
 
 </div>

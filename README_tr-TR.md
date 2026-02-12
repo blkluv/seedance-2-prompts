@@ -20,6 +20,7 @@ ByteDance Seedance 2.0 için yüksek kaliteli video oluşturma istemleri koleksi
 - [🌐 Web galerisinde görüntüle](#-web-galerisinde-grntle)
 - [🤔 Seedance 2.0 nedir?](#-seedance-20-nedir)
 - [📊 İstatistikler](#-istatistikler)
+- [⭐ Öne Çıkan İstemler](#-ne-kan-istemler)
 - [🎬 Tüm İstemler](#-tm-istemler)
 - [🤝 Nasıl Katkıda Bulunulur](#-nasl-katkda-bulunulur)
 - [📄 Lisans](#-lisans)
@@ -68,16 +69,18 @@ Neden galerimizi kullanmalısınız?
 | Metrik | Sayı |
 |--------|-------|
 | 📝 Toplam İstem | **175** |
+| ⭐ Öne Çıkan İstemler | **3** |
 | 🔄 Son Güncelleme | **2026-02-12** |
 
 ---
 
-## 🎬 Tüm İstemler
+## ⭐ Öne Çıkan İstemler
 
-> 📝 Yayın tarihine göre sıralandı (en yeni önce)
+> El ile seçilmiş olağanüstü sonuçlara sahip istemler
 
 ### Optimus Prime vs Godzilla Tokyo'da
 
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Seedance 2.0 tarafından oluşturulan bir CGI videosunun açıklaması: Lüks bir otomobilin Optimus Prime'a dönüşerek, yağmurlu bir Tokyo gecesi fonunda patlamalar ve enerji patlamaları eşliğinde Godzilla ile savaştığını tasvir ediyor.
@@ -88,13 +91,77 @@ Neden galerimizi kullanmalısınız?
 Lüks bir otomobil Optimus Prime'a dönüşüyor ve yağmurlu bir Tokyo gecesinin fonunda Godzilla ile savaşıyor, patlamalar ve enerji patlamaları saçıyor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="600" alt="Optimus Prime vs Godzilla Tokyo'da">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs Godzilla Tokyo'da">
 
 **Yazar:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Kaynak:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Yayınlandı:** Feb 12, 2026
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=210)**
 
 ---
+### Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için, gökyüzünde gerçeküstü, yüksek aksiyonlu bir savaş alanı sahnesini betimleyen, maskeli bir roninin göğsü fırtına bulutlarından oluşan bir girdap olan devasa kanatlı bir canavar tarafından takip edildiği, son derece ayrıntılı, çoklu çekim komutu. Komut, belirli kamera hareketlerini, teknik detayları (720p, 16:9, 15 saniye) ve dramatik bir finali içerir.
+
+#### 📝 İstem
+
+```
+Gökyüzünde gerçeküstü bir savaş alanı: fırtına bulutlarının arasında sürüklenen yüzen kaya adaları, aşağıda okyanus gibi dönen bulutlar. Maskeli ronin, göğsü fırtına bulutları ve şimşeklerden oluşan dönen bir girdap olan devasa kanatlı bir canavar tarafından takip edilerek sürüklenen platformlar üzerinde koşuyor. Kayalar eğilip bükülürken, dönüp altlarında parçalanırken kamera adadan adaya savruluyor, yetişmekte zorlanıyor. Her kanat çırpışı havada şok dalgaları yaratıyor, çerçeveyi sallıyor ve enkaz ile yağmuru doğrudan izleyicinin yüzüne savuruyor. Hızlı el çekimleri, roninin imkansız boşluklardan atlayışını, kılıcının karanlığı kısa süreliğine kesen ışık yayları çizmesini yakalıyor. Finalde, son parçalanan kayadan atlarken kameranın arkasından daldığı görülüyor, bir şimşek çakımına binerek doğrudan canavarın göğüs girdabına doğru son, her şeyi riske atan bir darbeyle fırtınayı içeriden patlatıyor ve gökyüzünü kör edici bir parlamayla temizliyor.
+
+720p
+16:9
+15 saniye
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi">
+
+**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Yayınlandı:** Feb 12, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=133)**
+
+---
+### Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 için, Demon Slayer tarzı bir savaşın (Su Nefesi vs. Şimşek Nefesi) 15 saniyelik canlı aksiyon uyarlamasını oluşturan, ayrıntılı, yüksek enerjili bir video istemi. İstem, stili (Hollywood canlı aksiyon manga uyarlaması, karanlık samuray, 4K, aşırı hızlı kesmeler, parçacık ışık efektleri), ortamı (gece sisli orman) ve karakterlerin eylemlerini, güçlenme sekanslarını ve son çarpışmayı detaylandıran üç farklı çekimi belirtiyor.
+
+#### 📝 İstem
+
+```
+Canlı Aksiyon Manga Uyarlaması · Nefes Tekniği Kararlı Savaş (15 saniye · Ultra Yakıcı Özel Efektler Versiyonu)
+【Temel Odak】: Su Nefesi (Mavi Su Ejderhası) VS Şimşek Nefesi (Altın Şimşek), canlı aksiyon aşırı hızlı düello.
+【Tarz】: Hollywood canlı aksiyon manga uyarlaması film kalitesi, karanlık samuray tarzı, 4K ultra net, aşırı hızlı kesimler, parçacık ışık efektleri patlaması, kan yok.
+【Süre】: 15 saniye
+【Sahne】: Ay ışığı altında sisli orman, çamurlu zemin, düşen yapraklar.
+[00:00-00:05] Çekim 1: Su Melodisi Prelüdü · Başlangıç Formu (Yüklenme Hissi)
+Görseller: Yeşil ve siyah kareli haori (ceket) giyen genç bir samuray, ay ışığı altında ağırlık merkezini alçaltır, kılıcını iki eliyle tutar.
+Aksiyon: Derin bir nefes alır ve çevresindeki hava anında katılaşır. Kılıcını çekerken, yüksek basınçlı su akışından yoğunlaşmış dev bir mavi su ejderhası, havadan belirir, vücudunun ve kılıcının etrafında hızla döner, akan suyun kükremesini yayar.
+Özel Efekt Detayları: Su akışı gerçekçi bir sıçrama hissine sahiptir, karanlık ormanı aydınlatır.
+[00:05-00:10] Çekim 2: Şimşek Flaş · İlerleme (Aşırı Hız Hissi)
+Görseller: Karşısındaki rakibi, sarı üçgen desenli haori giyen sarışın bir kılıç ustası, vücudunu aşırı derecede alçaltır, bir Iaijutsu (kılıç çekme tekniği) duruşu alır.
+Aksiyon: Zemin aniden patlar. Tüm vücudu anında gözle görülmeyen bir hızla ağaçların arasından 'Z' şeklinde hızla kırılan ve ilerleyen göz kamaştırıcı altın bir şimşek artığına dönüşür.
+Özel Efekt Detayları: Geçtiği yerlerde altın elektrik arkları ve yanmış düşen yapraklar kalır.
+[00:10-00:15] Çekim 3: Su-Şimşek Çarpışması · Son Ses (Nihai Hareketlerin Çatışması)
+Görseller: Aşırı hızlı kafa kafaya çarpışma. Genç samuray, saldırıyı karşılamak için dev mavi su ejderhasını aşağı doğru savurur ve şimşeğe dönüşen sarışın kılıç ustası ona çarpar.
+Aksiyon: İki kılıç çerçevenin merkezinde şiddetle çarpışır.
+Özel Efekt Gösterisi: Mavi su ejderhası ve altın şimşek anında patlar, dışarıya doğru yayılan devasa bir su-şimşek enerji fırtınası oluşturur. Çevredeki büyük ağaçlar enerji dalgasıyla ikiye ayrılır ve çamur, su ve ışık kamerayı gizler. Sahne aşırı derecede göz kamaştırıcı mavi, sarı ve beyaz bir ışıkla sona erer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için">
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Yayınlandı:** Feb 11, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=189)**
+
+---
+## 🎬 Tüm İstemler
+
+> 📝 Yayın tarihine göre sıralandı (en yeni önce)
+
 ### Korku Kısa Film Senaryosu: Ayna Hatası
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -242,29 +309,6 @@ Sahne 4: Binici Kendini Alaya Alarak Dörtnala Koşmaya Devam Ediyor (0:20-0:30,
 **Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Yayınlandı:** Feb 12, 2026
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=186)**
-
----
-### Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, gökyüzünde gerçeküstü, yüksek aksiyonlu bir savaş alanı sahnesini betimleyen, maskeli bir roninin göğsü fırtına bulutlarından oluşan bir girdap olan devasa kanatlı bir canavar tarafından takip edildiği, son derece ayrıntılı, çoklu çekim komutu. Komut, belirli kamera hareketlerini, teknik detayları (720p, 16:9, 15 saniye) ve dramatik bir finali içerir.
-
-#### 📝 İstem
-
-```
-Gökyüzünde gerçeküstü bir savaş alanı: fırtına bulutlarının arasında sürüklenen yüzen kaya adaları, aşağıda okyanus gibi dönen bulutlar. Maskeli ronin, göğsü fırtına bulutları ve şimşeklerden oluşan dönen bir girdap olan devasa kanatlı bir canavar tarafından takip edilerek sürüklenen platformlar üzerinde koşuyor. Kayalar eğilip bükülürken, dönüp altlarında parçalanırken kamera adadan adaya savruluyor, yetişmekte zorlanıyor. Her kanat çırpışı havada şok dalgaları yaratıyor, çerçeveyi sallıyor ve enkaz ile yağmuru doğrudan izleyicinin yüzüne savuruyor. Hızlı el çekimleri, roninin imkansız boşluklardan atlayışını, kılıcının karanlığı kısa süreliğine kesen ışık yayları çizmesini yakalıyor. Finalde, son parçalanan kayadan atlarken kameranın arkasından daldığı görülüyor, bir şimşek çakımına binerek doğrudan canavarın göğüs girdabına doğru son, her şeyi riske atan bir darbeyle fırtınayı içeriden patlatıyor ve gökyüzünü kör edici bir parlamayla temizliyor.
-
-720p
-16:9
-15 saniye
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi">
-
-**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=133)**
 
 ---
 ### Dev Bir Canavardan Kaçmak (Arcane Tarzı)
@@ -519,41 +563,6 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 **Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Yayınlandı:** Feb 11, 2026
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=163)**
-
----
-### Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 için, Demon Slayer tarzı bir savaşın (Su Nefesi vs. Şimşek Nefesi) 15 saniyelik canlı aksiyon uyarlamasını oluşturan, ayrıntılı, yüksek enerjili bir video istemi. İstem, stili (Hollywood canlı aksiyon manga uyarlaması, karanlık samuray, 4K, aşırı hızlı kesmeler, parçacık ışık efektleri), ortamı (gece sisli orman) ve karakterlerin eylemlerini, güçlenme sekanslarını ve son çarpışmayı detaylandıran üç farklı çekimi belirtiyor.
-
-#### 📝 İstem
-
-```
-Canlı Aksiyon Manga Uyarlaması · Nefes Tekniği Kararlı Savaş (15 saniye · Ultra Yakıcı Özel Efektler Versiyonu)
-【Temel Odak】: Su Nefesi (Mavi Su Ejderhası) VS Şimşek Nefesi (Altın Şimşek), canlı aksiyon aşırı hızlı düello.
-【Tarz】: Hollywood canlı aksiyon manga uyarlaması film kalitesi, karanlık samuray tarzı, 4K ultra net, aşırı hızlı kesimler, parçacık ışık efektleri patlaması, kan yok.
-【Süre】: 15 saniye
-【Sahne】: Ay ışığı altında sisli orman, çamurlu zemin, düşen yapraklar.
-[00:00-00:05] Çekim 1: Su Melodisi Prelüdü · Başlangıç Formu (Yüklenme Hissi)
-Görseller: Yeşil ve siyah kareli haori (ceket) giyen genç bir samuray, ay ışığı altında ağırlık merkezini alçaltır, kılıcını iki eliyle tutar.
-Aksiyon: Derin bir nefes alır ve çevresindeki hava anında katılaşır. Kılıcını çekerken, yüksek basınçlı su akışından yoğunlaşmış dev bir mavi su ejderhası, havadan belirir, vücudunun ve kılıcının etrafında hızla döner, akan suyun kükremesini yayar.
-Özel Efekt Detayları: Su akışı gerçekçi bir sıçrama hissine sahiptir, karanlık ormanı aydınlatır.
-[00:05-00:10] Çekim 2: Şimşek Flaş · İlerleme (Aşırı Hız Hissi)
-Görseller: Karşısındaki rakibi, sarı üçgen desenli haori giyen sarışın bir kılıç ustası, vücudunu aşırı derecede alçaltır, bir Iaijutsu (kılıç çekme tekniği) duruşu alır.
-Aksiyon: Zemin aniden patlar. Tüm vücudu anında gözle görülmeyen bir hızla ağaçların arasından 'Z' şeklinde hızla kırılan ve ilerleyen göz kamaştırıcı altın bir şimşek artığına dönüşür.
-Özel Efekt Detayları: Geçtiği yerlerde altın elektrik arkları ve yanmış düşen yapraklar kalır.
-[00:10-00:15] Çekim 3: Su-Şimşek Çarpışması · Son Ses (Nihai Hareketlerin Çatışması)
-Görseller: Aşırı hızlı kafa kafaya çarpışma. Genç samuray, saldırıyı karşılamak için dev mavi su ejderhasını aşağı doğru savurur ve şimşeğe dönüşen sarışın kılıç ustası ona çarpar.
-Aksiyon: İki kılıç çerçevenin merkezinde şiddetle çarpışır.
-Özel Efekt Gösterisi: Mavi su ejderhası ve altın şimşek anında patlar, dışarıya doğru yayılan devasa bir su-şimşek enerji fırtınası oluşturur. Çevredeki büyük ağaçlar enerji dalgasıyla ikiye ayrılır ve çamur, su ve ışık kamerayı gizler. Sahne aşırı derecede göz kamaştırıcı mavi, sarı ve beyaz bir ışıkla sona erer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için">
-
-**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=189)**
 
 ---
 ### Yüzen Adada Şarkı Söyleyen Kedi
@@ -2748,13 +2757,70 @@ Neon ışıklı dijital bir alanda siyah trençkotlu bir hafıza avcısı hacker
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=67)**
 
 ---
+### Akıcı Tarzda Uygulama Reklamı Oluşturma İstemleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0'ın, tek bir rastgele görsel ve hızlı bir komut kullanarak, yaklaşık 2 dakika içinde pürüzsüz cam animasyonlarına sahip, temiz, 15 saniyelik Fluent tarzı bir uygulama reklamı oluşturmasının bir gösterimi.
+
+#### 📝 İstem
+
+```
+Pürüzsüz cam animasyonları içeren, akıcı tarzda 15 saniyelik uygulama reklamı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbf6295c8fffee5bf34672066439e22/thumbnails/thumbnail.jpg" width="600" alt="Akıcı Tarzda Uygulama Reklamı Oluşturma İstemleri">
+
+**Yazar:** [laurenz](https://x.com/laur3nzb) | **Kaynak:** [Link](https://x.com/laur3nzb/status/2020837174522864020) | **Yayınlandı:** Feb 9, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=84)**
+
+---
+### Basit Bir İstekle 'Her' Filmini Yeniden Yaratmak
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kullanıcı, 'Her' filmini Seedance 2.0 kullanarak nasıl yeniden yarattığını açıklıyor ve ilk istemin basit olduğunu, ürünleri @Creaibo'nun taslağı ve storyboard'u otomatik olarak düzenlemek için Gemini'ı kullandığını belirtiyor. Sonuçlar sağlam bir karakter tutarlılığı gösterdi.
+
+#### 📝 İstem
+
+```
+Seedance2.0 kullanarak Her filminin tamamını yeniden yarattım.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/411781de82bfe8ab48c478b34ed6246a/thumbnails/thumbnail.jpg" width="600" alt="Basit Bir İstekle 'Her' Filmini Yeniden Yaratmak">
+
+**Yazar:** [Rylynn.W](https://x.com/BiuRylynn) | **Kaynak:** [Link](https://x.com/BiuRylynn/status/2020796814912610651) | **Yayınlandı:** Feb 9, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=83)**
+
+---
+### MAX POWER Çöl Fırtınası Aksiyon Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Devasa bir kum fırtınası ve askeri konvoy içeren, ölçek, panik ve doruk noktasına odaklanan, destansı, cesur, Denis Villeneuve tarzı bir çöl aksiyon sahnesi oluşturmak için tasarlanmış ayrıntılı, çok aşamalı bir komut istemi.
+
+#### 📝 İstem
+
+```
+Tarz: IMAX 70mm Film, Denis Villeneuve Tarzı, Sert Gerçekçilik, Destansı Ölçek, Doygunluğu Azaltılmış. Süre: 15sn. [00-05sn] Aşırı Geniş Çekim (Ölçek). Kilometrelerce yüksekliğindeki devasa bir kum fırtınası, uçsuz bucaksız bir çöl manzarasını yutuyor. Küçük bir zırhlı askeri araç konvoyu fırtınadan kaçıyor. Doğa ile insan arasındaki ölçek korkutucu. Hans Zimmer tarzı gerilim. [05-10sn] Kokpit Kamerası (Panik). Öndeki gezici aracın içinde. Pilot "GİT! GİT!" diye bağırıyor (Altyazı: MAKSİMUM GÜÇ!). Kamera şiddetle sallanıyor. Kum ön cama çarpıyor. Güneş, yaklaşan toz duvarı tarafından engelleniyor. [10-15sn] Atlayış (Zirve). Gezici araç devasa bir kuma çarparak havaya fırlıyor (Ağır Çekim). Karanlık fırtınaya karşı siluet. Toz bulutunun içinde şimşekler çakıyor. Enkaz merceğin önünden uçuşuyor. Çarpma anında karartma.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="MAX POWER Çöl Fırtınası Aksiyon Sahnesi">
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **Yayınlandı:** Feb 9, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=62)**
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 55 burada gösterilmeyen daha fazla istem
+### 🎯 52 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2809,6 +2875,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-12T16:23:50.090Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-12T16:43:15.212Z</sub>
 
 </div>

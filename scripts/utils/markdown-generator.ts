@@ -83,6 +83,7 @@ ${t('subtitle', locale)}
 - [🌐 ${t('viewInGallery', locale)}](#-${slugify(t('viewInGallery', locale))})
 - [🤔 ${t('whatIs', locale)}](#-${slugify(t('whatIs', locale))})
 - [📊 ${t('stats', locale)}](#-${slugify(t('stats', locale))})
+- [⭐ ${t('featuredPrompts', locale)}](#-${slugify(t('featuredPrompts', locale))})
 - [🎬 ${t('allPrompts', locale)}](#-${slugify(t('allPrompts', locale))})
 - [🤝 ${t('howToContribute', locale)}](#-${slugify(t('howToContribute', locale))})
 - [📄 ${t('license', locale)}](#-${slugify(t('license', locale))})
@@ -137,21 +138,38 @@ ${t('whatIsIntro', locale)}
 
 `;
 
+  // Separate featured and regular
+  const featured = prompts.filter(p => p.featured);
+  const regular = prompts.filter(p => !p.featured);
+
   // Stats
   md += `## 📊 ${t('stats', locale)}
 
 | ${t('metric', locale)} | ${t('count', locale)} |
 |--------|-------|
 | 📝 ${t('totalPrompts', locale)} | **${prompts.length}** |
+| ⭐ ${t('featuredPrompts', locale)} | **${featured.length}** |
 | 🔄 ${t('lastUpdated', locale)} | **${now}** |
 
 ---
 
 `;
 
-  // Prompts
-  const displayedPrompts = prompts.slice(0, MAX_PROMPTS_TO_DISPLAY);
-  const hiddenCount = prompts.length - displayedPrompts.length;
+  // Featured section
+  if (featured.length > 0) {
+    md += `## ⭐ ${t('featuredPrompts', locale)}
+
+> ${t('featuredDesc', locale)}
+
+`;
+    for (const p of featured) {
+      md += generatePromptBlock(p, locale, galleryUrl, true);
+    }
+  }
+
+  // Regular prompts
+  const displayedPrompts = regular.slice(0, MAX_PROMPTS_TO_DISPLAY);
+  const hiddenCount = regular.length - displayedPrompts.length;
 
   md += `## 🎬 ${t('allPrompts', locale)}
 
@@ -160,41 +178,7 @@ ${t('whatIsIntro', locale)}
 `;
 
   for (const p of displayedPrompts) {
-    const langBadge = LANG_BADGES[p.language] || `![${p.language}](https://img.shields.io/badge/lang-${p.language}-grey)`;
-    const desc = p.description ? `\n> ${p.description}\n` : '';
-    const authorLine = p.author
-      ? p.author.link
-        ? `**${t('author', locale)}:** [${p.author.name}](${p.author.link})`
-        : `**${t('author', locale)}:** ${p.author.name}`
-      : '';
-    const sourceLine = p.sourceLink ? ` | **${t('source', locale)}:** [Link](${p.sourceLink})` : '';
-    const dateLine = p.sourcePublishedAt ? ` | **${t('published', locale)}:** ${formatDate(p.sourcePublishedAt)}` : '';
-    const tryLink = `${galleryUrl}?id=${p.id}`;
-
-    // Use translatedContent if available, fallback to content
-    const promptContent = p.translatedContent || p.content;
-
-    // Image priority: referenceImages > media > thumbnail
-    const displayImage = (p.referenceImages?.[0]) || (p.mediaImages?.[0]) || p.thumbnail;
-
-    md += `### ${p.title}
-
-${langBadge}
-${desc}
-#### 📝 ${t('prompt', locale)}
-
-\`\`\`
-${promptContent}
-\`\`\`
-
-<img src="${displayImage}" width="600" alt="${p.title}">
-
-${authorLine}${sourceLine}${dateLine}
-
-**[${t('watchVideo', locale)}](${tryLink})**
-
----
-`;
+    md += generatePromptBlock(p, locale, galleryUrl, false);
   }
 
   // Show More section when truncated
@@ -279,6 +263,42 @@ ${t('licensedUnder', locale)}
 `;
 
   return md;
+}
+
+function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, locale: string, galleryUrl: string, isFeatured: boolean): string {
+  const langBadge = LANG_BADGES[p.language] || `![${p.language}](https://img.shields.io/badge/lang-${p.language}-grey)`;
+  const desc = p.description ? `\n> ${p.description}\n` : '';
+  const authorLine = p.author
+    ? p.author.link
+      ? `**${t('author', locale)}:** [${p.author.name}](${p.author.link})`
+      : `**${t('author', locale)}:** ${p.author.name}`
+    : '';
+  const sourceLine = p.sourceLink ? ` | **${t('source', locale)}:** [Link](${p.sourceLink})` : '';
+  const dateLine = p.sourcePublishedAt ? ` | **${t('published', locale)}:** ${formatDate(p.sourcePublishedAt)}` : '';
+  const tryLink = `${galleryUrl}?id=${p.id}`;
+  const promptContent = p.translatedContent || p.content;
+  const displayImage = (p.referenceImages?.[0]) || (p.mediaImages?.[0]) || p.thumbnail;
+  const imgWidth = isFeatured ? '700' : '600';
+  const featuredBadge = isFeatured ? `![Featured](https://img.shields.io/badge/⭐-Featured-gold)\n` : '';
+
+  return `### ${p.title}
+
+${featuredBadge}${langBadge}
+${desc}
+#### 📝 ${t('prompt', locale)}
+
+\`\`\`
+${promptContent}
+\`\`\`
+
+<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">
+
+${authorLine}${sourceLine}${dateLine}
+
+**[${t('watchVideo', locale)}](${tryLink})**
+
+---
+`;
 }
 
 function generateLanguageNavigation(currentLocale: string): string {

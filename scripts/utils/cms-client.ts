@@ -11,6 +11,7 @@ export interface VideoPrompt {
   description?: string;
   language: string;
   model: string;
+  featured?: boolean;
   author?: { name: string; link?: string };
   sourceLink?: string;
   sourcePublishedAt?: string;
@@ -48,6 +49,7 @@ export interface ProcessedPrompt {
   thumbnail: string;
   referenceImages?: string[];
   mediaImages?: string[];
+  featured?: boolean;
 }
 
 function extractThumbnail(doc: VideoPrompt): string | null {
@@ -143,6 +145,7 @@ export async function fetchSeedancePrompts(locale: string = 'en'): Promise<Proce
       thumbnail,
       referenceImages: refImgs.length ? refImgs : undefined,
       mediaImages: mediaImgs.length ? mediaImgs : undefined,
+      featured: doc.featured || false,
     });
   }
 

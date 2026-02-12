@@ -20,6 +20,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für ByteDance S
 - [🌐 In Web-Galerie ansehen](#-in-web-galerie-ansehen)
 - [🤔 Was ist Seedance 2.0?](#-was-ist-seedance-20)
 - [📊 Statistiken](#-statistiken)
+- [⭐ Ausgewählte Prompts](#-ausgewhlte-prompts)
 - [🎬 Alle Prompts](#-alle-prompts)
 - [🤝 Wie man beiträgt](#-wie-man-beitrgt)
 - [📄 Lizenz](#-lizenz)
@@ -68,16 +69,18 @@ Warum unsere Galerie nutzen?
 | Metrik | Anzahl |
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **175** |
+| ⭐ Ausgewählte Prompts | **3** |
 | 🔄 Zuletzt aktualisiert | **2026-02-12** |
 
 ---
 
-## 🎬 Alle Prompts
+## ⭐ Ausgewählte Prompts
 
-> 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
+> Handverlesene Prompts mit herausragenden Ergebnissen
 
 ### Optimus Prime vs. Godzilla in Tokio
 
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Eine Beschreibung eines von Seedance 2.0 generierten CGI-Videos, das einen Luxuswagen zeigt, der sich in Optimus Prime verwandelt und gegen Godzilla kämpft, vor dem Hintergrund einer regnerischen Tokioter Nacht mit Explosionen und Energiestrahlen.
@@ -88,13 +91,77 @@ Warum unsere Galerie nutzen?
 Ein Luxusauto verwandelt sich in Optimus Prime und kämpft gegen Godzilla, wobei Explosionen und Energiestöße vor dem Hintergrund einer regnerischen Tokioter Nacht entfesselt werden.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="600" alt="Optimus Prime vs. Godzilla in Tokio">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs. Godzilla in Tokio">
 
 **Autor:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Quelle:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Veröffentlicht:** Feb 12, 2026
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=210)**
 
 ---
+### Surrealistische Ronin-Action-Szene auf dem Schlachtfeld
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein sehr detaillierter Multi-Shot-Prompt für Seedance 2.0, der eine surreale, actionreiche Schlachtfeldszene am Himmel beschreibt, mit einem maskierten Ronin, der von einem kolossalen geflügelten Biest verfolgt wird, dessen Brust ein Wirbelsturm aus Gewitterwolken ist. Der Prompt enthält spezifische Kamerabewegungen, technische Details (720p, 16:9, 15 Sekunden) und ein dramatisches Finale.
+
+#### 📝 Prompt
+
+```
+Ein surreales Schlachtfeld am Himmel: schwebende Felseninseln treiben durch ein Gewitter, Wolken wirbeln darunter wie ein Ozean. Der maskierte Ronin eilt über die treibenden Plattformen, verfolgt von einem kolossalen geflügelten Biest, dessen Brust ein wirbelnder Strudel aus Gewitterwolken und Blitzen ist. Die Kamera rast von Insel zu Insel und kämpft darum, Schritt zu halten, während Felsen unter ihnen kippen, sich drehen und zerbröseln. Jeder Flügelschlag sendet Schockwellen durch die Luft, erschüttert das Bild und bläst Trümmer und Regen direkt ins Gesicht des Betrachters. Schnelle Handkamera-Schnitte fangen den Ronin ein, wie er unmögliche Lücken überspringt, sein Schwert Lichtbögen zieht, die kurz die Dunkelheit durchschneiden. Das Finale zeigt die Kamera, wie sie hinter ihm her taucht, als er vom letzten zerbröselnden Felsen springt und auf einem Blitz direkt in den Brustwirbel des Monsters reitet, mit einem letzten, alles-oder-nichts-Hieb, der den Sturm von innen heraus explodieren lässt und den Himmel in einem blendenden Blitz klärt.
+
+720p
+16:9
+15 Sekunden
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="Surrealistische Ronin-Action-Szene auf dem Schlachtfeld">
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Veröffentlicht:** Feb 12, 2026
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=133)**
+
+---
+### Demon Slayer Live-Action Battle Prompt für Seedance 2.0
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter, energiegeladener Videoprompt für Seedance 2.0, der eine 15-sekündige Live-Action-Adaption eines Kampfes im Demon Slayer-Stil (Wasseratmung vs. Donneratmung) generiert. Der Prompt spezifiziert den Stil (Hollywood Live-Action-Manga-Adaption, dunkler Samurai, 4K, extrem schnelle Schnitte, Partikellichteffekte), den Schauplatz (nebliger Wald bei Nacht) und drei verschiedene Einstellungen, die die Aktionen der Charaktere, die Power-Up-Sequenzen und den finalen Zusammenprall detailliert beschreiben.
+
+#### 📝 Prompt
+
+```
+Live-Action Manga-Adaption · Kampf der Atemtechniken (15 Sekunden · Ultra-intensive Spezialeffekt-Version)
+【Kernfokus】: Wasseratmung (Blauer Wasserdrache) VS Donneratmung (Goldener Blitz), Live-Action-Duell in extremer Geschwindigkeit.
+【Stil】: Hollywood-Qualität, Live-Action-Manga-Adaption, dunkler Samurai-Stil, 4K ultra-scharf, extreme schnelle Schnitte, Partikel-Lichteffekt-Explosion, keine Gewalt.
+【Dauer】: 15 Sekunden
+【Szene】: Nebliger Wald im Mondlicht, schlammiger Boden, fallende Blätter.
+[00:00-00:05] Aufnahme 1: Wassermelodie-Präludium · Startform (Gefühl des Aufladens)
+Visuelles: Ein junger Samurai mit einem grün-schwarz karierten Haori (Jacke) senkt seinen Schwerpunkt im Mondlicht und hält sein Schwert mit beiden Händen.
+Aktion: Er atmet tief ein, und die umgebende Luft verfestigt sich augenblicklich. Als er sein Schwert zieht, erscheint aus dem Nichts ein riesiger blauer Wasserdrache, der aus einem Hochdruckwasserstrom kondensiert ist, rotiert schnell um seinen Körper und seine Klinge und stößt das Rauschen von fließendem Wasser aus.
+Spezialeffekt-Details: Der Wasserfluss hat ein realistisches Spritzgefühl und beleuchtet den dunklen Wald.
+[00:05-00:10] Aufnahme 2: Donnerblitz · Vorstoß (Gefühl extremer Geschwindigkeit)
+Visuelles: Der Gegner ihm gegenüber, ein blonder Schwertkämpfer mit einem gelb-dreieckig gemusterten Haori, senkt seinen Körper extrem tief und nimmt die Haltung eines Iaijutsu (Schwertziehtechnik) ein.
+Aktion: Der Boden explodiert plötzlich. Sein ganzer Körper verwandelt sich augenblicklich in ein blendendes goldenes Blitz-Nachbild, das sich in „Z“-Form mit bloßem Auge unsichtbar schnell durch die Bäume bricht und vorrückt.
+Spezialeffekt-Details: Goldene elektrische Bögen und versengte Herbstblätter bleiben an den Stellen zurück, die er passiert.
+[00:10-00:15] Aufnahme 3: Wasser-Donner-Kollision · Letzter Klang (Kollision der ultimativen Techniken)
+Visuelles: Frontale Kollision in extremer Geschwindigkeit. Der junge Samurai schwingt den riesigen blauen Wasserdrachen nach unten, um den Angriff abzufangen, und der blonde Schwertkämpfer, in Blitz verwandelt, prallt darauf.
+Aktion: Die beiden Schwerter kollidieren heftig in der Mitte des Bildes.
+Spezialeffekt-Spektakel: Der blaue Wasserdrache und der goldene Blitz explodieren augenblicklich und bilden einen massiven Wasser-Donner-Energiesturm, der sich nach außen ausbreitet. Die umliegenden großen Bäume werden von der Energiewelle in zwei Hälften gerissen, und Schlamm, Wasser und Licht verdecken die Kamera. Die Szene endet in einem extrem blendenden blau-gelb-weißen Licht.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt für Seedance 2.0">
+
+**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Veröffentlicht:** Feb 11, 2026
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=189)**
+
+---
+## 🎬 Alle Prompts
+
+> 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
+
 ### Horror-Kurzfilm-Drehbuch: Der Spiegel-Glitch
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -242,29 +309,6 @@ Szene 4: Reiter galoppiert selbstironisch weiter (0:20-0:30, 10 Sekunden)
 **Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Veröffentlicht:** Feb 12, 2026
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=186)**
-
----
-### Surrealistische Ronin-Action-Szene auf dem Schlachtfeld
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein sehr detaillierter Multi-Shot-Prompt für Seedance 2.0, der eine surreale, actionreiche Schlachtfeldszene am Himmel beschreibt, mit einem maskierten Ronin, der von einem kolossalen geflügelten Biest verfolgt wird, dessen Brust ein Wirbelsturm aus Gewitterwolken ist. Der Prompt enthält spezifische Kamerabewegungen, technische Details (720p, 16:9, 15 Sekunden) und ein dramatisches Finale.
-
-#### 📝 Prompt
-
-```
-Ein surreales Schlachtfeld am Himmel: schwebende Felseninseln treiben durch ein Gewitter, Wolken wirbeln darunter wie ein Ozean. Der maskierte Ronin eilt über die treibenden Plattformen, verfolgt von einem kolossalen geflügelten Biest, dessen Brust ein wirbelnder Strudel aus Gewitterwolken und Blitzen ist. Die Kamera rast von Insel zu Insel und kämpft darum, Schritt zu halten, während Felsen unter ihnen kippen, sich drehen und zerbröseln. Jeder Flügelschlag sendet Schockwellen durch die Luft, erschüttert das Bild und bläst Trümmer und Regen direkt ins Gesicht des Betrachters. Schnelle Handkamera-Schnitte fangen den Ronin ein, wie er unmögliche Lücken überspringt, sein Schwert Lichtbögen zieht, die kurz die Dunkelheit durchschneiden. Das Finale zeigt die Kamera, wie sie hinter ihm her taucht, als er vom letzten zerbröselnden Felsen springt und auf einem Blitz direkt in den Brustwirbel des Monsters reitet, mit einem letzten, alles-oder-nichts-Hieb, der den Sturm von innen heraus explodieren lässt und den Himmel in einem blendenden Blitz klärt.
-
-720p
-16:9
-15 Sekunden
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="Surrealistische Ronin-Action-Szene auf dem Schlachtfeld">
-
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Veröffentlicht:** Feb 12, 2026
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=133)**
 
 ---
 ### Vor einem Riesenmonster fliehen (Arcane-Stil)
@@ -519,41 +563,6 @@ Luffy und Goku in einer epischen Kampfszene auf der Sunny.
 **Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Quelle:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Veröffentlicht:** Feb 11, 2026
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=163)**
-
----
-### Demon Slayer Live-Action Battle Prompt für Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter, energiegeladener Videoprompt für Seedance 2.0, der eine 15-sekündige Live-Action-Adaption eines Kampfes im Demon Slayer-Stil (Wasseratmung vs. Donneratmung) generiert. Der Prompt spezifiziert den Stil (Hollywood Live-Action-Manga-Adaption, dunkler Samurai, 4K, extrem schnelle Schnitte, Partikellichteffekte), den Schauplatz (nebliger Wald bei Nacht) und drei verschiedene Einstellungen, die die Aktionen der Charaktere, die Power-Up-Sequenzen und den finalen Zusammenprall detailliert beschreiben.
-
-#### 📝 Prompt
-
-```
-Live-Action Manga-Adaption · Kampf der Atemtechniken (15 Sekunden · Ultra-intensive Spezialeffekt-Version)
-【Kernfokus】: Wasseratmung (Blauer Wasserdrache) VS Donneratmung (Goldener Blitz), Live-Action-Duell in extremer Geschwindigkeit.
-【Stil】: Hollywood-Qualität, Live-Action-Manga-Adaption, dunkler Samurai-Stil, 4K ultra-scharf, extreme schnelle Schnitte, Partikel-Lichteffekt-Explosion, keine Gewalt.
-【Dauer】: 15 Sekunden
-【Szene】: Nebliger Wald im Mondlicht, schlammiger Boden, fallende Blätter.
-[00:00-00:05] Aufnahme 1: Wassermelodie-Präludium · Startform (Gefühl des Aufladens)
-Visuelles: Ein junger Samurai mit einem grün-schwarz karierten Haori (Jacke) senkt seinen Schwerpunkt im Mondlicht und hält sein Schwert mit beiden Händen.
-Aktion: Er atmet tief ein, und die umgebende Luft verfestigt sich augenblicklich. Als er sein Schwert zieht, erscheint aus dem Nichts ein riesiger blauer Wasserdrache, der aus einem Hochdruckwasserstrom kondensiert ist, rotiert schnell um seinen Körper und seine Klinge und stößt das Rauschen von fließendem Wasser aus.
-Spezialeffekt-Details: Der Wasserfluss hat ein realistisches Spritzgefühl und beleuchtet den dunklen Wald.
-[00:05-00:10] Aufnahme 2: Donnerblitz · Vorstoß (Gefühl extremer Geschwindigkeit)
-Visuelles: Der Gegner ihm gegenüber, ein blonder Schwertkämpfer mit einem gelb-dreieckig gemusterten Haori, senkt seinen Körper extrem tief und nimmt die Haltung eines Iaijutsu (Schwertziehtechnik) ein.
-Aktion: Der Boden explodiert plötzlich. Sein ganzer Körper verwandelt sich augenblicklich in ein blendendes goldenes Blitz-Nachbild, das sich in „Z“-Form mit bloßem Auge unsichtbar schnell durch die Bäume bricht und vorrückt.
-Spezialeffekt-Details: Goldene elektrische Bögen und versengte Herbstblätter bleiben an den Stellen zurück, die er passiert.
-[00:10-00:15] Aufnahme 3: Wasser-Donner-Kollision · Letzter Klang (Kollision der ultimativen Techniken)
-Visuelles: Frontale Kollision in extremer Geschwindigkeit. Der junge Samurai schwingt den riesigen blauen Wasserdrachen nach unten, um den Angriff abzufangen, und der blonde Schwertkämpfer, in Blitz verwandelt, prallt darauf.
-Aktion: Die beiden Schwerter kollidieren heftig in der Mitte des Bildes.
-Spezialeffekt-Spektakel: Der blaue Wasserdrache und der goldene Blitz explodieren augenblicklich und bilden einen massiven Wasser-Donner-Energiesturm, der sich nach außen ausbreitet. Die umliegenden großen Bäume werden von der Energiewelle in zwei Hälften gerissen, und Schlamm, Wasser und Licht verdecken die Kamera. Die Szene endet in einem extrem blendenden blau-gelb-weißen Licht.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Live-Action Battle Prompt für Seedance 2.0">
-
-**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Veröffentlicht:** Feb 11, 2026
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=189)**
 
 ---
 ### Singende Katze auf schwimmender Insel
@@ -2747,13 +2756,70 @@ Ein 15-sekündiger Cyberpunk-Kinospot mit einem Memory-Hunter-Hacker in einem sc
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=67)**
 
 ---
+### Fluent-Style App-Anzeigengenerierungs-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine Demonstration von Seedance 2.0, das eine saubere, 15-sekündige App-Werbung im Fluent-Stil mit flüssigen Glasanimationen generiert, unter Verwendung eines zufälligen Bildes und einer kurzen Eingabeaufforderung, in nur etwa 2 Minuten.
+
+#### 📝 Prompt
+
+```
+Flüssiger 15-Sekunden-App-Werbespot im Fluent-Stil mit fließenden Glasanimationen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbf6295c8fffee5bf34672066439e22/thumbnails/thumbnail.jpg" width="600" alt="Fluent-Style App-Anzeigengenerierungs-Prompt">
+
+**Autor:** [laurenz](https://x.com/laur3nzb) | **Quelle:** [Link](https://x.com/laur3nzb/status/2020837174522864020) | **Veröffentlicht:** Feb 9, 2026
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=84)**
+
+---
+### Den Film „Her“ mit einem einfachen Prompt nachstellen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Der Benutzer erklärt, wie er den Film „Her“ mit Seedance 2.0 nachgestellt hat, und merkt an, dass der ursprüngliche Prompt einfach war und sein Produkt @Creaibo Gemini verwendete, um den Entwurf und das Storyboard automatisch zu überarbeiten. Die Ergebnisse zeigten eine solide Charakterkonsistenz.
+
+#### 📝 Prompt
+
+```
+Ich habe den gesamten Film Her mit Seedance2.0 neu erstellt.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/411781de82bfe8ab48c478b34ed6246a/thumbnails/thumbnail.jpg" width="600" alt="Den Film „Her“ mit einem einfachen Prompt nachstellen">
+
+**Autor:** [Rylynn.W](https://x.com/BiuRylynn) | **Quelle:** [Link](https://x.com/BiuRylynn/status/2020796814912610651) | **Veröffentlicht:** Feb 9, 2026
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=83)**
+
+---
+### MAX POWER Wüstenturm-Action-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, mehrstufiger Prompt, der eine epische, düstere Wüsten-Action-Szene im Stil von Denis Villeneuve mit einem kolossalen Sandsturm und einem Militärkonvoi generieren soll, wobei der Fokus auf Ausmaß, Panik und Höhepunkt liegt.
+
+#### 📝 Prompt
+
+```
+Stil: IMAX 70mm Film, Denis Villeneuve Stil, düsterer Realismus, epische Dimensionen, entsättigt. Dauer: 15s. [00-05s] Extrem weite Einstellung (Die Dimension). Ein kolossaler Sandsturm, kilometerhoch, verschluckt eine weite Wüstenlandschaft. Ein winziger Konvoi gepanzerter Militärfahrzeuge rast davon. Das Verhältnis von Natur zu Mensch ist erschreckend. Spannung im Hans-Zimmer-Stil. [05-10s] Cockpit-Kamera (Die Panik). Im führenden Rover. Der Pilot schreit „LOS! LOS!“ (Untertitel: MAX POWER!). Die Kamera wackelt heftig. Sand prallt gegen die Windschutzscheibe. Die Sonne wird von der näherkommenden Staubwand verdeckt. [10-15s] Der Sprung (Der Höhepunkt). Der Rover trifft eine riesige Düne und hebt in die Luft ab (Zeitlupe). Silhouette vor dem dunklen Sturm. Blitze schlagen in der Staubwolke ein. Trümmer fliegen am Objektiv vorbei. Schnitt zu Schwarz beim Aufprall.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="MAX POWER Wüstenturm-Action-Szene">
+
+**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **Veröffentlicht:** Feb 9, 2026
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=62)**
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 55 weitere Prompts hier nicht angezeigt
+### 🎯 52 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2808,6 +2874,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-12T16:23:43.084Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-12T16:43:00.500Z</sub>
 
 </div>

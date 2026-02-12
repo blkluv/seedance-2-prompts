@@ -20,6 +20,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 - [🌐 웹 갤러리에서 보기](#--)
 - [🤔 Seedance 2.0이란?](#-seedance-20)
 - [📊 통계](#-)
+- [⭐ 추천 프롬프트](#--)
 - [🎬 모든 프롬프트](#--)
 - [🤝 기여하는 방법](#--)
 - [📄 라이선스](#-)
@@ -68,16 +69,18 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 | 지표 | 수 |
 |--------|-------|
 | 📝 총 프롬프트 수 | **175** |
+| ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-02-12** |
 
 ---
 
-## 🎬 모든 프롬프트
+## ⭐ 추천 프롬프트
 
-> 📝 게시일 기준 정렬(최신순)
+> 엄선된 고품질 프롬프트
 
 ### 도쿄의 옵티머스 프라임 대 고질라
 
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Seedance 2.0으로 생성된 CGI 영상에 대한 설명으로, 비 내리는 도쿄의 밤을 배경으로 폭발과 에너지 폭발 속에서 럭셔리 자동차가 옵티머스 프라임으로 변신하여 고질라와 싸우는 모습을 묘사합니다.
@@ -88,13 +91,77 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 고급 승용차가 옵티머스 프라임으로 변신하여 고질라와 싸우고, 비 내리는 도쿄의 밤을 배경으로 폭발과 에너지 광선을 뿜어냅니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="600" alt="도쿄의 옵티머스 프라임 대 고질라">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="도쿄의 옵티머스 프라임 대 고질라">
 
 **작성자:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **출처:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **게시일:** Feb 12, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=210)**
 
 ---
+### 초현실적인 전장 속 로닌 액션 장면
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0을 위한 매우 상세하고 여러 장면으로 구성된 프롬프트로, 가면을 쓴 로닌이 가슴이 폭풍 구름의 소용돌이인 거대한 날개 달린 짐승에게 쫓기는 초현실적이고 고강도 액션의 하늘 전장 장면을 묘사합니다. 이 프롬프트에는 특정 카메라 움직임, 기술적 세부 사항(720p, 16:9, 15초) 및 극적인 피날레가 포함됩니다.
+
+#### 📝 프롬프트
+
+```
+하늘에 펼쳐진 초현실적인 전장: 폭풍우 속을 떠다니는 부유하는 바위섬들, 아래로는 바다처럼 소용돌이치는 구름. 가면을 쓴 로닌은 폭풍 구름과 번개의 소용돌이가 가슴에 휘몰아치는 거대한 날개 달린 짐승에게 쫓기며 떠다니는 발판 위를 질주한다. 카메라는 바위들이 기울고, 회전하고, 부서져 내리는 가운데 그들을 따라잡기 위해 애쓰며 섬에서 섬으로 돌진한다. 날갯짓 한 번 할 때마다 충격파가 공기를 가로질러 프레임을 흔들고, 파편과 비를 시청자의 얼굴로 곧장 날려 보낸다. 빠른 핸드헬드 컷은 로닌이 불가능한 간격을 뛰어넘는 모습을 포착하고, 검은 어둠을 잠시 가르는 빛의 아크를 그린다. 마지막 장면은 로닌이 마지막 부서지는 바위에서 뛰어내리면서 카메라가 그의 뒤를 따라가고, 번개 줄기를 타고 괴물의 가슴 소용돌이 속으로 직접 뛰어들어 폭풍을 내부에서 폭발시키고 눈부신 섬광으로 하늘을 맑게 하는 최후의 일격, 즉 모든 것을 건 일격을 보여준다.
+
+720p
+16:9
+15초
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="초현실적인 전장 속 로닌 액션 장면">
+
+**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **게시일:** Feb 12, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=133)**
+
+---
+### Demon Slayer Live-Action Battle Prompt for Seedance 2.0
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0을 위한 상세하고 역동적인 비디오 프롬프트로, 15초 분량의 실사판 귀멸의 칼날 스타일 전투(물 속성 호흡 vs. 번개 속성 호흡)를 생성합니다. 이 프롬프트는 스타일(할리우드 실사 만화 각색, 다크 사무라이, 4K, 극단적인 퀵컷, 입자 빛 효과), 배경(밤의 안개 낀 숲), 그리고 캐릭터의 행동, 파워업 시퀀스, 최종 충돌을 상세히 묘사하는 세 가지 뚜렷한 장면을 지정합니다.
+
+#### 📝 프롬프트
+
+```
+실사 만화 각색 · 호흡법 결정전 (15초 · 초고화질 특수 효과 버전)
+【핵심 초점】: 물의 호흡 (푸른 물 용) VS 번개의 호흡 (황금 번개), 실사 초고속 대결.
+【스타일】: 할리우드 실사 만화 각색 영화 퀄리티, 다크 사무라이 스타일, 4K 초고화질, 극단적인 퀵 컷, 입자 광원 효과 폭발, 잔혹성 없음.
+【재생 시간】: 15초
+【장면】: 달빛 아래 안개 낀 숲, 진흙탕, 낙엽.
+[00:00-00:05] 샷 1: 물의 선율 서곡 · 시작 자세 (충전감)
+시각 효과: 녹색과 검은색 체크무늬 하오리 (겉옷)를 입은 젊은 사무라이가 달빛 아래에서 무게 중심을 낮추고 양손으로 칼을 잡는다.
+액션: 그가 심호흡을 하자 주변 공기가 즉시 응고된다. 칼을 뽑자마자 고압 수류로 응축된 거대한 푸른 물 용이 허공에서 나타나 그의 몸과 칼날 주위를 빠르게 회전하며 물 흐르는 소리를 낸다.
+특수 효과 디테일: 물줄기는 사실적인 물보라 느낌을 주며 어두운 숲을 비춘다.
+[00:05-00:10] 샷 2: 번개 섬광 · 전진 (초고속감)
+시각 효과: 맞은편 상대인 노란색 삼각형 무늬 하오리를 입은 금발 검객이 몸을 극도로 낮춰 발도술 자세를 취한다.
+액션: 땅이 갑자기 폭발한다. 그의 전신이 눈 깜짝할 사이에 눈에 보이지 않는 속도로 나무 사이를 'Z'자 형태로 빠르게 굴절하며 전진하는 눈부신 황금 번개 잔상으로 변한다.
+특수 효과 디테일: 그가 지나간 자리에는 황금색 전기 아크와 그을린 낙엽이 남는다.
+[00:10-00:15] 샷 3: 물-번개 충돌 · 마지막 소리 (궁극기 충돌)
+시각 효과: 초고속 정면 충돌. 젊은 사무라이는 거대한 푸른 물 용을 휘둘러 공격을 막아내고, 번개로 변한 금발 검객이 그에게 부딪힌다.
+액션: 두 칼이 프레임 중앙에서 격렬하게 충돌한다.
+특수 효과 장관: 푸른 물 용과 황금 번개가 즉시 폭발하여 거대한 물-번개 에너지 폭풍을 형성하며 바깥으로 퍼져나간다. 주변의 큰 나무들은 에너지 파동에 의해 두 동강 나고, 진흙, 물, 빛이 카메라를 가린다. 장면은 극도로 눈부신 파란색, 노란색, 흰색 빛 속에서 끝난다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt for Seedance 2.0">
+
+**작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=189)**
+
+---
+## 🎬 모든 프롬프트
+
+> 📝 게시일 기준 정렬(최신순)
+
 ### 공포 단편 영화 대본: 거울 속 오류
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -245,29 +312,6 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 **작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2021706240272069021) | **게시일:** Feb 12, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=186)**
-
----
-### 초현실적인 전장 속 로닌 액션 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0을 위한 매우 상세하고 여러 장면으로 구성된 프롬프트로, 가면을 쓴 로닌이 가슴이 폭풍 구름의 소용돌이인 거대한 날개 달린 짐승에게 쫓기는 초현실적이고 고강도 액션의 하늘 전장 장면을 묘사합니다. 이 프롬프트에는 특정 카메라 움직임, 기술적 세부 사항(720p, 16:9, 15초) 및 극적인 피날레가 포함됩니다.
-
-#### 📝 프롬프트
-
-```
-하늘에 펼쳐진 초현실적인 전장: 폭풍우 속을 떠다니는 부유하는 바위섬들, 아래로는 바다처럼 소용돌이치는 구름. 가면을 쓴 로닌은 폭풍 구름과 번개의 소용돌이가 가슴에 휘몰아치는 거대한 날개 달린 짐승에게 쫓기며 떠다니는 발판 위를 질주한다. 카메라는 바위들이 기울고, 회전하고, 부서져 내리는 가운데 그들을 따라잡기 위해 애쓰며 섬에서 섬으로 돌진한다. 날갯짓 한 번 할 때마다 충격파가 공기를 가로질러 프레임을 흔들고, 파편과 비를 시청자의 얼굴로 곧장 날려 보낸다. 빠른 핸드헬드 컷은 로닌이 불가능한 간격을 뛰어넘는 모습을 포착하고, 검은 어둠을 잠시 가르는 빛의 아크를 그린다. 마지막 장면은 로닌이 마지막 부서지는 바위에서 뛰어내리면서 카메라가 그의 뒤를 따라가고, 번개 줄기를 타고 괴물의 가슴 소용돌이 속으로 직접 뛰어들어 폭풍을 내부에서 폭발시키고 눈부신 섬광으로 하늘을 맑게 하는 최후의 일격, 즉 모든 것을 건 일격을 보여준다.
-
-720p
-16:9
-15초
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 전장 속 로닌 액션 장면">
-
-**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=133)**
 
 ---
 ### 거대 괴물에게서 도망치기 (아케인 스타일)
@@ -522,41 +566,6 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 **작성자:** [Mark Gadala-Maria](https://x.com/markgadala) | **출처:** [Link](https://x.com/markgadala/status/2021611931480609139) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=163)**
-
----
-### Demon Slayer Live-Action Battle Prompt for Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0을 위한 상세하고 역동적인 비디오 프롬프트로, 15초 분량의 실사판 귀멸의 칼날 스타일 전투(물 속성 호흡 vs. 번개 속성 호흡)를 생성합니다. 이 프롬프트는 스타일(할리우드 실사 만화 각색, 다크 사무라이, 4K, 극단적인 퀵컷, 입자 빛 효과), 배경(밤의 안개 낀 숲), 그리고 캐릭터의 행동, 파워업 시퀀스, 최종 충돌을 상세히 묘사하는 세 가지 뚜렷한 장면을 지정합니다.
-
-#### 📝 프롬프트
-
-```
-실사 만화 각색 · 호흡법 결정전 (15초 · 초고화질 특수 효과 버전)
-【핵심 초점】: 물의 호흡 (푸른 물 용) VS 번개의 호흡 (황금 번개), 실사 초고속 대결.
-【스타일】: 할리우드 실사 만화 각색 영화 퀄리티, 다크 사무라이 스타일, 4K 초고화질, 극단적인 퀵 컷, 입자 광원 효과 폭발, 잔혹성 없음.
-【재생 시간】: 15초
-【장면】: 달빛 아래 안개 낀 숲, 진흙탕, 낙엽.
-[00:00-00:05] 샷 1: 물의 선율 서곡 · 시작 자세 (충전감)
-시각 효과: 녹색과 검은색 체크무늬 하오리 (겉옷)를 입은 젊은 사무라이가 달빛 아래에서 무게 중심을 낮추고 양손으로 칼을 잡는다.
-액션: 그가 심호흡을 하자 주변 공기가 즉시 응고된다. 칼을 뽑자마자 고압 수류로 응축된 거대한 푸른 물 용이 허공에서 나타나 그의 몸과 칼날 주위를 빠르게 회전하며 물 흐르는 소리를 낸다.
-특수 효과 디테일: 물줄기는 사실적인 물보라 느낌을 주며 어두운 숲을 비춘다.
-[00:05-00:10] 샷 2: 번개 섬광 · 전진 (초고속감)
-시각 효과: 맞은편 상대인 노란색 삼각형 무늬 하오리를 입은 금발 검객이 몸을 극도로 낮춰 발도술 자세를 취한다.
-액션: 땅이 갑자기 폭발한다. 그의 전신이 눈 깜짝할 사이에 눈에 보이지 않는 속도로 나무 사이를 'Z'자 형태로 빠르게 굴절하며 전진하는 눈부신 황금 번개 잔상으로 변한다.
-특수 효과 디테일: 그가 지나간 자리에는 황금색 전기 아크와 그을린 낙엽이 남는다.
-[00:10-00:15] 샷 3: 물-번개 충돌 · 마지막 소리 (궁극기 충돌)
-시각 효과: 초고속 정면 충돌. 젊은 사무라이는 거대한 푸른 물 용을 휘둘러 공격을 막아내고, 번개로 변한 금발 검객이 그에게 부딪힌다.
-액션: 두 칼이 프레임 중앙에서 격렬하게 충돌한다.
-특수 효과 장관: 푸른 물 용과 황금 번개가 즉시 폭발하여 거대한 물-번개 에너지 폭풍을 형성하며 바깥으로 퍼져나간다. 주변의 큰 나무들은 에너지 파동에 의해 두 동강 나고, 진흙, 물, 빛이 카메라를 가린다. 장면은 극도로 눈부신 파란색, 노란색, 흰색 빛 속에서 끝난다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Live-Action Battle Prompt for Seedance 2.0">
-
-**작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=189)**
 
 ---
 ### 떠다니는 섬 위의 노래하는 고양이
@@ -2771,13 +2780,70 @@ Seedance 2.0 텍스트-투-비디오 프롬프트
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=67)**
 
 ---
+### Fluent-style 앱 광고 생성 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0이 임의 이미지 한 장과 간단한 프롬프트만으로 약 2분 만에 매끄러운 유리 애니메이션이 포함된 깔끔한 15초 Fluent 스타일 앱 광고를 생성하는 시연입니다.
+
+#### 📝 프롬프트
+
+```
+매끄러운 유리 애니메이션이 적용된 깔끔한 15초 Fluent 스타일 앱 광고
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbf6295c8fffee5bf34672066439e22/thumbnails/thumbnail.jpg" width="600" alt="Fluent-style 앱 광고 생성 프롬프트">
+
+**작성자:** [laurenz](https://x.com/laur3nzb) | **출처:** [Link](https://x.com/laur3nzb/status/2020837174522864020) | **게시일:** Feb 9, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=84)**
+
+---
+### 간단한 프롬프트로 영화 'Her' 재현하기
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사용자는 Seedance 2.0을 사용해 영화 'Her'를 어떻게 재현했는지 설명하며, 초기 프롬프트는 간단했지만 자사 제품인 @Creaibo가 Gemini를 이용해 초안을 자동으로 다듬고 스토리보드를 만들었다고 언급했습니다. 그 결과는 견고한 캐릭터 일관성을 보여주었습니다.
+
+#### 📝 프롬프트
+
+```
+Seedance2.0을 사용해 영화 Her 전체를 재현했습니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/411781de82bfe8ab48c478b34ed6246a/thumbnails/thumbnail.jpg" width="600" alt="간단한 프롬프트로 영화 'Her' 재현하기">
+
+**작성자:** [Rylynn.W](https://x.com/BiuRylynn) | **출처:** [Link](https://x.com/BiuRylynn/status/2020796814912610651) | **게시일:** Feb 9, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=83)**
+
+---
+### MAX POWER 데저트 스톰 액션 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거대한 모래폭풍과 군용 수송대가 등장하는 장대한, 거친, 드니 빌뇌브 스타일의 사막 액션 장면을 생성하도록 설계된 상세한 멀티샷 프롬프트로, 규모, 공포, 그리고 클라이맥스에 초점을 맞춥니다.
+
+#### 📝 프롬프트
+
+```
+스타일: IMAX 70mm 필름, 드니 빌뇌브 스타일, 거친 사실주의, 웅장한 스케일, 채도 낮음. 길이: 15초. [00-05초] 익스트림 와이드 샷 (스케일). 수 마일 높이의 거대한 모래 폭풍이 광활한 사막 풍경을 집어삼킨다. 작은 규모의 장갑 군용 차량 호송대가 폭풍을 피해 질주한다. 자연 대 인간의 스케일이 섬뜩하다. 한스 짐머 스타일의 긴장감. [05-10초] 조종석 캠 (패닉). 선두 로버 내부. 조종사가 "가! 가!"라고 소리친다 (자막: MAX POWER!). 카메라가 격렬하게 흔들린다. 모래가 앞유리를 강타한다. 다가오는 먼지 벽에 태양이 가려진다. [10-15초] 점프 (클라이맥스). 로버가 거대한 모래 언덕에 부딪혀 공중으로 솟구친다 (슬로우 모션). 어두운 폭풍을 배경으로 한 실루엣. 먼지 구름 속에서 번개가 친다. 파편이 렌즈를 스쳐 지나간다. 충돌과 함께 화면이 암전된다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="MAX POWER 데저트 스톰 액션 장면">
+
+**작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **게시일:** Feb 9, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=62)**
+
+---
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 55 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 52 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2832,6 +2898,6 @@ Due to GitHub's content length limitations, we can only display the first 120 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-12T16:23:21.650Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-12T16:42:35.397Z</sub>
 
 </div>

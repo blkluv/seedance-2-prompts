@@ -20,6 +20,7 @@
 - [🌐 在網頁畫廊中查看](#-)
 - [🤔 什麼是 Seedance 2.0？](#--seedance-20)
 - [📊 統計數據](#-)
+- [⭐ 精選提示詞](#-)
 - [🎬 所有提示詞](#-)
 - [🤝 如何貢獻](#-)
 - [📄 許可證](#-)
@@ -68,16 +69,18 @@
 | 指標 | 數量 |
 |--------|-------|
 | 📝 提示詞總數 | **175** |
+| ⭐ 精選提示詞 | **3** |
 | 🔄 最後更新 | **2026-02-12** |
 
 ---
 
-## 🎬 所有提示詞
+## ⭐ 精選提示詞
 
-> 📝 按發布日期排序（最新優先）
+> 精心挑選的高品質提示詞
 
 ### 東京擎天柱大戰哥吉拉
 
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
 > 一段由 Seedance 2.0 生成的 CGI 影片描述，呈現一輛豪華轎車變形成柯博文，在下著雨的東京夜晚背景下，與哥吉拉展開激戰，伴隨著爆炸和能量衝擊。
@@ -88,13 +91,77 @@
 一輛豪華轎車變身為柯博文，與哥吉拉在下著雨的東京夜晚背景下激戰，爆發出爆炸和能量衝擊波。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="600" alt="東京擎天柱大戰哥吉拉">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="東京擎天柱大戰哥吉拉">
 
 **作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **來源:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **發布時間:** Feb 12, 2026
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=210)**
 
 ---
+### 超現實戰場浪人動作場景
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度細緻、多鏡頭的 Seedance 2.0 提示，描述了一個超現實、高動作的空中戰場場景，其中一名戴面具的浪人被一隻胸部為風暴雲漩渦的巨大有翼野獸追逐。此提示包含特定的攝影機運動、技術細節（720p、16:9、15 秒）以及戲劇性的結局。
+
+#### 📝 提示詞
+
+```
+空中超現實的戰場：漂浮的岩石島嶼在雷暴中飄移，下方雲層如海洋般翻騰。蒙面浪人奔馳於漂浮的平台之間，身後緊追著一頭巨大的有翼野獸，其胸膛是風暴雲和閃電組成的漩渦。攝影機在島嶼間飛速穿梭，努力跟上傾斜、旋轉並崩解的岩石。每一次振翅都向空氣中發出衝擊波，震動畫面，將碎屑和雨水直接吹向觀眾的臉龐。快速的手持剪輯捕捉到浪人跳過不可能的間隙，劍光劃出弧線，短暫地劃破黑暗。結尾鏡頭顯示攝影機在他跳下最後一塊崩塌的岩石時，從他身後俯衝而下，他騎著一道閃電直接衝入怪物的胸膛漩渦，發出最後一擊，孤注一擲地從內部引爆風暴，並在耀眼的閃光中清空天空。
+
+720p
+16:9
+15 秒
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="超現實戰場浪人動作場景">
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 12, 2026
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=133)**
+
+---
+### 《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個詳細且充滿活力的影片提示，用於 Seedance 2.0，生成一個 15 秒的《鬼滅之刃》風格戰鬥（水之呼吸 vs. 雷之呼吸）真人改編影片。該提示指定了風格（好萊塢真人漫畫改編、黑暗武士、4K、極端快速剪輯、粒子光效）、場景（夜晚迷霧森林），以及三個詳細描述角色動作、能力提升序列和最終衝突的獨特鏡頭。
+
+#### 📝 提示詞
+
+```
+真人版漫畫改編 · 呼吸法對決（15 秒 · 超燃特效版）
+【核心看點】：水之呼吸（藍色水龍）VS 雷之呼吸（金色閃電），真人極速對決。
+【風格】：好萊塢真人版漫畫改編電影質感，暗黑武士風，4K 超清，極致快剪，粒子光效炸裂，無血腥。
+【時長】：15 秒
+【場景】：月光下的迷霧森林，泥濘地面，落葉紛飛。
+[00:00-00:05] 鏡頭 1：水之樂章 · 序式（蓄力感）
+畫面：一位身穿綠黑格紋羽織（外套）的年輕武士，在月光下沉下重心，雙手握刀。
+動作：他深吸一口氣，周圍空氣瞬間凝固。拔刀出鞘之際，一條由高壓水流凝聚而成的巨大藍色水龍憑空出現，圍繞著他的身體和刀刃高速旋轉，發出流水咆哮聲。
+特效細節：水流具有真實的飛濺感，照亮了黑暗的森林。
+[00:05-00:10] 鏡頭 2：雷之閃光 · 進擊（極速感）
+畫面：對面，一位身穿黃色三角紋羽織的金髮劍士，身體壓得極低，擺出居合術（拔刀術）的架勢。
+動作：地面驟然炸裂。他整個人瞬間化作一道炫目的金色閃電殘影，以肉眼難以捕捉的速度，呈「Z」字形在樹林中快速折射推進。
+特效細節：他所經過之處，留下金色電弧和焦黑的落葉。
+[00:10-00:15] 鏡頭 3：水雷相撞 · 終響（絕招對轟）
+畫面：極速正面對撞。年輕武士揮舞著巨大藍色水龍迎擊，化身閃電的金髮劍士猛烈撞擊而來。
+動作：兩把刀在畫面中央劇烈碰撞。
+特效奇觀：藍色水龍與金色閃電瞬間炸裂，形成一股巨大的水雷能量風暴向外擴散。周圍的參天大樹被能量波攔腰折斷，泥土、水花和光線遮蔽了鏡頭。畫面在極致炫目的藍、黃、白光中結束。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="700" alt="《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0">
+
+**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **發布時間:** Feb 11, 2026
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=189)**
+
+---
+## 🎬 所有提示詞
+
+> 📝 按發布日期排序（最新優先）
+
 ### 恐怖短片劇本：鏡像故障
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -245,29 +312,6 @@
 **作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **發布時間:** Feb 12, 2026
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=186)**
-
----
-### 超現實戰場浪人動作場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高度細緻、多鏡頭的 Seedance 2.0 提示，描述了一個超現實、高動作的空中戰場場景，其中一名戴面具的浪人被一隻胸部為風暴雲漩渦的巨大有翼野獸追逐。此提示包含特定的攝影機運動、技術細節（720p、16:9、15 秒）以及戲劇性的結局。
-
-#### 📝 提示詞
-
-```
-空中超現實的戰場：漂浮的岩石島嶼在雷暴中飄移，下方雲層如海洋般翻騰。蒙面浪人奔馳於漂浮的平台之間，身後緊追著一頭巨大的有翼野獸，其胸膛是風暴雲和閃電組成的漩渦。攝影機在島嶼間飛速穿梭，努力跟上傾斜、旋轉並崩解的岩石。每一次振翅都向空氣中發出衝擊波，震動畫面，將碎屑和雨水直接吹向觀眾的臉龐。快速的手持剪輯捕捉到浪人跳過不可能的間隙，劍光劃出弧線，短暫地劃破黑暗。結尾鏡頭顯示攝影機在他跳下最後一塊崩塌的岩石時，從他身後俯衝而下，他騎著一道閃電直接衝入怪物的胸膛漩渦，發出最後一擊，孤注一擲地從內部引爆風暴，並在耀眼的閃光中清空天空。
-
-720p
-16:9
-15 秒
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="超現實戰場浪人動作場景">
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 12, 2026
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=133)**
 
 ---
 ### 逃離巨型怪物（奧術風格）
@@ -522,41 +566,6 @@
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021611931480609139) | **發布時間:** Feb 11, 2026
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=163)**
-
----
-### 《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個詳細且充滿活力的影片提示，用於 Seedance 2.0，生成一個 15 秒的《鬼滅之刃》風格戰鬥（水之呼吸 vs. 雷之呼吸）真人改編影片。該提示指定了風格（好萊塢真人漫畫改編、黑暗武士、4K、極端快速剪輯、粒子光效）、場景（夜晚迷霧森林），以及三個詳細描述角色動作、能力提升序列和最終衝突的獨特鏡頭。
-
-#### 📝 提示詞
-
-```
-真人版漫畫改編 · 呼吸法對決（15 秒 · 超燃特效版）
-【核心看點】：水之呼吸（藍色水龍）VS 雷之呼吸（金色閃電），真人極速對決。
-【風格】：好萊塢真人版漫畫改編電影質感，暗黑武士風，4K 超清，極致快剪，粒子光效炸裂，無血腥。
-【時長】：15 秒
-【場景】：月光下的迷霧森林，泥濘地面，落葉紛飛。
-[00:00-00:05] 鏡頭 1：水之樂章 · 序式（蓄力感）
-畫面：一位身穿綠黑格紋羽織（外套）的年輕武士，在月光下沉下重心，雙手握刀。
-動作：他深吸一口氣，周圍空氣瞬間凝固。拔刀出鞘之際，一條由高壓水流凝聚而成的巨大藍色水龍憑空出現，圍繞著他的身體和刀刃高速旋轉，發出流水咆哮聲。
-特效細節：水流具有真實的飛濺感，照亮了黑暗的森林。
-[00:05-00:10] 鏡頭 2：雷之閃光 · 進擊（極速感）
-畫面：對面，一位身穿黃色三角紋羽織的金髮劍士，身體壓得極低，擺出居合術（拔刀術）的架勢。
-動作：地面驟然炸裂。他整個人瞬間化作一道炫目的金色閃電殘影，以肉眼難以捕捉的速度，呈「Z」字形在樹林中快速折射推進。
-特效細節：他所經過之處，留下金色電弧和焦黑的落葉。
-[00:10-00:15] 鏡頭 3：水雷相撞 · 終響（絕招對轟）
-畫面：極速正面對撞。年輕武士揮舞著巨大藍色水龍迎擊，化身閃電的金髮劍士猛烈撞擊而來。
-動作：兩把刀在畫面中央劇烈碰撞。
-特效奇觀：藍色水龍與金色閃電瞬間炸裂，形成一股巨大的水雷能量風暴向外擴散。周圍的參天大樹被能量波攔腰折斷，泥土、水花和光線遮蔽了鏡頭。畫面在極致炫目的藍、黃、白光中結束。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="600" alt="《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0">
-
-**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **發布時間:** Feb 11, 2026
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=189)**
 
 ---
 ### 漂浮島上的唱歌貓
@@ -2747,13 +2756,76 @@ Seedance 2.0 文字轉影片提示
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=67)**
 
 ---
+### 流暢風格應用程式廣告生成提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 示範如何利用一張隨機圖片和一個簡單的提示，在大約 2 分鐘內生成一個簡潔的 15 秒 Fluent 風格應用程式廣告，並帶有流暢的玻璃動畫。
+
+#### 📝 提示詞
+
+```
+簡潔的 15 秒 Fluent 風格應用程式廣告，搭配流暢的玻璃動畫
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbf6295c8fffee5bf34672066439e22/thumbnails/thumbnail.jpg" width="600" alt="流暢風格應用程式廣告生成提示">
+
+**作者:** [laurenz](https://x.com/laur3nzb) | **來源:** [Link](https://x.com/laur3nzb/status/2020837174522864020) | **發布時間:** Feb 9, 2026
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=84)**
+
+---
+### 用簡單的提示詞重現電影《雲端情人》
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 該用戶解釋了他們如何使用 Seedance 2.0 重現電影《雲端情人》，並指出最初的提示很簡單，而他們的產品 @Creaibo 使用 Gemini 自動潤飾了草稿和故事板。結果顯示角色一致性良好。
+
+#### 📝 提示詞
+
+```
+我使用 Seedance2.0 重現了電影《雲端情人》的全部內容。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/411781de82bfe8ab48c478b34ed6246a/thumbnails/thumbnail.jpg" width="600" alt="用簡單的提示詞重現電影《雲端情人》">
+
+**作者:** [Rylynn.W](https://x.com/BiuRylynn) | **來源:** [Link](https://x.com/BiuRylynn/status/2020796814912610651) | **發布時間:** Feb 9, 2026
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=83)**
+
+---
+### MAX POWER 沙漠風暴動作場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個詳細的多鏡頭提示，旨在生成一場史詩級、粗獷、丹尼·維勒納夫 (Denis Villeneuve) 風格的沙漠動作場景，其中包含一場巨大的沙塵暴和一支軍事車隊，著重於規模、恐慌和高潮。
+
+#### 📝 提示詞
+
+```
+風格：IMAX 70mm 膠片、Denis Villeneuve 風格、粗獷寫實、史詩規模、去飽和。時長：15 秒。
+
+[00-05 秒] 極廣角鏡頭（規模）。一場數英里高的巨大沙塵暴吞噬了廣闊的沙漠景觀。一支由裝甲軍用車輛組成的小型車隊正從中疾馳而過。大自然與人類的規模對比令人不寒而慄。Hans Zimmer 式的緊張感。
+
+[05-10 秒] 駕駛艙視角（恐慌）。在領頭的漫遊車內。飛行員尖叫著「GO！GO！」（字幕：MAX POWER！）。攝影機劇烈搖晃。沙子猛烈地拍打著擋風玻璃。太陽被逼近的沙塵牆遮蔽。
+
+[10-15 秒] 跳躍（高潮）。漫遊車撞上一個巨大的沙丘，騰空而起（慢動作）。在黑暗的風暴中呈現剪影。塵雲中閃電劃過。碎片飛過鏡頭。撞擊時畫面變黑。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="MAX POWER 沙漠風暴動作場景">
+
+**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **發布時間:** Feb 9, 2026
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=62)**
+
+---
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 55 更多提示詞未在此顯示
+### 🎯 52 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2808,6 +2880,6 @@ Due to GitHub's content length limitations, we can only display the first 120 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-12T16:23:14.572Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-12T16:42:31.260Z</sub>
 
 </div>

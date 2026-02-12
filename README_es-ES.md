@@ -20,6 +20,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 - [🌐 Ver en la galería web](#-ver-en-la-galera-web)
 - [🤔 ¿Qué es Seedance 2.0?](#-qu-es-seedance-20)
 - [📊 Estadísticas](#-estadsticas)
+- [⭐ Prompts destacados](#-prompts-destacados)
 - [🎬 Todos los prompts](#-todos-los-prompts)
 - [🤝 Cómo contribuir](#-cmo-contribuir)
 - [📄 Licencia](#-licencia)
@@ -68,16 +69,18 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 | Métrica | Cantidad |
 |--------|-------|
 | 📝 Total de prompts | **175** |
+| ⭐ Prompts destacados | **3** |
 | 🔄 Última actualización | **2026-02-12** |
 
 ---
 
-## 🎬 Todos los prompts
+## ⭐ Prompts destacados
 
-> 📝 Ordenado por fecha de publicación (más reciente primero)
+> Prompts seleccionados con resultados excepcionales
 
 ### Optimus Prime vs. Godzilla en Tokio
 
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
 > Una descripción de un video CGI generado por Seedance 2.0, que muestra un coche de lujo transformándose en Optimus Prime y luchando contra Godzilla con el telón de fondo de una lluviosa noche en Tokio con explosiones y ráfagas de energía.
@@ -88,13 +91,77 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 Un coche de lujo se transforma en Optimus Prime y lucha contra Godzilla, desatando explosiones y ráfagas de energía en el telón de fondo de una lluviosa noche en Tokio.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="600" alt="Optimus Prime vs. Godzilla en Tokio">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs. Godzilla en Tokio">
 
 **Autor:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Fuente:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Publicado:** Feb 12, 2026
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=210)**
 
 ---
+### Escena de acción surrealista de un Ronin en el campo de batalla
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un *prompt* muy detallado y de múltiples tomas para Seedance 2.0 que describe una escena de batalla surrealista y de alta acción en el cielo, con un ronin enmascarado perseguido por una bestia alada colosal cuyo pecho es un vórtice de nubes de tormenta. El *prompt* incluye movimientos de cámara específicos, detalles técnicos (720p, 16:9, 15 segundos) y un final dramático.
+
+#### 📝 Prompt
+
+```
+Un campo de batalla surrealista en el cielo: islas de roca flotantes a la deriva en medio de una tormenta, nubes arremolinándose debajo como un océano. El ronin enmascarado corre por las plataformas a la deriva, perseguido por una bestia alada colosal cuyo pecho es un vórtice arremolinado de nubes de tormenta y relámpagos. La cámara se precipita de isla en isla, luchando por seguir el ritmo mientras las rocas se inclinan, giran y se desmoronan bajo ellos. Cada aleteo envía ondas de choque por el aire, sacudiendo el encuadre y lanzando escombros y lluvia directamente a la cara del espectador. Rápidos cortes de cámara en mano capturan al ronin saltando brechas imposibles, su espada trazando arcos de luz que cortan brevemente la oscuridad. El final muestra la cámara sumergiéndose detrás de él mientras salta de la última roca desmoronada, cabalgando un rayo directamente hacia el vórtice del pecho del monstruo con un último tajo de todo o nada que hace explotar la tormenta desde dentro y despeja el cielo en un destello cegador.
+
+720p
+16:9
+15 segundos
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="Escena de acción surrealista de un Ronin en el campo de batalla">
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publicado:** Feb 12, 2026
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=133)**
+
+---
+### Instrucciones para la batalla de acción real de Demon Slayer para Seedance 2.0
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video detallado y de alta energía para Seedance 2.0 que genera una adaptación de acción en vivo de 15 segundos de una batalla al estilo Demon Slayer (Respiración del Agua vs. Respiración del Trueno). El prompt especifica el estilo (adaptación de manga de acción en vivo de Hollywood, samurái oscuro, 4K, cortes rápidos extremos, efectos de luz de partículas), el escenario (bosque brumoso por la noche) y tres tomas distintas que detallan las acciones de los personajes, las secuencias de potenciación y el choque final.
+
+#### 📝 Prompt
+
+```
+Adaptación de Manga Live-Action · Batalla Decisiva de Estilo de Respiración (15 segundos · Versión de Efectos Especiales Ultra-Ardientes)
+【Enfoque Principal】: Respiración de Agua (Dragón de Agua Azul) VS Respiración de Trueno (Relámpago Dorado), duelo de velocidad extrema en live-action.
+【Estilo】: Calidad de película de adaptación de manga live-action de Hollywood, estilo samurái oscuro, 4K ultra nítido, cortes rápidos extremos, explosión de efectos de luz de partículas, sin sangre.
+【Duración】: 15 segundos
+【Escena】: Bosque brumoso bajo la luz de la luna, suelo fangoso, hojas cayendo.
+[00:00-00:05] Toma 1: Preludio de la Melodía del Agua · Forma Inicial (Sensación de Carga)
+Visuales: Un joven samurái vistiendo un haori (chaqueta) a cuadros verdes y negros, baja su centro de gravedad bajo la luz de la luna, sosteniendo su espada con ambas manos.
+Acción: Toma una respiración profunda, y el aire circundante se solidifica instantáneamente. Mientras desenvaina su espada, un dragón de agua azul gigante, condensado a partir de un flujo de agua a alta presión, aparece de la nada, girando rápidamente alrededor de su cuerpo y hoja, emitiendo el rugido del agua que fluye.
+Detalles de Efectos Especiales: El flujo de agua tiene una sensación realista de salpicaduras, iluminando el bosque oscuro.
+[00:05-00:10] Toma 2: Destello de Trueno · Avance (Sensación de Velocidad Extrema)
+Visuales: El oponente frente a él, un espadachín rubio vistiendo un haori con patrón triangular amarillo, baja su cuerpo extremadamente, adoptando la postura de un Iaijutsu (técnica de desenvainado de espada).
+Acción: El suelo explota repentinamente. Todo su cuerpo se transforma instantáneamente en una deslumbrante imagen residual de relámpago dorado, refractándose y avanzando rápidamente en forma de 'Z' a través de los árboles a una velocidad invisible a simple vista.
+Detalles de Efectos Especiales: Arcos eléctricos dorados y hojas caídas chamuscadas permanecen en los lugares por donde pasa.
+[00:10-00:15] Toma 3: Colisión Agua-Trueno · Sonido Final (Choque de Movimientos Definitivos)
+Visuales: Colisión frontal a velocidad extrema. El joven samurái balancea el dragón de agua azul gigante hacia abajo para encontrarse con el ataque, y el espadachín rubio, transformado en relámpago, choca contra él.
+Acción: Las dos espadas chocan violentamente en el centro del encuadre.
+Espectáculo de Efectos Especiales: El dragón de agua azul y el relámpago dorado explotan instantáneamente, formando una masiva tormenta de energía de agua y trueno que se expande hacia afuera. Los grandes árboles circundantes son partidos por la mitad por la onda de energía, y el barro, el agua y la luz oscurecen la cámara. La escena termina en una luz azul, amarilla y blanca extremadamente deslumbrante.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="700" alt="Instrucciones para la batalla de acción real de Demon Slayer para Seedance 2.0">
+
+**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Publicado:** Feb 11, 2026
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=189)**
+
+---
+## 🎬 Todos los prompts
+
+> 📝 Ordenado por fecha de publicación (más reciente primero)
+
 ### Guion de cortometraje de terror: El fallo del espejo
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -242,29 +309,6 @@ Escena 4: El jinete continúa galopando, burlándose de sí mismo (0:20-0:30, 10
 **Autor:** [John](https://x.com/john87445528) | **Fuente:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Publicado:** Feb 12, 2026
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=186)**
-
----
-### Escena de acción surrealista de un Ronin en el campo de batalla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un *prompt* muy detallado y de múltiples tomas para Seedance 2.0 que describe una escena de batalla surrealista y de alta acción en el cielo, con un ronin enmascarado perseguido por una bestia alada colosal cuyo pecho es un vórtice de nubes de tormenta. El *prompt* incluye movimientos de cámara específicos, detalles técnicos (720p, 16:9, 15 segundos) y un final dramático.
-
-#### 📝 Prompt
-
-```
-Un campo de batalla surrealista en el cielo: islas de roca flotantes a la deriva en medio de una tormenta, nubes arremolinándose debajo como un océano. El ronin enmascarado corre por las plataformas a la deriva, perseguido por una bestia alada colosal cuyo pecho es un vórtice arremolinado de nubes de tormenta y relámpagos. La cámara se precipita de isla en isla, luchando por seguir el ritmo mientras las rocas se inclinan, giran y se desmoronan bajo ellos. Cada aleteo envía ondas de choque por el aire, sacudiendo el encuadre y lanzando escombros y lluvia directamente a la cara del espectador. Rápidos cortes de cámara en mano capturan al ronin saltando brechas imposibles, su espada trazando arcos de luz que cortan brevemente la oscuridad. El final muestra la cámara sumergiéndose detrás de él mientras salta de la última roca desmoronada, cabalgando un rayo directamente hacia el vórtice del pecho del monstruo con un último tajo de todo o nada que hace explotar la tormenta desde dentro y despeja el cielo en un destello cegador.
-
-720p
-16:9
-15 segundos
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="600" alt="Escena de acción surrealista de un Ronin en el campo de batalla">
-
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publicado:** Feb 12, 2026
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=133)**
 
 ---
 ### Huyendo de un monstruo gigante (estilo Arcane)
@@ -519,41 +563,6 @@ Luffy y Goku teniendo una escena de lucha épica en el Sunny.
 **Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Fuente:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Publicado:** Feb 11, 2026
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=163)**
-
----
-### Instrucciones para la batalla de acción real de Demon Slayer para Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de video detallado y de alta energía para Seedance 2.0 que genera una adaptación de acción en vivo de 15 segundos de una batalla al estilo Demon Slayer (Respiración del Agua vs. Respiración del Trueno). El prompt especifica el estilo (adaptación de manga de acción en vivo de Hollywood, samurái oscuro, 4K, cortes rápidos extremos, efectos de luz de partículas), el escenario (bosque brumoso por la noche) y tres tomas distintas que detallan las acciones de los personajes, las secuencias de potenciación y el choque final.
-
-#### 📝 Prompt
-
-```
-Adaptación de Manga Live-Action · Batalla Decisiva de Estilo de Respiración (15 segundos · Versión de Efectos Especiales Ultra-Ardientes)
-【Enfoque Principal】: Respiración de Agua (Dragón de Agua Azul) VS Respiración de Trueno (Relámpago Dorado), duelo de velocidad extrema en live-action.
-【Estilo】: Calidad de película de adaptación de manga live-action de Hollywood, estilo samurái oscuro, 4K ultra nítido, cortes rápidos extremos, explosión de efectos de luz de partículas, sin sangre.
-【Duración】: 15 segundos
-【Escena】: Bosque brumoso bajo la luz de la luna, suelo fangoso, hojas cayendo.
-[00:00-00:05] Toma 1: Preludio de la Melodía del Agua · Forma Inicial (Sensación de Carga)
-Visuales: Un joven samurái vistiendo un haori (chaqueta) a cuadros verdes y negros, baja su centro de gravedad bajo la luz de la luna, sosteniendo su espada con ambas manos.
-Acción: Toma una respiración profunda, y el aire circundante se solidifica instantáneamente. Mientras desenvaina su espada, un dragón de agua azul gigante, condensado a partir de un flujo de agua a alta presión, aparece de la nada, girando rápidamente alrededor de su cuerpo y hoja, emitiendo el rugido del agua que fluye.
-Detalles de Efectos Especiales: El flujo de agua tiene una sensación realista de salpicaduras, iluminando el bosque oscuro.
-[00:05-00:10] Toma 2: Destello de Trueno · Avance (Sensación de Velocidad Extrema)
-Visuales: El oponente frente a él, un espadachín rubio vistiendo un haori con patrón triangular amarillo, baja su cuerpo extremadamente, adoptando la postura de un Iaijutsu (técnica de desenvainado de espada).
-Acción: El suelo explota repentinamente. Todo su cuerpo se transforma instantáneamente en una deslumbrante imagen residual de relámpago dorado, refractándose y avanzando rápidamente en forma de 'Z' a través de los árboles a una velocidad invisible a simple vista.
-Detalles de Efectos Especiales: Arcos eléctricos dorados y hojas caídas chamuscadas permanecen en los lugares por donde pasa.
-[00:10-00:15] Toma 3: Colisión Agua-Trueno · Sonido Final (Choque de Movimientos Definitivos)
-Visuales: Colisión frontal a velocidad extrema. El joven samurái balancea el dragón de agua azul gigante hacia abajo para encontrarse con el ataque, y el espadachín rubio, transformado en relámpago, choca contra él.
-Acción: Las dos espadas chocan violentamente en el centro del encuadre.
-Espectáculo de Efectos Especiales: El dragón de agua azul y el relámpago dorado explotan instantáneamente, formando una masiva tormenta de energía de agua y trueno que se expande hacia afuera. Los grandes árboles circundantes son partidos por la mitad por la onda de energía, y el barro, el agua y la luz oscurecen la cámara. La escena termina en una luz azul, amarilla y blanca extremadamente deslumbrante.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="600" alt="Instrucciones para la batalla de acción real de Demon Slayer para Seedance 2.0">
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Publicado:** Feb 11, 2026
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=189)**
 
 ---
 ### Gato Cantante en Isla Flotante
@@ -2748,13 +2757,70 @@ Un cinemático ciberpunk de 15 segundos que muestra a un hacker cazador de recue
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=67)**
 
 ---
+### Generación de avisos de anuncios de aplicaciones estilo "Fluent"
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una demostración de Seedance 2.0 generando un anuncio de aplicación limpio y de estilo Fluent de 15 segundos con animaciones de cristal suaves, utilizando una imagen aleatoria y un prompt rápido, tardando solo unos 2 minutos.
+
+#### 📝 Prompt
+
+```
+Anuncio de aplicación estilo Fluent de 15 segundos con animaciones de cristal suaves
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbf6295c8fffee5bf34672066439e22/thumbnails/thumbnail.jpg" width="600" alt="Generación de avisos de anuncios de aplicaciones estilo "Fluent"">
+
+**Autor:** [laurenz](https://x.com/laur3nzb) | **Fuente:** [Link](https://x.com/laur3nzb/status/2020837174522864020) | **Publicado:** Feb 9, 2026
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=84)**
+
+---
+### Recreando la película "Her" con un prompt sencillo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> El usuario explica cómo recreó la película "Her" usando Seedance 2.0, señalando que la instrucción inicial fue simple y que su producto @Creaibo usó Gemini para pulir automáticamente el borrador y el guion gráfico. Los resultados mostraron una sólida consistencia de los personajes.
+
+#### 📝 Prompt
+
+```
+Recreé la película entera de Her usando Seedance2.0.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/411781de82bfe8ab48c478b34ed6246a/thumbnails/thumbnail.jpg" width="600" alt="Recreando la película "Her" con un prompt sencillo">
+
+**Autor:** [Rylynn.W](https://x.com/BiuRylynn) | **Fuente:** [Link](https://x.com/BiuRylynn/status/2020796814912610651) | **Publicado:** Feb 9, 2026
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=83)**
+
+---
+### MAX POWER Escena de acción Tormenta del desierto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado y de múltiples tomas diseñado para generar una escena de acción épica y cruda en el desierto, al estilo de Denis Villeneuve, con una tormenta de arena colosal y un convoy militar, centrándose en la escala, el pánico y el clímax.
+
+#### 📝 Prompt
+
+```
+Estilo: Película IMAX 70mm, estilo Denis Villeneuve, realismo crudo, escala épica, desaturado. Duración: 15s. [00-05s] Plano general extremo (La escala). Una tormenta de arena colosal, de kilómetros de altura, engulle un vasto paisaje desértico. Un pequeño convoy de vehículos militares blindados huye de ella. La escala de la naturaleza contra el hombre es aterradora. Tensión al estilo Hans Zimmer. [05-10s] Cámara de cabina (El pánico). Dentro del vehículo principal. El piloto grita "¡VAMOS! ¡VAMOS!" (Subtítulo: ¡MÁXIMA POTENCIA!). La cámara tiembla violentamente. La arena golpea el parabrisas. El sol es bloqueado por la inminente pared de polvo. [10-15s] El salto (El clímax). El vehículo golpea una duna masiva y se lanza por los aires (Cámara lenta). Silueta contra la tormenta oscura. Un rayo cae dentro de la nube de polvo. Escombros vuelan más allá de la lente. Corte a negro al impactar.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="MAX POWER Escena de acción Tormenta del desierto">
+
+**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **Publicado:** Feb 9, 2026
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=62)**
+
+---
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 55 más prompts no mostrados aquí
+### 🎯 52 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2809,6 +2875,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-12T16:23:36.017Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-12T16:42:52.316Z</sub>
 
 </div>
