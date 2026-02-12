@@ -94,7 +94,16 @@ ${t('subtitle', locale)}
 `;
 
   // Gallery CTA
+  const imageLang = locale === 'zh' || locale === 'zh-TW' ? 'zh' : 'en';
+  const coverImage = `public/gallery-${imageLang}.jpg`;
+
   md += `## 🌐 ${t('viewInGallery', locale)}
+
+<div align="center">
+
+![Gallery](${coverImage})
+
+</div>
 
 **[${t('browseGallery', locale)}](${galleryUrl})**
 
