@@ -62,7 +62,7 @@
 | 指標 | 數量 |
 |--------|-------|
 | 📝 提示詞總數 | **37** |
-| 🔄 最後更新 | **2026-02-11** |
+| 🔄 最後更新 | **2026-02-12** |
 
 ---
 
@@ -896,6 +896,6 @@ Generate an advertisement video for the perfume product in @image2 based on the 
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-11T20:38:55.357Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-12T02:10:06.783Z</sub>
 
 </div>

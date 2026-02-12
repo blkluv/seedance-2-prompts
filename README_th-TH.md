@@ -62,7 +62,7 @@
 | เมตริก | จำนวน |
 |--------|-------|
 | 📝 พรอมต์ทั้งหมด | **37** |
-| 🔄 อัปเดตล่าสุด | **2026-02-11** |
+| 🔄 อัปเดตล่าสุด | **2026-02-12** |
 
 ---
 
@@ -890,6 +890,6 @@ Generate an advertisement video for the perfume product in @image2 based on the 
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-11T20:38:56.220Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-12T02:10:07.657Z</sub>
 
 </div>
