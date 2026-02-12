@@ -1,6 +1,8 @@
 import type { ProcessedPrompt } from './cms-client.js';
 import { t } from './i18n.js';
 
+const MAX_PROMPTS_TO_DISPLAY = 120;
+
 export interface LanguageConfig {
   code: string;
   name: string;
@@ -139,13 +141,16 @@ ${t('whatIsIntro', locale)}
 `;
 
   // Prompts
+  const displayedPrompts = prompts.slice(0, MAX_PROMPTS_TO_DISPLAY);
+  const hiddenCount = prompts.length - displayedPrompts.length;
+
   md += `## 🎬 ${t('allPrompts', locale)}
 
 > 📝 ${t('sortedByDate', locale)}
 
 `;
 
-  for (const p of prompts) {
+  for (const p of displayedPrompts) {
     const langBadge = LANG_BADGES[p.language] || `![${p.language}](https://img.shields.io/badge/lang-${p.language}-grey)`;
     const desc = p.description ? `\n> ${p.description}\n` : '';
     const authorLine = p.author
@@ -180,6 +185,35 @@ ${authorLine}${sourceLine}${dateLine}
 **[${t('watchVideo', locale)}](${tryLink})**
 
 ---
+`;
+  }
+
+  // Show More section when truncated
+  if (hiddenCount > 0) {
+    md += `---
+
+## 📚 ${t('morePrompts', locale)}
+
+<div align="center">
+
+### 🎯 ${hiddenCount} ${t('morePromptsDesc', locale)}
+
+Due to GitHub's content length limitations, we can only display the first ${MAX_PROMPTS_TO_DISPLAY} prompts in this README.
+
+**[${t('viewAll', locale)}](${galleryUrl})**
+
+${t('galleryFeature1', locale)}
+
+${t('galleryFeature2', locale)}
+
+${t('galleryFeature3', locale)}
+
+${t('galleryFeature4', locale)}
+
+</div>
+
+---
+
 `;
   }
 
