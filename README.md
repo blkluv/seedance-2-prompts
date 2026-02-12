@@ -117,7 +117,7 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="Surreal Battlefield Ronin Action Scene">
 
-**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Published:** Feb 12, 2026
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=133)**
 
@@ -200,7 +200,7 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/215fc649a96669ea5b76c1857561d2d1/thumbnails/thumbnail.jpg" width="600" alt="Action Sequence Prompt for Fighter Pilot Combat">
 
-**Author:** [𝕏Caliber](https://x.com/XCaliber) | **Source:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Published:** Feb 12, 2026
+**Author:** [𝕏Caliber](https://x.com/XCaliber) | **Source:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=170)**
 
@@ -219,7 +219,7 @@ A woman tensely asks the man in the shadows to come out. Slow push in as she tel
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d438d1f29a992559a026378861ee440/thumbnails/thumbnail.jpg" width="600" alt="Woman Confronts Man in Shadows">
 
-**Author:** [Gavin Purcell](https://x.com/gavinpurcell) | **Source:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Published:** Feb 12, 2026
+**Author:** [Gavin Purcell](https://x.com/gavinpurcell) | **Source:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=208)**
 
@@ -238,7 +238,7 @@ Handheld running shot with an overflowing bag of gold coins, jumping into water,
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Handheld Running Shot with Gold Coins Underwater">
 
-**Author:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Published:** Feb 12, 2026
+**Author:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=161)**
 
@@ -257,7 +257,7 @@ Handheld shot circling two boxers practice sparring in a gritty gym, purposefull
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60c8ce94909a1785f745bf018e1d007a/thumbnails/thumbnail.jpg" width="600" alt="Gritty Boxing Sparring Session">
 
-**Author:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Source:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Published:** Feb 12, 2026
+**Author:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Source:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=140)**
 
@@ -306,7 +306,7 @@ Scene 4: Rider Self-Mockingly Continues Galloping Away (0:20-0:30, 10 seconds)
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31130a874536d7d55a28e682d4cf4105/thumbnails/thumbnail.jpg" width="600" alt="Absurd Comedy Video Prompt for Seedance 2.0: Nothing">
 
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Published:** Feb 12, 2026
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=186)**
 
@@ -325,7 +325,7 @@ generate a video about a running scene, behind is a giant monster big as a build
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b90edd9ac7efa64817e14e6d40df279/thumbnails/thumbnail.jpg" width="600" alt="Running from a Giant Monster (Arcane Style)">
 
-**Author:** [Dipper](https://x.com/dipperdao) | **Source:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Published:** Feb 12, 2026
+**Author:** [Dipper](https://x.com/dipperdao) | **Source:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=142)**
 
@@ -357,7 +357,7 @@ A low, resonant hum builds. The air ahead fractures like glass. A circular porta
 
 <img src="https://pbs.twimg.com/ext_tw_video_thumb/2021687496200138752/pu/img/5dvJPMJNeKbkhWXw.jpg" width="600" alt="The Flash Director's Prompt">
 
-**Author:** [Rufus](https://x.com/Rufus87078959) | **Source:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Published:** Feb 12, 2026
+**Author:** [Rufus](https://x.com/Rufus87078959) | **Source:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=167)**
 
@@ -376,7 +376,7 @@ A colossal armored baboon charges through a burning Maasai village, it picks up 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02f55f5c494f8d1f9d0a718ac57b2e65/thumbnails/thumbnail.jpg" width="600" alt="Chaos in a Maasai Village">
 
-**Author:** [Travis Davids](https://x.com/MrDavids1) | **Source:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Published:** Feb 12, 2026
+**Author:** [Travis Davids](https://x.com/MrDavids1) | **Source:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=160)**
 
@@ -395,7 +395,7 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 
 <img src="https://cms-assets.youmind.com/media/1770877985462_1ibmxy_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster (80s Action)">
 
-**Author:** [S0ft](https://x.com/softisaccurate) | **Source:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **Published:** Feb 12, 2026
+**Author:** [S0ft](https://x.com/softisaccurate) | **Source:** [Link](https://x.com/softisaccurate/status/2021679124511678523) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=178)**
 
@@ -414,7 +414,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5092796a86a2832e73822aa47ca603/thumbnails/thumbnail.jpg" width="600" alt="Cinematic WW2 Motorcycle Escape">
 
-**Author:** [pewden AI](https://x.com/pewdenai) | **Source:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Published:** Feb 12, 2026
+**Author:** [pewden AI](https://x.com/pewdenai) | **Source:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=126)**
 
@@ -443,7 +443,7 @@ Stationary camera. One continuous shot as characters walk in and takes their sea
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e38054ccc4db74903e650688542c0343/thumbnails/thumbnail.jpg" width="600" alt="Multi-Character Cabin Scene with Dialogue">
 
-**Author:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Published:** Feb 12, 2026
+**Author:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=138)**
 
@@ -462,7 +462,7 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Thanos Apologizes to Spider-Man Prompt">
 
-**Author:** [xAi✨](https://x.com/xai_42) | **Source:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Published:** Feb 12, 2026
+**Author:** [xAi✨](https://x.com/xai_42) | **Source:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=207)**
 
@@ -481,7 +481,7 @@ Lumpen, Hobo, female version, old battered cat, with chains to draw attention wi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85d1aebb62f992fff11664df0d9583bc/thumbnails/thumbnail.jpg" width="600" alt="Lumpen Hobo woman with chains">
 
-**Author:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Source:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Published:** Feb 12, 2026
+**Author:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Source:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=205)**
 
@@ -503,7 +503,7 @@ He transforms into a giant black dragon and grabs everyone from the sky (Loki's 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a9d6e1efa7aef7c68a9a890b31c79f5/thumbnails/thumbnail.jpg" width="600" alt="One Piece Inspired Text-to-Video Prompt">
 
-**Author:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Source:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Published:** Feb 12, 2026
+**Author:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Source:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=199)**
 
@@ -522,7 +522,7 @@ You provide the intent; the engine handles the cinematic soul. Lighting, texture
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4bd4e49f0d6ebb7ed21ee725dbc9767/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Intent-Based Generation">
 
-**Author:** [YTMasterAi](https://x.com/YTMasterAi) | **Source:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **Published:** Feb 12, 2026
+**Author:** [YTMasterAi](https://x.com/YTMasterAi) | **Source:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=218)**
 
@@ -541,7 +541,7 @@ A massive kraken attacks a pirate ship, the captain slices it with his sword.  h
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cab0603b68df8f1d2824e07ef9ada6df/thumbnails/thumbnail.jpg" width="600" alt="Kraken Attack Cinematic Scene">
 
-**Author:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Published:** Feb 12, 2026
+**Author:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=152)**
 
@@ -1874,7 +1874,7 @@ title: "Never Too Late" duration: 15s style: era: 1980s training montage look: g
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/601518beceb637df826e310314ea4c9a/thumbnails/thumbnail.jpg" width="600" alt="1980s Training Montage VHS Style Prompt">
 
-**Author:** [A.I.Warper](https://x.com/AIWarper) | **Source:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **Published:** Feb 11, 2026
+**Author:** [A.I.Warper](https://x.com/AIWarper) | **Source:** [Link](https://x.com/AIWarper/status/2021352980205928572) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=108)**
 
@@ -1893,7 +1893,7 @@ Wide shot of a cheap government interrogation room TV set. Three government agen
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0d4a9bc64b3090010c9c235e08ea8471/thumbnails/thumbnail.jpg" width="600" alt="Interrogation Room Scene Prompt">
 
-**Author:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **Source:** [Link](https://x.com/plasm0/status/2021348721775214616) | **Published:** Feb 11, 2026
+**Author:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **Source:** [Link](https://x.com/plasm0/status/2021348721775214616) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=103)**
 
@@ -1912,7 +1912,7 @@ I only asked for a Brazilian phonk edit with famous anime characters, and it gav
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c6fb0ae43ed911c1c1fc5fe8603156c/thumbnails/thumbnail.jpg" width="600" alt="Brazilian Phonk Anime Edit Prompt">
 
-**Author:** [nachos2d](https://x.com/NACHOS2D_) | **Source:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **Published:** Feb 11, 2026
+**Author:** [nachos2d](https://x.com/NACHOS2D_) | **Source:** [Link](https://x.com/NACHOS2D_/status/2021332453022105670) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=105)**
 
@@ -1931,7 +1931,7 @@ Great at action, but the guy in black does a funny turn, morphs.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/44a4cde36e3d158548f9a721f3f8084d/thumbnails/thumbnail.jpg" width="600" alt="Action with Morphing Turn">
 
-**Author:** [madpencil_](https://x.com/madpencil_) | **Source:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **Published:** Feb 11, 2026
+**Author:** [madpencil_](https://x.com/madpencil_) | **Source:** [Link](https://x.com/madpencil_/status/2021328328540803281) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=214)**
 
@@ -1950,7 +1950,7 @@ A multi-shot cinematic kitchen comedy about a family of mythical creatures. Inte
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1e733c7e963ac77c87158f2d3bcf788/thumbnails/thumbnail.jpg" width="600" alt="Multi-Shot Cinematic Kitchen Comedy Prompt">
 
-**Author:** [AI Pulse](https://x.com/youraipulse) | **Source:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **Published:** Feb 11, 2026
+**Author:** [AI Pulse](https://x.com/youraipulse) | **Source:** [Link](https://x.com/youraipulse/status/2021312349714735305) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=102)**
 
@@ -1969,7 +1969,7 @@ A multi-shot cinematic kitchen comedy about a family of mythical creatures. Inte
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc96e2f68aa3f98bae3f39e72a880939/thumbnails/thumbnail.jpg" width="600" alt="Pirate Tavern Entrance with Flamethrower">
 
-**Author:** [Theoretically Media](https://x.com/TheoMediaAI) | **Source:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **Published:** Feb 11, 2026
+**Author:** [Theoretically Media](https://x.com/TheoMediaAI) | **Source:** [Link](https://x.com/TheoMediaAI/status/2021302634661941422) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=93)**
 
@@ -1988,7 +1988,7 @@ A multi-shot cinematic kitchen comedy about a family of mythical creatures. Inte
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a161c0a0756fd7db2f92759c86846967/thumbnails/thumbnail.jpg" width="600" alt="Detailed 5-Cut Scene Generation">
 
-**Author:** [Brett Stuart](https://x.com/bstuartTI) | **Source:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **Published:** Feb 11, 2026
+**Author:** [Brett Stuart](https://x.com/bstuartTI) | **Source:** [Link](https://x.com/bstuartTI/status/2021299278455681206) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=124)**
 
@@ -2007,7 +2007,7 @@ A cinematic race scene. In eu, in the early 2000s, snowy weather, cinematic acti
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3a440755a726b2e993fd5bb3778a8f2/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Rally Car Scene">
 
-**Author:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **Source:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **Published:** Feb 11, 2026
+**Author:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **Source:** [Link](https://x.com/WolfRiccardo/status/2021296674539188612) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=123)**
 
@@ -2026,7 +2026,7 @@ cinematic romantic epic film trailer, fast professional cuts. booming sci-fi rom
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/081a43eafe80dd6976b0e3de8229ed8a/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Romantic Epic Film Trailer">
 
-**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **Published:** Feb 11, 2026
+**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2021296277208826089) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=98)**
 
@@ -2045,7 +2045,7 @@ high-speed motorcycle chase scene through the city. cinematic action film
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f8b3776cdca944ff68b97cd4e9d4624/thumbnails/thumbnail.jpg" width="600" alt="Cinematic High-Speed Motorcycle Chase Scene">
 
-**Author:** [Blaine Brown](https://x.com/blizaine) | **Source:** [Link](https://x.com/blizaine/status/2021295079043023257) | **Published:** Feb 11, 2026
+**Author:** [Blaine Brown](https://x.com/blizaine) | **Source:** [Link](https://x.com/blizaine/status/2021295079043023257) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=96)**
 
@@ -2064,7 +2064,7 @@ The gorilla is fighting 100 men, cut to punch close ups, cut to jerky handheld c
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/789a1bae3e5386be7755306f518af70f/thumbnails/thumbnail.jpg" width="600" alt="Gorilla fighting 100 men, cinematic handheld style">
 
-**Author:** [Mr. Abu Joe](https://x.com/mrabujoe) | **Source:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **Published:** Feb 11, 2026
+**Author:** [Mr. Abu Joe](https://x.com/mrabujoe) | **Source:** [Link](https://x.com/mrabujoe/status/2021289756106072250) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=107)**
 
@@ -2083,7 +2083,7 @@ Use the three characters and scene in the image to create a battle. [Scene Setti
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4fc22a4bd8a7349ae5edcf1927913dba/thumbnails/thumbnail.jpg" width="600" alt="Epic Gothic Battle Scene Video Prompt">
 
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021277605224165468) | **Published:** Feb 11, 2026
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021277605224165468) | **Published:** Feb 10, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=110)**
 
@@ -2649,7 +2649,7 @@ Lens 12 (polar vision freeze) is pulled to the cosmic scale. Aquariums are just 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27a0947c9229f6dbc87a1f19c355e88e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Allegory of AI Captivity (Multi-Shot Prompt)">
 
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2020990215477723360) | **Published:** Feb 10, 2026
+**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2020990215477723360) | **Published:** Feb 9, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=60)**
 
@@ -2668,7 +2668,7 @@ photorealistic shot of the women's beam final at the olympics. gymnast from the 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eeba965f95627789ea8c1558500872be/thumbnails/thumbnail.jpg" width="600" alt="Olympic Gymnastics Beam Final">
 
-**Author:** [Justine Moore](https://x.com/venturetwins) | **Source:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **Published:** Feb 10, 2026
+**Author:** [Justine Moore](https://x.com/venturetwins) | **Source:** [Link](https://x.com/venturetwins/status/2020951690183311780) | **Published:** Feb 9, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=65)**
 
@@ -2687,7 +2687,7 @@ photorealistic shot of the women's snowboard big air competition at the olympics
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/93b779f2d0618204260679f051a1d717/thumbnails/thumbnail.jpg" width="600" alt="Olympic Snowboard Big Air Competition">
 
-**Author:** [Justine Moore](https://x.com/venturetwins) | **Source:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **Published:** Feb 10, 2026
+**Author:** [Justine Moore](https://x.com/venturetwins) | **Source:** [Link](https://x.com/venturetwins/status/2020941966465433672) | **Published:** Feb 9, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=66)**
 
@@ -2708,7 +2708,7 @@ Visuals: (Do not resemble any real-life celebrities; the characters must be fict
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02b7739ca42faa1f76549e9a1a3ea826/thumbnails/thumbnail.jpg" width="600" alt="Dramatic Scene Generation Prompt">
 
-**Author:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **Source:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **Published:** Feb 10, 2026
+**Author:** [Heidi Fu 赛博大福](https://x.com/Heidifu666) | **Source:** [Link](https://x.com/Heidifu666/status/2020901968936640567) | **Published:** Feb 9, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=72)**
 
@@ -2869,6 +2869,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-02-12T16:42:27.164Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-02-12T16:58:40.900Z</sub>
 
 </div>
