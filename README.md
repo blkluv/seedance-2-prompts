@@ -91,7 +91,7 @@ Why use our gallery?
 a luxury car transforming into Optimus Prime and battling Godzilla amidst explosions and energy blasts against the backdrop of a rainy Tokyo nightscape
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Luxury Car Transforming into Optimus Prime Fighting Godzilla in Tokyo">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4" controls width="700" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Source:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Published:** Feb 12, 2026
 
@@ -115,7 +115,7 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 15 seconds
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Surreal Ronin Action Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4" controls width="700" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Published:** Feb 11, 2026
 
@@ -155,7 +155,7 @@ Action: The two swords violently collide in the center of the frame.
 Special Effects Spectacle: The blue water dragon and the golden lightning instantly explode, forming a massive water-thunder energy storm that spreads outwards. The surrounding large trees are snapped in half by the energy wave, and mud and light obscure the camera. The scene ends in an extremely dazzling blue, yellow, and white light.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Live-Action Anime Adaptation: Water vs. Thunder Breathing Duel">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4" controls width="700" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Published:** Feb 11, 2026
 
@@ -178,7 +178,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandishing his golden cudgel, his robe fluttering in the wind. The city lights illuminate the night, creating a cinematic and epic feel. The camera slowly zooms in on the image, 4 seconds." Music Accompanying Scene 2: "Homelander descends slowly from the sky, his eyes glowing with red laser light. Dark clouds churn, superhero movie style, slow motion, 4 seconds." Music Accompanying Scene 3: "Sun Wukong attacks Homelander at high speed, swinging his golden cudgel. The air shakes, action movie effect, motion blur effect, slow motion, 4 seconds." Music Accompanying Scene 4: "Homelander fires a red laser, colliding with the golden cudgel's energy. The sky explodes, the clouds tear apart, science fiction film style, intense light effects, 4 seconds." Scene 5: "The two float in the air, facing each other, energy ripples spreading. Epic closing scene, wide angle, cinematic composition, 4 seconds."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="Multi-Scene Cinematic Battle Prompt (Sun Wukong vs. Homelander)">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [chimi チミワウ](https://x.com/chimiwaw) | **Source:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Published:** Feb 12, 2026
 
@@ -197,7 +197,7 @@ Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandish
 "Sailor moon jumping onto the bed and screaming "Girls, we did it!". Sailor Venus appears and says: "How many were there? 6? 7?". Sailor Jupiter laughs and says "6 7!""
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="Sailor Moon Dialogue Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Source:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Published:** Feb 12, 2026
 
@@ -216,7 +216,7 @@ Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandish
 {This is a scene of a John Woo-style gunfight action sequence in a street setting. Based on scene image 3, generate a smooth gunfight sequence in a narrow space featuring a man in a white suit "Image 1" and a man in a floral shirt "Image 2" in a realistic style. The sequence needs to utilize storyboarding and different perspective switches to give the entire scene more rhythm and cinematic quality. }
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="John Woo Style Gunfight Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Published:** Feb 12, 2026
 
@@ -235,7 +235,7 @@ Music Accompanying Scene 1: "Sun Wukong stands on the roof of the city, brandish
 A Wuxia-style audiovisual blockbuster. A white-clad swordsman and a straw-caped blademaster face off in a bamboo forest. The camera slowly pushes in between them, shifting focus between raindrops and sword hilts. The atmosphere is extremely oppressive; only the sound of rain can be heard. Suddenly, a crack of thunder flashes, and both charge simultaneously. A fast-panning profile shot captures their mud-splattering footsteps. The precise moment their weapons clash, the footage switches to ultra-slow motion, clearly displaying the ring-shaped shockwaves of rainwater blasted away by the blades, along with bamboo leaves sliced by sword aura. Normal speed resumes as they land back-to-back. The straw-caped blademaster's bamboo hat splits open, and the scene cuts abruptly.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Swordsman Duel Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Jay Sensei👾](https://x.com/hckinz) | **Source:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Published:** Feb 12, 2026
 
@@ -254,7 +254,7 @@ A Wuxia-style audiovisual blockbuster. A white-clad swordsman and a straw-caped 
 A multi shot high action epic video about exodus story in the style of mad max
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="Mad Max Exodus Story Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Source:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Published:** Feb 12, 2026
 
@@ -273,7 +273,7 @@ A multi shot high action epic video about exodus story in the style of mad max
 Man in green suit with logo fighting with man in black, in style of spy movies, X man beaten on the floor screaming elooooon! in the end
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="Spy Movie Fight Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Restlessperson ](https://x.com/Restlessperson1) | **Source:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Published:** Feb 12, 2026
 
@@ -293,7 +293,7 @@ Ancient costume execution ground/Bloody tear revenge
 Shot 11 Close-up • Snowflakes mixed with blood water fall onto the cold stone surface of the execution ground. The blood water instantly freezes, the snowflakes cover it layer by layer, and then are soaked through by newly flowing blood beads, spreading dark purple traces. The cold is bone-chilling.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="Text-to-Video Prompt: Ancient Costume Execution Ground Revenge Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Ken W](https://x.com/kenw_2) | **Source:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Published:** Feb 12, 2026
 
@@ -312,7 +312,7 @@ Shot 11 Close-up • Snowflakes mixed with blood water fall onto the cold stone 
 Kamala vs Trump fight with same Tom and John Whick Prompt.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="Kamala vs Trump Fight with Tom and John Wick Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Source:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Published:** Feb 12, 2026
 
@@ -331,7 +331,7 @@ Kamala vs Trump fight with same Tom and John Whick Prompt.
 360-degree panoramic camera selfie. The camera rotates counterclockwise, capturing the dessert shop interior. Then show a woman posing in different scenes, wearing different outfits and using different props.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="360-degree Panoramic Selfie in a Dessert Shop">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [nachos2d](https://x.com/NACHOS2D_) | **Source:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Published:** Feb 12, 2026
 
@@ -350,7 +350,7 @@ Kamala vs Trump fight with same Tom and John Whick Prompt.
 Women brutal fight vs elon musk with beautiful kick boxing style, and kick fatality. Kinetic. No artifacts. Shoot by arri alexa. No 3d. No CGI. No talk. Consistent characters and environment. THE RAID brutal fight film style (dynamic handheld camera movement).
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Image-to-Video Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Apil](https://x.com/apilpirman) | **Source:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Published:** Feb 12, 2026
 
@@ -369,7 +369,7 @@ Women brutal fight vs elon musk with beautiful kick boxing style, and kick fatal
 live action Saiyan battle between Goku & Vegeta, super saiyan blue
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="Live Action DBZ Battle Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Published:** Feb 12, 2026
 
@@ -388,7 +388,7 @@ live action Saiyan battle between Goku & Vegeta, super saiyan blue
 "1980s TV studio interview, blonde female journalist with long hair and low-cut dress asking vampire 'before we end the show, would you like to say anything else, Count Dracula?', elegant vampire in suit leans forward saying 'what a beautiful neck you have', she laughs nervously showing garlic and crucifix, vampire smirks saying 'those are old myths, they do nothing to me', retro 80s TV set with vintage cameras, warm studio lighting, talk show atmosphere, cinematic"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="1980s Vampire Interview Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Source:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **Published:** Feb 12, 2026
 
@@ -407,7 +407,7 @@ live action Saiyan battle between Goku & Vegeta, super saiyan blue
 A fast-paced fight scene: John Wick &. James Bond (007) & another guy — a three-way brutal showdown.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="Fast-Paced Action Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Chraft](https://x.com/chraft_ai) | **Source:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **Published:** Feb 12, 2026
 
@@ -426,7 +426,7 @@ A fast-paced fight scene: John Wick &. James Bond (007) & another guy — a thre
 An ethereal dark fantasy female figure, with long flowing hair, wearing a complex metal crown with sharp, antler-like points, eyes closed, serene expression, and pale skin softly glowing. Her forearms and torso transform into smooth black liquid metal with reflective chrome details, sharp, claw-like fingers extending from the darkness. Dramatic backlighting creates a halo effect around her head, a cold blue misty atmosphere, cinematic lighting, rich in detail, surreal and elegant, dark fantasy aesthetic.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="Dark Fantasy Female Image Video Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **Source:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **Published:** Feb 12, 2026
 
@@ -445,7 +445,7 @@ An ethereal dark fantasy female figure, with long flowing hair, wearing a comple
 generate a fight scene between Brad Pitt and Tom Cruise, with their dialogue during the fight revolving around the Epstein files.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt and Tom Cruise Fight Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **Source:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **Published:** Feb 12, 2026
 
@@ -464,7 +464,7 @@ generate a fight scene between Brad Pitt and Tom Cruise, with their dialogue dur
 Use cute pet images to unfold a story about a overbearing president falling in love with a cleaning girl, with anthropomorphic standing poses.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Anthropomorphic Romance Story">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Rayko_Zopia](https://x.com/Fox1251104) | **Source:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **Published:** Feb 12, 2026
 
@@ -483,7 +483,7 @@ Use cute pet images to unfold a story about a overbearing president falling in l
 a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic angles
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="Multi-shot Creature Race Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **Published:** Feb 12, 2026
 
@@ -520,7 +520,7 @@ Audience: Stands up frantically, applauds, some even have tears in their eyes.
 [Dialogue/Catchphrase]: "Tonight, let us together, rewrite destiny! To get rich, first take off your pants (meaning, leave your comfort zone)! If you understand, clap!!!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="Chinese Success Seminar (Chicken Soup) Video Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **Published:** Feb 12, 2026
 
@@ -557,7 +557,7 @@ Action: Instant acceleration from a standstill. The car “Y” transforms into 
 Ending Freeze Frame: The car body flies towards a giant full moon, and a silver metallic 3D Logo appears in the center of the frame: “Y - Drive the Future”.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Car Commercial Prompt (Y - Drive the Future)">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **Published:** Feb 12, 2026
 
@@ -601,7 +601,7 @@ Close-up: The shot finally focuses on his desperate, hollow eyes (pupils losing 
 [Subtitle (Yellow Vintage Font)]: Stock market involves risk, caution is advised upon entry.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="The Great Era (大时代) 90s HK TV Drama Style Video Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **Published:** Feb 12, 2026
 
@@ -642,7 +642,7 @@ Seedance 2.0 Prompt
 15-second modern short drama, high-end restaurant scene, warm golden tones contrasting with cold emotions. 0-3 sec: Mid-shot fixed camera, a beautiful girl is celebrating her birthday with friends, laughter is joyful. The restaurant door is suddenly pushed open—her most trusted best friend walks in arm-in-arm with her boyfriend. All laughter stops abruptly. The girl holding the wine glass freezes mid-air, her smile solidified; 4-8 sec: The best friend's expression is momentarily unnatural when she sees the girl, she tries to pull the boyfriend to another seat, but the boyfriend shakes off her hand and walks straight to the girl, placing a gift box in front of her, "Happy Birthday." The best friend's face turns ugly. The girl looks at the boyfriend, then the best friend, and finally her gaze lands on their hands—the best friend is wearing the same bracelet that the boyfriend claimed he "lost" a few days ago; 9-12 sec: The girl says nothing, just quietly picks up the wine glass and drinks it in one go. Then she stands up and walks to the best friend. Everyone holds their breath. The girl smiles and slowly pours the bottle of wine onto the best friend's limited edition handbag. The best friend widens her eyes, trying to scream, but the girl presses her shoulder; 13-15 sec: The girl leans close to the best friend's ear and whispers softly, "Next time you steal someone's man, remember to hide what shouldn't be exposed first." The best friend's face turns pale. The girl turns and walks away elegantly. The camera pulls back to show the best friend standing stiffly in place, the boyfriend full of regret, concluding with a low BGM and surrounding whispers.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="Three Short Drama Prompts (Modern Romance/Conflict)">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **Published:** Feb 12, 2026
 
@@ -661,7 +661,7 @@ Seedance 2.0 Prompt
 High-intensity action thriller scene, hand-held shaky camera, cinematic motion blur, the woman storms into the cockpit and freezes as she realizes the pilot seats are empty, warning alarms flashing red, turbulence shaking the cabin, she sprints forward and straps herself into the
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="High-Intensity Action Thriller Scene in a Cockpit">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Kemal Cagin](https://x.com/kemalcse) | **Source:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **Published:** Feb 12, 2026
 
@@ -680,7 +680,7 @@ High-intensity action thriller scene, hand-held shaky camera, cinematic motion b
 A flooded subterranean megastructure, ancient stone corridors  half-submerged in black water, bioluminescent algae pulsing  along the walls like a heartbeat. A masked diver in scarred  tactical gear, lit by a flickering wrist-mounted flare, is  pulled downward through collapsing flooded chambers by the  current of a colossal eyeless leviathan moving beneath the  floor grates. The camera plunges after the diver as water  rushes through shattering stone archways, air bubbles and  debris spiraling past the lens. The diver grabs a broken  pillar to stop herself, the current ripping at her body, then  releases and freefalls through a vertical shaft, twisting to  dodge the leviathan's translucent tendrils whipping upward  through the darkness. Quick shaky frames catch her igniting  a harpoon gun mid-fall, the flare illuminating the creature's  massive jaw opening below. In the final movement, the camera  spirals downward around her as she fires the harpoon into the  creature's mouth, the bioluminescence erupts blinding white,  and the camera bursts through the surface of a vast  underground ocean, the diver silhouetted against the glow of  a thousand pulsing organisms on a cathedral-sized cavern  ceiling. 15 seconds..
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="The Leviathan's Throat: Underwater Megastructure Descent">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **Published:** Feb 12, 2026
 
@@ -699,7 +699,7 @@ A flooded subterranean megastructure, ancient stone corridors  half-submerged in
 generate a video of a man in front of an elephant at the zoo, blurry old camera style
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="Man and Elephant at Zoo (Old Camera Style)">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **Source:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **Published:** Feb 12, 2026
 
@@ -718,7 +718,7 @@ generate a video of a man in front of an elephant at the zoo, blurry old camera 
 Please create an exciting combat scene between Spider-Man and Octopus Man using #Seedance 2.0.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="Spider-Man vs. Octopus Man Fight Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **Source:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **Published:** Feb 12, 2026
 
@@ -755,7 +755,7 @@ Seedance 2.0 Prompt
   10-second Electronic Future Bass MV beat-sync shots, ultra-widescreen, neon city night view. 0-1 sec: Fixed shot, neon lights reflecting on the wet street of a rainy night city, cyberpunk buildings reflected in puddles, the visual rhythm slightly shaking in sync with the low-frequency Bass; 2-4 sec: Camera quickly pushes forward along the street, passing through the rain curtain, every drop of rain splashes up on the Bass heavy beat, camera speed fluctuates with the music rhythm; 5-7 sec: Cuts into a character's perspective, a girl wearing headphones dances in the rain, her movements perfectly sync with the Bass—her body freezes for one frame on every heavy beat creating a sense of pause, neon lights form light trails on her, raindrops are shattered in the air by the music; 8-9 sec: Camera quickly zooms out and pans up, overlooking the entire neon street, the visual ripple of the Bass in the rain spreads out in circles from the center of the street, each ripple precisely corresponding to a heavy beat; 10 sec: The scene freezes in the overhead view, the street view instantly reverses to black and white on the final beat and then fades to black, concluding with the aftershock of the Bass and the gradual fading of the rain sound.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="Three Styles of 10-Second MV Prompts">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **Published:** Feb 12, 2026
 
@@ -774,7 +774,7 @@ Seedance 2.0 Prompt
 "Ultra-dynamic anime action scene of Naruto from Naruto and Luffy from One Piece fighting on a shattered rocky battlefield at sunset."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="Naruto and Luffy Fighting Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Youn Hwang](https://x.com/YounchanHwang) | **Source:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **Published:** Feb 12, 2026
 
@@ -793,7 +793,7 @@ Seedance 2.0 Prompt
 Michael Jackson vs Hitler in an epic face-off.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="Michael Jackson vs Hitler Face-off">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [ImPaul](https://x.com/impaulxyz) | **Source:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **Published:** Feb 12, 2026
 
@@ -835,7 +835,7 @@ Action: A delicate home-cooked dish is placed on the wooden long table in the ya
 Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you can almost hear the wind, showcasing the ultimate sense of relaxation modern people yearn for.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="Modern Rural Aesthetics Healing Short Film Video Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **Published:** Feb 12, 2026
 
@@ -854,7 +854,7 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 Just put some Madoka Magica bullshit on screen, the trilogy already perfect anyway.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="Madoka Magica Bullshit Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [alpon](https://x.com/StayGoys) | **Source:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **Published:** Feb 12, 2026
 
@@ -873,7 +873,7 @@ Just put some Madoka Magica bullshit on screen, the trilogy already perfect anyw
 as the wind moves the plants slowly, the flowers start to move together and create the final shape.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="Flowers Creating a Final Shape Prompt (Seedance Pro 1.0)">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Gabriela Cardona](https://x.com/gcwalther_x) | **Source:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **Published:** Feb 12, 2026
 
@@ -892,7 +892,7 @@ as the wind moves the plants slowly, the flowers start to move together and crea
 "Vegeta super saiyan 100 vs a nonchalance impassable base form Goku"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="Vegeta Super Saiyan 100 vs Base Goku Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Lozio](https://x.com/minilozio) | **Source:** [Link](https://x.com/minilozio/status/2021801238191354346) | **Published:** Feb 12, 2026
 
@@ -913,7 +913,7 @@ Your dog. vs Prime Ronaldo.
 Champions League final.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="Dog vs. Prime Ronaldo in Champions League Final">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **Source:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **Published:** Feb 12, 2026
 
@@ -949,7 +949,7 @@ Action: The solid water flow greatsword violently clashes with the lightning lig
 Special Effects: No comic lines, only **real physical particle explosion**. Large amounts of water vapor, mud, broken branches, and dazzling electric sparks scatter in the air. The shockwave lifts circles of real ripples from the standing water beneath their feet. The scene possesses great weight and destructive power.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Live-Action Blockbuster Video Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **Published:** Feb 12, 2026
 
@@ -973,7 +973,7 @@ Special Effects: No comic lines, only **real physical particle explosion**. Larg
 [00:11-00:15] Shot 3: The Punchline. Action: The protagonist, who has reached the door, seems to sense something is wrong and suddenly turns back to look at the mirror. Result: The mirror has completely returned to normal, empty, reflecting only the opposite wall. The protagonist looks bewildered and scared, glances around the room, and shows a look of horror. The scene freezes on the protagonist's confused face (horror movie effect).
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="Horror Short Film Prompt: The Glitch in the Mirror">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [MapleShaw](https://x.com/msjiaozhu) | **Source:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **Published:** Feb 12, 2026
 
@@ -992,7 +992,7 @@ Special Effects: No comic lines, only **real physical particle explosion**. Larg
 "Astronaut anime warrior battling a massive octopus alien creature, dynamic mid-air clash, intense motion and impact, ultra realistic lighting, cinematic composition, 3D painterly rendering style inspired by Arcane, stylized brush-textured shading, volumetlic fog, dramatic rim
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="Anime Warrior vs. Octopus Alien">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Charles Boonsu](https://x.com/Boonsu28) | **Source:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **Published:** Feb 12, 2026
 
@@ -1011,7 +1011,7 @@ Special Effects: No comic lines, only **real physical particle explosion**. Larg
 Action sequence of top-tier fighter pilot doing airborne combat in modern fighter jets. Multiple shots of ultra-fast and intense aerial combat, switching to close-up profile shots of the pilots' reactions, their hands doing gear/switch changes, and
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="Action Sequence of Fighter Pilots in Airborne Combat">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [𝕏Caliber](https://x.com/XCaliber) | **Source:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Published:** Feb 11, 2026
 
@@ -1030,7 +1030,7 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 "A woman tensely asks the man in the shadows to come out. Slow push in as she tells him she knows everything he's done and he's going to pay. Deep in the shadows, we see the figure as he responds."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="Woman confronts man in shadows">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Gavin Purcell](https://x.com/gavinpurcell) | **Source:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Published:** Feb 11, 2026
 
@@ -1049,7 +1049,7 @@ Action sequence of top-tier fighter pilot doing airborne combat in modern fighte
 Doramon and spiderman fighting very high quality and intense
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="Doraemon and Spiderman Fighting">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Source:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Published:** Feb 11, 2026
 
@@ -1068,7 +1068,7 @@ Doramon and spiderman fighting very high quality and intense
 Handheld running shot with an overflowing bag of gold coins, jumping into water, and having the camera follow him underwater.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Handheld Running Shot with Gold Coins">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Published:** Feb 11, 2026
 
@@ -1087,7 +1087,7 @@ Handheld running shot with an overflowing bag of gold coins, jumping into water,
 Handheld shot circling two boxers practice sparring in a gritty gym, purposefully missing each other with their swings. Sweat droplets, sharp impacts, breathing intensity. Shallow depth of field, practical lighting, visceral realism, stable identity. Duration: 10s. Aspect ratio: 16:9. Photoreal cinematic. Single shot unless specified. Avoid text, captions, watermarks, logos. Stress camera movement: smooth parallax, consistent objects, stable faces; no text
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="Boxers Sparring Cinematic Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Source:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Published:** Feb 11, 2026
 
@@ -1138,7 +1138,7 @@ Scene 4: The rider mocks himself, continues to ride away (0:20-0:30, 10 seconds)
 • Atmosphere: Self-mocking yet dashing, heroic and unrestrained, symbolic ending (“Nothing” can still move forward)
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Political Satire Short Film: The 'Nothing' Hero's Ride">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Published:** Feb 11, 2026
 
@@ -1157,7 +1157,7 @@ Scene 4: The rider mocks himself, continues to ride away (0:20-0:30, 10 seconds)
 generate a video about  a running scene, behind is a giant monster big as a building with 100 floor is coming close, using Arcane style.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="Arcane Style Monster Chase">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Dipper](https://x.com/dipperdao) | **Source:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Published:** Feb 11, 2026
 
@@ -1208,7 +1208,7 @@ A low, resonant hum builds. The air ahead fractures like glass. A circular porta
 A colossal armored baboon charges through a burning Maasai village, it picks up and throws a maasai warrior into a burning hut, Maasai warriors are running away in fear amid a storm of fire and debris.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="Chaos erupts in a Maasai village">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Travis Davids](https://x.com/MrDavids1) | **Source:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Published:** Feb 11, 2026
 
@@ -1227,7 +1227,7 @@ A colossal armored baboon charges through a burning Maasai village, it picks up 
 Will smith fighting a spaghetti monster, Epic 80s action movie scene , industrial factory setting, intense fight choreography, dramatic camera cuts, cinematic lighting, slow motion moments, practical effects, film grain texture, high tension
 ```
 
-<img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Fighting a Spaghetti Monster in an 80s Action Movie Style">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4" controls width="600" poster="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg"></video>
 
 **Author:** [S0FT](https://x.com/sudoSoftAI) | **Source:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Published:** Feb 11, 2026
 
@@ -1246,7 +1246,7 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 TRUMP VS MICHAEL JACKSON: THE MOST EPIC AI DANCE BATTLE
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="Trump vs Michael Jackson AI Dance Battle">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Source:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Published:** Feb 11, 2026
 
@@ -1265,7 +1265,7 @@ TRUMP VS MICHAEL JACKSON: THE MOST EPIC AI DANCE BATTLE
 create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="WW2 Motorcycle Escape Sequence">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [pewden AI](https://x.com/pewdenai) | **Source:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Published:** Feb 11, 2026
 
@@ -1284,7 +1284,7 @@ create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 "A man is on a seaboat during a massive rain storm as a large sea monster emerges from the water and bites the boat with its' teeth and drags it into the ocean"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="Man on a seaboat attacked by a sea monster">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Anthony T](https://x.com/creativesinner2) | **Source:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Published:** Feb 11, 2026
 
@@ -1313,7 +1313,7 @@ Characters of differing art styles walk takes their seats in their respective se
 Stationary camera. One continuous shot as characters walk in and takes their seats one after another.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="Multi-Character Cabin Seating Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Published:** Feb 11, 2026
 
@@ -1332,7 +1332,7 @@ Stationary camera. One continuous shot as characters walk in and takes their sea
 forcing Thanos to apologize before a Spider-Man-led group assault
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Thanos Apologizes to Spider-Man Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [xAi✨](https://x.com/xai_42) | **Source:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Published:** Feb 11, 2026
 
@@ -1351,7 +1351,7 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 Lumpen, Hobo, female version, battered old cat, with chains to draw attention with chains
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Lumpen Hobo Woman with Chains Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Source:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Published:** Feb 11, 2026
 
@@ -1375,7 +1375,7 @@ A boy seriously assembling Lego bricks in his room, the scene adopts a 3D animat
 12-15 seconds: The boy raises his head, showing a satisfied smile, the camera pulls back to show his completed Lego creation.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Lego Assembly Time-Lapse Animation">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [维维](https://x.com/siveill) | **Source:** [Link](https://x.com/siveill/status/2021635240985604526) | **Published:** Feb 11, 2026
 
@@ -1397,7 +1397,7 @@ Loki appears and saves them.
 He transforms into a giant black dragon and grabs everyone from the sky (Loki's Devil Fruit name is not revealed in this chapter). The chapter ends with Loki in dragon form, Gear 5 Luffy, and Ragnir in squirrel form riding on Loki's head, ready to launch an attack on the MMA monsters.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="One Piece Inspired Video Prompt: Loki Saves Hostages">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Source:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Published:** Feb 11, 2026
 
@@ -1426,7 +1426,7 @@ He transforms into a giant black dragon and grabs everyone from the sky (Loki's 
 💡 Key Generation Enhancement Words (Suggested additions) realistic fur simulation subtle breathing movement soft shadow transition warm and cool light contrast cinematic lighting natural micro expression quiet nighttime ambience cozy bedroom atmosphere
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="Cozy Nighttime Pet Secret Short Film">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Michelle](https://x.com/Michell81147285) | **Source:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Published:** Feb 11, 2026
 
@@ -1445,7 +1445,7 @@ He transforms into a giant black dragon and grabs everyone from the sky (Loki's 
 use Seedance 2.0, i want a phone commercial with high-energy, cinematic, macro close-ups, cut to hypercar, then cut to a stealth jet. MAKE IT SICK.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="High-Energy Commercial Script">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Kaiwen Li](https://x.com/realkaiwenli) | **Source:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Published:** Feb 11, 2026
 
@@ -1464,7 +1464,7 @@ use Seedance 2.0, i want a phone commercial with high-energy, cinematic, macro c
 A massive kraken attacks a pirate ship, the captain slices it with his sword.  hyper realistic cinematic movie scene
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="Kraken attacks a pirate ship">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Published:** Feb 11, 2026
 
@@ -1483,7 +1483,7 @@ A massive kraken attacks a pirate ship, the captain slices it with his sword.  h
 Luffy and Goku having an epic fight scene on the sunny.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="Luffy and Goku Fight on the Sunny">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Published:** Feb 11, 2026
 
@@ -1509,7 +1509,7 @@ SHOT3
 Exterior low rear shot, the car’s tail lights flare as he slams the NOS button. Blue flames erupt from the exhaust. The car launches forward, disappearing into the glowing Tokyo streets. Camera tracks behind, lights blurring, engine scream echoing in the distance.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="Multi-Shot Text-to-Video Prompt for Tokyo Race Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **Published:** Feb 11, 2026
 
@@ -1528,7 +1528,7 @@ Exterior low rear shot, the car’s tail lights flare as he slams the NOS button
 "A cat spinning and signing oiiaoiia version of feel good inc on a floating island."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="Cat Spinning and Singing Gorillaz">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [goku](https://x.com/spinningsensei) | **Source:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **Published:** Feb 11, 2026
 
@@ -1547,7 +1547,7 @@ Exterior low rear shot, the car’s tail lights flare as he slams the NOS button
 With both hands raised, floating ₿ panels converge into one massive glowing bitcoin symbol above him like a spirit bomb. the ground beneath cracking with orange light. full anime power-up moment. He then blasts the federal reserve and destroys the existing financial system with bitcoin, replacing it and ushering in a new golden age of orange abundance.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="Bitcoin Destroys the Federal Reserve Anime">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **Source:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **Published:** Feb 11, 2026
 
@@ -1566,7 +1566,7 @@ With both hands raised, floating ₿ panels converge into one massive glowing bi
 Pirate tavern. Flamethrower on the table. Ale in hand.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="Pirate tavern scene prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **Source:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **Published:** Feb 11, 2026
 
@@ -1585,7 +1585,7 @@ Pirate tavern. Flamethrower on the table. Ale in hand.
 Chinese Xianxia animated film style, ultra-fine 3D CG rendering, 15-second high-energy duel sequence, strong contrast between gold and cyan dual tones. 0-3 seconds: Extreme long shot, two streams of light rapidly clash from both sides of the frame in chaotic void—on the left, faintly visible in the golden light is a middle-aged cultivator in a cyan-gray Daoist robe, his face calm as water, holding a small green sword, who is Han Li; on the right, in the cyan-black malevolent aura, a thin man in white hair and black robes stands with his hands behind his back, his eyes deep as an ancient well, surrounded by world-destroying energy, who is Wang Lin. The two face each other from afar, the void cracking due to the collision of their auras, accompanied by a low thunderous roar. 4-8 seconds: Han Li forms a hand seal to activate the Azure Bamboo Cloud-Swarm Swords, seventy-two flying swords transform into a golden storm of sword rain sweeping away; Wang Lin points with his right hand, and a giant cyan phantom hand that covers the sky condenses behind him. The giant hand slaps down against the sword rain, and the moment the sword energy and palm force collide, a golden and cyan energy torrent erupts, the shockwave spreading in all directions and tearing the void, accompanied by the sound of metal collision and space shattering. 9-12 seconds: Freeze frame slow motion, a golden phantom of ten thousand Buddhas appears behind Han Li, his eyes shining with golden light, and the Ten Thousand Swords Return to the Origin condense into a hundred-zhang golden sword light slashing down; a hint of madness flashes in Wang Lin's eyes, and he growls, "If heaven does not tolerate me, I shall defy it!" He raises his right hand high, and a rotating black sphere condenses in his palm, emitting destructive energy that twists space. The two ultimate forces collide head-on, and time seems to stand still. 13-15 seconds: Massive energy explosion, the screen is swallowed by white light and slowly dissipates. In the smoke and dust, two figures stand back-to-back in the shattered void, their robes tattered, both panting. Han Li speaks faintly, "I admire your heaven-defying technique," and a slight smile appears on Wang Lin's lips. The sound effects converge into the crisp sound of void fragments falling and a fading wind sound.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="Xianxia Animated Film Battle Script: Han Li vs. Wang Lin">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **Published:** Feb 11, 2026
 
@@ -1604,7 +1604,7 @@ Chinese Xianxia animated film style, ultra-fine 3D CG rendering, 15-second high-
 Car chase, drifting, high octane, F1, collision, explosion.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="High Octane Car Chase Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [ChatCut](https://x.com/chatcutapp) | **Source:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **Published:** Feb 11, 2026
 
@@ -1623,7 +1623,7 @@ Car chase, drifting, high octane, F1, collision, explosion.
 New Amsterdam (current day New York City) Simulator
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="New Amsterdam Simulator">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [@levelsio](https://x.com/levelsio) | **Source:** [Link](https://x.com/levelsio/status/2021587482349895747) | **Published:** Feb 11, 2026
 
@@ -1658,7 +1658,7 @@ Shot 6: Extreme long shot, freeze frame. She stands on top of a skyscraper overl
 Duration: 10 seconds | Style: Top Hollywood commercial film | Visual Impact: Extremely strong
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Transformation Scene: Ancient Goddess to Cyberpunk Warrior">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **Published:** Feb 11, 2026
 
@@ -1725,7 +1725,7 @@ Visuals: The backs of the two standing side-by-side, facing the dazzling night v
 Subtitle Effect: Large text displays "Good Luck Descends."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="Fantasy Romance Short Drama Script: 'Good Luck Descends'">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **Published:** Feb 11, 2026
 
@@ -1744,7 +1744,7 @@ Subtitle Effect: Large text displays "Good Luck Descends."
 "classic animation in the style of Disney, a friendly white wolf is playing with a beautiful blonde cute young woman in the snow, different cuts. Suddenly they fall into an ice cavern and find a skeleton with a map in the hand"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="Classic Animation Adventure Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [FragZero](https://x.com/FragZero) | **Source:** [Link](https://x.com/FragZero/status/2021568010452869227) | **Published:** Feb 11, 2026
 
@@ -1763,7 +1763,7 @@ Subtitle Effect: Large text displays "Good Luck Descends."
 A story of a divine artifact, a butterfly flies out of the frame, transforms into a beautiful butterfly fairy, looks around, suddenly someone seems to be coming, and the butterfly fairy returns to the wall~~
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Test: Butterfly Fairy Story">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **Source:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **Published:** Feb 11, 2026
 
@@ -1782,7 +1782,7 @@ A story of a divine artifact, a butterfly flies out of the frame, transforms int
 Image to Video of the Cadillac Formula One car 2026.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="Cadillac Formula One Car 2026">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [HNNS.](https://x.com/ItsMeHannes) | **Source:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **Published:** Feb 11, 2026
 
@@ -1801,7 +1801,7 @@ Image to Video of the Cadillac Formula One car 2026.
 generate a video about a godzilla attacking monas in jakarta while indonesian military tried their best to attack it.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="Godzilla Attacking Jakarta Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Not Yours](https://x.com/neveryourbaee) | **Source:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **Published:** Feb 11, 2026
 
@@ -1820,7 +1820,7 @@ generate a video about a godzilla attacking monas in jakarta while indonesian mi
 Use Seedance 2.0 to generate an anime video: funny sequence with Chinese Officer
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="Anime Video: Funny Chinese Officer Sequence">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Source:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **Published:** Feb 11, 2026
 
@@ -1839,7 +1839,7 @@ Use Seedance 2.0 to generate an anime video: funny sequence with Chinese Officer
 A Chinese mythological boy with two bun hairstyles, a red mark on his forehead, and a red ribbon tied around him, walks into Chinatown filled with red lanterns. He is looking for a group of single- or double-eyed yellow capsule-shaped small creatures wearing blue overalls. Subsequently, the boy waves his red ribbon and engages in a comedic chase battle with this group of yellow small creatures.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="Bypassing Copyright: Nezha vs. Minions in Chinatown">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Dow Ma](https://x.com/VoiceOfDow) | **Source:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **Published:** Feb 11, 2026
 
@@ -1859,7 +1859,7 @@ A Chinese mythological boy with two bun hairstyles, a red mark on his forehead, 
 @Image Fatty takes a deep breath and assumes a starting stance, using the narrowness of the corridor to lure the robot towards the glass wall. Fatty uses the reaction force, kicking off the wall with both feet, performing an aerial spinning kick, breaking the neck connection line of the first robot. The robot collapses to the ground. The remaining robots continue to swarm in. The man in the hoodie realizes the corridor space is too small and he could easily be surrounded, so he turns and runs towards the office hall.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="John Wick Style Action Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [大宝](https://x.com/xiaolongli7697) | **Source:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **Published:** Feb 11, 2026
 
@@ -1902,7 +1902,7 @@ Scene 3: Galloping across the side of the mansion (0:09-0:15, 6 seconds)
 • Atmosphere: Lightning fast, unstoppable, a hero galloping through a luxurious community
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="Equestrian Charge in Vancouver Luxury District">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021545550772924579) | **Published:** Feb 11, 2026
 
@@ -1921,7 +1921,7 @@ Scene 3: Galloping across the side of the mansion (0:09-0:15, 6 seconds)
 Generate an action-packed fight scene, between Harry Potter and Voldemort.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Harry Potter vs Voldemort Fight Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [ChatCut](https://x.com/chatcutapp) | **Source:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Published:** Feb 11, 2026
 
@@ -1940,7 +1940,7 @@ Generate an action-packed fight scene, between Harry Potter and Voldemort.
 A cinematic video sequence opening with a serene wide aerial shot of a pristine snow-covered mountain peak at dawn, the summit piercing through a sea of clouds with alpenglow painting the ice formations pink and gold. The camera transitions to follow a wingsuit pilot who leaps from the peak, immediately entering a steep vertical dive through wispy clouds. The tracking shot positions just behind and above the pilot as they accelerate downward, the camera shaking subtly from air turbulence, frost particles streaming past. The pilot pulls into a proximity flight, skimming within meters of sheer cliff faces and jagged ice formations, the camera banking and rolling to match every precise movement. Shadows and light play across the wingsuit's surface as the pilot threads through a narrow ice chimney, walls rushing past in a blur of blue and white. Speed intensifies as they enter a massive glacial valley, weaving between enormous ice pillars and frozen waterfalls, mist and powder snow kicked up in spiraling trails. The pilot executes a dramatic barrel roll around a freestanding ice spire before pulling the parachute at the last possible moment. The camera follows upward through the deceleration, then pulls wide to reveal a breathtaking hidden alpine lake surrounded by untouched snow fields, perfectly still and mirror-like, reflecting the morning sky.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Aerial Shot of Wingsuit Pilot in Alpine Valley">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Published:** Feb 11, 2026
 
@@ -1959,7 +1959,7 @@ A cinematic video sequence opening with a serene wide aerial shot of a pristine 
 luffy coding on a macbook on the Thousand Sunny, RAGING, then throwing it overboard.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e52b97dffb21b895b9e10149469a869/thumbnails/thumbnail.jpg" width="600" alt="Luffy Coding on Thousand Sunny">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/149.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e52b97dffb21b895b9e10149469a869/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [sui dev ☄️](https://x.com/birdabo) | **Source:** [Link](https://x.com/birdabo/status/2021514359151947951) | **Published:** Feb 11, 2026
 
@@ -1978,7 +1978,7 @@ luffy coding on a macbook on the Thousand Sunny, RAGING, then throwing it overbo
 [Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity: "LET THE HOSTAGE GO! DROP THE WEAPON NOW!" [Shot 2: The Threat] Cut to a medium shot of the killer in a dirty tank top, holding a woman in a chokehold. He has a pistol pressed to her head. He is sweating and manic, screaming at the off-screen officer: "STAY BACK! I'LL KILL HER! I SWEAR I'LL DO IT!" [Shot 3: Over-the-Shoulder Resolution] The camera is positioned directly behind the SWAT officer's right shoulder. We see the back of his helmet and his rifle in the foreground. In the distance (mid-ground), the killer is still visible holding the girl. The killer screams one last time: "I'M GONNA DO IT!" after The officer's rifle kicks back with a single sho and hit head enemy. The killer falls instantly. The girl is left standing, shocked but safe. Technical Style: High-shutter speed action, realistic muzzle flashes, handheld camera shake, 24fps, English dialogue.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg" width="600" alt="SWAT Hostage Negotiation Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/158.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Marco "Shikoba"](https://x.com/shikoba_86) | **Source:** [Link](https://x.com/shikoba_86/status/2021509569831170072) | **Published:** Feb 11, 2026
 
@@ -1997,7 +1997,7 @@ luffy coding on a macbook on the Thousand Sunny, RAGING, then throwing it overbo
 A 15-second cross-style duel sequence, with a dramatic contrast between the cel-shaded style of Japanese anime on the left and the realistic style of Chinese mythology on the right. 0-3 seconds: Extreme long shot, a dimensional rift descends from the center of the frame, splitting the scene in two—on the left is a Dragon Ball-style red rocky wasteland, with Son Goku in Super Saiyan state, golden hair, standing with one hand on his hip, orange battle suit tightly defining his muscles, surrounded by golden Super Saiyan lightning aura; on the right is the cloud-shrouded Flower and Fruit Mountain, with the classical Sun Wukong, wearing chain mail, a phoenix-winged purple-gold helmet, and holding the Ruyi Jingu Bang, standing on the mountain peak, surrounded by auspicious clouds. The two look at each other across the rift, the edges of the rift flicker unstably due to the style conflict, accompanied by a low sound of spacetime distortion. 4-8 seconds: Both shout simultaneously—Anime Goku: "You look a lot like me, you guy!" with the voice of a passionate young anime character. Classical Wukong: "Audacious demon monkey, how dare you steal my name!" with a deep, operatic voice. Both rush out of the rift and cross paths. Anime Goku unleashes a Kamehameha, a pink-blue energy wave. Classical Wukong swings the Jingu Bang, performing a sweeping strike. The moment the energy wave and the Jingu Bang collide, a style-tearing effect occurs—the intersection of the two forces pixelates, flickers, and color blocks collapse and reassemble, accompanied by the roar of the Kamehameha "Ka-me-ha-me-HA" and the whistling sound of the Jingu Bang cutting through the air. 9-12 seconds: Freeze frame slow motion. Anime Goku activates Ultra Instinct, his body shrouded in silver-gray aura, his eyes turning calm silver-gray, moving like lightning, flashing behind Classical Wukong; Classical Wukong's Fiery Eyes and Golden Pupils suddenly light up with golden-red light, his body transforms into an afterimage using the Heaven and Earth Transformation technique—his body swells to a hundred zhang (hundreds of feet) in size, and the Jingu Bang in his hand simultaneously grows into a pillar reaching the sky, smashing down head-on. 13-15 seconds: The silver-gray aura's extreme speed punches collide head-on with the sky-pillar Jingu Bang in the center of the frame. The shockwave tears the dimensional rift, and both the Dragon Ball wasteland and the Flower and Fruit Mountain are swallowed by the energy torrent. After a flash of white light, the smoke and dust dissipate, and two figures stand back-to-back in the merged new world—a strange terrain mixing mountains and wasteland. Anime Goku scratches his head and laughs, saying, "That was powerful, let's fight again next time." Classical Wukong lightly strokes his monkey beard and nods, "I'll find another place to play next time." The sound effects converge into the hearty laughter of both, along with the fading sound of the wind.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg" width="600" alt="Sun Wukong vs. Son Goku: Cross-Style Dimensional Battle">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/190.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2021508348433301926) | **Published:** Feb 11, 2026
 
@@ -2016,7 +2016,7 @@ A 15-second cross-style duel sequence, with a dramatic contrast between the cel-
 Hyper-realistic live-action sports broadcast footage of a rugby match between human professional players and massive silverback gorillas. The humans are wearing colorful rugby jerseys and cleats. The gorillas are natural, large, and furry. A huge gorilla is running with the ball, charging through a defensive line of human players trying to tackle it. Stadium floodlights, green grass, hyper-detailed textures of fur and human skin. Sweat, dirt, high shutter speed, 4k.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg" width="600" alt="Rugby Match: Humans vs. Gorillas">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/145.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Wujek AI](https://x.com/Wujek_AI) | **Source:** [Link](https://x.com/Wujek_AI/status/2021506500150096018) | **Published:** Feb 11, 2026
 
@@ -2035,7 +2035,7 @@ Hyper-realistic live-action sports broadcast footage of a rugby match between hu
 Dragon Ball Super manga → animated Moro arc magic.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg" width="600" alt="Dragon Ball Super Moro Arc Anime">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/180.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Data Insights India](https://x.com/DataInsightsIN) | **Source:** [Link](https://x.com/DataInsightsIN/status/2021506359850881182) | **Published:** Feb 11, 2026
 
@@ -2054,7 +2054,7 @@ Dragon Ball Super manga → animated Moro arc magic.
 Live-action cinematic sequence. Another young woman, wearing a luxurious black two-piece bathing suit, enters the scene from the left (inside the house) and closes the drapes as they float in the gentle breeze. The woman walks, as the camera tracks her from behind, as she goes inside the room, where a suitcase is open on the bed. The woman is annoyed. We cut to a medium close-up of her. She mumbles to herself: "Fucking Italians... I hate this place!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg" width="600" alt="Annoyed Woman in Hotel Room Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/147.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Alex Patrascu](https://x.com/maxescu) | **Source:** [Link](https://x.com/maxescu/status/2021499209749233943) | **Published:** Feb 11, 2026
 
@@ -2073,7 +2073,7 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 【Style】Classic Wuxia Film - "Ink Trace in the Bamboo Forest," High-speed Cinematography, combination of live-action and CG, strong visual impact, fast pace, using "cool tones" to enhance the profoundness of the bamboo forest. 【Duration】15 seconds 【Characters】A swordswoman in a fiery red dress, movements as light as a swallow, sharp sword energy. A refined scholar in plain white, wearing modern framed glasses, but with dual blades in hand as steady as a rock. 【Scene】A cross-temporal duel is unfolding deep within a silent, emerald bamboo forest. This is not a fight to the death, but a contest of speed and precision. 【00:00 - 00:01】Shot 1: Close-up. 【Action】Two cold, shimmering longswords violently collide against the bamboo forest background, sparks fly out, extremely strong metallic texture. Swords clashing, slow motion, metallic sheen. 【00:01 - 00:03】Shot 2: Medium Shot. 【Action】The woman in red quickly spins to dodge, the man in white chases with his sword. The background is a dense, emerald bamboo forest with falling leaves. Wuxia action, graceful, sense of speed, Hanfu. 【00:03 - 00:05】Shot 3: Low Angle. 【Action】The woman in red slides backward, narrowly dodging a fatal blow close to the ground. Dust flies up from the ground, the camera follows the movement. Sliding, thrilling dodge, dynamic composition. 【00:05 - 00:08】Shot 4: Mid-Long Shot. 【Action】The two stand still in a clearing in the bamboo forest. The man in white locks the woman in red's offense with his dual swords, the tip of the sword pointing directly at her throat. Standoff, sense of oppression, confrontation. 【00:08 - 00:11】Shot 5: Extreme Close-up (ECU). 【Action】Focusing on the upper bodies of the two, the longsword rests horizontally against the woman's neck. The woman's eyes are firm, the man's expression is calm (wearing glasses). Eye contact, tense atmosphere, detail depiction. 【00:11 - 00:14】Shot 6: Wide to CU. 【Action】The two pass each other, standing back-to-back. The camera switches to a close-up, a strand of severed hair slowly floats down in the air. Artistic conception, severed hair, elegant ending, slow motion.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Wuxia Duel in a Bamboo Forest">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/187.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [月亮大虾C.ly](https://x.com/sunny6_c) | **Source:** [Link](https://x.com/sunny6_c/status/2021495905640178079) | **Published:** Feb 11, 2026
 
@@ -2092,7 +2092,7 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 Bratt Pitt and Tom Cruise put their differences aside to fight their common enemy, some robot or whatever
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt and Tom Cruise Fighting a Robot">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/173.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **Source:** [Link](https://x.com/RuairiRobinson/status/2021495548256436304) | **Published:** Feb 11, 2026
 
@@ -2111,7 +2111,7 @@ Bratt Pitt and Tom Cruise put their differences aside to fight their common enem
 "Create a high-end cinematic food reel video based on the provided reference image, preserving the exact dish, ingredients, plating, textures, and colors. Use ultra-close macro shots with fast, dynamic micro-cuts at 50 frames per second for smooth premium slow motion, including tight push-ins, subtle lateral slides, shallow depth of field, precise focus pulls, and sensory details like steam, glossy sauce, crispy textures, or gentle drizzles if relevant. Lighting should be professional studio food photography with soft highlights, controlled shadows, rich texture definition, and natural warm color grading with high dynamic range. No text overlays"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg" width="600" alt="High-End Cinematic Food Reel">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/143.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Saunders.N.P](https://x.com/Saundersnp) | **Source:** [Link](https://x.com/Saundersnp/status/2021493583224730052) | **Published:** Feb 11, 2026
 
@@ -2151,7 +2151,7 @@ Action: The sweet girl makes an extremely cool "shooting" gesture (Wink) towards
 [Special Effects] Screen-filling virtual gift effects (sports cars, yachts) explode around the sweet girl, and the frame freezes on the trio's coolest pose.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg" width="600" alt="Dongbei Sweet Girl Livestream Video Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/196.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021489421338448045) | **Published:** Feb 11, 2026
 
@@ -2170,7 +2170,7 @@ Action: The sweet girl makes an extremely cool "shooting" gesture (Wink) towards
 An anime  where an otter goes into a large mech, with lots of quick shots of  mechanical parts and gears turning. The otter gives a grim thumbs up,  and then pilots the mech, flying into battle against an octopus made of marble.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg" width="600" alt="Otter Mech Pilot Anime Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/125.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [SRKDAN](https://x.com/SRKDAN) | **Source:** [Link](https://x.com/SRKDAN/status/2021488544393392628) | **Published:** Feb 11, 2026
 
@@ -2189,7 +2189,7 @@ An anime  where an otter goes into a large mech, with lots of quick shots of  me
 Dragon Ball show for kids in the style of Paw Patrol
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg" width="600" alt="Dragon Ball show for kids in the style of Paw Patrol">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/129.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [the funny™ #REMOVEKAGAWA](https://x.com/LostJudgmentRGG) | **Source:** [Link](https://x.com/LostJudgmentRGG/status/2021486188671205773) | **Published:** Feb 11, 2026
 
@@ -2208,7 +2208,7 @@ Dragon Ball show for kids in the style of Paw Patrol
 Time-travel scene, a young female reporter holding a handheld camera, live reporting from the epic final battle of Harry Potter, Hogwarts under siege, Harry Potter and Voldemort fiercely dueling with magic, spells colliding in mid-air, sparks and magical energy flying
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg" width="600" alt="Harry Potter Final Battle Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/183.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [DanFei](https://x.com/fy360593) | **Source:** [Link](https://x.com/fy360593/status/2021480692899582073) | **Published:** Feb 11, 2026
 
@@ -2227,7 +2227,7 @@ Time-travel scene, a young female reporter holding a handheld camera, live repor
 a movie scene from a south indian movie with aliens in it
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg" width="600" alt="South Indian Movie Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/168.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [rohan anil](https://x.com/_arohan_) | **Source:** [Link](https://x.com/_arohan_/status/2021480314254786608) | **Published:** Feb 11, 2026
 
@@ -2251,7 +2251,7 @@ a movie scene from a south indian movie with aliens in it
 10-15s: Slow-motion dive into the token pit. Massive confetti explosion fills the air. Pure chaotic joy.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg" width="600" alt="MrBeast YouTube Viral Scene Prompt">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/131.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021478327525974151) | **Published:** Feb 11, 2026
 
@@ -2280,7 +2280,7 @@ Dramatic camera: fast dolly zooms, dynamic orbiting shots around fighters, slow-
 Hyper-realistic motion, perfect physics, detailed fabric ripple on Spider-Man's suit and fur movement on Wukong, dramatic rim lighting from sunset, flying debris and golden energy trails, intense orchestral + traditional Chinese percussion soundtrack vibe. 16:9 cinematic aspect ratio, ultra-detailed, no text, no watermark.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg" width="600" alt="Cinematic epic battle between Spider-Man and Sun Wukong">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/302.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Top Blaster 💥](https://x.com/TheTopBlasterr) | **Source:** [Link](https://x.com/TheTopBlasterr/status/2021476942524936270) | **Published:** Feb 11, 2026
 
@@ -2299,7 +2299,7 @@ Hyper-realistic motion, perfect physics, detailed fabric ripple on Spider-Man's 
 Novel opening: "The husband reported the gatekeeper, the wife went to work, and he was very pleased...", automatically associate and expand the novel plot and character dialogue based on the opening, generating a video in the style of a TV drama.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg" width="600" alt="Novel Expansion: Husband Reports Gatekeeper">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/331.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [weize ren](https://x.com/RenWeize11988) | **Source:** [Link](https://x.com/RenWeize11988/status/2021476451376361513) | **Published:** Feb 11, 2026
 
@@ -2318,7 +2318,7 @@ Novel opening: "The husband reported the gatekeeper, the wife went to work, and 
 Naruto coding intensely on a laptop in the Hokage’s office, growing more and more frustrated, then yelling in rage and hurling it out the window.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg" width="600" alt="Naruto coding intensely and throwing a laptop">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/156.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [DΞV](https://x.com/junwatu) | **Source:** [Link](https://x.com/junwatu/status/2021474578460180663) | **Published:** Feb 11, 2026
 
@@ -2363,7 +2363,7 @@ Action: A jeep rushes towards him. He does not dodge, raising his foot to kick i
 Special Effects Spectacle: The moment the jeep contacts his toe, it is vertically kicked high into the air like a toy car, tumbling with parts scattering. The protagonist calmly puts his sunglasses back on and adjusts his hairstyle against the backdrop of falling car parts and flying thugs.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg" width="600" alt="Indian Tollywood Action Blockbuster Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/195.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021472044295070168) | **Published:** Feb 11, 2026
 
@@ -2382,7 +2382,7 @@ Special Effects Spectacle: The moment the jeep contacts his toe, it is verticall
 The woman kneels down slowly onto the wooden bridge. Camera zooms in tightly to an extreme close-up of her left eye, which begins glowing intensely with bright magical energy. Camera switch. Camera rapidly zooms out as she launches powerfully upward into the air, her body
 ```
 
-<img src="https://cms-assets.youmind.com/media/1770960164048_vjsl8d_HA2uhSGaUAASH-t.jpg" width="600" alt="Magical Transformation Scene">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/179.mp4" controls width="600" poster="https://cms-assets.youmind.com/media/1770960164048_vjsl8d_HA2uhSGaUAASH-t.jpg"></video>
 
 **Author:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2021463701421699374) | **Published:** Feb 11, 2026
 
@@ -2401,7 +2401,7 @@ The woman kneels down slowly onto the wooden bridge. Camera zooms in tightly to 
 The Office episode where Dwight and Michael have a conversation about mogging, jestermaxxing, and foids.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg" width="600" alt="The Office Episode Prompt: Mogging, Jestermaxxing, and Foids">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/301.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Cancun 🇲🇽🥊](https://x.com/CancunTwitch) | **Source:** [Link](https://x.com/CancunTwitch/status/2021461974274670832) | **Published:** Feb 11, 2026
 
@@ -2420,7 +2420,7 @@ The Office episode where Dwight and Michael have a conversation about mogging, j
 She does the most amazing kung fu. She yells with a Macedonian accent: "This is See dance 2.0, using only a first frame." Cinematic night chase in cyberpunk Tokyo rain: matte-black Nissan GT-R Nismo screams down wet neon street at 200 km/h, tires spraying water, headlights cutting through heavy rain. Cherry Blackcloud (20, Macedonian features, jet-black high ponytail whipping, sharp fringe, cybernetic ice-cyan right eye glowing) drives aggressively—fully zipped black McQueen leather jacket on bare skin, short black leather skirt with silver zipper visible, bare legs, chunky black platform boots on pedals, katana strapped to passenger seat. Camera starts wide tracking shot beside the GT-R, then quick push-in through rain-streaked windshield to tight close-up on Cherry’s intense face (left eye dark brown burning, right eye glowing cyan). She glances at rear-view mirror—pursuing drones closing in with red lasers.Cherry (thick Macedonian accent, low & commanding, over engine roar): “They think they can box me in.”She downshifts hard, GT-R fishtails, then launches into a perfect 180° drift—tires screeching, water exploding in arcs. Katana handle glints in cyan dashboard glow. She reaches over, grabs katana mid-drift, opens driver door while sliding sideways, leans out into rain, and slashes a precise arc—katana blade glowing cyan, slicing the lead drone in half in a shower of sparks and molten metal.Cherry (smirking, voice cutting through wind & rain): “Not today.”She snaps the door shut, floors the accelerator—GT-R rockets forward, neon reflections streaking across wet black paint. Camera pulls back fast to wide shot: car vanishing into rainy night, drones exploding behind in orange fireballs. Final frame: Cherry’s cyber-eye flares once as she disappears around a corner. Fade to black. Style & Technical Notes for Seedance 2.0 Photorealistic Hollywood action blockbuster style, ARRI Alexa cinematic look, teal-orange color grade, realistic heavy rain with water droplets and wet reflections on black car and leather, high dynamic range, 60fps, dramatic anamorphic lens flares from neon and explosions, subtle film grain, no artifacts, intense practical stunt choreography, dynamic camera work (tracking, push-in, 180° drift reveal, fast pull-back).
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Tokyo Kung Fu Chase">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/134.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Source:** [Link](https://x.com/cheryblackcloud/status/2021458861908164800) | **Published:** Feb 11, 2026
 
@@ -2439,7 +2439,7 @@ She does the most amazing kung fu. She yells with a Macedonian accent: "This is 
 A dynamic continuous shot of a magical transformation into a bird and transitioning into a flying shot.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg" width="600" alt="Magical Transformation into a Flying Bird">
+<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/154.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg"></video>
 
 **Author:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2021436278760407497) | **Published:** Feb 11, 2026
 
@@ -2507,6 +2507,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-02-13T12:13:06.073Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-02-13T12:41:22.584Z</sub>
 
 </div>
