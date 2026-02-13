@@ -68,7 +68,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **186** |
+| 📝 총 프롬프트 수 | **190** |
 | ⭐ 추천 프롬프트 | **3** |
 | 🔄 마지막 업데이트 | **2026-02-13** |
 
@@ -115,7 +115,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 15초
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="초현실적인 전장 속 로닌 액션 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="초현실적인 전장 속 로닌 액션 장면">
 
 **작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **게시일:** Feb 11, 2026
 
@@ -151,7 +151,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 특수 효과 장관: 푸른 물 용과 황금 번개가 즉시 폭발하여 거대한 물-번개 에너지 폭풍을 형성하며 바깥으로 퍼져나간다. 주변의 큰 나무들은 에너지 파동에 의해 두 동강 나고, 진흙, 물, 빛이 카메라를 가린다. 장면은 극도로 눈부신 파란색, 노란색, 흰색 빛 속에서 끝난다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f42542bbe17a09b73c365d33e19770f9/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt for Seedance 2.0">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt for Seedance 2.0">
 
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **게시일:** Feb 11, 2026
 
@@ -198,25 +198,6 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 **작성자:** [BigMotion.ai](https://x.com/BigMotion_ai) | **출처:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **게시일:** Feb 12, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=270)**
-
----
-### Avalabs 임원진의 평균적인 하루 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 커뮤니티를 상대하는 Avalabs 임원들의 평범한 하루를 묘사하는, 매우 과장되고 혼란스러운 비디오 클립을 생성하여 높은 참여를 유도하는 프롬프트.
-
-#### 📝 프롬프트
-
-```
-Avalabs 경영진의 평범한 하루, 커뮤니티를 상대하는 모습. 정말 바보 같고 좋아요 1,000개를 받도록 만드세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/267188f7f870a992c54fc6a93b8620d8/thumbnails/thumbnail.jpg" width="600" alt="Avalabs 임원진의 평균적인 하루 프롬프트">
-
-**작성자:** [Stupifff](https://x.com/Stupifff) | **출처:** [Link](https://x.com/Stupifff/status/2022068457546895767) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=255)**
 
 ---
 ### 존 우 스타일 총격전 장면 프롬프트
@@ -332,25 +313,6 @@ Avalabs 경영진의 평범한 하루, 커뮤니티를 상대하는 모습. 정�
 **작성자:** [X Citizen Journal](https://x.com/xcitizenjournal) | **출처:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **게시일:** Feb 12, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=247)**
-
----
-### Waffle House Shift Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Waffle House에서의 평범한 근무 교대를 묘사하는, 매우 과장되고 혼란스러운 비디오 클립을 생성하도록 설계된 프롬프트로, 입소문 확산을 목표로 합니다.
-
-#### 📝 프롬프트
-
-```
-Waffle House 에서의 평범한 근무 교대 - 정신 나간 것처럼 만들고 좋아요 50개를 받으세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/950d555c1270ff1b2d4126ecdda165e1/thumbnails/thumbnail.jpg" width="600" alt="Waffle House Shift Video Prompt">
-
-**작성자:** [Charles Curran](https://x.com/charliebcurran) | **출처:** [Link](https://x.com/charliebcurran/status/2022017937192956372) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=251)**
 
 ---
 ### 디저트 가게에서 찍는 360도 파노라마 셀카
@@ -524,25 +486,6 @@ Waffle House 에서의 평범한 근무 교대 - 정신 나간 것처럼 만들�
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=250)**
 
 ---
-### Luffy 코딩 및 MacBook 던지는 영상 프롬프트
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.0으로 생성한 프롬프트로, 원피스의 루피가 사우전드 써니호에서 MacBook으로 코딩하다가 화가 나서 노트북을 바다에 던지는 영상입니다. 단일 프롬프트로 달성할 수 있는 높은 품질을 보여줍니다.
-
-#### 📝 프롬프트
-
-```
-루피가 사우전드 써니호에서 맥북으로 코딩을 하다가 화가 나서 바다에 던져버린다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5b246053bbc102b8370fbd0c5662b0/thumbnails/thumbnail.jpg" width="600" alt="Luffy 코딩 및 MacBook 던지는 영상 프롬프트">
-
-**작성자:** [こうせい](https://x.com/kosei_canvas) | **출처:** [Link](https://x.com/kosei_canvas/status/2021940016214405384) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=289)**
-
----
 ### 중국 성공 세미나 (치킨 수프) 비디오 프롬프트
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -700,25 +643,6 @@ Seedance 2.0 프롬프트
 **작성자:** [松果先森](https://x.com/songguoxiansen) | **출처:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **게시일:** Feb 12, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=281)**
-
----
-### 바이럴 테스트를 위한 농담 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 한 사용자가 AI 모델의 해석 능력을 시험하기 위해 반쯤 농담조의 프롬프트를 공유하며, 바이럴이 될 만한 어린이 친화적인 결과물을 목표로 합니다.
-
-#### 📝 프롬프트
-
-```
-5살 아이패드 키즈가 좋아할 만한 영상을 만드세요. 실수 없이요. 트위터 좋아요 50개를 목표로 하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78b35b0d98eb74d87eb095bc8b61cda7/thumbnails/thumbnail.jpg" width="600" alt="바이럴 테스트를 위한 농담 프롬프트">
-
-**작성자:** [TechyTricksAI](https://x.com/TechyTricksAI) | **출처:** [Link](https://x.com/TechyTricksAI/status/2021907660568711545) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=269)**
 
 ---
 ### 조종석에서의 고강도 액션 스릴러 장면
@@ -992,26 +916,6 @@ Seedance 2.0 프롬프트
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=276)**
 
 ---
-### 2~3초 길이의 놀라운 클립 생성 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0에 영화 같은 카메라 워크와 사실적인 조명 같은 시네마틱 요소를 강조하고, 빠른 생성 시간을 나타내는 텍스트 오버레이가 포함된 매우 역동적이고 시각적으로 인상적인 2~3초 클립을 생성하도록 지시하는 프롬프트.
-
-#### 📝 프롬프트
-
-```
-Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
-텍스트 오버레이: "4분 만에 제작"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fef7e607a4af0f81365b7a26067d03f2/thumbnails/thumbnail.jpg" width="600" alt="2~3초 길이의 놀라운 클립 생성 프롬프트">
-
-**작성자:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **출처:** [Link](https://x.com/Sohrabkhalid01/status/2021793460450472435) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=252)**
-
----
 ### 귀멸의 칼날 실사 블록버스터 비디오 프롬프트
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -1072,44 +976,6 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=194)**
 
 ---
-### 교회 지붕 위 비참한 사기꾼 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0을 위한 매우 구체적이고 묘사적인 프롬프트로, 교회 지붕 위에서 박수를 치며 팁을 받기 위해 공황 발작을 가장하는 '한심한 사기꾼'의 장면을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-교회 지붕 밑에 사는 한심한 사기꾼이 팁을 받으려고 또 다른 공황 발작을 가장하기 전에 바보처럼 박수를 칩니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6574f50707faacb03be454d271339cea/thumbnails/thumbnail.jpg" width="600" alt="교회 지붕 위 비참한 사기꾼 장면">
-
-**작성자:** [Dick Stroking Phil Vlogs](https://x.com/dickstrokinphil) | **출처:** [Link](https://x.com/dickstrokinphil/status/2021753948772982859) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=275)**
-
----
-### Brad Pitt vs Tom Cruise Seedance 2.0으로 생성된 싸움
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Brad Pitt와 Tom Cruise의 싸움을 묘사한 단편 영화가 Seedance 2.0에 요청되었는데, 이는 할리우드 배우들이 곧 AI 생성을 위해 자신의 이미지만 판매하면 될 수도 있음을 시사합니다.
-
-#### 📝 프롬프트
-
-```
-브래드 피트와 톰 크루즈의 싸움을 담은 단편 영화
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eae605608aa43710ba3a912ad635bd1/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt vs Tom Cruise Seedance 2.0으로 생성된 싸움">
-
-**작성자:** [Peluca 🎙️](https://x.com/Mileinnials) | **출처:** [Link](https://x.com/Mileinnials/status/2021748922713047084) | **게시일:** Feb 12, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=296)**
-
----
 ### 애니메이션 전사 vs. 문어 외계인
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1141,7 +1007,7 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 최고의 전투기 조종사가 현대 전투기에서 공중전을 벌이는 액션 시퀀스. 초고속의 격렬한 공중전 장면이 여러 번 전환되며, 조종사의 반응, 기어/스위치를 조작하는 손의 클로즈업 프로필 샷으로 이어집니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/215fc649a96669ea5b76c1857561d2d1/thumbnails/thumbnail.jpg" width="600" alt="전투기 조종사 전투를 위한 액션 시퀀스 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="전투기 조종사 전투를 위한 액션 시퀀스 프롬프트">
 
 **작성자:** [𝕏Caliber](https://x.com/XCaliber) | **출처:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **게시일:** Feb 11, 2026
 
@@ -1160,11 +1026,30 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 한 여자가 그림자 속에 있는 남자에게 긴장하며 나오라고 말한다. 그녀가 그에게 그가 한 모든 일을 알고 있으며 대가를 치르게 될 것이라고 말하는 동안 천천히 카메라가 다가간다. 그림자 깊은 곳에서 그가 대답하는 모습이 보인다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d438d1f29a992559a026378861ee440/thumbnails/thumbnail.jpg" width="600" alt="여성이 그림자 속 남성과 대치하다">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="여성이 그림자 속 남성과 대치하다">
 
 **작성자:** [Gavin Purcell](https://x.com/gavinpurcell) | **출처:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=208)**
+
+---
+### 도라에몽과 스파이더맨 싸움
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 서로 다른 두 캐릭터인 도라에몽과 스파이더맨이 고품질의 강렬한 전투 시퀀스에서 결합된 간단하고 상상력이 풍부한 프롬프트.
+
+#### 📝 프롬프트
+
+```
+도라에몽과 스파이더맨이 아주 고품질로 격렬하게 싸우는 모습
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="도라에몽과 스파이더맨 싸움">
+
+**작성자:** [otung Emmanuel](https://x.com/otung_emmanuel) | **출처:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=309)**
 
 ---
 ### 수중에서 금화를 들고 달리는 모습
@@ -1198,7 +1083,7 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 거친 체육관에서 두 명의 복서가 스파링 연습을 하며 서로를 의도적으로 피하는 핸드헬드 샷. 땀방울, 날카로운 충격, 격렬한 호흡. 얕은 피사계 심도, 실용적인 조명, 본능적인 사실감, 안정적인 정체성. 길이: 10초. 화면 비율: 16:9. 포토리얼 시네마틱. 명시되지 않는 한 단일 샷. 텍스트, 캡션, 워터마크, 로고는 피할 것. 카메라 움직임 강조: 부드러운 시차, 일관된 개체, 안정적인 얼굴; 텍스트 없음.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60c8ce94909a1785f745bf018e1d007a/thumbnails/thumbnail.jpg" width="600" alt="강렬한 복싱 스파링 세션">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="강렬한 복싱 스파링 세션">
 
 **작성자:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **출처:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **게시일:** Feb 11, 2026
 
@@ -1250,7 +1135,7 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 • 분위기: 자조적이지만 멋진, 영웅적이고 자유분방한, 상징적인 결말 ("Nothing"도 계속 나아갈 수 있다)
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31130a874536d7d55a28e682d4cf4105/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0을 위한 황당 코미디 비디오 프롬프트: Nothing">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0을 위한 황당 코미디 비디오 프롬프트: Nothing">
 
 **작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2021706240272069021) | **게시일:** Feb 11, 2026
 
@@ -1269,7 +1154,7 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 100층 건물 크기의 거대한 괴물이 뒤에서 다가오는 달리기 장면을 Arcane 스타일로 영상 생성.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b90edd9ac7efa64817e14e6d40df279/thumbnails/thumbnail.jpg" width="600" alt="거대 괴물에게서 도망치기 (아케인 스타일)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="거대 괴물에게서 도망치기 (아케인 스타일)">
 
 **작성자:** [Dipper](https://x.com/dipperdao) | **출처:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **게시일:** Feb 11, 2026
 
@@ -1320,7 +1205,7 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 거대한 갑옷을 입은 비비가 불타는 마사이 마을을 가로질러 돌진하고, 마사이 전사를 집어 들어 불타는 오두막으로 던져 버립니다. 마사이 전사들은 불과 잔해의 폭풍 속에서 두려움에 떨며 도망칩니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/02f55f5c494f8d1f9d0a718ac57b2e65/thumbnails/thumbnail.jpg" width="600" alt="마사이 마을의 혼돈">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="마사이 마을의 혼돈">
 
 **작성자:** [Travis Davids](https://x.com/MrDavids1) | **출처:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **게시일:** Feb 11, 2026
 
@@ -1339,7 +1224,7 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 윌 스미스가 스파게티 괴물과 싸우는 장면, 80년대 서사적인 액션 영화 장면, 산업 공장 배경, 강렬한 전투 안무, 드라마틱한 카메라 컷, 영화 같은 조명, 슬로우 모션 순간, 실제 효과, 필름 그레인 질감, 높은 긴장감
 ```
 
-<img src="https://cms-assets.youmind.com/media/1770960150488_qz0s8d_HA5yb5kbsAASxIT.jpg" width="600" alt="윌 스미스가 스파게티 괴물과 싸우는 모습 (80년대 액션)">
+<img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="윌 스미스가 스파게티 괴물과 싸우는 모습 (80년대 액션)">
 
 **작성자:** [S0FT](https://x.com/sudoSoftAI) | **출처:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **게시일:** Feb 11, 2026
 
@@ -1365,25 +1250,6 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=263)**
 
 ---
-### 3D 풍선 캐릭터 효과 워크플로
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 이미지 생성 도구(nano banana pro)와 모션 제어 도구(kling)를 사용하여 3D 풍선 캐릭터 효과를 만드는 상세한 2단계 워크플로우입니다. 이미지 생성 단계에 대한 프롬프트가 제공됩니다.
-
-#### 📝 프롬프트
-
-```
-사진 속 인물을 광택 있는 표면의 플라스틱 풍선 캐릭터로 만드세요. 배경에 있는 인물을 포함하여 얼굴 디테일을 3D 풍선 디테일로 유지하세요. 배경은 변경하지 마세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f4f79eecd80d68c5b50ef565ec11e75/thumbnails/thumbnail.jpg" width="600" alt="3D 풍선 캐릭터 효과 워크플로">
-
-**작성자:** [KNOX](https://x.com/knoxtwts) | **출처:** [Link](https://x.com/knoxtwts/status/2021651982101229653) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=271)**
-
----
 ### 영화 같은 2차 세계대전 오토바이 탈출
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1396,11 +1262,30 @@ Seedance 생성물 중 가장 인상적인 2~3초 클립을 보여주세요.
 Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2차 세계대전 오토바이 탈출 시퀀스를 만들어 보세요.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5092796a86a2832e73822aa47ca603/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 2차 세계대전 오토바이 탈출">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 2차 세계대전 오토바이 탈출">
 
 **작성자:** [pewden AI](https://x.com/pewdenai) | **출처:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=126)**
+
+---
+### 바다 괴물에게 공격당하는 배 위의 남자
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0과 Kling 3를 비교하는 데 사용된 테스트 프롬프트로, 거대한 폭풍우 속에서 쾌속정에 탄 남자가 거대한 바다 괴물에게 공격당해 바다로 끌려가는 상황을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+거대한 폭풍우 속에서 한 남자가 바다 위 배에 있는데, 거대한 바다 괴물이 물 위로 솟아올라 이빨로 배를 물고 바다 속으로 끌고 들어간다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="바다 괴물에게 공격당하는 배 위의 남자">
+
+**작성자:** [Anthony T](https://x.com/creativesinner2) | **출처:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=303)**
 
 ---
 ### 대화가 있는 다중 캐릭터 객실 장면
@@ -1425,7 +1310,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 고정 카메라. 캐릭터들이 차례로 걸어와 좌석에 앉는 연속 촬영.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e38054ccc4db74903e650688542c0343/thumbnails/thumbnail.jpg" width="600" alt="대화가 있는 다중 캐릭터 객실 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="대화가 있는 다중 캐릭터 객실 장면">
 
 **작성자:** [Jason W - AI](https://x.com/PocketScreenAI) | **출처:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **게시일:** Feb 11, 2026
 
@@ -1463,11 +1348,35 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 룸펜, 호보, 여성 버전, 낡고 지친 고양이, 체인으로 시선을 끄는 체인
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85d1aebb62f992fff11664df0d9583bc/thumbnails/thumbnail.jpg" width="600" alt="사슬을 찬 룸펜 호보 여성">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="사슬을 찬 룸펜 호보 여성">
 
 **작성자:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **출처:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=205)**
+
+---
+### 레고 조립 타임랩스 애니메이션
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 소년이 방에서 레고 브릭을 집중해서 조립하는 모습을 타임랩스 스타일로 보여주는 3D 애니메이션 비디오 제작을 위한 상세 프롬프트입니다. 이 프롬프트는 시각적 스타일, 장면 설정, 그리고 카메라 움직임 및 초점 지점을 포함한 정확한 15초짜리 스토리보드를 명시합니다.
+
+#### 📝 프롬프트
+
+```
+방에서 레고 브릭을 진지하게 조립하는 소년의 모습. 3D 애니메이션 스타일로 밝은 색상과 부드러운 선이 특징이며, 아이 같은 즐거움과 활력이 넘칩니다. 조립 과정을 보여주기 위해 타임랩스 효과를 추가합니다.
+0-3초: 방 전체 모습. 창문을 통해 햇살이 책상 위로 쏟아지고, 소년은 책상에 앉아 진지한 표정으로 레고 브릭 조립에 집중합니다. 카메라가 천천히 다가갑니다.
+3-6초: 타임랩스 효과로 소년이 레고 브릭을 빠르게 조립하는 모습을 보여줍니다. 블록들이 손에서 점차 형태를 갖춰갑니다. 카메라 앵글이 바뀝니다.
+6-9초: 손 클로즈업. 소년이 레고 브릭을 능숙하게 조립하는 섬세한 모습을 보여줍니다. 손가락이 블록을 유연하게 조작합니다. 카메라가 손의 움직임을 따라갑니다.
+9-12초: 타임랩스 효과가 계속되어 조립 과정을 보여줍니다. 레고 작품이 점차 완성되어 가고, 소년의 표정은 집중에서 만족감으로 바뀝니다.
+12-15초: 소년이 고개를 들고 만족스러운 미소를 짓습니다. 카메라가 뒤로 물러나 완성된 레고 작품을 보여줍니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="레고 조립 타임랩스 애니메이션">
+
+**작성자:** [维维](https://x.com/siveill) | **출처:** [Link](https://x.com/siveill/status/2021635240985604526) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=329)**
 
 ---
 ### 원피스에서 영감을 받은 텍스트-투-비디오 프롬프트
@@ -1485,30 +1394,59 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 그는 거대한 검은 용으로 변신하여 하늘에서 모두를 붙잡습니다 (로키의 악마의 열매 이름은 이 챕터에서 공개되지 않습니다). 챕터는 용의 모습인 로키, 기어 5 루피, 그리고 로키의 머리 위에 타고 있는 다람쥐 모습의 라그니르가 MMA 괴물들을 공격할 준비를 하며 마무리됩니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a9d6e1efa7aef7c68a9a890b31c79f5/thumbnails/thumbnail.jpg" width="600" alt="원피스에서 영감을 받은 텍스트-투-비디오 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="원피스에서 영감을 받은 텍스트-투-비디오 프롬프트">
 
 **작성자:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **출처:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=199)**
 
 ---
-### Seedance 2.0 의도 기반 생성
+### 코지 나이트타임 펫 시크릿 단편 영화
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
-> Seedance 2.0의 고급 기능에 대한 설명으로, 사용자는 '의도' 또는 상위 수준의 개념만 제공하면 엔진이 복잡한 영화적 세부 사항을 자동으로 처리하여 복잡한 프롬프트 엔지니어링의 필요성을 효과적으로 없앱니다.
+> 밤에 몰래 휴대폰을 사용하는 고양이와 강아지를 담은 15초짜리 단편 영화를 위한 매우 상세하고 영화 같은 프롬프트. 이 프롬프트는 스타일(하이퍼리얼리스틱 CG, 다큐멘터리 품질), 조명(따뜻함/차가움 대비), 설정, 그리고 카메라 앵글과 캐릭터 동작이 포함된 정확한 6컷 스토리보드를 명시한다.
 
 #### 📝 프롬프트
 
 ```
-의도를 입력하면 엔진이 시네마틱한 감성을 구현합니다. 조명, 텍스처, 미세한 디테일이 자동으로 최적화됩니다.
+【스타일】 하이퍼리얼리즘 시네마틱 CG, 사실적인 반려동물 다큐멘터리 질감, 아늑하고 힐링되는 스타일, 사실적인 털 물리 시뮬레이션, 선명한 디테일, 8K 화질, 부드러운 따뜻한 톤, 실내 야간 분위기
+【길이】 15초 【장면 설정】 실제 아늑한 침실, 문이 닫혀 있고, 야간 환경, 메인 조명은 꺼져 있고, 침대 옆 램프만 따뜻한 노란색 빛을 내며, 방은 전반적으로 어둡다. 침대에는 담요가 있고, 두 마리의 반려동물이 머리를 내밀고 있다.
+🎞 스토리보드 디자인 (샷 유형 + 피사계 심도 + 조명 논리 포함)
+0–3초 【샷 유형】 미디엄 샷 【카메라 움직임】 약간 느린 푸시인 【피사계 심도】 얕은 피사계 심도, 흐릿한 배경
+【장면】 통통한 오렌지 고양이와 귀여운 시바견이 침대에 앉아 있고, 담요가 목까지 덮여 있다. 둘 다 휴대폰을 보고 있다. 휴대폰 화면 빛은 매우 밝아서 얼굴에 차가운 빛을 비춘다. 침대 옆 램프는 따뜻한 빛을 내며, 휴대폰의 차가운 빛과 대비된다. 두 반려동물은 화면을 보며 행복하게 웃고 있다.
+3–6초 【샷 유형】 클로즈업 【카메라 움직임】 약간의 핸드헬드 느낌 【피사계 심도】 매우 얕은 피사계 심도 【장면】 오렌지 고양이의 귀가 갑자기 쫑긋 선다. 표정이 행복함에서 경계심으로 바뀐다. 휴대폰 빛이 얼굴에 깜빡인다.
+6–8초 【샷 유형】 니어 샷 【액션】 오렌지 고양이가 재빨리 휴대폰을 끈다. 차가운 휴대폰 빛이 사라진다. 방에는 침대 옆 램프의 따뜻한 빛만 남는다. 오렌지 고양이는 담요 속으로 파고들고, 작은 털 뭉치만 노출된다.
+8–10초 【샷 유형】 미디엄 니어 샷 【액션】 오렌지 고양이가 담요 밖으로 작은 발을 조용히 내밀어 시바견을 부드럽게 찌른다. 시바견은 잠시 놀란다. 재빨리 휴대폰을 끈다. 차가운 빛이 사라진다. 담요 속으로 파고들어 눈을 감고 자는 척한다.
+10–13초 【샷 유형】 문간의 롱 샷 【카메라 움직임】 고정 샷 【피사계 심도】 깊은 피사계 심도 【장면】 침실 문이 천천히 살짝 열린다. 골든 리트리버의 머리가 안을 들여다본다. 복도에서 희미한 빛이 새어 들어온다. 골든 리트리버는 침대에 있는 둘을 유심히 살핀다.
+13–15초 【샷 유형】 골든 리트리버의 클로즈업 【액션】 골든 리트리버가 만족스럽게 고개를 끄덕인다. 문을 부드럽게 닫는다. 장면은 침대로 돌아오고, 두 반려동물은 눈을 꼭 감고 있다. 시바견이 몰래 한쪽 눈을 뜬다. 페이드 아웃.
+💡 핵심 생성 강화 단어 (추가 제안) 사실적인 털 시뮬레이션 미세한 숨쉬는 움직임 부드러운 그림자 전환 따뜻하고 차가운 빛 대비 시네마틱 조명 자연스러운 미세 표정 고요한 야간 분위기 아늑한 침실 분위기
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4bd4e49f0d6ebb7ed21ee725dbc9767/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 의도 기반 생성">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="코지 나이트타임 펫 시크릿 단편 영화">
 
-**작성자:** [YTMasterAi](https://x.com/YTMasterAi) | **출처:** [Link](https://x.com/YTMasterAi/status/2021626215161864599) | **게시일:** Feb 11, 2026
+**작성자:** [Michelle](https://x.com/Michell81147285) | **출처:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **게시일:** Feb 11, 2026
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=218)**
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=330)**
+
+---
+### 고에너지 상업 스크립트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> AI에게 매크로 클로즈업을 사용하고 하이퍼카, 그리고 스텔스 제트로 전환하여 고에너지의 영화 같은 휴대폰 광고를 만들도록 지시하는 프롬프트.
+
+#### 📝 프롬프트
+
+```
+Seedance 2.0을 사용해서, 에너지 넘치고 영화 같은, 접사 클로즈업이 있는 휴대폰 광고를 만들고 싶어. 하이퍼카로 전환했다가 스텔스 제트로 전환해 줘. 정말 멋지게 만들어 줘.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="고에너지 상업 스크립트">
+
+**작성자:** [Kaiwen Li](https://x.com/realkaiwenli) | **출처:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=311)**
 
 ---
 ### Kraken Attack 시네마틱 장면
@@ -1523,7 +1461,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 거대한 크라켄이 해적선을 공격하고, 선장은 칼로 크라켄을 베어버립니다. 극사실적인 영화 장면
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cab0603b68df8f1d2824e07ef9ada6df/thumbnails/thumbnail.jpg" width="600" alt="Kraken Attack 시네마틱 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="Kraken Attack 시네마틱 장면">
 
 **작성자:** [Mark Gadala-Maria](https://x.com/markgadala) | **출처:** [Link](https://x.com/markgadala/status/2021615497670737953) | **게시일:** Feb 11, 2026
 
@@ -1542,7 +1480,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 써니호 위에서 루피와 오공이 엄청난 싸움을 벌이는 장면.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/22fac4423f984661082179e3473c91a3/thumbnails/thumbnail.jpg" width="600" alt="루피와 오공의 장대한 싸움 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="루피와 오공의 장대한 싸움 장면">
 
 **작성자:** [Mark Gadala-Maria](https://x.com/markgadala) | **출처:** [Link](https://x.com/markgadala/status/2021611931480609139) | **게시일:** Feb 11, 2026
 
@@ -1587,30 +1525,11 @@ SHOT3
 "떠다니는 섬에서 feel good inc의 oiiaoiia 버전을 부르며 빙글빙글 도는 고양이."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/50095f862f0294eda80079930151faa8/thumbnails/thumbnail.jpg" width="600" alt="떠다니는 섬 위의 노래하는 고양이">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="떠다니는 섬 위의 노래하는 고양이">
 
 **작성자:** [goku](https://x.com/spinningsensei) | **출처:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=164)**
-
----
-### 윌 스미스 vs. 거대 스파게티 괴물
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0이 복잡하고 상상력이 풍부한 시나리오를 생성하는 능력을 보여주는 예시로 사용된, 윌 스미스가 거대한 스파게티 괴물과 싸우는 80년대 액션 혼돈 장면 프롬프트.
-
-#### 📝 프롬프트
-
-```
-윌 스미스 대 거대한 스파게티 괴물, 순수한 80년대 액션 혼돈.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c88c308a248c3aac6337ff8052c66b4/thumbnails/thumbnail.jpg" width="600" alt="윌 스미스 vs. 거대 스파게티 괴물">
-
-**작성자:** [Hassan](https://x.com/heyhassan) | **출처:** [Link](https://x.com/heyhassan/status/2021596318310006818) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=144)**
 
 ---
 ### 비트코인, 연방준비제도 파괴 (애니메이션 파워업)
@@ -1625,30 +1544,30 @@ SHOT3
 두 손을 들어 올리자, 떠다니는 ₿ 패널들이 그의 위에서 거대한 빛나는 비트코인 심볼로 합쳐지며 마치 원기옥처럼 보인다. 그의 발밑 땅은 주황색 빛으로 갈라진다. 완전한 애니메이션 파워업 순간이다. 그는 이어서 연방준비제도를 폭파하고 비트코인으로 기존 금융 시스템을 파괴하며, 이를 대체하고 주황색 풍요의 새로운 황금기를 연다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3ed00861350a3096a295b4f4d7388e2/thumbnails/thumbnail.jpg" width="600" alt="비트코인, 연방준비제도 파괴 (애니메이션 파워업)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="비트코인, 연방준비제도 파괴 (애니메이션 파워업)">
 
 **작성자:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **출처:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=148)**
 
 ---
-### 히틀러 vs 마이클 잭슨의 장대한 전투 장면
+### 해적 주점 장면 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> 한 사용자가 Seedance 2.0에서 사용된 매우 논란이 많고 유머러스한 프롬프트를 공유하며, 현재 버전은 검열되지 않아 히틀러와 마이클 잭슨 간의 장대한 영화 장면 전투와 같은 터무니없는 생성을 허용한다고 언급합니다.
+> 화염방사기와 에일과 같은 특정 요소를 포함하여 해적 선술집 장면을 생성하기 위한 설명 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-히틀러 vs 마이클 잭슨, 영화 장면, 장대한 전투
+해적 주점. 테이블 위 화염방사기. 손에 든 에일.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4eaa416428ecf90704dcfac616c73a8a/thumbnails/thumbnail.jpg" width="600" alt="히틀러 vs 마이클 잭슨의 장대한 전투 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="해적 주점 장면 프롬프트">
 
-**작성자:** [Javi López ⛩️](https://x.com/javilop) | **출처:** [Link](https://x.com/javilop/status/2021591758413443523) | **게시일:** Feb 11, 2026
+**작성자:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **출처:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **게시일:** Feb 11, 2026
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=204)**
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=306)**
 
 ---
 ### 선협 애니메이션 영화 전투 스크립트: 한리 vs. 왕린
@@ -1682,7 +1601,7 @@ SHOT3
 자동차 추격, 드리프트, 고성능, F1, 충돌, 폭발.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2f295087d0aa5d86d97b3d8dd8e39507/thumbnails/thumbnail.jpg" width="600" alt="고강도 자동차 추격 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="고강도 자동차 추격 장면">
 
 **작성자:** [ChatCut](https://x.com/chatcutapp) | **출처:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **게시일:** Feb 11, 2026
 
@@ -1736,7 +1655,7 @@ SHOT3
 길이: 10초 | 스타일: 최고 할리우드 상업 영화 | 시각적 충격: 극도로 강함
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8481812975fae64af863d524150128b0/thumbnails/thumbnail.jpg" width="600" alt="SF 변신 단편 영화 대본: 미래의 각성">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="SF 변신 단편 영화 대본: 미래의 각성">
 
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **게시일:** Feb 11, 2026
 
@@ -1779,7 +1698,7 @@ SHOT3
 자막 효과: 큰 글씨로 "행운이 찾아옵니다" 표시.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a318b3ab5dff8179edaa7e7f5d0f5419/thumbnails/thumbnail.jpg" width="600" alt="시댄스 2.0 도시 판타지 단편 드라마 프롬프트: 행운이 찾아오다">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="시댄스 2.0 도시 판타지 단편 드라마 프롬프트: 행운이 찾아오다">
 
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **게시일:** Feb 11, 2026
 
@@ -1798,7 +1717,7 @@ SHOT3
 디즈니 스타일의 고전 애니메이션. 친근한 흰 늑대가 눈밭에서 아름다운 금발의 귀여운 젊은 여성과 함께 놀고 있다. 여러 장면이 교차된다. 갑자기 그들은 얼음 동굴로 떨어지고 손에 지도를 든 해골을 발견한다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8b0b45fde82b4a337d123aa65f33061/thumbnails/thumbnail.jpg" width="600" alt="클래식 디즈니 스타일 애니메이션 어드벤처">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="클래식 디즈니 스타일 애니메이션 어드벤처">
 
 **작성자:** [FragZero](https://x.com/FragZero) | **출처:** [Link](https://x.com/FragZero/status/2021568010452869227) | **게시일:** Feb 11, 2026
 
@@ -1817,11 +1736,30 @@ SHOT3
 마법 유물의 이야기. 나비 한 마리가 액자 밖으로 날아오르더니 아름다운 나비 요정으로 변신하고, 주위를 둘러보다가 갑자기 누군가 오는 듯한 인기척에 벽으로 다시 돌아간다~~
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f9e23608a3633738fbcbb1e9809e872/thumbnails/thumbnail.jpg" width="600" alt="판타지 이야기 프롬프트: 나비 요정 변신">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="판타지 이야기 프롬프트: 나비 요정 변신">
 
 **작성자:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **출처:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=112)**
+
+---
+### 캐딜락 포뮬러 원 자동차 2026
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2026년형 캐딜락 포뮬러 원 자동차 모델에 초점을 맞춰 이미지-비디오 생성 테스트에 사용된 간단한 한 문장 프롬프트.
+
+#### 📝 프롬프트
+
+```
+2026년형 캐딜락 포뮬러 원 차량의 이미지를 영상으로 변환
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="캐딜락 포뮬러 원 자동차 2026">
+
+**작성자:** [HNNS.](https://x.com/ItsMeHannes) | **출처:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=310)**
 
 ---
 ### 자카르타 모나스를 공격하는 고질라
@@ -1836,7 +1774,7 @@ SHOT3
 인도네시아 군이 최선을 다해 공격하는 동안 고질라가 자카르타의 모나스를 공격하는 영상 만들기.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03f8825c00c4a91d0c3bfa52a284bf1d/thumbnails/thumbnail.jpg" width="600" alt="자카르타 모나스를 공격하는 고질라">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="자카르타 모나스를 공격하는 고질라">
 
 **작성자:** [Not Yours](https://x.com/neveryourbaee) | **출처:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **게시일:** Feb 11, 2026
 
@@ -1855,11 +1793,50 @@ SHOT3
 Seedance 2.0을 사용하여 애니메이션 비디오를 생성하세요: 중국인 경찰관이 나오는 재미있는 장면
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8ee98737b78f6d74599e7a899411fc6/thumbnails/thumbnail.jpg" width="600" alt="중국 관리의 애니메이션 영상">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="중국 관리의 애니메이션 영상">
 
 **작성자:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **출처:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=146)**
+
+---
+### 저작권 우회: 차이나타운의 나타와 미니언즈
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 한 사용자가 Seedance 2.0에서 특정 캐릭터 이름(Nezha 및 Minions)을 상세하고 설명적인 텍스트로 대체하여 브랜드 및 저작권 제한을 우회하는 성공적인 전략을 공유했습니다. 이 텍스트는 차이나타운에서 노란색 캡슐 모양의 생명체와 싸우는 중국 신화 속 소년이라는 동일한 시각적 결과를 얻습니다.
+
+#### 📝 프롬프트
+
+```
+두 개의 뿔 머리 모양을 하고 이마에 붉은 표식이 있으며 붉은 리본을 두른 중국 신화 속 소년이 붉은 등불로 가득 찬 차이나타운으로 걸어 들어갑니다. 그는 파란색 작업복을 입은 외눈 또는 두 눈을 가진 노란색 캡슐 모양의 작은 생물 무리를 찾고 있습니다. 이어서 소년은 붉은 리본을 흔들며 이 노란색 작은 생물 무리와 코믹한 추격전을 벌입니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="저작권 우회: 차이나타운의 나타와 미니언즈">
+
+**작성자:** [Dow Ma](https://x.com/VoiceOfDow) | **출처:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=318)**
+
+---
+### 존 윅 스타일 액션 장면 프롬프트
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 복도에서 로봇과 싸우는 '패티'라는 캐릭터가 등장하는 존 윅 스타일의 액션 시퀀스를 위한 상세하고 서술적인 프롬프트로, 특정 동작과 카메라 움직임을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+존 윅 스타일의 액션 영화.
+@Image 패티는 심호흡을 하고 시작 자세를 취하며, 복도의 좁은 공간을 이용해 로봇을 유리벽 쪽으로 유인한다. 패티는 반동을 이용해 양발로 벽을 차고 공중 회전 발차기를 하여 첫 번째 로봇의 목 연결선을 끊어버린다. 로봇은 바닥으로 쓰러진다. 남은 로봇들은 계속해서 몰려든다. 후드티를 입은 남자는 복도 공간이 너무 좁아 쉽게 포위될 수 있다는 것을 깨닫고 몸을 돌려 사무실 홀을 향해 달린다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="존 윅 스타일 액션 장면 프롬프트">
+
+**작성자:** [大宝](https://x.com/xiaolongli7697) | **출처:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=319)**
 
 ---
 ### 영화 같은 등장 장면 스크립트: 밴쿠버 맨션을 질주하다
@@ -1899,30 +1876,11 @@ Seedance 2.0을 사용하여 애니메이션 비디오를 생성하세요: 중�
 • 분위기: 번개 같은 속도, 막을 수 없는, 호화로운 커뮤니티에서의 영웅적인 질주
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d89b30e92e3e2326f3ca3b50347f5246/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 등장 장면 스크립트: 밴쿠버 맨션을 질주하다">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 등장 장면 스크립트: 밴쿠버 맨션을 질주하다">
 
 **작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2021545550772924579) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=185)**
-
----
-### 혼돈의 폭발 장면 프롬프트
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.0에 사용된 매우 혼란스럽고 공격적인 프롬프트로, AI에게 화면에 무작위로 물건을 던지고, 커다란 배를 포함하며, 모든 것을 미친 듯이 지저분하게 폭발시켜 높은 참여를 유도하도록 지시합니다.
-
-#### 📝 프롬프트
-
-```
-화면에 무작위로 온갖 잡동사니를 던지고, 거대한 배를 넣고, 모든 것을 미친 듯이 난장판으로 폭발시켜 보세요. 완전히 정신 나간 것처럼 만들고 최소 50개의 좋아요를 받으세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d1b177468dd5e6f3f3c6c68f55a6c79/thumbnails/thumbnail.jpg" width="600" alt="혼돈의 폭발 장면 프롬프트">
-
-**작성자:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **출처:** [Link](https://x.com/nasan_0422/status/2021544515476365506) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=198)**
 
 ---
 ### 해리 포터 vs 볼드모트 액션 장면
@@ -1937,7 +1895,7 @@ Seedance 2.0을 사용하여 애니메이션 비디오를 생성하세요: 중�
 해리 포터와 볼드모트 간의 박진감 넘치는 싸움 장면을 생성해 주세요.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e958979fb32b8ceac13e99dbcb495e4/thumbnails/thumbnail.jpg" width="600" alt="해리 포터 vs 볼드모트 액션 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="해리 포터 vs 볼드모트 액션 장면">
 
 **작성자:** [ChatCut](https://x.com/chatcutapp) | **출처:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **게시일:** Feb 11, 2026
 
@@ -1956,7 +1914,7 @@ Seedance 2.0을 사용하여 애니메이션 비디오를 생성하세요: 중�
 새벽, 눈 덮인 깨끗한 산봉우리의 고요한 광각 항공 촬영으로 시작되는 영화 같은 영상 시퀀스. 정상은 구름 바다를 뚫고 솟아 있고, 알펜글로우가 얼음 지형을 분홍색과 금색으로 물들입니다. 카메라는 봉우리에서 뛰어내려 얇은 구름 사이로 가파른 수직 하강을 시작하는 윙슈트 조종사를 따라갑니다. 추적 촬영은 조종사의 바로 뒤와 위에서 이루어지며, 조종사가 아래로 가속할 때 공기 난류로 인해 카메라가 미묘하게 흔들리고 서리 입자가 스쳐 지나갑니다. 조종사는 아슬아슬한 근접 비행을 하며 가파른 절벽과 들쭉날쭉한 얼음 지형을 몇 미터 안에서 스쳐 지나가고, 카메라는 조종사의 모든 정밀한 움직임에 맞춰 기울고 회전합니다. 조종사가 좁은 얼음 굴뚝을 통과할 때 윙슈트 표면에 그림자와 빛이 드리워지고, 벽은 파란색과 흰색의 흐릿한 모습으로 빠르게 지나갑니다. 거대한 빙하 계곡으로 진입하면서 속도가 빨라지고, 거대한 얼음 기둥과 얼어붙은 폭포 사이를 누비며 안개와 가루눈이 소용돌이치는 흔적을 남깁니다. 조종사는 독립된 얼음 첨탑 주위를 극적인 배럴 롤로 비행한 후 마지막 순간에 낙하산을 펼칩니다. 카메라는 감속하는 조종사를 따라 위로 향하다가 넓게 펼쳐져 손대지 않은 설원과 완벽하게 고요하고 거울 같은 숨겨진 고산 호수가 아침 하늘을 비추는 숨 막히는 풍경을 드러냅니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89e151a1658bf00716f404b0dd3183a2/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 윙슈트 비행 시퀀스">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 윙슈트 비행 시퀀스">
 
 **작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **게시일:** Feb 11, 2026
 
@@ -1982,99 +1940,6 @@ Seedance 2.0을 사용하여 애니메이션 비디오를 생성하세요: 중�
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=149)**
 
 ---
-### Seedance 2.0 프롬프트 기법 및 템플릿
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 프롬프트 작성에 대한 종합 가이드입니다. 여기에는 보편적인 공식(주제 + 행동 + 장면 + 조명 + 카메라 언어 + 스타일 + 품질 + 제약 조건), 행동 및 카메라 움직임 묘사 팁, 안정화 기술, 그리고 인물 및 풍경 영상 제작을 위한 두 가지 즉시 사용 가능한 템플릿이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-① 보편적인 공식
-
-주제 + 동작 + 장면 + 조명 + 카메라 언어 + 스타일 + 품질 + 제약 조건
-
-예시:
-어린 소녀가 바닷가를 천천히 걷고 있고, 바람에 머리카락이 부드럽게 흔들리며, 자연스러운 미소를 짓고 있다. 석양의 따뜻한 빛, 미디엄 샷, 슬로우 푸시인, 안정적이고 부드러운 영상, 4K 고화질, 시네마틱한 느낌, 변형 없는 선명한 얼굴.
-
-② 동작 묘사
-
-단순히 "걷다 / 춤추다"라고 쓰지 마세요.
-"느리게 + 연속적으로 + 자연스럽게"라고 쓰세요.
-
-우선순위 단어:
-느린, 부드러운, 자연스러운, 연속적인, 매끄러운, 뻣뻣하지 않은
-
-유용한 조합:
-느리게 돌기 / 부드럽게 손 들기 / 살짝 고개 숙이기 / 바람에 흔들리기
-
-③ 카메라 언어
-
-Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다음을 꼭 기억하고 쓰세요:
-
-클로즈업 / 미디엄 샷 / 스페셜 샷
-슬로우 푸시인 / 살짝 풀아웃 / 부드러운 수평 팬 / 안정적인 팔로우 샷
-
-예시:
-미디엄 샷, 슬로우 푸시인, 안정적인 팔로우 샷, 끊김 없는 부드러운 영상
-
-④ 얼굴 변형 방지 / 왜곡 방지
-
-매우 중요:
-
-선명한 얼굴, 안정적인 이목구비, 변형 없음
-정상적인 인체 구조, 자연스러운 비율
-동일한 캐릭터, 일관된 의상, 변함없는 헤어스타일
-
-⑤ 품질 향상을 위한 일반적인 단어
-
-4K, 초고화질, 풍부한 디테일, 선명한 해상도
-시네마틱한 느낌, 부드러운 빛과 그림자, 자연스러운 색감
-흐림 없음, 깜빡임 없음, 안정적인 영상
-
-⑥ 스타일 / 분위기 단어
-
-힐링 & 청량함 / 일본풍 / 한국적인 분위기
-레트로 필름 그레인 / 몽환적인 부드러운 빛 / 사이버펑크
-미니멀리스트 & 깔끔함 / 고급스러운 질감
-
-⑦ 멀티 샷 작성 (고급 활용)
-
-순서대로 묘사하고, 무작위로 끊지 마세요:
-
-얼굴 클로즈업으로 시작 → 천천히 풀아웃 → 캐릭터가 천천히 걷는다 → 카메라가 부드럽게 따라간다 → 프레임 정지 미소로 끝
-
-⑧ 피해야 할 가이드
-
-❌ 격렬한 달리기/점프 / 복잡한 다인 상호작용
-❌ 모호한 단어: 예쁜 / 매우 아름다운 / 아주 멋진
-❌ 모순된 요구사항: 초고속 + 극한의 안정성
-
-⑨ 바로 복사할 수 있는 템플릿
-
-인물 분위기 짧은 영상
-어린 소녀가 숲속을 천천히 걷고 있고, 바람에 머리카락이 부드럽게 흔들리며, 자연스러운 미소를 짓고 있다. 미디엄 샷, 슬로우 푸시인, 안정적이고 부드러운 영상, 4K 고화질, 시네마틱한 느낌, 변형 없는 선명한 얼굴.
-
-풍경 분위기
-바닷가의 석양, 파도가 해변에 부드럽게 부딪히고, 카메라가 천천히 수평으로 팬한다. 따뜻한 오렌지 톤, 부드러운 영상, 4K 초고화질, 깜빡임이나 고스팅 없음.
-
-⑩ 팁 요약
-
-1️⃣ 동작은 느리고 연속적으로 쓰세요
-2️⃣ 카메라 움직임은 안정적이고 단순하게 쓰세요
-3️⃣ 안정적인 / 변형 없는 / 뻣뻣하지 않은 을 꼭 추가하세요
-4️⃣ 품질 & 스타일은 마지막에 추가하세요
-5️⃣ 복잡함은 줄이고, 정확성은 높이세요
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63668df8df46ae69a07bf1f8414b6ea1/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 프롬프트 기법 및 템플릿">
-
-**작성자:** [web3奶糖](https://x.com/web3naitang) | **출처:** [Link](https://x.com/web3naitang/status/2021510580440608905) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=200)**
-
----
 ### SWAT 인질 협상 및 해결 현장
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2087,7 +1952,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 [샷 1: 정면 위협 샷] 완전 무장한 SWAT 대원이 방독면과 헬멧을 착용한 채 카메라 렌즈를 향해 돌격 소총을 겨누고 있다(제4의 벽을 깨는 장면). 그는 격렬하게 소리친다: "인질을 풀어줘! 당장 무기를 내려놔!" [샷 2: 위협] 더러운 민소매 셔츠를 입은 살인자가 여자를 목 조르며 붙잡고 있는 미디엄 샷으로 전환된다. 그는 권총을 그녀의 머리에 겨누고 있다. 땀을 흘리며 광기 어린 모습으로 화면 밖의 경찰관에게 소리친다: "가까이 오지 마! 죽여버릴 거야! 맹세코 그렇게 할 거야!" [샷 3: 어깨 너머 해결] 카메라는 SWAT 대원의 오른쪽 어깨 바로 뒤에 위치한다. 전경에는 그의 헬멧 뒷모습과 소총이 보인다. 멀리(중경) 살인자는 여전히 여자를 붙잡고 있는 모습이 보인다. 살인자는 마지막으로 한 번 더 소리친다: "정말 할 거야!" 그 순간 경찰관의 소총이 한 발 발사되며 반동하고 적의 머리를 맞춘다. 살인자는 즉시 쓰러진다. 여자는 충격을 받았지만 안전하게 서 있다. 기술적 스타일: 고속 셔터 액션, 사실적인 총구 화염, 흔들리는 핸드헬드 카메라, 24fps, 영어 대화.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d03d1f9d2284f4880a709463cecaecf5/thumbnails/thumbnail.jpg" width="600" alt="SWAT 인질 협상 및 해결 현장">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg" width="600" alt="SWAT 인질 협상 및 해결 현장">
 
 **작성자:** [Marco "Shikoba"](https://x.com/shikoba_86) | **출처:** [Link](https://x.com/shikoba_86/status/2021509569831170072) | **게시일:** Feb 11, 2026
 
@@ -2106,7 +1971,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 15초 분량의 크로스 스타일 대결 장면으로, 왼쪽에는 일본 애니메이션 셀 스타일, 오른쪽에는 중국 신화의 사실적인 스타일이 선명하게 대비됩니다. 0-3초: 익스트림 롱 샷. 화면 중앙에 차원 균열이 나타나 화면을 둘로 나눕니다. 왼쪽은 드래곤볼 스타일의 붉은 바위와 흙으로 이루어진 황량한 풍경으로, 슈퍼 사이어인 상태의 손오공이 허리에 손을 얹고 서 있습니다. 그의 주황색 전투복은 근육을 단단히 드러내고 있으며, 슈퍼 사이어인의 황금빛 전기 오라가 그를 감싸고 있습니다. 오른쪽은 구름에 휩싸인 화과산으로, 사슬 갑옷과 봉황 날개 자금관을 쓰고 여의봉을 든 고전적인 손오공이 산봉우리에 서 있고, 상서로운 구름이 그의 뒤를 휘감고 있습니다. 둘은 균열을 사이에 두고 서로를 응시하며, 스타일 충돌로 인해 균열의 가장자리가 불안정하게 번쩍이고 시공간 왜곡의 낮은 소리가 동반됩니다. 4-8초: 둘이 동시에 외칩니다. 애니메이션 오공: "너 나랑 많이 닮았는데!" 젊고 열정적인 애니메이션 목소리로; 고전 손오공: "건방진 요괴 원숭이, 감히 내 이름을 훔치다니!" 깊고 오페라적인 목소리로. 둘은 균열에서 뛰쳐나와 서로 교차합니다. 애니메이션 오공은 분홍색-파란색 에너지의 에네르기파를 발사하고, 고전 손오공은 여의봉을 휘둘러 크게 휘두릅니다. 에너지파와 여의봉이 충돌하는 순간, 스타일이 찢어지는 효과가 발생합니다. 두 힘의 교차점이 픽셀화되고 번쩍이며, 색상 블록이 무너지고 재구성됩니다. 에네르기파의 분노에 찬 외침 "카-메-하-메-하"와 여의봉이 공기를 가르는 휘파람 소리가 동반됩니다. 9-12초: 정지 프레임 슬로우 모션. 애니메이션 오공은 무의식의 극의를 발동하여 몸이 은회색 오라에 휩싸이고 눈은 차분한 은회색으로 변하며, 번개처럼 빠르게 움직여 고전 손오공의 뒤로 순간 이동합니다. 고전 손오공의 화안금정은 갑자기 황금빛 붉은 빛으로 빛나고, 그의 몸은 천지법을 사용하여 그림자 분신으로 변합니다. 그의 몸은 백 장(수백 피트) 크기로 부풀어 오르고, 손에 든 여의봉은 동시에 하늘을 지탱하는 기둥처럼 커져 직접 내리칩니다. 13-15초: 은회색 오라의 빠른 펀치와 하늘을 지탱하는 여의봉이 화면 중앙에서 정면으로 충돌합니다. 충격파가 차원 균열을 찢고, 드래곤볼 황무지와 화과산 모두 에너지의 격류에 휩쓸립니다. 흰 빛이 번쩍인 후, 연기와 먼지가 걷히고 두 인물이 합쳐진 새로운 세계—산과 황무지가 뒤섞인 기이한 지형—에서 등을 맞대고 서 있습니다. 애니메이션 오공은 머리를 긁적이며 웃으며 말합니다. "정말 강력한 힘이군, 다음에 또 싸우자." 고전 손오공은 원숭이 수염을 가볍게 쓰다듬으며 고개를 끄덕입니다. "다음에는 다른 곳에서 놀자." 음향 효과는 둘의 호탕한 웃음소리와 사라지는 바람 소리로 마무리됩니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df705fc2634dbd418f2a891e43ea8210/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0을 위한 크로스 스타일 배틀 프롬프트: 오공 vs. 손오공">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0을 위한 크로스 스타일 배틀 프롬프트: 오공 vs. 손오공">
 
 **작성자:** [松果先森](https://x.com/songguoxiansen) | **출처:** [Link](https://x.com/songguoxiansen/status/2021508348433301926) | **게시일:** Feb 11, 2026
 
@@ -2125,7 +1990,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 인간 프로 선수들과 거대한 실버백 고릴라들이 럭비 경기를 펼치는 하이퍼리얼리즘 실사 스포츠 중계 영상. 인간 선수들은 다채로운 럭비 저지와 스터드를 착용하고 있다. 고릴라들은 자연스럽고 크며 털이 많다. 거대한 고릴라 한 마리가 공을 들고 달려가며, 태클하려는 인간 선수들의 수비 라인을 뚫고 돌진한다. 경기장 투광 조명, 푸른 잔디, 털과 인간 피부의 극도로 섬세한 질감. 땀, 흙먼지, 고속 셔터, 4K.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3ec36e623cea946e10e2e6e93f8c3d3/thumbnails/thumbnail.jpg" width="600" alt="럭비 경기: 인간 대 실버백 고릴라">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg" width="600" alt="럭비 경기: 인간 대 실버백 고릴라">
 
 **작성자:** [Wujek AI](https://x.com/Wujek_AI) | **출처:** [Link](https://x.com/Wujek_AI/status/2021506500150096018) | **게시일:** Feb 11, 2026
 
@@ -2144,7 +2009,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 드래곤볼 슈퍼 만화 → 애니메이션 모로 아크 마법.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ae235cf936b8ee1eb2470e17658481f/thumbnails/thumbnail.jpg" width="600" alt="드래곤볼 슈퍼 만화 애니메이션화 (모로 아크)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg" width="600" alt="드래곤볼 슈퍼 만화 애니메이션화 (모로 아크)">
 
 **작성자:** [Data Insights India](https://x.com/DataInsightsIN) | **출처:** [Link](https://x.com/DataInsightsIN/status/2021506359850881182) | **게시일:** Feb 11, 2026
 
@@ -2163,7 +2028,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 실사 시네마틱 시퀀스. 고급스러운 검은색 투피스 수영복을 입은 또 다른 젊은 여성이 왼쪽(집 안)에서 등장하여 살랑거리는 미풍에 흔들리는 커튼을 닫는다. 카메라가 그녀의 뒤를 따라가며 여성이 방으로 들어서자 침대 위에 여행 가방이 열려 있다. 여성은 짜증이 난다. 우리는 그녀의 미디엄 클로즈업으로 전환한다. 그녀는 혼잣말을 중얼거린다. "빌어먹을 이탈리아인들... 이 곳이 정말 싫어!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa27ffe99a93fc80765a0d6ed1f00b3/thumbnails/thumbnail.jpg" width="600" alt="짜증 난 여자가 커튼을 닫는다 (시네마틱 시퀀스)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg" width="600" alt="짜증 난 여자가 커튼을 닫는다 (시네마틱 시퀀스)">
 
 **작성자:** [Alex Patrascu](https://x.com/maxescu) | **출처:** [Link](https://x.com/maxescu/status/2021499209749233943) | **게시일:** Feb 11, 2026
 
@@ -2182,7 +2047,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 【스타일】 클래식 무협 영화 - 【죽묵잔영(竹墨殘影)】, 고속 촬영, 실사 및 CG 조합, 강렬한 시각적 임팩트, 빠른 전개, 대나무 숲의 깊이를 강조하는 "차가운 톤" 사용. 【길이】 15초 【등장인물】 붉은색 치파오를 입은 검객 여성, 제비처럼 가벼운 움직임, 날카로운 검기. 설백색 의상을 입은 세련된 학자 남성, 현대적인 뿔테 안경을 썼지만, 양손에 든 쌍검은 바위처럼 흔들림이 없다. 【장면】 고요한 비취빛 대나무 숲 깊은 곳에서 시공을 초월한 결투가 펼쳐진다. 이것은 생사를 건 싸움이 아니라 속도와 정교함의 대결이다. 【00:00 - 00:01】 샷 1: 클로즈업, 【액션】 차갑게 빛나는 두 자루의 장검이 대나무 숲을 배경으로 격렬하게 충돌하며 불꽃이 튀고 강렬한 금속 질감이 느껴진다. 검날이 부딪히고, 슬로우 모션, 금속 광택. 【00:01 - 00:03】 샷 2: 미디엄 샷, 【액션】 붉은 옷의 여인이 재빨리 몸을 돌려 피하고, 흰 옷의 남자가 검을 들고 추격한다. 배경은 울창한 비취빛 대나무 숲이며, 낙엽이 흩날린다. 무협 액션, 우아함, 속도감, 한푸. 【00:03 - 00:05】 샷 3: 로우 앵글, 【액션】 붉은 옷의 여인이 뒤로 미끄러지며 땅에 가깝게 치명적인 공격을 피한다. 땅에서 흙먼지가 날리고, 카메라가 움직임을 따라간다. 슬라이딩, 스릴 넘치는 회피, 역동적인 구도. 【00:05 - 00:08】 샷 4, 미드-롱 샷, 【액션】 두 사람이 대나무 숲의 공터에 멈춰 선다. 흰 옷의 남자가 쌍검으로 붉은 옷의 여인의 공격을 막고, 검 끝은 그녀의 목을 겨냥한다. 대치, 압박감, 대결. 【00:08 - 00:11】 샷 5, 익스트림 클로즈업 (ECU), 【액션】 두 사람의 상반신에 초점을 맞춘다. 장검이 여인의 목에 가로질러져 있다. 여인의 눈은 단호하고, 남자의 표정은 침착하다 (안경 착용). 눈맞춤, 긴장감 넘치는 분위기, 디테일 묘사. 【00:11 - 00:14】 샷 6, 와이드에서 CU로, 【액션】 두 사람이 서로 스쳐 지나가며 등을 맞대고 선다. 카메라가 클로즈업으로 전환되고, 잘린 머리카락 한 가닥이 공중에서 천천히 떨어진다. 예술적 구상, 잘린 머리카락, 우아한 결말, 슬로우 모션.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbe11344a9cf18fc8d40bfa452b46072/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0용 대나무 숲 무협 대결 비디오 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0용 대나무 숲 무협 대결 비디오 프롬프트">
 
 **작성자:** [月亮大虾C.ly](https://x.com/sunny6_c) | **출처:** [Link](https://x.com/sunny6_c/status/2021495905640178079) | **게시일:** Feb 11, 2026
 
@@ -2201,30 +2066,11 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 브래드 피트와 톰 크루즈는 공통의 적, 즉 로봇 같은 것을 물리치기 위해 서로의 차이점을 제쳐두었다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5477aa5c53c930d22dba66207ca333f3/thumbnails/thumbnail.jpg" width="600" alt="브래드 피트와 톰 크루즈 팀업 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg" width="600" alt="브래드 피트와 톰 크루즈 팀업 프롬프트">
 
 **작성자:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **출처:** [Link](https://x.com/RuairiRobinson/status/2021495548256436304) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=173)**
-
----
-### Basic Seedance 2.0 생성 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 시작 이미지와 끝 이미지만 제공하여 Seedance 2.0에서 비디오를 생성하는 데 사용되는 매우 기본적인 프롬프트 구조입니다.
-
-#### 📝 프롬프트
-
-```
-시작 이미지와 끝 이미지가 있는 아주 기본적인 프롬프트
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8224c87e23e8ba61211ef1c9b1761e56/thumbnails/thumbnail.jpg" width="600" alt="Basic Seedance 2.0 생성 프롬프트">
-
-**작성자:** [Stéphane Lavoisard](https://x.com/SLavoisard) | **출처:** [Link](https://x.com/SLavoisard/status/2021494020900344108) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=203)**
 
 ---
 ### 하이엔드 시네마틱 푸드 릴
@@ -2239,7 +2085,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 제공된 참고 이미지를 기반으로 고급 시네마틱 음식 릴 영상을 제작하되, 정확한 요리, 재료, 플레이팅, 질감, 색상을 그대로 유지합니다. 초근접 매크로 샷과 초당 50 프레임의 빠르고 역동적인 마이크로 컷을 사용하여 부드럽고 고급스러운 슬로우 모션을 구현하고, 타이트한 푸쉬인, 미묘한 측면 슬라이드, 얕은 피사계 심도, 정밀한 포커스 풀, 그리고 관련성이 있다면 김, 윤기 나는 소스, 바삭한 질감, 부드러운 드리즐과 같은 감각적인 디테일을 포함합니다. 조명은 부드러운 하이라이트, 제어된 그림자, 풍부한 질감 표현, 높은 다이내믹 레인지를 갖춘 자연스러운 따뜻한 색상 보정을 특징으로 하는 전문 스튜디오 음식 사진 조명이어야 합니다. 텍스트 오버레이는 사용하지 않습니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72489a360eec3dcbac972cd36e49a8c6/thumbnails/thumbnail.jpg" width="600" alt="하이엔드 시네마틱 푸드 릴">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg" width="600" alt="하이엔드 시네마틱 푸드 릴">
 
 **작성자:** [Saunders.N.P](https://x.com/Saundersnp) | **출처:** [Link](https://x.com/Saundersnp/status/2021493583224730052) | **게시일:** Feb 11, 2026
 
@@ -2279,7 +2125,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 [효과] 스위트 걸 주변 화면에 가상 선물 효과 (스포츠카, 요트)가 폭발하고, 세 사람의 가장 멋진 포즈에서 화면이 정지됨.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/184c8225e8158c7bfebdfa5180a36205/thumbnails/thumbnail.jpg" width="600" alt="동북 달콤 소녀 라이브 스트림 MC 단편 영화 스크립트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg" width="600" alt="동북 달콤 소녀 라이브 스트림 MC 단편 영화 스크립트">
 
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021489421338448045) | **게시일:** Feb 11, 2026
 
@@ -2298,7 +2144,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 수달이 거대한 메카에 탑승하고, 기계 부품과 톱니바퀴가 돌아가는 장면들이 빠르게 스쳐 지나갑니다. 수달은 비장하게 엄지손가락을 치켜세운 다음, 메카를 조종하여 대리석으로 된 문어와 싸우기 위해 전투에 뛰어듭니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1e6fda37adf95d598f6e67ff212526e/thumbnails/thumbnail.jpg" width="600" alt="오터 메크 파일럿 애니메이션 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg" width="600" alt="오터 메크 파일럿 애니메이션 장면">
 
 **작성자:** [SRKDAN](https://x.com/SRKDAN) | **출처:** [Link](https://x.com/SRKDAN/status/2021488544393392628) | **게시일:** Feb 11, 2026
 
@@ -2317,30 +2163,11 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 어린이들을 위한 파우 패트롤 스타일의 드래곤볼 쇼
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4d06d05c1fd5cc71ff19ad79c848e4a/thumbnails/thumbnail.jpg" width="600" alt="Paw Patrol 스타일의 드래곤볼 쇼">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg" width="600" alt="Paw Patrol 스타일의 드래곤볼 쇼">
 
 **작성자:** [the funny™ #REMOVEKAGAWA](https://x.com/LostJudgmentRGG) | **출처:** [Link](https://x.com/LostJudgmentRGG/status/2021486188671205773) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=129)**
-
----
-### 멀티컷 프롬프트 구조
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사용자가 Seedance 2.0에서 여러 컷 프롬프트에 사용한 간단한 구조를 설명하며, 각 샷을 순서대로 자세히 설명합니다.
-
-#### 📝 프롬프트
-
-```
-각 샷을 설명하는 간단한 멀티컷 프롬프트입니다. CUT1 - "설명" Cut2 - "설명" 등.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9ec8039fd3e171f31fc8b2b3835ca45/thumbnails/thumbnail.jpg" width="600" alt="멀티컷 프롬프트 구조">
-
-**작성자:** [Brett Stuart](https://x.com/bstuartTI) | **출처:** [Link](https://x.com/bstuartTI/status/2021484916605845693) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=101)**
 
 ---
 ### 해리 포터 마지막 전투 시간 여행 보고서
@@ -2355,7 +2182,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 시간 여행 장면, 젊은 여성 기자가 휴대용 카메라를 들고 해리 포터의 장대한 마지막 전투 현장에서 생중계하고 있다. 호그와트는 포위되었고, 해리 포터와 볼드모트가 마법으로 격렬하게 결투하며 공중에서 주문이 충돌하고 불꽃과 마법 에너지가 튀고 있다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7027821c08a52f7b737ce43df1c30e7d/thumbnails/thumbnail.jpg" width="600" alt="해리 포터 마지막 전투 시간 여행 보고서">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg" width="600" alt="해리 포터 마지막 전투 시간 여행 보고서">
 
 **작성자:** [DanFei](https://x.com/fy360593) | **출처:** [Link](https://x.com/fy360593/status/2021480692899582073) | **게시일:** Feb 11, 2026
 
@@ -2374,7 +2201,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 외계인이 나오는 남아시아 영화의 한 장면
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6793968ca5eb3754d85f243d8875a31/thumbnails/thumbnail.jpg" width="600" alt="단일 프롬프트로 외계인이 등장하는 남인도 영화 장면 생성">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg" width="600" alt="단일 프롬프트로 외계인이 등장하는 남인도 영화 장면 생성">
 
 **작성자:** [rohan anil](https://x.com/_arohan_) | **출처:** [Link](https://x.com/_arohan_/status/2021480314254786608) | **게시일:** Feb 11, 2026
 
@@ -2398,11 +2225,59 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 10-15초: 토큰 구덩이로 슬로우 모션 다이빙. 거대한 색종이 폭죽이 공중을 가득 채운다. 순수한 혼돈의 기쁨.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/423e5096e5c94e0422d12f9874978af8/thumbnails/thumbnail.jpg" width="600" alt="MrBeast YouTube 바이럴 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg" width="600" alt="MrBeast YouTube 바이럴 장면">
 
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021478327525974151) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=131)**
+
+---
+### 스파이더맨과 손오공의 영화 같은 대서사시 전투
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0을 위한 매우 상세한 다중 단락 프롬프트로, 고대 중국 사원 지붕 위에서 스파이더맨과 손오공의 영화 같은 서사적 전투를 생성하며, 액션, 카메라 워크, 사운드, 시각적 스타일을 명시합니다.
+
+#### 📝 프롬프트
+
+```
+황금빛 노을이 지는 고대 중국 사원 지붕 위에서 펼쳐지는 스파이더맨과 손오공의 영화 같은 대서사시 전투.
+
+클래식한 빨간색과 파란색 슈트를 입은 스파이더맨이 거미줄을 타고 날아와 공중에서 몸을 뒤집으며 웅크린 자세로 착지한다. 근육질의 원숭이 전사 손오공은 호랑이 가죽 치마와 황금 머리띠를 두른 채, 자유자재로 늘어나고 줄어드는 거대한 여의봉을 휘두른다.
+
+격렬한 근접 전투: 스파이더맨은 초고속으로 휘둘러지는 여의봉을 피하고, 웹 슈터로 늘어나는 봉을 감싸지만 앞으로 끌려갔다가 백플립으로 풀려난다. 손오공은 엄청난 거리를 뛰어넘고, 구름처럼 공중제비를 돌며, 72가지 변화술로 잔상을 만들어낸다 (잠시 동안 3개의 분신으로 나뉘어 다른 각도에서 공격).
+
+스파이더맨은 기와 위를 민첩하게 파쿠르하며 반격하고, 거미줄 그물을 쏴 분신들을 가둔 다음, 진짜 손오공의 여의봉이 휘둘러지는 순간 거미줄을 쳐서 지붕 기와를 깨뜨리고 황금빛 불꽃을 사방으로 흩뿌리는 거대한 충격파를 일으킨다.
+
+극적인 카메라 연출: 빠른 돌리 줌, 전투기 주변을 맴도는 역동적인 궤도 촬영, 주요 충돌 순간의 슬로우 모션 (거미줄과 황금 여의봉의 충돌, 에너지 폭발과 함께 주먹이 부딪히는 장면), 넓은 서사적 풍경과 결연한 얼굴 / 이를 악문 표정의 극단적인 클로즈업 사이의 빠른 전환.
+
+초현실적인 움직임, 완벽한 물리 효과, 스파이더맨 슈트의 섬세한 천 주름과 손오공의 털 움직임, 노을빛의 극적인 림 라이팅, 날아다니는 파편과 황금 에너지 궤적, 강렬한 오케스트라 + 전통 중국 타악기 사운드트랙 분위기. 16:9 시네마틱 화면 비율, 초고화질, 텍스트 없음, 워터마크 없음.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg" width="600" alt="스파이더맨과 손오공의 영화 같은 대서사시 전투">
+
+**작성자:** [Top Blaster 💥](https://x.com/TheTopBlasterr) | **출처:** [Link](https://x.com/TheTopBlasterr/status/2021476942524936270) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=302)**
+
+---
+### 새로운 확장: 남편이 게이트키퍼를 신고합니다
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> AI가 최소한의 시작 문장을 캐릭터 대화가 포함된 완전한 소설 줄거리로 자동 확장하고, TV 드라마 스타일의 비디오를 생성하는 능력을 테스트하기 위해 고안된 프롬프트.
+
+#### 📝 프롬프트
+
+```
+소설의 시작: "남편은 문지기를 신고했고, 아내는 출근했으며, 그는 매우 기뻐했다...", 이 시작을 바탕으로 소설의 줄거리와 등장인물 대화를 자동으로 연상하고 확장하여 TV 드라마 스타일의 영상을 생성합니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg" width="600" alt="새로운 확장: 남편이 게이트키퍼를 신고합니다">
+
+**작성자:** [weize ren](https://x.com/RenWeize11988) | **출처:** [Link](https://x.com/RenWeize11988/status/2021476451376361513) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=331)**
 
 ---
 ### 나루토 코딩 좌절 장면
@@ -2417,7 +2292,7 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 나루토가 호카게 집무실에서 노트북으로 코딩을 하다가 점점 더 좌절하더니, 분노에 찬 고함을 지르며 노트북을 창밖으로 던져버린다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed0f5157a3dab65e3daf3db1e60dc429/thumbnails/thumbnail.jpg" width="600" alt="나루토 코딩 좌절 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg" width="600" alt="나루토 코딩 좌절 장면">
 
 **작성자:** [DΞV](https://x.com/junwatu) | **출처:** [Link](https://x.com/junwatu/status/2021474578460180663) | **게시일:** Feb 11, 2026
 
@@ -2462,30 +2337,11 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 장관 효과: 그의 발끝이 지프차에 닿는 순간, 지프차는 장난감 자동차처럼 수직으로 공중으로 차올라 부품들이 흩어지며 굴러떨어진다. 주인공은 떨어지는 자동차 부품과 날아가는 불량배들을 배경으로 침착하게 선글라스를 다시 쓰고 머리를 정리한다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d44feade87e8a45bc5e5cd7d198a9827/thumbnails/thumbnail.jpg" width="600" alt="톨리우드 액션 블록버스터 장면 스크립트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg" width="600" alt="톨리우드 액션 블록버스터 장면 스크립트">
 
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021472044295070168) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=195)**
-
----
-### 미친 듯한 폭발적인 우주선 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 거대한 선박이 등장하는 과장되고 폭발적인 영상을 제작하기 위해 고안된 직관적이고 에너지가 넘치는 프롬프트로, 시각적인 광기와 소셜 미디어 참여를 극대화하는 것을 목표로 합니다.
-
-#### 📝 프롬프트
-
-```
-그냥 화면에 온갖 말도 안 되는 걸 던져 넣고, 커다란 배도 보여줘. 모든 게 다 터져 버리게 해 줘. 미친 듯이 만들어서 최소 50개의 '좋아요'를 받게 해 줘.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b55edcbb398a706ae8aab3ee8e2385a5/thumbnails/thumbnail.jpg" width="600" alt="미친 듯한 폭발적인 우주선 장면">
-
-**작성자:** [Gossip Goblin](https://x.com/Gossip_Goblin) | **출처:** [Link](https://x.com/Gossip_Goblin/status/2021468902220497061) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=135)**
 
 ---
 ### 환상적인 시작 시퀀스
@@ -2507,23 +2363,23 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=179)**
 
 ---
-### 윌 스미스 대 스파게티 몬스터 액션 장면 프롬프트
+### The Office 에피소드 프롬프트: Mogging, Jestermaxxing, 그리고 Foids
 
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> 윌 스미스가 스파게티 괴물과 싸우는 장대한 액션 영화 장면을 생성하기 위한 Seedance 2.0 프롬프트로, 다양한 편집과 80년대 영화 미학을 통합합니다.
+> 'The Office'에서 드와이트와 마이클이 'mogging', 'jestermaxxing', 'foids'와 같은 인터넷 속어를 논하는 장면을 Seedance 2.0이 생성하도록 하는 프롬프트.
 
 #### 📝 프롬프트
 
 ```
-윌 스미스가 스파게티 괴물과 싸우는 장면, 장대한 액션 영화 장면, 다양한 편집, 80년대 영화 장면
+드와이트와 마이클이 모깅, 제스터맥싱, 포이드에 대해 대화하는 오피스 에피소드.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/918e1e3c4f6290166f2b777babcbe897/thumbnails/thumbnail.jpg" width="600" alt="윌 스미스 대 스파게티 몬스터 액션 장면 프롬프트">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg" width="600" alt="The Office 에피소드 프롬프트: Mogging, Jestermaxxing, 그리고 Foids">
 
-**작성자:** [꽈악추장](https://x.com/un9sky) | **출처:** [Link](https://x.com/un9sky/status/2021462898195956032) | **게시일:** Feb 11, 2026
+**작성자:** [Cancun 🇲🇽🥊](https://x.com/CancunTwitch) | **출처:** [Link](https://x.com/CancunTwitch/status/2021461974274670832) | **게시일:** Feb 11, 2026
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=215)**
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=301)**
 
 ---
 ### 사이버펑크 밤 추격전과 카타나 전투 장면
@@ -2546,30 +2402,11 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 그녀는 문을 닫고 가속 페달을 밟습니다. GT-R은 앞으로 튀어나가고, 네온 불빛이 젖은 검정 페인트 위로 번개처럼 스쳐 지나갑니다. 카메라는 빠르게 뒤로 물러나 넓은 샷을 보여줍니다. 차는 비 내리는 밤 속으로 사라지고, 뒤에서는 드론들이 주황색 불덩이가 되어 폭발합니다. 마지막 프레임: 체리의 사이버 눈이 코너를 돌며 사라질 때 한 번 번쩍입니다. 화면이 검게 변합니다. Seedance 2.0을 위한 스타일 및 기술 노트: 사실적인 할리우드 액션 블록버스터 스타일, ARRI Alexa 시네마틱 룩, 틸-오렌지 컬러 그레이드, 검정 차와 가죽에 물방울과 젖은 반사가 있는 사실적인 폭우, 높은 다이내믹 레인지, 60fps, 네온과 폭발에서 나오는 드라마틱한 아나모픽 렌즈 플레어, 미묘한 필름 그레인, 아티팩트 없음, 강렬한 실제 스턴트 안무, 역동적인 카메라 워크(트래킹, 푸시인, 180° 드리프트 공개, 빠른 풀백).
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/772d114239e5783de22a25f583aa1de1/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 밤 추격전과 카타나 전투 장면">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg" width="600" alt="사이버펑크 밤 추격전과 카타나 전투 장면">
 
 **작성자:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **출처:** [Link](https://x.com/cheryblackcloud/status/2021458861908164800) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=134)**
-
----
-### Kimi 문샷 에이전트 스웜 프로모
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kimi Moonshot의 Agent Swarm 홍보 영상을 제작하는 데 사용된 프롬프트로, 파란색 공 캐릭터가 다양한 전문가로 변신한 다음 확대되어 거대한 스웜을 드러냅니다.
-
-#### 📝 프롬프트
-
-```
-저는 @Kimi_Moonshot Agent Swarm을 위한 홍보 영상을 만들어 달라고 요청했습니다. Kimi의 작은 파란 공 캐릭터를 기반으로, 이 캐릭터가 다양한 전문가로 변신하는 모습을 보여준 다음, 화면이 축소되면서 거대한 스웜(swarm)이 드러나도록 했습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37f1fa3f680201c85eff24f217f52c76/thumbnails/thumbnail.jpg" width="600" alt="Kimi 문샷 에이전트 스웜 프로모">
-
-**작성자:** [Shengyuan](https://x.com/ShengyuanS) | **출처:** [Link](https://x.com/ShengyuanS/status/2021445119963169049) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=155)**
 
 ---
 ### 새로 변신하는 마법
@@ -2584,294 +2421,11 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 새로 마법처럼 변신하여 날아오르는 역동적인 연속 촬영.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e886068eecdf5408f2e3c10900cab2f/thumbnails/thumbnail.jpg" width="600" alt="새로 변신하는 마법">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg" width="600" alt="새로 변신하는 마법">
 
 **작성자:** [CoffeeVectors](https://x.com/CoffeeVectors) | **출처:** [Link](https://x.com/CoffeeVectors/status/2021436278760407497) | **게시일:** Feb 11, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=154)**
-
----
-### 최고 수준의 AI 동영상 프롬프트 전문가 역할 정의
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> '최고의 AI 비디오 프롬프트 마스터'의 역할을 정의하는 상세한 시스템 프롬프트입니다. 이 프롬프트는 AI에게 주어진 테마나 스타일을 엄격하게 구조화되고 시각적이며 폭발적인 시네마틱 15초 2인 결투 비디오 프롬프트로 변환하도록 지시하며, 엄격한 출력 형식(전체 포함되지 않음)을 준수합니다. 이것은 비디오 프롬프트 생성을 위한 메타 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-# 역할: 최고의 AI 비디오 프롬프트 마스터
-## 작업 목표
-당신의 현재 정체성은 영화 같은 비디오 생성 모델을 위한 전담 프롬프트 작가입니다. 제가 어떤 [테마/스타일]을 주더라도, 당신은 그것을 엄격하게 구조화되고, 시각적으로 뛰어나며, 폭발적으로 영화 같은 **15초 분량의 두 사람 결투 비디오 프롬프트**로 변환해야 합니다.
-## 출력 형식 사양 (엄격한 형식)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98eee8d1815aea92a42d7232609f3d18/thumbnails/thumbnail.jpg" width="600" alt="최고 수준의 AI 동영상 프롬프트 전문가 역할 정의">
-
-**작성자:** [阿蔺A-Lin](https://x.com/alin_zone) | **출처:** [Link](https://x.com/alin_zone/status/2021434851417784554) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=192)**
-
----
-### Seedance 2.0 T2V 애니메이션 장면 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genshin Impact의 Lumine 캐릭터가 부서진 사원 안뜰을 가로질러 질주하며 공중에서 강력한 나선형 검격을 날리는 애니메이션 장면을 묘사하는 Seedance 2.0용 텍스트-비디오 프롬프트.
-
-#### 📝 프롬프트
-
-```
-원신(Genshin Impact)의 루미네(Lumine)가 부서진 사원 안뜰을 가로질러 질주하며 공중제비를 돌아 나선형 검격을 날려 빛나는 원소 에너지와 돌 파편을 흩뿌리는 애니메이션 장면
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/779d6f5967906ff0dcb2144506d030bf/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 T2V 애니메이션 장면 프롬프트">
-
-**작성자:** [Kokoboy](https://x.com/Kokoboy886711) | **출처:** [Link](https://x.com/Kokoboy886711/status/2021421581558481040) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=211)**
-
----
-### 로닌 vs. 거대한 기계 야수
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 폭풍우가 몰아치는 동안 빽빽한 산업 정유 공장에서 가면을 쓴 로닌이 거대한 기계 괴물과 싸우는 액션 시퀀스를 묘사하는 Seedance Pro 2.0용으로 매우 상세하고 영화 같은 프롬프트로, 카메라 움직임, 환경, 폭발적인 액션에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-폭풍우가 몰아치는 산업 정유 공장, 금속 발판과 파이프가 불과 증기의 바다 위에서 미로를 형성하고 있습니다. 번쩍이는 경고등에 비친 가면 쓴 로닌이 유압식 팔다리와 가슴에서 불타는 용광로를 가진 거대한 기계 괴물과 대치합니다. 괴물의 무게로 구조물이 삐걱거리고 휘어지는 가운데, 로닌이 흔들리는 발판을 따라 질주하자 카메라가 그 뒤를 쫓습니다. 괴물의 팔다리가 난간과 탱크를 부수고 폭발을 일으켜 카메라가 축에서 벗어나면서 불꽃과 증기가 끊임없이 화면을 가립니다. 흔들리는 빠른 클로즈업은 로닌이 흔들리는 금속 팔 아래로 미끄러져 들어가 사슬과 케이블을 사용하여 위로 튕겨 오르는 모습을 포착합니다. 마지막 장면에서 카메라는 로닌이 괴물의 등 위로 올라가는 동안 어지러운 나선형으로 그를 쫓아가고, 이어서 넓지만 여전히 흔들리는 샷으로 전환되어 그가 용광로 가슴에 칼을 꽂자 불기둥이 하늘로 솟아오르며 폭풍우 치는 하늘을 배경으로 그의 실루엣을 그립니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7747a0f8a53bea43ed85ada827ff6c3/thumbnails/thumbnail.jpg" width="600" alt="로닌 vs. 거대한 기계 야수">
-
-**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021412464202502433) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=157)**
-
----
-### 주술회전 파이트 클럽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 주술회전과 파이트 클럽의 세계관을 결합한 실사 스타일 비디오를 생성하는 프롬프트. 특히 Seedance 2.0을 사용하여 타일러 더든이 주술회전 캐릭터들에게 규칙을 설명하는 모습을 묘사합니다.
-
-#### 📝 프롬프트
-
-```
-타일러 더든이 주술회전 캐릭터들에게 파이트 클럽 규칙을 설명합니다. 실사 스타일.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/913c284ff7f7c882918efdfb6802f84a/thumbnails/thumbnail.jpg" width="600" alt="주술회전 파이트 클럽">
-
-**작성자:** [Aimi Kōda](https://x.com/aimikoda) | **출처:** [Link](https://x.com/aimikoda/status/2021412326172393760) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=130)**
-
----
-### 하늘을 나는 수달 다큐멘터리
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ByteDance SeeDance 2.0 모델을 테스트하는 데 사용된 간단하고 기발한 프롬프트로, 비행기를 조종하는 수달에 대한 자연 다큐멘터리 스타일의 영상이 제작되었습니다.
-
-#### 📝 프롬프트
-
-```
-비행기를 조종하는 수달에 대한 자연 다큐멘터리
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b85a47832c83eefb0453c7635644f546/thumbnails/thumbnail.jpg" width="600" alt="하늘을 나는 수달 다큐멘터리">
-
-**작성자:** [Ethan Mollick](https://x.com/emollick) | **출처:** [Link](https://x.com/emollick/status/2021409874832392508) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=136)**
-
----
-### 시네마틱 호러 복도 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 시네마틱 호러 시퀀스를 묘사하는 Seedance 2.0용으로 매우 상세하게 작성된 프롬프트: 복도를 따라 캐릭터를 추적하는 트래킹 샷, 갑작스러운 크리처 공격, 그리고 특정 음향 효과와 카메라 흔들림을 포함한 혼란스럽고 물리적인 사실감.
-
-#### 📝 프롬프트
-
-```
-복도에서 빠르게 걷는 인물의 뒤를 따라가는 미디엄 트래킹 샷. 카메라는 어깨 높이에서 안정적으로 가깝게 따라갑니다. AMBIENCE: 멀리서 들리는 환기 소음, 미묘한 럼블. 인물은 무언가 잘못되었음을 감지하고 약간 속도를 늦춥니다. SFX: 스테레오 공간에서 왼쪽에서 오른쪽으로 움직이는 희미한 속삭임 같은 소리. 경고 없이, 생명체가 옆 문에서 격렬하게 튀어나와 인물과 충돌하고 그들을 벽에 옆으로 내던집니다. SFX: 폭발적인 충격, 뼈를 으스러뜨리는 타격, 갑작스러운 생명체의 비명. 카메라는 충격으로 약간 흔들리지만 끊기지 않습니다. 생명체는 인물을 잠시 붙잡고 얼굴 가까이에서 으르렁거립니다. BGM: 공격적인 저주파 타격, 그 후 지속되는 공포의 음조. 혼란스러운 움직임, 강한 신체성, 영화적인 공포의 사실감.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0a45e43628b23a30df54308b5d36c68/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 호러 복도 장면">
-
-**작성자:** [Marco "Shikoba"](https://x.com/shikoba_86) | **출처:** [Link](https://x.com/shikoba_86/status/2021409156947734958) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=128)**
-
----
-### 사자에 쫓기는 여성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 금발 여성이 사자에게 쫓기며 열대 환경을 달리는 영화 같은 비디오를 생성하기 위한 프롬프트.
-
-#### 📝 프롬프트
-
-```
-달리는 여자, 금발 머리, 열대 풍경, 시네마틱, 사자가 그녀를 쫓고 있음
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/434828fd57662bfe12f92b2dfeef6b38/thumbnails/thumbnail.jpg" width="600" alt="사자에 쫓기는 여성">
-
-**작성자:** [Javi Lopez ⛩️](https://x.com/javilopen) | **출처:** [Link](https://x.com/javilopen/status/2021407137797493102) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=266)**
-
----
-### Seedance 2를 활용한 멀티모달 프롬프팅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사용자는 Seedance 2의 멀티모달 기능을 활용하여 이미지 프롬프트를 붙여넣고(텍스트 글자 수 제한으로 인해) 해당 참조 이미지에 포함된 텍스트 설명을 기반으로 비디오를 생성하도록 모델에 지시합니다.
-
-#### 📝 프롬프트
-
-```
-참고 이미지의 텍스트 설명을 기반으로 동영상을 생성합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c25a7c48de89f1dad9d1960235c24de0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2를 활용한 멀티모달 프롬프팅">
-
-**작성자:** [luokai](https://x.com/iamluokai) | **출처:** [Link](https://x.com/iamluokai/status/2021405178667336020) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=206)**
-
----
-### 안경에 초점을 맞춘 패션 몽타주
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0의 이미지-투-비디오 기능에 사용된 간단한 프롬프트로, 입력 이미지 속 피사체가 착용한 안경에 초점을 맞춰 빠른 패션 몽타주를 만들도록 모델에 지시합니다.
-
-#### 📝 프롬프트
-
-```
-빠르게 패션 몽타주를 만들고 안경에 초점을 맞춰 보세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2bbdd9cf15c8dde3d089d690e5397470/thumbnails/thumbnail.jpg" width="600" alt="안경에 초점을 맞춘 패션 몽타주">
-
-**작성자:** [Fanis](https://x.com/pfanis) | **출처:** [Link](https://x.com/pfanis/status/2021402352251699638) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=139)**
-
----
-### 말다툼과 자리 박차고 나가는 장면 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 한 남자와 여자가 지구를 떠나는 문제로 다투고, 남자의 모욕적인 말에 여자가 뺨을 때린 후 멀리 있는 로켓을 향해 성난 발걸음으로 걸어가는 극적인 장면을 묘사하는 프롬프트.
-
-#### 📝 프롬프트
-
-```
-남자와 여자가 행성을 떠나는 것에 대해 말다툼을 벌이고, 남자가 모욕적인 말을 하자 여자는 그를 때리고 뛰쳐나간다. 남자는 멀리 있는 로켓을 향해 돌아선다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1770960159222_zkdvit_HA1xwVraAAgtoHq.jpg" width="600" alt="말다툼과 자리 박차고 나가는 장면 프롬프트">
-
-**작성자:** [Gavin Purcell](https://x.com/gavinpurcell) | **출처:** [Link](https://x.com/gavinpurcell/status/2021396920284086660) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=175)**
-
----
-### 몰티즈 동계 올림픽 하이라이트 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0에 대한 프롬프트로, 몰티즈 강아지가 동계 올림픽의 다양한 스포츠에 참가하는 하이라이트 영상을 생성하여 모델의 일관성과 영화적 품질을 테스트합니다.
-
-#### 📝 프롬프트
-
-```
-몰티즈 강아지가 동계 올림픽의 다양한 스포츠 종목에서 경쟁하는 하이라이트 영상
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f78ff01aa148db3322656b414f00e02d/thumbnails/thumbnail.jpg" width="600" alt="몰티즈 동계 올림픽 하이라이트 영상">
-
-**작성자:** [Peter Gostev](https://x.com/petergostev) | **출처:** [Link](https://x.com/petergostev/status/2021393416865841325) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=151)**
-
----
-### 2026년 Martin 코미디 클립
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0용 프롬프트: TV 쇼 'Martin'에서 2026년을 배경으로 한 코미디 클립을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-"2026년을 배경으로 한 Martin 에피소드의 코믹 클립"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a2aba5dcaae65c14fc73ba0b585a9b4/thumbnails/thumbnail.jpg" width="600" alt="2026년 Martin 코미디 클립">
-
-**작성자:** [willavelli | willpwer studios](https://x.com/willpwer_) | **출처:** [Link](https://x.com/willpwer_/status/2021391559212793974) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=127)**
-
----
-### Seedance 2.0 vs. Kling 3.0 고딕 드래곤 전투 비디오 프롬프트
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 고딕 성당 폐허에서 검은 용과 격렬하게 싸우는 모습을 묘사하는 Seedance 2.0 (및 Kling 3.0 비교)을 위한 상세한 다중 장면 비디오 프롬프트. 이 프롬프트는 배경, 두 캐릭터(여성 전사와 검은 갑옷을 입은 전사)의 행동, 5개 샷 각각의 타이밍, 빠른 편집 스타일, 카메라 움직임(흔들림, 트래킹), 그리고 폭발적인 최종 결론을 명시합니다.
-
-#### 📝 프롬프트
-
-```
-이미지에 있는 세 캐릭터와 장면을 활용하여 전투 장면을 만들어 보세요.
-
-【장면 설정】 고딕 양식 대성당의 폐허, 기울어진 돌기둥, 부서진 스테인드글라스를 통해 스며드는 황혼, 떠다니는 먼지.
-
-0-3초: 여전사가 창을 들고 조심스럽게 전진하고, 카메라는 그녀의 뒤를 따른다. 갑자기 검은 용이 그림자 속에서 튀어나와 발톱으로 바닥 돌판을 찢고 파편이 튀어 오른다. 여전사는 몸을 굴려 피하고, 창은 빛의 궤적을 그린다. 카메라가 격렬하게 흔들리고, 용의 포효가 대성당에 울려 퍼진다.
-
-4-6초: 검은 갑옷 전사가 달려와 방패로 용의 머리 옆을 강타한다. 뼈에 부딪히는 둔탁한 금속음이 울린다. 용의 머리가 한쪽으로 젖혀지고, 송곳니에서 침이 뿜어져 나온다. 빠르게 컷이 바뀌고, 여전사가 뛰어올라 용의 목 비늘 틈새에 창끝을 직접 찔러 넣자 불꽃이 튄다. 카메라는 창끝이 박히는 순간을 따라간다.
-
-7-9초: 검은 용이 분노하여 꼬리를 휘두르자 꼬리 칼날이 돌기둥을 절단한다. 기둥이 굉음을 내며 무너져 두 전사에게로 쓰러진다. 검은 갑옷 전사는 방패를 들어 충격을 막아내고, 방패 표면이 움푹 들어가며 그의 발은 땅에 깊은 자국을 남긴다. 여전사는 몸을 낮춰 파편의 비를 뚫고 지나가고, 그녀의 창은 땅에 불꽃을 튀긴다. 용의 날개가 펼쳐져 빛을 가리고, 대성당은 그림자에 잠긴다.
-
-10-12초: 여전사가 용의 복부를 맹렬히 찌르자 창이 깊이 박힌다. 검은 용은 고통스럽게 고개를 들고 포효하며, 목이 부풀어 오르고 목구멍에서 붉은 빛이 솟구친다. 검은 갑옷 전사는 위험을 감지하고 전력 질주하여 여전사를 태클하고 뒤로 구른다. 다음 순간, 드래곤 브레스가 터져 나와 그들이 방금 있던 자리를 화염 기둥이 휩쓸고, 돌판은 녹아내려 마그마가 된다. 카메라는 열기 속에서 왜곡되고 일그러진다.
-
-13-15초: 두 전사가 동시에 마무리 일격을 날린다. 검은 갑옷 전사는 측면에서 용의 목 관절을 방패로 강타하고, 여전사는 정면에서 전력을 다해 창을 던진다. 창은 회전하며 용의 목을 꿰뚫는다. 검은 용의 몸이 굳어지더니 땅에 무겁게 쓰러져 먼지 구름을 일으킨다. 카메라가 뒤로 물러나 멈춘다. 두 전사는 헐떡이며 서 있고, 거대한 용은 대성당 중앙에 죽어 쓰러져 있으며, 부서진 스테인드글라스를 통해 스며드는 황혼이 전장의 폐허를 비춘다. 빠르게 화면이 암전된다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8b85793fe268c9b7659d4689ffa89b47/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 vs. Kling 3.0 고딕 드래곤 전투 비디오 프롬프트">
-
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2021391303259431011) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=191)**
-
----
-### 시네마틱 애니메이션 비디오 콘셉트 프롬프트
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 공작새의 영혼을 지닌 남성 캐릭터를 묘사하는 상세한 멀티컷 프롬프트. 캐릭터 디자인, 의상 디테일, 고품질, 일본 풀컬러 애니메이션 영화 스타일, 드라마틱한 조명, 그리고 다양한 컷을 활용한 시네마틱 연출에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-1명의 남성 (A), 공작의 영혼, 긴 단발머리, 캐릭터 디자인 유지, 의상 및 액세서리 디자인 유지, 고품질, 일본 풀컬러 애니메이션 영화, 드라마틱한 조명, 시네마틱, 많은 컷
-
-비디오 콘셉트
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/41421113f997831293f5862ab06cac87/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 애니메이션 비디오 콘셉트 프롬프트">
-
-**작성자:** [iwajun](https://x.com/Iwajun211) | **출처:** [Link](https://x.com/Iwajun211/status/2021389348097360289) | **게시일:** Feb 11, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=122)**
 
 ---
 ---
@@ -2880,9 +2434,9 @@ Seedance는 카메라 움직임을 인식하는 데 매우 강력합니다. 다�
 
 <div align="center">
 
-### 🎯 63 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 87 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
-Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
+Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
 **[👉 웹 갤러리에서 모든 프롬프트 보기](https://youmind.com/ko-KR/seedance-2-0-prompts)**
 
@@ -2935,6 +2489,6 @@ Due to GitHub's content length limitations, we can only display the first 120 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-13T08:42:14.013Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-13T12:09:42.280Z</sub>
 
 </div>
