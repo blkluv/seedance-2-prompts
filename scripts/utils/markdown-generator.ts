@@ -1,7 +1,7 @@
 import type { ProcessedPrompt } from './cms-client.js';
 import { t } from './i18n.js';
 
-const MAX_PROMPTS_TO_DISPLAY = 120;
+const MAX_PROMPTS_TO_DISPLAY = 100;
 
 export interface LanguageConfig {
   code: string;
@@ -51,7 +51,12 @@ function formatDate(iso?: string): string {
   });
 }
 
-export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en'): string {
+/**
+ * Video URL mapping: prompt ID → GitHub user-attachment URL
+ */
+export type VideoUrlMap = Record<string, string>;
+
+export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en', videoUrls: VideoUrlMap = {}): string {
   const now = new Date().toISOString().split('T')[0];
   const localePrefix = getLocalePrefix(locale);
   const galleryUrl = `https://youmind.com/${localePrefix}/seedance-2-0-prompts`;
@@ -163,7 +168,7 @@ ${t('whatIsIntro', locale)}
 
 `;
     for (const p of featured) {
-      md += generatePromptBlock(p, locale, galleryUrl, true);
+      md += generatePromptBlock(p, locale, galleryUrl, true, videoUrls);
     }
   }
 
@@ -178,7 +183,7 @@ ${t('whatIsIntro', locale)}
 `;
 
   for (const p of displayedPrompts) {
-    md += generatePromptBlock(p, locale, galleryUrl, false);
+    md += generatePromptBlock(p, locale, galleryUrl, false, videoUrls);
   }
 
   // Show More section when truncated
@@ -265,7 +270,7 @@ ${t('licensedUnder', locale)}
   return md;
 }
 
-function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, locale: string, galleryUrl: string, isFeatured: boolean): string {
+function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, locale: string, galleryUrl: string, isFeatured: boolean, videoUrls: VideoUrlMap = {}): string {
   const langBadge = LANG_BADGES[p.language] || `![${p.language}](https://img.shields.io/badge/lang-${p.language}-grey)`;
   const desc = p.description ? `\n> ${p.description}\n` : '';
   const authorLine = p.author
@@ -281,6 +286,17 @@ function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, local
   const imgWidth = isFeatured ? '700' : '600';
   const featuredBadge = isFeatured ? `![Featured](https://img.shields.io/badge/⭐-Featured-gold)\n` : '';
 
+  // Check if we have a video URL from the mapping
+  const videoUrl = videoUrls[String(p.id)];
+  let mediaEmbed: string;
+  if (videoUrl) {
+    // GitHub auto-renders bare user-attachment URLs as video players
+    // Use bare URL on its own line for auto-rendering
+    mediaEmbed = `${videoUrl}`;
+  } else {
+    mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">`;
+  }
+
   return `### ${p.title}
 
 ${featuredBadge}${langBadge}
@@ -291,7 +307,7 @@ ${desc}
 ${promptContent}
 \`\`\`
 
-<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">
+${mediaEmbed}
 
 ${authorLine}${sourceLine}${dateLine}
 

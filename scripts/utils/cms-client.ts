@@ -50,6 +50,7 @@ export interface ProcessedPrompt {
   referenceImages?: string[];
   mediaImages?: string[];
   featured?: boolean;
+  videoUrl?: string;
 }
 
 function extractThumbnail(doc: VideoPrompt): string | null {
@@ -99,7 +100,7 @@ export async function fetchSeedancePrompts(locale: string = 'en'): Promise<Proce
 
   if (!res.ok) throw new Error(`CMS error: ${res.status} ${await res.text()}`);
 
-  const data = await res.json();
+  const data = await res.json() as { docs: VideoPrompt[]; totalDocs: number };
   const docs: VideoPrompt[] = data.docs;
   console.log(`Total docs: ${data.totalDocs}`);
 
@@ -132,6 +133,24 @@ export async function fetchSeedancePrompts(locale: string = 'en'): Promise<Proce
       for (const url of doc.sourceMedia) { if (url) mediaImgs.push(url); }
     }
 
+    // Extract video URL from sourceVideos or cloudflareStream
+    let videoUrl: string | undefined;
+    if (doc.sourceVideos?.length) {
+      for (const sv of doc.sourceVideos) {
+        if (sv.url) { videoUrl = sv.url; break; }
+      }
+    }
+    if (!videoUrl && doc.videos?.length) {
+      for (const v of doc.videos) {
+        const cf = v.cloudflareStream as Record<string, unknown> | undefined;
+        if (cf?.uid) {
+          // Store the raw cloudflare stream UID for potential download
+          videoUrl = `cloudflare:${cf.uid}`;
+          break;
+        }
+      }
+    }
+
     results.push({
       id: doc.id,
       title: doc.title,
@@ -146,6 +165,7 @@ export async function fetchSeedancePrompts(locale: string = 'en'): Promise<Proce
       referenceImages: refImgs.length ? refImgs : undefined,
       mediaImages: mediaImgs.length ? mediaImgs : undefined,
       featured: doc.featured || false,
+      videoUrl,
     });
   }
 

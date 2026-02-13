@@ -4,6 +4,23 @@ on:
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
+    inputs:
+      download_videos:
+        description: 'Download and process videos'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+      upload_videos:
+        description: 'Upload videos to GitHub'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 jobs:
   update:
@@ -22,14 +39,32 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      - name: Install video tools
+        if: inputs.download_videos == 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install yt-dlp
+
+      - name: Cache video downloads
+        if: inputs.download_videos == 'true'
+        uses: actions/cache@v4
+        with:
+          path: tmp/videos
+          key: videos-${{ hashFiles('video-urls.json') }}
+          restore-keys: videos-
+
       - run: pnpm run generate
         env:
           CMS_HOST: ${{ secrets.CMS_HOST }}
           CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
+          DOWNLOAD_VIDEOS: ${{ inputs.download_videos || 'false' }}
+          UPLOAD_VIDEOS: ${{ inputs.upload_videos || 'false' }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md README_*.md
+          git add README.md README_*.md video-urls.json
           git diff --staged --quiet || (git commit -m "docs: update README with latest prompts" && git push)
