@@ -19,23 +19,33 @@ function loadVideoUrls(): VideoUrlMap {
 }
 
 async function main() {
-  const downloadVideosEnabled = process.env.DOWNLOAD_VIDEOS === 'true';
+  const downloadVideosMode = process.env.DOWNLOAD_VIDEOS || 'auto';
+  // 'auto' = incremental (download only new videos), 'true' = force all, 'false' = skip
 
   // Load existing video URL mappings
   let videoUrls: VideoUrlMap = loadVideoUrls();
 
-  // Optionally download and upload videos
-  if (downloadVideosEnabled) {
-    console.log('\n🎬 Video download enabled');
-    const { downloadVideos } = await import('./download-videos.js');
-    // Fetch prompts once for video download (English is fine for URLs)
+  // Download videos: auto (incremental) or force (all)
+  if (downloadVideosMode === 'true' || downloadVideosMode === 'auto') {
     const prompts = await fetchSeedancePrompts('en');
-    const videoFiles = await downloadVideos(prompts);
 
-    if (videoFiles.size > 0) {
-      console.log('\n📤 Uploading videos to GitHub Release...');
-      const { uploadVideos } = await import('./upload-to-github.js');
-      videoUrls = await uploadVideos(videoFiles);
+    // In auto mode, only download videos for prompts not yet in video-urls.json
+    const promptsToProcess = downloadVideosMode === 'auto'
+      ? prompts.filter(p => p.videoUrl && !videoUrls[String(p.id)])
+      : prompts;
+
+    if (promptsToProcess.length > 0) {
+      console.log(`\n🎬 Video download: ${downloadVideosMode} mode — ${promptsToProcess.length} new videos to process`);
+      const { downloadVideos } = await import('./download-videos.js');
+      const videoFiles = await downloadVideos(promptsToProcess);
+
+      if (videoFiles.size > 0) {
+        console.log('\n📤 Uploading videos to GitHub Release...');
+        const { uploadVideos } = await import('./upload-to-github.js');
+        videoUrls = await uploadVideos(videoFiles);
+      }
+    } else {
+      console.log('\n✅ No new videos to download');
     }
   }
 

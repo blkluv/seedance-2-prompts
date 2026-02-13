@@ -6,13 +6,14 @@ on:
   workflow_dispatch:
     inputs:
       download_videos:
-        description: 'Download and process videos'
+        description: 'Video download mode: auto (incremental), true (force all), false (skip)'
         required: false
-        default: 'false'
+        default: 'auto'
         type: choice
         options:
-          - 'false'
+          - 'auto'
           - 'true'
+          - 'false'
   push:
     branches: [main]
     paths:
@@ -40,14 +41,14 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - name: Install video tools
-        if: inputs.download_videos == 'true'
+        if: ${{ (inputs.download_videos || 'auto') != 'false' }}
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           pip install yt-dlp
 
       - name: Cache video downloads
-        if: inputs.download_videos == 'true'
+        if: ${{ (inputs.download_videos || 'auto') != 'false' }}
         uses: actions/cache@v4
         with:
           path: tmp/videos
@@ -58,7 +59,7 @@ jobs:
         env:
           CMS_HOST: ${{ secrets.CMS_HOST }}
           CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
-          DOWNLOAD_VIDEOS: ${{ inputs.download_videos || 'false' }}
+          DOWNLOAD_VIDEOS: ${{ inputs.download_videos || 'auto' }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
