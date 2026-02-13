@@ -1,6 +1,11 @@
 name: Update README
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'video-urls.json'
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
