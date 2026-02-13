@@ -93,7 +93,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="ออพติมัส ไพรม์ ปะทะ ก็อตซิลล่า ที่โตเกียว"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **แหล่งที่มา:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -119,7 +119,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="ฉากแอคชั่น Ronin สุดเหนือจริงในสนามรบ"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -157,7 +157,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Battle Prompt สำหรับ Seedance 2.0"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -182,7 +182,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์การต่อสู้แบบภาพยนตร์หลายฉาก (ซุนหงอคง ปะทะ โฮมแลนเดอร์)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [chimi チミワウ](https://x.com/chimiwaw) | **แหล่งที่มา:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -203,7 +203,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="ฉากบทสนทนาของ Sailor Moon"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [BigMotion.ai](https://x.com/BigMotion_ai) | **แหล่งที่มา:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -224,7 +224,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากยิงปืนสไตล์ John Woo"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/john87445528) | **แหล่งที่มา:** [Link](https://x.com/john87445528/status/2022066865296601311) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -245,7 +245,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Swordsman Duel Prompt"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Jay Sensei👾](https://x.com/hckinz) | **แหล่งที่มา:** [Link](https://x.com/hckinz/status/2022062799732777214) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -266,7 +266,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="เรื่องย่อ Mad Max Exodus"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **แหล่งที่มา:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -287,7 +287,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากต่อสู้ในภาพยนตร์สายลับ"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Restlessperson ](https://x.com/Restlessperson1) | **แหล่งที่มา:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -310,7 +310,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="ข้อความพร้อมท์สำหรับแปลงข้อความเป็นวิดีโอ: ฉากแก้แค้น ณ ลานประหารในชุดโบราณ"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Ken W](https://x.com/kenw_2) | **แหล่งที่มา:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -331,7 +331,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="Kamala ปะทะ Trump ต่อสู้กับ Tom และ John Wick พร้อมพรอมต์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [X Citizen Journal](https://x.com/xcitizenjournal) | **แหล่งที่มา:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -352,7 +352,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="เซลฟี่พาโนรามา 360 องศาในร้านของหวาน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [nachos2d](https://x.com/NACHOS2D_) | **แหล่งที่มา:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -373,7 +373,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine: ข้อความแจ้งรูปภาพเป็นวิดีโอ"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Apil](https://x.com/apilpirman) | **แหล่งที่มา:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -394,7 +394,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์การต่อสู้ DBZ แบบ Live Action"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Mark Gadala-Maria](https://x.com/markgadala) | **แหล่งที่มา:** [Link](https://x.com/markgadala/status/2021985063840403880) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -415,7 +415,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์สัมภาษณ์แวมไพร์ยุค 80"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Shira Wiggles](https://x.com/ImperfectEngel) | **แหล่งที่มา:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -436,7 +436,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอคชั่นที่รวดเร็ว"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Chraft](https://x.com/chraft_ai) | **แหล่งที่มา:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -457,7 +457,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์รูปภาพหญิงสาวแฟนตาซีดาร์ก"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **แหล่งที่มา:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -478,7 +478,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="ฉากต่อสู้ของ Brad Pitt และ Tom Cruise"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **แหล่งที่มา:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -499,7 +499,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 เรื่องราวความรักแบบมานุษยรูปนิยม"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Rayko_Zopia](https://x.com/Fox1251104) | **แหล่งที่มา:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -520,7 +520,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="ฉากการแข่งขันสิ่งมีชีวิตแบบหลายช็อต"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -559,7 +559,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์สัมมนาความสำเร็จแบบจีน (ซุปไก่)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -600,7 +600,7 @@ Brand Y · อนาคตมาถึงแล้ว (15 วินาที · 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="โฆษณารถยนต์แห่งอนาคต (Y - ขับเคลื่อนอนาคต)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -646,7 +646,7 @@ Brand Y · อนาคตมาถึงแล้ว (15 วินาที · 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอสไตล์ละครทีวีฮ่องกงยุค 90 เรื่อง The Great Era (大时代)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -689,7 +689,7 @@ Seedance 2.0 Prompt
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="สามโครงเรื่องละครสั้น (โรแมนติก/ความขัดแย้งร่วมสมัย)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -710,7 +710,7 @@ Seedance 2.0 Prompt
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอคชั่นระทึกขวัญความเข้มข้นสูงในห้องนักบิน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Kemal Cagin](https://x.com/kemalcse) | **แหล่งที่มา:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -731,7 +731,7 @@ Seedance 2.0 Prompt
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="คอหอยของเลวีอาธาน: การดิ่งลงสู่โครงสร้างขนาดยักษ์ใต้ทะเล"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -752,7 +752,7 @@ Seedance 2.0 Prompt
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="ชายและช้างที่สวนสัตว์ (สไตล์กล้องเก่า)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **แหล่งที่มา:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -773,7 +773,7 @@ Seedance 2.0 Prompt
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากต่อสู้ Spider-Man ปะทะ Octopus Man"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **แหล่งที่มา:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -812,7 +812,7 @@ MV Electronic Future Bass 10 วินาที แบบ Beat-sync, จอไ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="3 สไตล์ของพรอมต์ MV 10 วินาที"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -833,7 +833,7 @@ MV Electronic Future Bass 10 วินาที แบบ Beat-sync, จอไ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากต่อสู้ของ Naruto และ Luffy"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Youn Hwang](https://x.com/YounchanHwang) | **แหล่งที่มา:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -854,7 +854,7 @@ MV Electronic Future Bass 10 วินาที แบบ Beat-sync, จอไ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="ไมเคิล แจ็กสัน ปะทะ ฮิตเลอร์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [ImPaul](https://x.com/impaulxyz) | **แหล่งที่มา:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -898,7 +898,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอหนังสั้นแนวสุนทรียภาพชนบทสมัยใหม่ที่ช่วยเยียวยา"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -919,7 +919,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="Madoka Magica Bullshit Prompt"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [alpon](https://x.com/StayGoys) | **แหล่งที่มา:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -940,7 +940,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="Flowers สร้างรูปทรงสุดท้าย (Seedance Pro 1.0)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Gabriela Cardona](https://x.com/gcwalther_x) | **แหล่งที่มา:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -961,7 +961,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์: Vegeta Super Saiyan 100 vs Base Goku"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Lozio](https://x.com/minilozio) | **แหล่งที่มา:** [Link](https://x.com/minilozio/status/2021801238191354346) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -984,7 +984,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="สุนัข vs. ไพรม์ โรนัลโด้ ในนัดชิงชนะเลิศแชมเปียนส์ลีก"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **แหล่งที่มา:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -1022,7 +1022,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพรอมต์ภาพยนตร์ฟอร์มยักษ์ Demon Slayer Live-Action"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -1048,7 +1048,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์สั้นแนวสยองขวัญ: ความผิดพลาดของกระจกเงา"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [MapleShaw](https://x.com/msjiaozhu) | **แหล่งที่มา:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -1069,7 +1069,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="อนิเมะวอร์ริเออร์ ปะทะ เอเลี่ยนปลาหมึก"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Charles Boonsu](https://x.com/Boonsu28) | **แหล่งที่มา:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **เผยแพร่เมื่อ:** Feb 12, 2026
 
@@ -1090,7 +1090,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="ลำดับการกระทำพร้อมท์สำหรับการต่อสู้ของนักบินขับไล่"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [𝕏Caliber](https://x.com/XCaliber) | **แหล่งที่มา:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1111,7 +1111,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="ผู้หญิงเผชิญหน้ากับผู้ชายในเงามืด"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Gavin Purcell](https://x.com/gavinpurcell) | **แหล่งที่มา:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1132,7 +1132,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="โดราเอมอนและสไปเดอร์แมนต่อสู้กัน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [otung Emmanuel](https://x.com/otung_emmanuel) | **แหล่งที่มา:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1153,7 +1153,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="ภาพถ่ายการวิ่งแบบถือกล้องใต้น้ำพร้อมเหรียญทอง"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [CoffeeVectors](https://x.com/CoffeeVectors) | **แหล่งที่มา:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1174,7 +1174,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="การฝึกซ้อมชกมวยสุดเข้มข้น"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **แหล่งที่มา:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1225,7 +1225,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอตลกสุดเพี้ยนสำหรับ Seedance 2.0: ไม่มีอะไรเลย"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/john87445528) | **แหล่งที่มา:** [Link](https://x.com/john87445528/status/2021706240272069021) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1246,7 +1246,7 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="วิ่งหนีสัตว์ประหลาดยักษ์ (สไตล์ Arcane)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Dipper](https://x.com/dipperdao) | **แหล่งที่มา:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1299,7 +1299,7 @@ The Flash เร่งความเร็วออกไปนอกเมื�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="ความโกลาหลในหมู่บ้านมาไซ"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Travis Davids](https://x.com/MrDavids1) | **แหล่งที่มา:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1320,7 +1320,7 @@ The Flash เร่งความเร็วออกไปนอกเมื�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="วิลล์ สมิธ ต่อสู้กับสัตว์ประหลาดสปาเก็ตตี้ (แอ็กชันยุค 80)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [S0FT](https://x.com/sudoSoftAI) | **แหล่งที่มา:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1341,7 +1341,7 @@ The Flash เร่งความเร็วออกไปนอกเมื�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="ทรัมป์ ปะทะ ไมเคิล แจ็กสัน AI แดนซ์แบทเทิล"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Shira Wiggles](https://x.com/ImperfectEngel) | **แหล่งที่มา:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1362,7 +1362,7 @@ The Flash เร่งความเร็วออกไปนอกเมื�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="การหลบหนีด้วยมอเตอร์ไซค์ในสงครามโลกครั้งที่ 2 แบบภาพยนตร์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [pewden AI](https://x.com/pewdenai) | **แหล่งที่มา:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1383,7 +1383,7 @@ The Flash เร่งความเร็วออกไปนอกเมื�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="ชายบนเรือถูกสัตว์ประหลาดใต้ทะเลโจมตี"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Anthony T](https://x.com/creativesinner2) | **แหล่งที่มา:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1414,7 +1414,7 @@ The Flash เร่งความเร็วออกไปนอกเมื�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="ฉากในห้องโดยสารที่มีตัวละครหลายตัวพร้อมบทสนทนา"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Jason W - AI](https://x.com/PocketScreenAI) | **แหล่งที่มา:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1435,7 +1435,7 @@ The Flash เร่งความเร็วออกไปนอกเมื�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ Thanos ขอโทษ Spider-Man"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [xAi✨](https://x.com/xai_42) | **แหล่งที่มา:** [Link](https://x.com/xai_42/status/2021637349247951131) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1456,7 +1456,7 @@ Lumpen, Hobo, เวอร์ชั่นผู้หญิง, แมวแก�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="หญิงจรจัดผอมโซพร้อมโซ่ตรวน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **แหล่งที่มา:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1482,7 +1482,7 @@ Lumpen, Hobo, เวอร์ชั่นผู้หญิง, แมวแก�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันไทม์แลปส์การประกอบเลโก้"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [维维](https://x.com/siveill) | **แหล่งที่มา:** [Link](https://x.com/siveill/status/2021635240985604526) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1506,7 +1506,7 @@ Lumpen, Hobo, เวอร์ชั่นผู้หญิง, แมวแก�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="ข้อความแจ้งสำหรับแปลงข้อความเป็นวิดีโอที่ได้รับแรงบันดาลใจจาก One Piece"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **แหล่งที่มา:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1537,7 +1537,7 @@ Lumpen, Hobo, เวอร์ชั่นผู้หญิง, แมวแก�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="หนังสั้นเรื่องความลับของสัตว์เลี้ยงในค่ำคืนอันแสนอบอุ่น"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Michelle](https://x.com/Michell81147285) | **แหล่งที่มา:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1558,7 +1558,7 @@ Lumpen, Hobo, เวอร์ชั่นผู้หญิง, แมวแก�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="บทพูดโฆษณาที่เปี่ยมพลัง"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Kaiwen Li](https://x.com/realkaiwenli) | **แหล่งที่มา:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1579,7 +1579,7 @@ Lumpen, Hobo, เวอร์ชั่นผู้หญิง, แมวแก�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="ฉากคัตซีน Kraken Attack"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Mark Gadala-Maria](https://x.com/markgadala) | **แหล่งที่มา:** [Link](https://x.com/markgadala/status/2021615497670737953) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1600,7 +1600,7 @@ Lumpen, Hobo, เวอร์ชั่นผู้หญิง, แมวแก�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="ฉากต่อสู้สุดอลังการของลูฟี่และโกคู"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Mark Gadala-Maria](https://x.com/markgadala) | **แหล่งที่มา:** [Link](https://x.com/markgadala/status/2021611931480609139) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1628,7 +1628,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ Text-to-Video แบบ Multi-Shot สำหรับฉากการแข่งขันในโตเกียว"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **แหล่งที่มา:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1649,7 +1649,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="แมวร้องเพลงบนเกาะลอยฟ้า"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [goku](https://x.com/spinningsensei) | **แหล่งที่มา:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1670,7 +1670,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="Bitcoin ทำลายธนาคารกลางสหรัฐฯ (พลังอนิเมะ)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **แหล่งที่มา:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1691,7 +1691,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากโรงเตี๊ยมโจรสลัด"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **แหล่งที่มา:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1720,7 +1720,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์แอนิเมชันแนวเซียนเซี่ย: หานลี่ ปะทะ หวังหลิน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1741,7 +1741,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="ฉากไล่ล่ารถยนต์สุดระทึก"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [ChatCut](https://x.com/chatcutapp) | **แหล่งที่มา:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1762,7 +1762,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="New Amsterdam Simulator"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [@levelsio](https://x.com/levelsio) | **แหล่งที่มา:** [Link](https://x.com/levelsio/status/2021587482349895747) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1799,7 +1799,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์สั้นแนวไซไฟ: Awakening Future"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1844,7 +1844,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="บทละครสั้นแนว Urban Fantasy สำหรับ Seedance 2.0: โชคดีมาถึงแล้ว"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1865,7 +1865,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="การผจญภัยในรูปแบบแอนิเมชันสไตล์ดิสนีย์สุดคลาสสิก"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [FragZero](https://x.com/FragZero) | **แหล่งที่มา:** [Link](https://x.com/FragZero/status/2021568010452869227) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1886,7 +1886,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="เรื่องราวแฟนตาซี: การแปลงร่างของนางฟ้าผีเสื้อ"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **แหล่งที่มา:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1907,7 +1907,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="Cadillac Formula One Car 2026"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [HNNS.](https://x.com/ItsMeHannes) | **แหล่งที่มา:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1928,7 +1928,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="Godzilla บุก Monas ในจาการ์ตา"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Not Yours](https://x.com/neveryourbaee) | **แหล่งที่มา:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1949,7 +1949,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="วิดีโออนิเมะเจ้าหน้าที่จีน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **แหล่งที่มา:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1970,7 +1970,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="การหลีกเลี่ยงลิขสิทธิ์: Nezha ปะทะ Minions ในไชน่าทาวน์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Dow Ma](https://x.com/VoiceOfDow) | **แหล่งที่มา:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -1992,7 +1992,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากแอ็กชันสไตล์ John Wick"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [大宝](https://x.com/xiaolongli7697) | **แหล่งที่มา:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2037,7 +2037,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์ฉากเปิดตัว: ควบม้าผ่านคฤหาสน์แวนคูเวอร์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/john87445528) | **แหล่งที่มา:** [Link](https://x.com/john87445528/status/2021545550772924579) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2058,7 +2058,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="ฉากแอคชั่นแฮร์รี่ พอตเตอร์ ปะทะ โวลเดอมอร์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [ChatCut](https://x.com/chatcutapp) | **แหล่งที่มา:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2079,7 +2079,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="ลำดับฉากการบินด้วยชุดวิงสูทแบบภาพยนตร์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2100,7 +2100,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/149.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e52b97dffb21b895b9e10149469a869/thumbnails/thumbnail.jpg" width="600" alt="ลูฟี่กำลังเขียนโค้ดบนเรือ Thousand Sunny"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [sui dev ☄️](https://x.com/birdabo) | **แหล่งที่มา:** [Link](https://x.com/birdabo/status/2021514359151947951) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2121,7 +2121,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/158.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg" width="600" alt="สถานการณ์การเจรจาและแก้ไขปัญหาตัวประกันของหน่วย SWAT"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Marco "Shikoba"](https://x.com/shikoba_86) | **แหล่งที่มา:** [Link](https://x.com/shikoba_86/status/2021509569831170072) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2142,7 +2142,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/190.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg" width="600" alt="Cross-Style Battle Prompt สำหรับ Seedance 2.0: โกคู ปะทะ ซุนหงอคง"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [松果先森](https://x.com/songguoxiansen) | **แหล่งที่มา:** [Link](https://x.com/songguoxiansen/status/2021508348433301926) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2163,7 +2163,7 @@ New Amsterdam (ปัจจุบันคือ New York City) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/145.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg" width="600" alt="การแข่งขันรักบี้: มนุษย์ ปะทะ กอริลล่าหลังเงิน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Wujek AI](https://x.com/Wujek_AI) | **แหล่งที่มา:** [Link](https://x.com/Wujek_AI/status/2021506500150096018) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2184,7 +2184,7 @@ Dragon Ball Super manga → เวทมนตร์ในภาค Moro ที�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/180.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg" width="600" alt="การดัดแปลงมังงะ Dragon Ball Super เป็นอนิเมะ (ภาค Moro)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Data Insights India](https://x.com/DataInsightsIN) | **แหล่งที่มา:** [Link](https://x.com/DataInsightsIN/status/2021506359850881182) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2205,7 +2205,7 @@ Dragon Ball Super manga → เวทมนตร์ในภาค Moro ที�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/147.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg" width="600" alt="ผู้หญิงที่กำลังหงุดหงิดปิดม่าน (ลำดับภาพยนตร์)"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Alex Patrascu](https://x.com/maxescu) | **แหล่งที่มา:** [Link](https://x.com/maxescu/status/2021499209749233943) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2226,7 +2226,7 @@ Dragon Ball Super manga → เวทมนตร์ในภาค Moro ที�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/187.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Duel in Bamboo Forest วิดีโอพรอมต์สำหรับ Seedance 2.0"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [月亮大虾C.ly](https://x.com/sunny6_c) | **แหล่งที่มา:** [Link](https://x.com/sunny6_c/status/2021495905640178079) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2247,7 +2247,7 @@ Dragon Ball Super manga → เวทมนตร์ในภาค Moro ที�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/173.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์: แบรด พิตต์ และ ทอม ครูซ ร่วมทีมกัน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **แหล่งที่มา:** [Link](https://x.com/RuairiRobinson/status/2021495548256436304) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2268,7 +2268,7 @@ Dragon Ball Super manga → เวทมนตร์ในภาค Moro ที�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/143.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg" width="600" alt="วิดีโออาหารสไตล์ภาพยนตร์ระดับไฮเอนด์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Saunders.N.P](https://x.com/Saundersnp) | **แหล่งที่มา:** [Link](https://x.com/Saundersnp/status/2021493583224730052) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2310,7 +2310,7 @@ Dragon Ball Super manga → เวทมนตร์ในภาค Moro ที�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/196.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์สั้นสำหรับไลฟ์สตรีม MC สาวหวานจากภาคตะวันออกเฉียงเหนือของจีน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021489421338448045) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2331,7 +2331,7 @@ Dragon Ball Super manga → เวทมนตร์ในภาค Moro ที�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/125.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg" width="600" alt="ฉากอนิเมะ Otter Mech Pilot"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [SRKDAN](https://x.com/SRKDAN) | **แหล่งที่มา:** [Link](https://x.com/SRKDAN/status/2021488544393392628) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2352,7 +2352,7 @@ Dragon Ball โชว์สำหรับเด็กในสไตล์ Paw 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/129.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg" width="600" alt="Dragon Ball ในสไตล์ Paw Patrol"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [the funny™ #REMOVEKAGAWA](https://x.com/LostJudgmentRGG) | **แหล่งที่มา:** [Link](https://x.com/LostJudgmentRGG/status/2021486188671205773) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2373,7 +2373,7 @@ Dragon Ball โชว์สำหรับเด็กในสไตล์ Paw 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/183.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg" width="600" alt="รายงานการย้อนเวลาสู่การต่อสู้ครั้งสุดท้ายของ Harry Potter"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [DanFei](https://x.com/fy360593) | **แหล่งที่มา:** [Link](https://x.com/fy360593/status/2021480692899582073) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2394,7 +2394,7 @@ Dragon Ball โชว์สำหรับเด็กในสไตล์ Paw 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/168.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์เดียวสร้างฉากภาพยนตร์อินเดียใต้พร้อมเอเลี่ยน"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [rohan anil](https://x.com/_arohan_) | **แหล่งที่มา:** [Link](https://x.com/_arohan_/status/2021480314254786608) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2420,7 +2420,7 @@ Dragon Ball โชว์สำหรับเด็กในสไตล์ Paw 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/131.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg" width="600" alt="ฉากไวรัลจาก YouTube ของ MrBeast"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021478327525974151) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2451,7 +2451,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/302.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg" width="600" alt="มหากาพย์การต่อสู้สุดอลังการระหว่าง Spider-Man และ ซุนหงอคง"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Top Blaster 💥](https://x.com/TheTopBlasterr) | **แหล่งที่มา:** [Link](https://x.com/TheTopBlasterr/status/2021476942524936270) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2472,7 +2472,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/331.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg" width="600" alt="การขยายเรื่องราวใหม่: สามีรายงานผู้เฝ้าประตู"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [weize ren](https://x.com/RenWeize11988) | **แหล่งที่มา:** [Link](https://x.com/RenWeize11988/status/2021476451376361513) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2493,7 +2493,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/156.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg" width="600" alt="ฉากความหงุดหงิดในการเขียนโค้ดของ Naruto"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [DΞV](https://x.com/junwatu) | **แหล่งที่มา:** [Link](https://x.com/junwatu/status/2021474578460180663) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2540,7 +2540,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/195.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์ฉากแอคชั่นสุดระทึกจาก Tollywood"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2021472044295070168) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2561,7 +2561,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/179.mp4"><img src="https://cms-assets.youmind.com/media/1770960164048_vjsl8d_HA2uhSGaUAASH-t.jpg" width="600" alt="ลำดับการเปิดตัวสุดมหัศจรรย์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [CoffeeVectors](https://x.com/CoffeeVectors) | **แหล่งที่มา:** [Link](https://x.com/CoffeeVectors/status/2021463701421699374) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2582,7 +2582,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/301.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg" width="600" alt="ข้อเสนอแนะสำหรับตอนของ The Office: Mogging, Jestermaxxing และ Foids"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Cancun 🇲🇽🥊](https://x.com/CancunTwitch) | **แหล่งที่มา:** [Link](https://x.com/CancunTwitch/status/2021461974274670832) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2603,7 +2603,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/134.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg" width="600" alt="การไล่ล่าในเมืองไซเบอร์พังก์ยามค่ำคืนและต่อสู้ด้วยดาบคาทานะ"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **แหล่งที่มา:** [Link](https://x.com/cheryblackcloud/status/2021458861908164800) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2624,7 +2624,7 @@ Spider-Man โต้กลับด้วยการเคลื่อนไห
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/154.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg" width="600" alt="การแปลงร่างเป็นนกอย่างน่าอัศจรรย์"></a>
 
-🎥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
+📥 *คลิกรูปภาพเพื่อดาวน์โหลดวิดีโอ*
 
 **ผู้เขียน:** [CoffeeVectors](https://x.com/CoffeeVectors) | **แหล่งที่มา:** [Link](https://x.com/CoffeeVectors/status/2021436278760407497) | **เผยแพร่เมื่อ:** Feb 11, 2026
 
@@ -2692,6 +2692,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-13T15:12:45.868Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-13T15:21:00.197Z</sub>
 
 </div>

@@ -93,7 +93,7 @@ Um carro de luxo se transforma em Optimus Prime e luta contra Godzilla, desencad
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs. Godzilla em Tóquio"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Fonte:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Publicado:** Feb 12, 2026
 
@@ -119,7 +119,7 @@ Um campo de batalha surreal no céu: ilhas de rocha flutuantes à deriva em meio
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Cena de Ação Surreal de Ronin no Campo de Batalha"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publicado:** Feb 11, 2026
 
@@ -157,7 +157,7 @@ Espetáculo de Efeitos Especiais: O dragão de água azul e o relâmpago dourado
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Prompt de Batalha Live-Action de Demon Slayer para Seedance 2.0"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Publicado:** Feb 11, 2026
 
@@ -182,7 +182,7 @@ Música que acompanha a Cena 1: "Sun Wukong está no telhado da cidade, brandind
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Batalha Cinematográfica Multi-Cenas (Sun Wukong vs. Homelander)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [chimi チミワウ](https://x.com/chimiwaw) | **Fonte:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Publicado:** Feb 12, 2026
 
@@ -203,7 +203,7 @@ Sailor Moon pula na cama e grita: "Meninas, conseguimos!". Sailor Vênus aparece
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="Cena de Diálogo de Sailor Moon"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Fonte:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Publicado:** Feb 12, 2026
 
@@ -224,7 +224,7 @@ Sailor Moon pula na cama e grita: "Meninas, conseguimos!". Sailor Vênus aparece
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Cena de Tiroteio no Estilo John Woo"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Publicado:** Feb 12, 2026
 
@@ -245,7 +245,7 @@ Um blockbuster audiovisual no estilo Wuxia. Um espadachim de branco e um mestre 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Duelo de Espadachins Wuxia"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Jay Sensei👾](https://x.com/hckinz) | **Fonte:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Publicado:** Feb 12, 2026
 
@@ -266,7 +266,7 @@ Um vídeo épico de alta ação com várias cenas sobre a história do êxodo no
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="Mad Max: Prompt de História do Êxodo"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Fonte:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Publicado:** Feb 12, 2026
 
@@ -287,7 +287,7 @@ Homem de terno verde com logo lutando com homem de preto, no estilo de filmes de
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="Cena de Luta de Filme de Espionagem - Prompt"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Restlessperson ](https://x.com/Restlessperson1) | **Fonte:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Publicado:** Feb 12, 2026
 
@@ -309,7 +309,7 @@ Cena 11 Close-up • Flocos de neve misturados com água de sangue caem sobre a 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="**Prompt de Texto para Vídeo: Cena de Vingança em Campo de Execução com Trajes Antigos**"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Ken W](https://x.com/kenw_2) | **Fonte:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Publicado:** Feb 12, 2026
 
@@ -330,7 +330,7 @@ Luta de Kamala vs Trump com o mesmo prompt de Tom e John Wick.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="Kamala vs Trump Luta com o Prompt de Tom e John Wick"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Fonte:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Publicado:** Feb 12, 2026
 
@@ -351,7 +351,7 @@ Selfie com câmera panorâmica de 360 graus. A câmera gira no sentido anti-hor�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="Selfie Panorâmica 360 Graus em uma Confeitaria"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [nachos2d](https://x.com/NACHOS2D_) | **Fonte:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Publicado:** Feb 12, 2026
 
@@ -372,7 +372,7 @@ Mulheres em luta brutal contra Elon Musk com um lindo estilo de kickboxing e noc
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Prompt de Imagem para Vídeo"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Apil](https://x.com/apilpirman) | **Fonte:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Publicado:** Feb 12, 2026
 
@@ -393,7 +393,7 @@ Batalha Saiyajin live action entre Goku e Vegeta, Super Saiyajin Blue
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Batalha DBZ Live Action"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Fonte:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Publicado:** Feb 12, 2026
 
@@ -414,7 +414,7 @@ Batalha Saiyajin live action entre Goku e Vegeta, Super Saiyajin Blue
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Entrevista com Vampiro dos Anos 80"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Fonte:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **Publicado:** Feb 12, 2026
 
@@ -435,7 +435,7 @@ Uma cena de luta em ritmo acelerado: John Wick & James Bond (007) & outro cara �
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="Cena de Ação em Ritmo Acelerado"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Chraft](https://x.com/chraft_ai) | **Fonte:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **Publicado:** Feb 12, 2026
 
@@ -456,7 +456,7 @@ Uma figura feminina etérea de fantasia sombria, com longos cabelos esvoaçantes
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo de Imagem Feminina de Dark Fantasy"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **Fonte:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **Publicado:** Feb 12, 2026
 
@@ -477,7 +477,7 @@ Gere uma cena de luta entre Brad Pitt e Tom Cruise, com o diálogo durante a lut
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="Cena de Luta de Brad Pitt e Tom Cruise"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **Fonte:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **Publicado:** Feb 12, 2026
 
@@ -498,7 +498,7 @@ Use imagens fofas de pets para desenrolar uma história sobre um presidente auto
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 História de Romance Antropomórfico"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Rayko_Zopia](https://x.com/Fox1251104) | **Fonte:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **Publicado:** Feb 12, 2026
 
@@ -519,7 +519,7 @@ uma Criatura está dirigindo extremamente rápido pela cidade futurista, 4 mudan
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="Cena de Corrida de Criaturas com Múltiplos Planos"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **Publicado:** Feb 12, 2026
 
@@ -558,7 +558,7 @@ Plateia: Levanta-se freneticamente, aplaude, alguns até com lágrimas nos olhos
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo do Seminário de Sucesso Chinês (Sopa de Galinha)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **Publicado:** Feb 12, 2026
 
@@ -597,7 +597,7 @@ Congelamento Final: A carroceria do carro voa em direção a uma lua cheia gigan
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Comercial de Carro Futurista (Y - Dirija o Futuro)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **Publicado:** Feb 12, 2026
 
@@ -643,7 +643,7 @@ Close-up: A cena finalmente foca em seus olhos desesperados e vazios (pupilas pe
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Vídeo no Estilo do Drama de TV de Hong Kong dos Anos 90: The Great Era (大时代)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **Publicado:** Feb 12, 2026
 
@@ -686,7 +686,7 @@ Drama curto moderno de 15 segundos, cena de restaurante de alta classe, tons dou
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="Três Prompts de Drama Curtos (Romance/Conflito Moderno)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [松果先森](https://x.com/songguoxiansen) | **Fonte:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **Publicado:** Feb 12, 2026
 
@@ -707,7 +707,7 @@ Cena de thriller de ação de alta intensidade, câmera tremida na mão, desfoqu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="Cena de Thriller de Ação de Alta Intensidade em um Cockpit"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Kemal Cagin](https://x.com/kemalcse) | **Fonte:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **Publicado:** Feb 12, 2026
 
@@ -728,7 +728,7 @@ Uma megaestrutura subterrânea inundada, antigos corredores de pedra semi-submer
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="A Garganta do Leviatã: Descida à Megaestrutura Subaquática"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **Publicado:** Feb 12, 2026
 
@@ -749,7 +749,7 @@ gere um vídeo de um homem em frente a um elefante no zoológico, estilo de câm
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="Homem e Elefante no Zoológico (Estilo de Câmera Antiga)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **Fonte:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **Publicado:** Feb 12, 2026
 
@@ -770,7 +770,7 @@ Por favor, crie uma cena de combate emocionante entre o Homem-Aranha e o Homem-P
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="Cena de Luta Homem-Aranha vs. Homem-Polvo"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **Fonte:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **Publicado:** Feb 12, 2026
 
@@ -809,7 +809,7 @@ MV de Future Bass Eletrônico de 10 segundos com batida sincronizada, tela ultra
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="Três Estilos de Prompts de MV de 10 Segundos"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [松果先森](https://x.com/songguoxiansen) | **Fonte:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **Publicado:** Feb 12, 2026
 
@@ -830,7 +830,7 @@ MV de Future Bass Eletrônico de 10 segundos com batida sincronizada, tela ultra
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="Cena de Luta de Naruto e Luffy"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Youn Hwang](https://x.com/YounchanHwang) | **Fonte:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **Publicado:** Feb 12, 2026
 
@@ -851,7 +851,7 @@ Michael Jackson vs. Hitler em um confronto épico.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="Michael Jackson vs Hitler: Confronto"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [ImPaul](https://x.com/impaulxyz) | **Fonte:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **Publicado:** Feb 12, 2026
 
@@ -895,7 +895,7 @@ Atmosfera: O vapor sobe lentamente contra a contraluz, a cena é tão silenciosa
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo de curta-metragem de cura com estética rural moderna"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **Publicado:** Feb 12, 2026
 
@@ -916,7 +916,7 @@ Atmosfera: O vapor sobe lentamente contra a contraluz, a cena é tão silenciosa
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Besteira de Madoka Magica"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [alpon](https://x.com/StayGoys) | **Fonte:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **Publicado:** Feb 12, 2026
 
@@ -937,7 +937,7 @@ Atmosfera: O vapor sobe lentamente contra a contraluz, a cena é tão silenciosa
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="Flores Criando um Prompt de Forma Final (Seedance Pro 1.0)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Gabriela Cardona](https://x.com/gcwalther_x) | **Fonte:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **Publicado:** Feb 12, 2026
 
@@ -958,7 +958,7 @@ Atmosfera: O vapor sobe lentamente contra a contraluz, a cena é tão silenciosa
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="Vegeta Super Saiyajin 100 vs Goku Base Prompt"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Lozio](https://x.com/minilozio) | **Fonte:** [Link](https://x.com/minilozio/status/2021801238191354346) | **Publicado:** Feb 12, 2026
 
@@ -981,7 +981,7 @@ Final da Champions League.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="Cachorro vs. Prime Ronaldo na Final da Champions League"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **Fonte:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **Publicado:** Feb 12, 2026
 
@@ -1019,7 +1019,7 @@ Efeitos Especiais: Sem linhas de quadrinhos, apenas **explosão real de partícu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="Prompt de vídeo de sucesso de Demon Slayer em live-action"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **Publicado:** Feb 12, 2026
 
@@ -1045,7 +1045,7 @@ Efeitos Especiais: Sem linhas de quadrinhos, apenas **explosão real de partícu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="Roteiro de Curta-Metragem de Terror: A Falha no Espelho"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [MapleShaw](https://x.com/msjiaozhu) | **Fonte:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **Publicado:** Feb 12, 2026
 
@@ -1066,7 +1066,7 @@ Efeitos Especiais: Sem linhas de quadrinhos, apenas **explosão real de partícu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="Guerreiro Anime vs. Polvo Alienígena"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Charles Boonsu](https://x.com/Boonsu28) | **Fonte:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **Publicado:** Feb 12, 2026
 
@@ -1087,7 +1087,7 @@ Sequência de ação de um piloto de caça de elite em combate aéreo em jatos d
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="Sequência de Ações para Combate de Piloto de Caça"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [𝕏Caliber](https://x.com/XCaliber) | **Fonte:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Publicado:** Feb 11, 2026
 
@@ -1108,7 +1108,7 @@ Uma mulher pede, tensa, para o homem nas sombras sair. A câmera se aproxima len
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="Mulher Confronta Homem nas Sombras"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Gavin Purcell](https://x.com/gavinpurcell) | **Fonte:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Publicado:** Feb 11, 2026
 
@@ -1129,7 +1129,7 @@ Doramon e Homem-Aranha lutando, com muita qualidade e intensidade
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="Doraemon e Homem-Aranha Lutando"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Fonte:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Publicado:** Feb 11, 2026
 
@@ -1150,7 +1150,7 @@ Câmera na mão filmando um homem correndo com uma sacola transbordando moedas d
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Corrida com Câmera na Mão e Moedas de Ouro Submersas"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Fonte:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Publicado:** Feb 11, 2026
 
@@ -1171,7 +1171,7 @@ Câmera na mão circulando dois boxeadores praticando sparring em uma academia r
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="Sessão de Sparring de Boxe Intensa"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Fonte:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Publicado:** Feb 11, 2026
 
@@ -1222,7 +1222,7 @@ Cena 4: Cavaleiro Continua Galopando Zombando de Si Mesmo (0:20-0:30, 10 segundo
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Absurd Comedy Video Prompt para Seedance 2.0: Nada"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Publicado:** Feb 11, 2026
 
@@ -1243,7 +1243,7 @@ gere um vídeo sobre uma cena de corrida, atrás um monstro gigante do tamanho d
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="Fugindo de um Monstro Gigante (Estilo Arcane)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Dipper](https://x.com/dipperdao) | **Fonte:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Publicado:** Feb 11, 2026
 
@@ -1296,7 +1296,7 @@ Um babuíno colossal e blindado avança por uma aldeia Maasai em chamas, ele peg
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="Caos em uma Aldeia Maasai"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Travis Davids](https://x.com/MrDavids1) | **Fonte:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Publicado:** Feb 11, 2026
 
@@ -1317,7 +1317,7 @@ Will Smith lutando contra um monstro de espaguete, cena épica de filme de açã
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Lutando Contra um Monstro de Espaguete (Ação Anos 80)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [S0FT](https://x.com/sudoSoftAI) | **Fonte:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Publicado:** Feb 11, 2026
 
@@ -1338,7 +1338,7 @@ TRUMP VS MICHAEL JACKSON: A BATALHA DE DANÇA DE IA MAIS ÉPICA
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="Batalha de Dança de IA: Trump vs Michael Jackson"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Fonte:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Publicado:** Feb 11, 2026
 
@@ -1359,7 +1359,7 @@ crie uma sequência cinematográfica de fuga de motocicleta da Segunda Guerra Mu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="Fuga Cinematográfica de Moto na Segunda Guerra Mundial"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [pewden AI](https://x.com/pewdenai) | **Fonte:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Publicado:** Feb 11, 2026
 
@@ -1380,7 +1380,7 @@ Um homem está em um barco em meio a uma forte tempestade, enquanto um grande mo
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="Homem em um barco atacado por um monstro marinho"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Anthony T](https://x.com/creativesinner2) | **Fonte:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Publicado:** Feb 11, 2026
 
@@ -1411,7 +1411,7 @@ Câmera parada. Um único take contínuo enquanto os personagens entram e ocupam
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="Cena de Cabine com Vários Personagens e Diálogo"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Jason W - AI](https://x.com/PocketScreenAI) | **Fonte:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Publicado:** Feb 11, 2026
 
@@ -1432,7 +1432,7 @@ forçando Thanos a se desculpar antes de um ataque em grupo liderado pelo Homem-
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Prompt: Thanos se desculpa com o Homem-Aranha"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [xAi✨](https://x.com/xai_42) | **Fonte:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Publicado:** Feb 11, 2026
 
@@ -1453,7 +1453,7 @@ Lumpen, Hobo, versão feminina, gato velho e maltratado, com correntes para cham
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Mulher andrajosa e sem-teto com correntes"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Fonte:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Publicado:** Feb 11, 2026
 
@@ -1479,7 +1479,7 @@ Um menino montando seriamente peças de Lego em seu quarto, a cena adota um esti
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Animação em Time-Lapse da Montagem de Lego"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [维维](https://x.com/siveill) | **Fonte:** [Link](https://x.com/siveill/status/2021635240985604526) | **Publicado:** Feb 11, 2026
 
@@ -1503,7 +1503,7 @@ Ele se transforma em um dragão negro gigante e agarra todos do céu (o nome da 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Texto para Vídeo Inspirado em One Piece"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Fonte:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Publicado:** Feb 11, 2026
 
@@ -1534,7 +1534,7 @@ Ele se transforma em um dragão negro gigante e agarra todos do céu (o nome da 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="Curta-metragem: O Segredo Noturno Aconchegante dos Pets"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Michelle](https://x.com/Michell81147285) | **Fonte:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Publicado:** Feb 11, 2026
 
@@ -1555,7 +1555,7 @@ use Seedance 2.0, quero um comercial de celular com alta energia, cinematográfi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="Roteiro Comercial de Alta Energia"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Kaiwen Li](https://x.com/realkaiwenli) | **Fonte:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Publicado:** Feb 11, 2026
 
@@ -1576,7 +1576,7 @@ Um kraken gigante ataca um navio pirata, o capitão o fatia com sua espada. Cena
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="Cena Cinematográfica do Ataque do Kraken"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Fonte:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Publicado:** Feb 11, 2026
 
@@ -1597,7 +1597,7 @@ Luffy e Goku em uma cena de luta épica no Sunny.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="Cena de Luta Épica de Luffy e Goku"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Fonte:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Publicado:** Feb 11, 2026
 
@@ -1625,7 +1625,7 @@ Plano externo traseiro baixo, as luzes traseiras do carro acendem enquanto ele a
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="Prompt de texto para vídeo com múltiplos planos para cena de corrida em Tóquio"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fonte:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **Publicado:** Feb 11, 2026
 
@@ -1646,7 +1646,7 @@ Plano externo traseiro baixo, as luzes traseiras do carro acendem enquanto ele a
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="Gato Cantando em Ilha Flutuante"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [goku](https://x.com/spinningsensei) | **Fonte:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **Publicado:** Feb 11, 2026
 
@@ -1667,7 +1667,7 @@ Com as duas mãos levantadas, painéis flutuantes de ₿ convergem em um enorme 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="Bitcoin Destrói o Federal Reserve (Anime Power-Up)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **Fonte:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **Publicado:** Feb 11, 2026
 
@@ -1688,7 +1688,7 @@ Taberna pirata. Lança-chamas na mesa. Cerveja na mão.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="Prompt de cena de taverna pirata"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **Fonte:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **Publicado:** Feb 11, 2026
 
@@ -1709,7 +1709,7 @@ Estilo de filme de animação chinês Xianxia, renderização 3D CG ultrafina, s
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="Filme de Animação Xianxia: Roteiro de Batalha – Han Li vs. Wang Lin"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [松果先森](https://x.com/songguoxiansen) | **Fonte:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **Publicado:** Feb 11, 2026
 
@@ -1730,7 +1730,7 @@ Perseguição de carro, drift, alta octanagem, F1, colisão, explosão.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="Cena de Perseguição de Carro de Alta Octanagem"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [ChatCut](https://x.com/chatcutapp) | **Fonte:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **Publicado:** Feb 11, 2026
 
@@ -1751,7 +1751,7 @@ Simulador de Nova Amsterdã (atual Nova Iorque)
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="New Amsterdam Simulator"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [@levelsio](https://x.com/levelsio) | **Fonte:** [Link](https://x.com/levelsio/status/2021587482349895747) | **Publicado:** Feb 11, 2026
 
@@ -1788,7 +1788,7 @@ Duração: 10 segundos | Estilo: Filme comercial de Hollywood de alto nível | I
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="Roteiro de Curta-Metragem de Ficção Científica: Despertar do Futuro"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **Publicado:** Feb 11, 2026
 
@@ -1833,7 +1833,7 @@ Efeito de Legenda: Texto grande exibe “A Boa Sorte Chega.”
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Drama Curto de Fantasia Urbana para Seedance 2.0: A Sorte Chega"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **Publicado:** Feb 11, 2026
 
@@ -1854,7 +1854,7 @@ Efeito de Legenda: Texto grande exibe “A Boa Sorte Chega.”
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="Aventura de Animação Clássica no Estilo Disney"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [FragZero](https://x.com/FragZero) | **Fonte:** [Link](https://x.com/FragZero/status/2021568010452869227) | **Publicado:** Feb 11, 2026
 
@@ -1875,7 +1875,7 @@ A história de um artefato mágico. Uma borboleta voa para fora do quadro, trans
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="Prompt de História de Fantasia: Transformação de Fada Borboleta"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **Fonte:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **Publicado:** Feb 11, 2026
 
@@ -1896,7 +1896,7 @@ Imagem para Vídeo do carro de Fórmula 1 Cadillac 2026.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="Carro de Fórmula 1 da Cadillac 2026"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [HNNS.](https://x.com/ItsMeHannes) | **Fonte:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **Publicado:** Feb 11, 2026
 
@@ -1917,7 +1917,7 @@ gere um vídeo sobre um Godzilla atacando o Monas em Jacarta enquanto os militar
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="Godzilla Ataca o Monas em Jacarta"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Not Yours](https://x.com/neveryourbaee) | **Fonte:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **Publicado:** Feb 11, 2026
 
@@ -1938,7 +1938,7 @@ Use o Seedance 2.0 para gerar um vídeo de anime: sequência engraçada com um O
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Anime de Oficial Chinês"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Fonte:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **Publicado:** Feb 11, 2026
 
@@ -1959,7 +1959,7 @@ Um menino da mitologia chinesa com dois coques no cabelo, uma marca vermelha na 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="Ignorando os Direitos Autorais: Nezha vs. Minions em Chinatown"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Dow Ma](https://x.com/VoiceOfDow) | **Fonte:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **Publicado:** Feb 11, 2026
 
@@ -1981,7 +1981,7 @@ Um menino da mitologia chinesa com dois coques no cabelo, uma marca vermelha na 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Cena de Ação no Estilo John Wick"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [大宝](https://x.com/xiaolongli7697) | **Fonte:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **Publicado:** Feb 11, 2026
 
@@ -2027,7 +2027,7 @@ Cena 3: Galopando ao lado da mansão (0:09-0:15, 6 segundos)
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="Cena de Entrada Cinematográfica: Galopando Pelas Mansões de Vancouver"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2021545550772924579) | **Publicado:** Feb 11, 2026
 
@@ -2048,7 +2048,7 @@ Gere uma cena de luta cheia de ação entre Harry Potter e Voldemort.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Cena de Ação Harry Potter vs. Voldemort"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [ChatCut](https://x.com/chatcutapp) | **Fonte:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Publicado:** Feb 11, 2026
 
@@ -2069,7 +2069,7 @@ Uma sequência de vídeo cinematográfica começa com uma ampla e serena tomada 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Sequência Cinematográfica de Voo com Wingsuit"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Publicado:** Feb 11, 2026
 
@@ -2090,7 +2090,7 @@ Luffy programando em um MacBook no Thousand Sunny, FURIOSO, e depois jogando-o a
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/149.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e52b97dffb21b895b9e10149469a869/thumbnails/thumbnail.jpg" width="600" alt="Luffy Codificando no Thousand Sunny"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [sui dev ☄️](https://x.com/birdabo) | **Fonte:** [Link](https://x.com/birdabo/status/2021514359151947951) | **Publicado:** Feb 11, 2026
 
@@ -2111,7 +2111,7 @@ Luffy programando em um MacBook no Thousand Sunny, FURIOSO, e depois jogando-o a
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/158.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg" width="600" alt="Cena de Negociação e Resolução de Reféns da SWAT"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Marco "Shikoba"](https://x.com/shikoba_86) | **Fonte:** [Link](https://x.com/shikoba_86/status/2021509569831170072) | **Publicado:** Feb 11, 2026
 
@@ -2132,7 +2132,7 @@ Cena de duelo de 15 segundos com estilos cruzados, com um contraste nítido entr
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/190.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Batalha de Estilos Cruzados para Seedance 2.0: Goku vs. Rei Macaco"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [松果先森](https://x.com/songguoxiansen) | **Fonte:** [Link](https://x.com/songguoxiansen/status/2021508348433301926) | **Publicado:** Feb 11, 2026
 
@@ -2153,7 +2153,7 @@ Imagens hiper-realistas de transmissão ao vivo de uma partida de rugby entre jo
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/145.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg" width="600" alt="Partida de Rugby: Humanos vs. Gorilas-das-costas-prateadas"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Wujek AI](https://x.com/Wujek_AI) | **Fonte:** [Link](https://x.com/Wujek_AI/status/2021506500150096018) | **Publicado:** Feb 11, 2026
 
@@ -2174,7 +2174,7 @@ Magia do arco Moro animada → mangá de Dragon Ball Super.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/180.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg" width="600" alt="Conversão do Mangá de Dragon Ball Super para Anime (Arco Moro)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Data Insights India](https://x.com/DataInsightsIN) | **Fonte:** [Link](https://x.com/DataInsightsIN/status/2021506359850881182) | **Publicado:** Feb 11, 2026
 
@@ -2195,7 +2195,7 @@ Sequência cinematográfica live-action. Outra jovem, usando um luxuoso biquíni
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/147.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg" width="600" alt="Mulher Irritada Fechando as Cortinas (Sequência Cinematográfica)"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Alex Patrascu](https://x.com/maxescu) | **Fonte:** [Link](https://x.com/maxescu/status/2021499209749233943) | **Publicado:** Feb 11, 2026
 
@@ -2216,7 +2216,7 @@ Sequência cinematográfica live-action. Outra jovem, usando um luxuoso biquíni
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/187.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Duel in Bamboo Forest Video Prompt para Seedance 2.0"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [月亮大虾C.ly](https://x.com/sunny6_c) | **Fonte:** [Link](https://x.com/sunny6_c/status/2021495905640178079) | **Publicado:** Feb 11, 2026
 
@@ -2237,7 +2237,7 @@ Bratt Pitt e Tom Cruise deixam as diferenças de lado para lutar contra seu inim
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/173.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Colaboração de Brad Pitt e Tom Cruise"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **Fonte:** [Link](https://x.com/RuairiRobinson/status/2021495548256436304) | **Publicado:** Feb 11, 2026
 
@@ -2258,7 +2258,7 @@ Crie um vídeo cinematográfico de alta qualidade de um prato de comida, baseado
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/143.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg" width="600" alt="Reel Cinematográfico de Comida de Alta Qualidade"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Saunders.N.P](https://x.com/Saundersnp) | **Fonte:** [Link](https://x.com/Saundersnp/status/2021493583224730052) | **Publicado:** Feb 11, 2026
 
@@ -2300,7 +2300,7 @@ Ação: A garota doce faz um gesto de “arma” extremamente legal (Wink) para 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/196.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg" width="600" alt="Roteiro de Curta-Metragem de MC de Transmissão ao Vivo de Garota Doce do Nordeste da China"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021489421338448045) | **Publicado:** Feb 11, 2026
 
@@ -2321,7 +2321,7 @@ Um anime onde uma lontra entra em um grande mecha, com muitos closes rápidos de
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/125.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg" width="600" alt="Cena de Anime de Piloto de Otter Mech"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [SRKDAN](https://x.com/SRKDAN) | **Fonte:** [Link](https://x.com/SRKDAN/status/2021488544393392628) | **Publicado:** Feb 11, 2026
 
@@ -2342,7 +2342,7 @@ Dragon Ball para crianças no estilo de Patrulha Canina
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/129.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg" width="600" alt="Dragon Ball no estilo Patrulha Canina"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [the funny™ #REMOVEKAGAWA](https://x.com/LostJudgmentRGG) | **Fonte:** [Link](https://x.com/LostJudgmentRGG/status/2021486188671205773) | **Publicado:** Feb 11, 2026
 
@@ -2363,7 +2363,7 @@ Cena de viagem no tempo, uma jovem repórter segurando uma câmera de mão, faze
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/183.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg" width="600" alt="Relatório de viagem no tempo da batalha final de Harry Potter"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [DanFei](https://x.com/fy360593) | **Fonte:** [Link](https://x.com/fy360593/status/2021480692899582073) | **Publicado:** Feb 11, 2026
 
@@ -2384,7 +2384,7 @@ uma cena de filme de um filme do sul da Índia com alienígenas
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/168.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg" width="600" alt="Um único prompt gera cena de filme sul-indiano com alienígenas"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [rohan anil](https://x.com/_arohan_) | **Fonte:** [Link](https://x.com/_arohan_/status/2021480314254786608) | **Publicado:** Feb 11, 2026
 
@@ -2410,7 +2410,7 @@ uma cena de filme de um filme do sul da Índia com alienígenas
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/131.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg" width="600" alt="Cena Viral do MrBeast no YouTube"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021478327525974151) | **Publicado:** Feb 11, 2026
 
@@ -2441,7 +2441,7 @@ Movimento hiper-realista, física perfeita, ondulação detalhada do tecido no t
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/302.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg" width="600" alt="Batalha épica cinematográfica entre o Homem-Aranha e Sun Wukong"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Top Blaster 💥](https://x.com/TheTopBlasterr) | **Fonte:** [Link](https://x.com/TheTopBlasterr/status/2021476942524936270) | **Publicado:** Feb 11, 2026
 
@@ -2462,7 +2462,7 @@ Abertura de romance: "O marido denunciou o porteiro, a esposa foi trabalhar, e e
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/331.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg" width="600" alt="Expansão da Novela: Marido Denuncia Porteiro"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [weize ren](https://x.com/RenWeize11988) | **Fonte:** [Link](https://x.com/RenWeize11988/status/2021476451376361513) | **Publicado:** Feb 11, 2026
 
@@ -2483,7 +2483,7 @@ Naruto programando intensamente em um laptop no escritório do Hokage, ficando c
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/156.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg" width="600" alt="Cena de Frustração de Codificação de Naruto"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [DΞV](https://x.com/junwatu) | **Fonte:** [Link](https://x.com/junwatu/status/2021474578460180663) | **Publicado:** Feb 11, 2026
 
@@ -2530,7 +2530,7 @@ Efeito Espetacular: No momento em que seu dedo do pé toca o jipe, ele é chutad
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/195.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg" width="600" alt="Roteiro de Cena de Blockbuster de Ação de Tollywood"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021472044295070168) | **Publicado:** Feb 11, 2026
 
@@ -2551,7 +2551,7 @@ A mulher se ajoelha lentamente sobre a ponte de madeira. A câmera se aproxima e
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/179.mp4"><img src="https://cms-assets.youmind.com/media/1770960164048_vjsl8d_HA2uhSGaUAASH-t.jpg" width="600" alt="Sequência de Lançamento Mágica"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Fonte:** [Link](https://x.com/CoffeeVectors/status/2021463701421699374) | **Publicado:** Feb 11, 2026
 
@@ -2572,7 +2572,7 @@ O episódio de The Office em que Dwight e Michael conversam sobre "mogging", "je
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/301.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Episódio de The Office: Mogging, Jestermaxxing e Foids"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Cancun 🇲🇽🥊](https://x.com/CancunTwitch) | **Fonte:** [Link](https://x.com/CancunTwitch/status/2021461974274670832) | **Publicado:** Feb 11, 2026
 
@@ -2593,7 +2593,7 @@ Ela faz o kung fu mais incrível. Ela grita com um sotaque macedônio: "Isso é 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/134.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg" width="600" alt="Perseguição Noturna Cibernética Cinematográfica e Luta de Katana"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Fonte:** [Link](https://x.com/cheryblackcloud/status/2021458861908164800) | **Publicado:** Feb 11, 2026
 
@@ -2614,7 +2614,7 @@ Plano contínuo dinâmico de uma transformação mágica em um pássaro e transi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/154.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg" width="600" alt="Transformação Mágica em um Pássaro"></a>
 
-🎥 *Clique na imagem para baixar o vídeo*
+📥 *Clique na imagem para baixar o vídeo*
 
 **Autor:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Fonte:** [Link](https://x.com/CoffeeVectors/status/2021436278760407497) | **Publicado:** Feb 11, 2026
 
@@ -2682,6 +2682,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-13T15:13:05.548Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-13T15:21:25.801Z</sub>
 
 </div>

@@ -93,7 +93,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="東京擎天柱大戰哥吉拉"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **來源:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **發布時間:** Feb 12, 2026
 
@@ -119,7 +119,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="超現實戰場浪人動作場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 11, 2026
 
@@ -157,7 +157,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **發布時間:** Feb 11, 2026
 
@@ -182,7 +182,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="多場景電影級戰鬥提示（孫悟空 對 祖國人）"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [chimi チミワウ](https://x.com/chimiwaw) | **來源:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **發布時間:** Feb 12, 2026
 
@@ -203,7 +203,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="《美少女戰士》對話場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **來源:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **發布時間:** Feb 12, 2026
 
@@ -224,7 +224,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="吳宇森風格槍戰場景提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2022066865296601311) | **發布時間:** Feb 12, 2026
 
@@ -245,7 +245,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="武俠劍客對決提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Jay Sensei👾](https://x.com/hckinz) | **來源:** [Link](https://x.com/hckinz/status/2022062799732777214) | **發布時間:** Feb 12, 2026
 
@@ -266,7 +266,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="Mad Max 疏散故事提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **來源:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **發布時間:** Feb 12, 2026
 
@@ -287,7 +287,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="特務電影打鬥場景提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Restlessperson ](https://x.com/Restlessperson1) | **來源:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **發布時間:** Feb 12, 2026
 
@@ -309,7 +309,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="文字轉影片提示：古裝刑場復仇場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Ken W](https://x.com/kenw_2) | **來源:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **發布時間:** Feb 12, 2026
 
@@ -330,7 +330,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="賀錦麗對川普之戰，由湯姆和約翰·維克提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [X Citizen Journal](https://x.com/xcitizenjournal) | **來源:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **發布時間:** Feb 12, 2026
 
@@ -351,7 +351,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="甜點店裡的 360 度全景自拍"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [nachos2d](https://x.com/NACHOS2D_) | **來源:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **發布時間:** Feb 12, 2026
 
@@ -372,7 +372,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 圖像轉影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Apil](https://x.com/apilpirman) | **來源:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **發布時間:** Feb 12, 2026
 
@@ -393,7 +393,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="真人版七龍珠戰鬥提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021985063840403880) | **發布時間:** Feb 12, 2026
 
@@ -414,7 +414,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="1980 年代吸血鬼訪談提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **來源:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **發布時間:** Feb 12, 2026
 
@@ -435,7 +435,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="快節奏動作場景提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Chraft](https://x.com/chraft_ai) | **來源:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **發布時間:** Feb 12, 2026
 
@@ -456,7 +456,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="暗黑奇幻女性圖像影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **來源:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **發布時間:** Feb 12, 2026
 
@@ -477,7 +477,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="布萊德·彼特與湯姆·克魯斯打鬥場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **來源:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **發布時間:** Feb 12, 2026
 
@@ -498,7 +498,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 擬人化浪漫故事"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Rayko_Zopia](https://x.com/Fox1251104) | **來源:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **發布時間:** Feb 12, 2026
 
@@ -519,7 +519,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="多鏡頭生物競賽場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **發布時間:** Feb 12, 2026
 
@@ -558,7 +558,7 @@
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="華人成功研討會（心靈雞湯）影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **發布時間:** Feb 12, 2026
 
@@ -597,7 +597,7 @@ Brand Y · 未來已至 (15 秒 · 好萊塢大片廣告版)
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="未來汽車廣告提示（Y - 駕馭未來）"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **發布時間:** Feb 12, 2026
 
@@ -643,7 +643,7 @@ Brand Y · 未來已至 (15 秒 · 好萊塢大片廣告版)
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="大時代 90 年代港劇風格影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **發布時間:** Feb 12, 2026
 
@@ -686,7 +686,7 @@ Seedance 2.0 提示詞
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="三則短劇提示（現代愛情/衝突）"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **來源:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **發布時間:** Feb 12, 2026
 
@@ -707,7 +707,7 @@ Seedance 2.0 提示詞
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="駕駛艙內的高強度動作驚悚場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Kemal Cagin](https://x.com/kemalcse) | **來源:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **發布時間:** Feb 12, 2026
 
@@ -728,7 +728,7 @@ Seedance 2.0 提示詞
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="利維坦之喉：水下巨型結構降臨"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **發布時間:** Feb 12, 2026
 
@@ -749,7 +749,7 @@ Seedance 2.0 提示詞
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="動物園裡的人與大象（老式相機風格）"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **來源:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **發布時間:** Feb 12, 2026
 
@@ -770,7 +770,7 @@ Seedance 2.0 提示詞
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="蜘蛛人 對戰 八爪博士 打鬥場景提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **來源:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **發布時間:** Feb 12, 2026
 
@@ -809,7 +809,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="10 秒 MV 提示的三種風格"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **來源:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **發布時間:** Feb 12, 2026
 
@@ -830,7 +830,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="鳴人和路飛的戰鬥場景提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Youn Hwang](https://x.com/YounchanHwang) | **來源:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **發布時間:** Feb 12, 2026
 
@@ -851,7 +851,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="麥可·傑克森 對決 希特勒"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [ImPaul](https://x.com/impaulxyz) | **來源:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **發布時間:** Feb 12, 2026
 
@@ -895,7 +895,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="現代鄉村美學療癒短片影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **發布時間:** Feb 12, 2026
 
@@ -916,7 +916,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="魔法少女小圓 狗屁提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [alpon](https://x.com/StayGoys) | **來源:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **發布時間:** Feb 12, 2026
 
@@ -937,7 +937,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="花朵創造最終形狀提示 (Seedance Pro 1.0)"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Gabriela Cardona](https://x.com/gcwalther_x) | **來源:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **發布時間:** Feb 12, 2026
 
@@ -958,7 +958,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="Vegeta 超級賽亞人 100 對戰 常態悟空 提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Lozio](https://x.com/minilozio) | **來源:** [Link](https://x.com/minilozio/status/2021801238191354346) | **發布時間:** Feb 12, 2026
 
@@ -981,7 +981,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="歐冠決賽：狗狗對決巔峰時期的羅納度"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **來源:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **發布時間:** Feb 12, 2026
 
@@ -1019,7 +1019,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="《鬼滅之刃》真人版電影大片影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **發布時間:** Feb 12, 2026
 
@@ -1045,7 +1045,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="恐怖短片劇本：鏡像故障"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [MapleShaw](https://x.com/msjiaozhu) | **來源:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **發布時間:** Feb 12, 2026
 
@@ -1066,7 +1066,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="動漫戰士大戰章魚外星人"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Charles Boonsu](https://x.com/Boonsu28) | **來源:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **發布時間:** Feb 12, 2026
 
@@ -1087,7 +1087,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="戰鬥機飛行員作戰的行動序列提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [𝕏Caliber](https://x.com/XCaliber) | **來源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **發布時間:** Feb 11, 2026
 
@@ -1108,7 +1108,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="女子在陰影中與男子對峙"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **來源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **發布時間:** Feb 11, 2026
 
@@ -1129,7 +1129,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="哆啦 A 夢與蜘蛛人打鬥"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [otung Emmanuel](https://x.com/otung_emmanuel) | **來源:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **發布時間:** Feb 11, 2026
 
@@ -1150,7 +1150,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="手持金幣水下奔跑鏡頭"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **來源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **發布時間:** Feb 11, 2026
 
@@ -1171,7 +1171,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="激烈的拳擊實戰訓練"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **來源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **發布時間:** Feb 11, 2026
 
@@ -1225,7 +1225,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 的荒謬喜劇影片提示：無"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **發布時間:** Feb 11, 2026
 
@@ -1246,7 +1246,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="逃離巨型怪物（奧術風格）"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Dipper](https://x.com/dipperdao) | **來源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **發布時間:** Feb 11, 2026
 
@@ -1299,7 +1299,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="馬賽村莊的混亂"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Travis Davids](https://x.com/MrDavids1) | **來源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **發布時間:** Feb 11, 2026
 
@@ -1320,7 +1320,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="威爾·史密斯大戰義大利麵怪獸 (80 年代動作片)"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [S0FT](https://x.com/sudoSoftAI) | **來源:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **發布時間:** Feb 11, 2026
 
@@ -1341,7 +1341,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="川普 vs 麥可·傑克森 AI 舞蹈對決"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **來源:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **發布時間:** Feb 11, 2026
 
@@ -1362,7 +1362,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="電影級二戰摩托車逃亡"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [pewden AI](https://x.com/pewdenai) | **來源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **發布時間:** Feb 11, 2026
 
@@ -1383,7 +1383,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="海船上的男子遭到海怪襲擊"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Anthony T](https://x.com/creativesinner2) | **來源:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **發布時間:** Feb 11, 2026
 
@@ -1414,7 +1414,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="多角色機艙場景與對話"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **來源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **發布時間:** Feb 11, 2026
 
@@ -1435,7 +1435,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="薩諾斯向蜘蛛人道歉的提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [xAi✨](https://x.com/xai_42) | **來源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **發布時間:** Feb 11, 2026
 
@@ -1456,7 +1456,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="衣衫襤褸、戴著鎖鏈的流浪婦女"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **來源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **發布時間:** Feb 11, 2026
 
@@ -1482,7 +1482,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="樂高組裝縮時動畫"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [维维](https://x.com/siveill) | **來源:** [Link](https://x.com/siveill/status/2021635240985604526) | **發布時間:** Feb 11, 2026
 
@@ -1506,7 +1506,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="《航海王》風格的文字轉影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **來源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **發布時間:** Feb 11, 2026
 
@@ -1538,7 +1538,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="溫馨夜間寵物秘密短片"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Michelle](https://x.com/Michell81147285) | **來源:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **發布時間:** Feb 11, 2026
 
@@ -1559,7 +1559,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="高能量商業腳本"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **來源:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **發布時間:** Feb 11, 2026
 
@@ -1580,7 +1580,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="Kraken 攻擊過場動畫"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **發布時間:** Feb 11, 2026
 
@@ -1601,7 +1601,7 @@ Seedance 2.0 提示
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="路飛與悟空的史詩級戰鬥場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021611931480609139) | **發布時間:** Feb 11, 2026
 
@@ -1629,7 +1629,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="東京賽車場景的多鏡頭文字轉影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **來源:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **發布時間:** Feb 11, 2026
 
@@ -1650,7 +1650,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="漂浮島上的唱歌貓"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [goku](https://x.com/spinningsensei) | **來源:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **發布時間:** Feb 11, 2026
 
@@ -1671,7 +1671,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="比特幣摧毀聯準會（動漫力量提升）"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **來源:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **發布時間:** Feb 11, 2026
 
@@ -1692,7 +1692,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="海盜酒館場景提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **來源:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **發布時間:** Feb 11, 2026
 
@@ -1713,7 +1713,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="仙俠動畫電影戰鬥劇本：韓立 vs. 王林"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **來源:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **發布時間:** Feb 11, 2026
 
@@ -1734,7 +1734,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="高速飛車追逐場面"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [ChatCut](https://x.com/chatcutapp) | **來源:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **發布時間:** Feb 11, 2026
 
@@ -1755,7 +1755,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="新阿姆斯特丹模擬器"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [@levelsio](https://x.com/levelsio) | **來源:** [Link](https://x.com/levelsio/status/2021587482349895747) | **發布時間:** Feb 11, 2026
 
@@ -1792,7 +1792,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="科幻轉型短片劇本：覺醒未來"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **發布時間:** Feb 11, 2026
 
@@ -1837,7 +1837,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="都市奇幻短劇提示語，適用於 Seedance 2.0：「好運降臨」"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **發布時間:** Feb 11, 2026
 
@@ -1858,7 +1858,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="經典迪士尼風格動畫冒險"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [FragZero](https://x.com/FragZero) | **來源:** [Link](https://x.com/FragZero/status/2021568010452869227) | **發布時間:** Feb 11, 2026
 
@@ -1879,7 +1879,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="奇幻故事提示：蝴蝶仙子變身"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **來源:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **發布時間:** Feb 11, 2026
 
@@ -1900,7 +1900,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="Cadillac 一級方程式賽車 2026"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [HNNS.](https://x.com/ItsMeHannes) | **來源:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **發布時間:** Feb 11, 2026
 
@@ -1921,7 +1921,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="哥吉拉襲擊雅加達的莫納斯塔"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Not Yours](https://x.com/neveryourbaee) | **來源:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **發布時間:** Feb 11, 2026
 
@@ -1942,7 +1942,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="中國軍官的動漫影片"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **來源:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **發布時間:** Feb 11, 2026
 
@@ -1963,7 +1963,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="規避版權：唐人街的哪吒與小小兵"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Dow Ma](https://x.com/VoiceOfDow) | **來源:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **發布時間:** Feb 11, 2026
 
@@ -1985,7 +1985,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="《捍衛任務》風格動作場景提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [大宝](https://x.com/xiaolongli7697) | **來源:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **發布時間:** Feb 11, 2026
 
@@ -2031,7 +2031,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="電影開場場景劇本：馳騁溫哥華豪宅區"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2021545550772924579) | **發布時間:** Feb 11, 2026
 
@@ -2052,7 +2052,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="哈利波特大戰佛地魔動作場面"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [ChatCut](https://x.com/chatcutapp) | **來源:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **發布時間:** Feb 11, 2026
 
@@ -2073,7 +2073,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="電影翼裝飛行序列"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **發布時間:** Feb 11, 2026
 
@@ -2094,7 +2094,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/149.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e52b97dffb21b895b9e10149469a869/thumbnails/thumbnail.jpg" width="600" alt="千陽號上的魯夫編程"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [sui dev ☄️](https://x.com/birdabo) | **來源:** [Link](https://x.com/birdabo/status/2021514359151947951) | **發布時間:** Feb 11, 2026
 
@@ -2115,7 +2115,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/158.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg" width="600" alt="SWAT 人質談判與解決情境"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Marco "Shikoba"](https://x.com/shikoba_86) | **來源:** [Link](https://x.com/shikoba_86/status/2021509569831170072) | **發布時間:** Feb 11, 2026
 
@@ -2136,7 +2136,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/190.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 的跨風格戰鬥提示：悟空 vs. 孫悟空"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **來源:** [Link](https://x.com/songguoxiansen/status/2021508348433301926) | **發布時間:** Feb 11, 2026
 
@@ -2157,7 +2157,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/145.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg" width="600" alt="橄欖球賽：人類對銀背大猩猩"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Wujek AI](https://x.com/Wujek_AI) | **來源:** [Link](https://x.com/Wujek_AI/status/2021506500150096018) | **發布時間:** Feb 11, 2026
 
@@ -2178,7 +2178,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/180.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg" width="600" alt="《七龍珠 超》漫畫改編動畫（魔羅篇）"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Data Insights India](https://x.com/DataInsightsIN) | **來源:** [Link](https://x.com/DataInsightsIN/status/2021506359850881182) | **發布時間:** Feb 11, 2026
 
@@ -2199,7 +2199,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/147.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg" width="600" alt="心煩意亂的女人拉上窗簾 (電影畫面)"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Alex Patrascu](https://x.com/maxescu) | **來源:** [Link](https://x.com/maxescu/status/2021499209749233943) | **發布時間:** Feb 11, 2026
 
@@ -2220,7 +2220,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/187.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg" width="600" alt="竹林武俠對決 Seedance 2.0 影片提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [月亮大虾C.ly](https://x.com/sunny6_c) | **來源:** [Link](https://x.com/sunny6_c/status/2021495905640178079) | **發布時間:** Feb 11, 2026
 
@@ -2241,7 +2241,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/173.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg" width="600" alt="布萊德·彼特 和 湯姆·克魯斯 聯手提示"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **來源:** [Link](https://x.com/RuairiRobinson/status/2021495548256436304) | **發布時間:** Feb 11, 2026
 
@@ -2262,7 +2262,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/143.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg" width="600" alt="頂級電影級美食短片"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Saunders.N.P](https://x.com/Saundersnp) | **來源:** [Link](https://x.com/Saundersnp/status/2021493583224730052) | **發布時間:** Feb 11, 2026
 
@@ -2304,7 +2304,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/196.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg" width="600" alt="東北甜妹直播 MC 短片劇本"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021489421338448045) | **發布時間:** Feb 11, 2026
 
@@ -2325,7 +2325,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/125.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg" width="600" alt="Otter Mech Pilot 動漫場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [SRKDAN](https://x.com/SRKDAN) | **來源:** [Link](https://x.com/SRKDAN/status/2021488544393392628) | **發布時間:** Feb 11, 2026
 
@@ -2346,7 +2346,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/129.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg" width="600" alt="《七龍珠》汪汪隊立大功風格版"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [the funny™ #REMOVEKAGAWA](https://x.com/LostJudgmentRGG) | **來源:** [Link](https://x.com/LostJudgmentRGG/status/2021486188671205773) | **發布時間:** Feb 11, 2026
 
@@ -2367,7 +2367,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/183.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg" width="600" alt="哈利波特最終戰役時空旅行報告"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [DanFei](https://x.com/fy360593) | **來源:** [Link](https://x.com/fy360593/status/2021480692899582073) | **發布時間:** Feb 11, 2026
 
@@ -2388,7 +2388,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/168.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg" width="600" alt="單一提示生成帶有外星人的南印度電影場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [rohan anil](https://x.com/_arohan_) | **來源:** [Link](https://x.com/_arohan_/status/2021480314254786608) | **發布時間:** Feb 11, 2026
 
@@ -2414,7 +2414,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/131.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg" width="600" alt="MrBeast YouTube 爆紅場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021478327525974151) | **發布時間:** Feb 11, 2026
 
@@ -2445,7 +2445,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/302.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg" width="600" alt="蜘蛛人與孫悟空的史詩級電影大戰"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Top Blaster 💥](https://x.com/TheTopBlasterr) | **來源:** [Link](https://x.com/TheTopBlasterr/status/2021476942524936270) | **發布時間:** Feb 11, 2026
 
@@ -2466,7 +2466,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/331.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg" width="600" alt="新奇擴展：丈夫舉報守門人"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [weize ren](https://x.com/RenWeize11988) | **來源:** [Link](https://x.com/RenWeize11988/status/2021476451376361513) | **發布時間:** Feb 11, 2026
 
@@ -2487,7 +2487,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/156.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg" width="600" alt="火影忍者程式編碼受挫場景"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [DΞV](https://x.com/junwatu) | **來源:** [Link](https://x.com/junwatu/status/2021474578460180663) | **發布時間:** Feb 11, 2026
 
@@ -2534,7 +2534,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/195.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg" width="600" alt="寶萊塢動作鉅片場景劇本"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2021472044295070168) | **發布時間:** Feb 11, 2026
 
@@ -2555,7 +2555,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/179.mp4"><img src="https://cms-assets.youmind.com/media/1770960164048_vjsl8d_HA2uhSGaUAASH-t.jpg" width="600" alt="神奇啟動序列"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **來源:** [Link](https://x.com/CoffeeVectors/status/2021463701421699374) | **發布時間:** Feb 11, 2026
 
@@ -2576,7 +2576,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/301.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg" width="600" alt="辦公室劇集提示：Mogging、Jestermaxxing 和 Foids"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Cancun 🇲🇽🥊](https://x.com/CancunTwitch) | **來源:** [Link](https://x.com/CancunTwitch/status/2021461974274670832) | **發布時間:** Feb 11, 2026
 
@@ -2597,7 +2597,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/134.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg" width="600" alt="賽博龐克夜間追逐與武士刀格鬥"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **來源:** [Link](https://x.com/cheryblackcloud/status/2021458861908164800) | **發布時間:** Feb 11, 2026
 
@@ -2618,7 +2618,7 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/154.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg" width="600" alt="化身飛鳥的奇幻旅程"></a>
 
-🎥 *點擊圖片下載視頻*
+📥 *點擊圖片下載視頻*
 
 **作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **來源:** [Link](https://x.com/CoffeeVectors/status/2021436278760407497) | **發布時間:** Feb 11, 2026
 
@@ -2686,6 +2686,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-13T15:12:37.245Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-13T15:20:50.519Z</sub>
 
 </div>
