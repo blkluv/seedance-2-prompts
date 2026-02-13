@@ -294,7 +294,7 @@ function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, local
     mediaEmbed = videoUrl;
   } else if (videoUrl && displayImage) {
     // Fallback: release assets URL — use clickable thumbnail (GitHub won't auto-embed these)
-    mediaEmbed = `<a href="${videoUrl}"><img src="${displayImage}" width="${imgWidth}" alt="${p.title}"></a>\n\n🎥 *${t('clickToPlay', locale)}*`;
+    mediaEmbed = `<a href="${videoUrl}"><img src="${displayImage}" width="${imgWidth}" alt="${p.title}"></a>\n\n📥 *${t('clickToPlay', locale)}*`;
   } else {
     mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">`;
   }
