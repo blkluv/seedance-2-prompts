@@ -1,4 +1,4 @@
-import { mkdirSync, existsSync, statSync, readdirSync, copyFileSync } from 'fs';
+import { mkdirSync, existsSync, statSync } from 'fs';
 import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execSync } from 'child_process';
@@ -6,9 +6,7 @@ import type { ProcessedPrompt } from './utils/cms-client.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = resolve(__dirname, '..');
-const VIDEOS_DIR = resolve(ROOT, 'videos');
 const TMP_DIR = resolve(ROOT, 'tmp/videos');
-const MAX_SIZE_BYTES = 5 * 1024 * 1024; // 5MB
 
 function ensureDir(dir: string) {
   mkdirSync(dir, { recursive: true });
@@ -62,38 +60,26 @@ function isDirectVideoUrl(url: string): boolean {
 }
 
 /**
- * Scan videos/ directory and return set of prompt IDs that have video files.
- */
-export function scanExistingVideos(): Set<number> {
-  const ids = new Set<number>();
-  if (!existsSync(VIDEOS_DIR)) return ids;
-  for (const file of readdirSync(VIDEOS_DIR)) {
-    const match = file.match(/^(\d+)\.mp4$/);
-    if (match) ids.add(Number(match[1]));
-  }
-  return ids;
-}
-
-/**
  * Download and compress videos for prompts that have sourceVideos.
- * Videos are saved to videos/{id}.mp4 in the repo root.
- * Returns set of prompt IDs that have videos in videos/ dir.
+ * Videos are saved to tmp/videos/{id}.mp4 (gitignored temp dir).
+ * Returns map of prompt ID → local file path for newly downloaded files.
  */
-export async function downloadVideos(prompts: ProcessedPrompt[]): Promise<Set<number>> {
-  ensureDir(VIDEOS_DIR);
+export async function downloadVideos(prompts: ProcessedPrompt[]): Promise<Map<number, string>> {
   ensureDir(TMP_DIR);
 
+  const result = new Map<number, string>();
   const withVideo = prompts.filter(p => p.videoUrl && !p.videoUrl.startsWith('cloudflare:'));
   console.log(`\n🎬 Processing ${withVideo.length} videos...`);
 
   for (const p of withVideo) {
-    const finalPath = resolve(VIDEOS_DIR, `${p.id}.mp4`);
+    const finalPath = resolve(TMP_DIR, `${p.id}.mp4`);
 
-    // Skip if already exists
+    // Skip if already exists in tmp (incremental)
     if (existsSync(finalPath)) {
       const stat = statSync(finalPath);
       if (stat.size > 0) {
         console.log(`  ⏭️ ${p.id}: already exists (${(stat.size / 1024 / 1024).toFixed(1)}MB)`);
+        result.set(p.id, finalPath);
         continue;
       }
     }
@@ -107,10 +93,8 @@ export async function downloadVideos(prompts: ProcessedPrompt[]): Promise<Set<nu
 
     try {
       if (isDirectVideoUrl(url)) {
-        // Twitter video URLs or direct mp4 — use fetch
         downloaded = await downloadFile(url, rawPath);
       } else {
-        // Try fetch first, fall back to yt-dlp
         downloaded = await downloadFile(url, rawPath);
         if (!downloaded) {
           downloaded = await downloadWithYtDlp(url, rawPath);
@@ -125,25 +109,24 @@ export async function downloadVideos(prompts: ProcessedPrompt[]): Promise<Set<nu
       const rawSize = statSync(rawPath).size;
       console.log(`  📦 ${p.id}: raw size ${(rawSize / 1024 / 1024).toFixed(1)}MB`);
 
-      // Always compress for consistency and size control
-      if (rawSize > MAX_SIZE_BYTES) {
-        console.log(`  🔄 ${p.id}: compressing...`);
-        if (compressVideo(rawPath, finalPath)) {
-          const compSize = statSync(finalPath).size;
-          console.log(`  ✅ ${p.id}: compressed to ${(compSize / 1024 / 1024).toFixed(1)}MB`);
-        } else {
-          console.log(`  ❌ ${p.id}: compression failed`);
-        }
+      // Always compress for consistency
+      console.log(`  🔄 ${p.id}: compressing...`);
+      if (compressVideo(rawPath, finalPath)) {
+        const compSize = statSync(finalPath).size;
+        console.log(`  ✅ ${p.id}: compressed to ${(compSize / 1024 / 1024).toFixed(1)}MB`);
+        result.set(p.id, finalPath);
       } else {
+        // Fallback: use raw file
+        const { copyFileSync } = await import('fs');
         copyFileSync(rawPath, finalPath);
-        console.log(`  ✅ ${p.id}: ${(rawSize / 1024 / 1024).toFixed(1)}MB (no compression needed)`);
+        console.log(`  ✅ ${p.id}: using raw file (${(rawSize / 1024 / 1024).toFixed(1)}MB)`);
+        result.set(p.id, finalPath);
       }
     } catch (err) {
       console.error(`  ❌ ${p.id}: unexpected error:`, err);
     }
   }
 
-  const result = scanExistingVideos();
-  console.log(`\n✅ ${result.size} videos available in videos/`);
+  console.log(`\n✅ ${result.size} videos downloaded to tmp/videos/`);
   return result;
 }

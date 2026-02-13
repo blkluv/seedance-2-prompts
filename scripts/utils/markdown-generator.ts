@@ -290,9 +290,7 @@ function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, local
   const videoUrl = videoUrls[String(p.id)];
   let mediaEmbed: string;
   if (videoUrl) {
-    // GitHub auto-renders bare user-attachment URLs as video players
-    // Use bare URL on its own line for auto-rendering
-    mediaEmbed = `${videoUrl}`;
+    mediaEmbed = `<video src="${videoUrl}" controls width="${imgWidth}" poster="${displayImage}"></video>`;
   } else {
     mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">`;
   }

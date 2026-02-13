@@ -65,6 +65,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md README_*.md videos/
+          git add README.md README_*.md video-urls.json
           git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README [skip ci]"
           git push

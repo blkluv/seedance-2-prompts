@@ -20,7 +20,6 @@ function loadVideoUrls(): VideoUrlMap {
 
 async function main() {
   const downloadVideosEnabled = process.env.DOWNLOAD_VIDEOS === 'true';
-  const uploadVideosEnabled = process.env.UPLOAD_VIDEOS === 'true';
 
   // Load existing video URL mappings
   let videoUrls: VideoUrlMap = loadVideoUrls();
@@ -33,8 +32,8 @@ async function main() {
     const prompts = await fetchSeedancePrompts('en');
     const videoFiles = await downloadVideos(prompts);
 
-    if (uploadVideosEnabled && videoFiles.size > 0) {
-      console.log('\n📤 Video upload enabled');
+    if (videoFiles.size > 0) {
+      console.log('\n📤 Uploading videos to GitHub Release...');
       const { uploadVideos } = await import('./upload-to-github.js');
       videoUrls = await uploadVideos(videoFiles);
     }
