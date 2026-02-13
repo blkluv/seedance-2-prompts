@@ -1,11 +1,6 @@
 name: Update README
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'scripts/**'
-      - 'video-urls.json'
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
@@ -18,22 +13,22 @@ on:
         options:
           - 'false'
           - 'true'
-      upload_videos:
-        description: 'Upload videos to GitHub'
-        required: false
-        default: 'false'
-        type: choice
-        options:
-          - 'false'
-          - 'true'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-readme.yml'
+
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: pnpm/action-setup@v4
 
@@ -64,12 +59,12 @@ jobs:
           CMS_HOST: ${{ secrets.CMS_HOST }}
           CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
           DOWNLOAD_VIDEOS: ${{ inputs.download_videos || 'false' }}
-          UPLOAD_VIDEOS: ${{ inputs.upload_videos || 'false' }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md README_*.md video-urls.json
-          git diff --staged --quiet || (git commit -m "docs: update README with latest prompts" && git push)
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md README_*.md videos/
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README [skip ci]"
+          git push
