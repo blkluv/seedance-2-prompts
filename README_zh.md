@@ -91,7 +91,9 @@
 一辆豪华轿车变形成擎天柱，在东京雨夜的背景下与哥斯拉搏斗，爆发出爆炸和能量冲击波。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4" controls width="700" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="擎天柱大战哥斯拉在东京"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **来源:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **发布时间:** Feb 12, 2026
 
@@ -115,7 +117,9 @@
 15 秒
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4" controls width="700" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="超现实战场浪人动作场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 11, 2026
 
@@ -151,7 +155,9 @@
 特效奇观：蓝色水龙与金色闪电瞬间炸裂，形成一个向外扩散的巨大水雷能量风暴。周围的参天大树被能量波拦腰折断，泥土、水花与光线遮蔽了镜头。画面在极致耀眼的蓝、黄、白光中结束。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4" controls width="700" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **发布时间:** Feb 11, 2026
 
@@ -174,7 +180,9 @@
 音乐伴随场景 1：“孙悟空立于城楼之上，挥舞金箍棒，衣袍在风中猎猎作响。城市灯光点亮夜空，营造出电影般的史诗感。镜头缓慢推近画面，4 秒。” 音乐伴随场景 2：“祖国人从天空中缓缓降落，双眼闪烁着红色激光。乌云翻滚，超级英雄电影风格，慢动作，4 秒。” 音乐伴随场景 3：“孙悟空高速攻击祖国人，挥舞金箍棒。空气震颤，动作电影效果，运动模糊效果，慢动作，4 秒。” 音乐伴随场景 4：“祖国人发射红色激光，与金箍棒的能量相撞。天空爆炸，云层撕裂，科幻电影风格，强烈的光效，4 秒。” 场景 5：“两人在空中对峙，能量涟漪扩散。史诗般的结局场景，广角，电影构图，4 秒。”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="多场景电影级战斗提示词（孙悟空大战祖国人）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [chimi チミワウ](https://x.com/chimiwaw) | **来源:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **发布时间:** Feb 12, 2026
 
@@ -193,7 +201,9 @@
 月野兔跳到床上，尖叫道：“姐妹们，我们做到了！”爱野美奈子出现，问道：“有多少个？6 个？7 个？”木野真琴笑着说：“6 个 7 个！”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="美少女战士 对话场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **来源:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **发布时间:** Feb 12, 2026
 
@@ -212,7 +222,9 @@
 {这是一个吴宇森风格的街头枪战动作场景。根据场景图片 3，生成一个在狭窄空间内，身穿白色西装的男子（图片 1）和身穿花衬衫的男子（图片 2）之间流畅的写实风格枪战序列。该序列需要利用故事板和不同的视角切换，以赋予整个场景更强的节奏感和电影感。}
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="吴宇森风格枪战场景提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2022066865296601311) | **发布时间:** Feb 12, 2026
 
@@ -231,7 +243,9 @@
 一部武侠风格的视听大片。竹林中，一位白衣剑客和一位戴斗笠的刀客正面对峙。镜头在他们之间缓慢推进，焦点在雨滴和剑柄之间切换。气氛极度压抑，只能听到雨声。突然，一道雷电划过，两人同时冲向对方。一个快速摇摄的侧面镜头捕捉到他们溅起泥水的脚步。武器相撞的瞬间，画面切换到超慢动作，清晰地展现了刀刃击飞雨水形成的环状冲击波，以及被剑气切开的竹叶。当他们背对背落地时，画面恢复正常速度。戴斗笠的刀客的竹笠裂开，场景戛然而止。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="武侠剑客对决提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Jay Sensei👾](https://x.com/hckinz) | **来源:** [Link](https://x.com/hckinz/status/2022062799732777214) | **发布时间:** Feb 12, 2026
 
@@ -250,7 +264,9 @@
 一部多镜头、高动作的史诗视频，讲述了《疯狂的麦克斯》风格的《出埃及记》故事。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="疯狂的麦克斯：出埃及记 故事提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **来源:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **发布时间:** Feb 12, 2026
 
@@ -269,7 +285,9 @@
 身穿绿色西装、带有标志的男子与身穿黑色西装的男子搏斗，风格类似间谍电影，X 战警被打倒在地，最后尖叫着“伊隆！”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="特工电影打斗场景提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Restlessperson ](https://x.com/Restlessperson1) | **来源:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **发布时间:** Feb 12, 2026
 
@@ -289,7 +307,9 @@
 镜头 11 特写 • 雪花裹挟着血水，落在刑场冰冷的石面上。血水瞬间结冰，雪花层层覆盖，又被新流出的血珠浸透，洇开暗紫色的痕迹。寒意刺骨。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="文本转视频提示词：古装刑场复仇场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Ken W](https://x.com/kenw_2) | **来源:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **发布时间:** Feb 12, 2026
 
@@ -308,7 +328,9 @@
 卡玛拉 vs 特朗普：使用相同的“汤姆和约翰·威克”提示词进行对决。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="卡玛拉 对阵 特朗普：与 汤姆 和 约翰·威克 的提示之战"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [X Citizen Journal](https://x.com/xcitizenjournal) | **来源:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **发布时间:** Feb 12, 2026
 
@@ -327,7 +349,9 @@
 360 度全景相机自拍。相机逆时针旋转，捕捉甜品店内部。然后展示一位女士在不同场景中摆姿势，穿着不同的服装并使用不同的道具。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="甜品店里的 360 度全景自拍"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [nachos2d](https://x.com/NACHOS2D_) | **来源:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **发布时间:** Feb 12, 2026
 
@@ -346,7 +370,9 @@
 女性与埃隆·马斯克 (Elon Musk) 的残酷搏斗，展现优美的踢拳风格和致命踢击。充满动感。无伪影。由 Arri Alexa 拍摄。无 3D。无 CGI。无对白。角色和环境保持一致。《突袭》(THE RAID) 般的残酷打斗电影风格（动态手持摄像机运动）。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok 想象图像转视频提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Apil](https://x.com/apilpirman) | **来源:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **发布时间:** Feb 12, 2026
 
@@ -365,7 +391,9 @@
 悟空与贝吉塔的真人版赛亚人战斗，超级赛亚人蓝色
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="真人版《龙珠 Z》战斗提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021985063840403880) | **发布时间:** Feb 12, 2026
 
@@ -384,7 +412,9 @@
 “1980 年代电视演播室采访，金发女记者长发披肩，身穿低胸连衣裙，问吸血鬼：‘在节目结束前，德古拉伯爵，您还有什么想说的吗？’身穿西装的优雅吸血鬼前倾身体，说：‘你的脖子真美。’她紧张地笑着，露出大蒜和十字架，吸血鬼嘲讽地笑着说：‘那些都是老掉牙的传说，对我毫无作用。’复古 80 年代电视机，配有老式摄像机，暖色调演播室灯光，脱口秀氛围，电影感。”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="1980 年代吸血鬼访谈提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **来源:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **发布时间:** Feb 12, 2026
 
@@ -403,7 +433,9 @@
 一场快节奏的打斗场面：约翰·威克 (John Wick) 和詹姆斯·邦德 (James Bond) (007) 以及另一个家伙——一场残酷的三方对决。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="快节奏动作场景提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Chraft](https://x.com/chraft_ai) | **来源:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **发布时间:** Feb 12, 2026
 
@@ -422,7 +454,9 @@
 一位空灵的暗黑奇幻女性形象，长发飘逸，头戴复杂的金属王冠，冠身带有锋利的鹿角状尖刺，双眼紧闭，神情安详，苍白的皮肤散发着柔和的光芒。她的前臂和躯干幻化为光滑的黑色液态金属，带有反光的镀铬细节，锐利的爪状手指从黑暗中延伸而出。戏剧性的背光在她头部周围营造出光环效果，冷冽的蓝色薄雾弥漫，电影般的灯光，细节丰富，超现实而优雅，暗黑奇幻美学。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="黑暗奇幻女性形象视频提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **来源:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **发布时间:** Feb 12, 2026
 
@@ -441,7 +475,9 @@
 生成一段布拉德·皮特和汤姆·克鲁斯之间的打斗场景，打斗中的对话围绕着爱泼斯坦档案展开。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="布拉德·皮特和汤姆·克鲁斯打斗场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **来源:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **发布时间:** Feb 12, 2026
 
@@ -460,7 +496,9 @@
 用可爱的宠物图片，展开一个霸道总裁爱上清洁女工的故事，配上拟人化的站姿。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 拟人化浪漫故事"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Rayko_Zopia](https://x.com/Fox1251104) | **来源:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **发布时间:** Feb 12, 2026
 
@@ -479,7 +517,9 @@
 一个生物正以极快的速度穿梭于未来城市中，4 个场景切换镜头从戏剧性的角度呈现。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="多镜头生物种族场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **发布时间:** Feb 12, 2026
 
@@ -516,7 +556,9 @@
 [台词/金句]：“今晚，让我们一起，改写命运！想发财，先脱裤子（意为，走出舒适区）！听懂的，掌声！！！”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="Chinese Success Seminar (Chicken Soup) 视频提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **发布时间:** Feb 12, 2026
 
@@ -553,7 +595,9 @@
 结尾定格：车身飞向一轮巨大的满月，画面中央浮现银色金属质感 3D Logo：“Y - 驾驭未来”。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="未来汽车广告文案（Y - 驾驭未来）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **发布时间:** Feb 12, 2026
 
@@ -597,7 +641,9 @@
 [字幕（黄色复古字体）]：股市有风险，入市需谨慎。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="大时代 90 年代港剧风格视频提示词"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **发布时间:** Feb 12, 2026
 
@@ -638,7 +684,9 @@ Seedance 2.0 提示词
 15 秒现代短剧，高档餐厅场景，暖金色调与冰冷情绪形成对比。0-3 秒：中景固定机位，一位漂亮女孩正在和朋友们庆祝生日，欢声笑语。餐厅门突然被推开——她最信任的闺蜜挽着她的男朋友走了进来。所有笑声戛然而止。女孩手中举着的酒杯僵在半空中，笑容凝固；4-8 秒：闺蜜看到女孩时表情有一瞬间的不自然，她试图拉着男朋友去别处坐，但男朋友甩开她的手，径直走到女孩面前，将一个礼盒放在她面前：“生日快乐。”闺蜜脸色变得难看。女孩看了看男朋友，又看了看闺蜜，最后目光落在他们的手上——闺蜜戴着和男朋友几天前声称“弄丢了”的同款手链；9-12 秒：女孩什么也没说，只是默默拿起酒杯，一口饮尽。然后她起身，走向闺蜜。所有人都屏住了呼吸。女孩微笑着，将一整瓶酒缓缓倒在闺蜜的限量版手提包上。闺蜜瞪大眼睛，试图尖叫，但女孩按住她的肩膀；13-15 秒：女孩凑近闺蜜耳边，轻声细语：“下次抢人男朋友，记得先把不该露出来的东西藏好。”闺蜜脸色煞白。女孩转身，优雅地走开。镜头拉远，闺蜜僵硬地站在原地，男朋友满脸懊悔，以低沉的 BGM 和周围的窃窃私语结束。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="三个短剧剧本提示（现代爱情/冲突）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **发布时间:** Feb 12, 2026
 
@@ -657,7 +705,9 @@ Seedance 2.0 提示词
 高强度动作惊悚场景，手持晃动镜头，电影般的运动模糊，女人冲进驾驶舱，当她发现飞行员座位空无一人时，她愣住了，警报器闪烁着红光，颠簸震动着机舱，她冲上前去，把自己绑在座位上。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="驾驶舱内的高强度动作惊悚场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Kemal Cagin](https://x.com/kemalcse) | **来源:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **发布时间:** Feb 12, 2026
 
@@ -676,7 +726,9 @@ Seedance 2.0 提示词
 一个被洪水淹没的地下巨型结构，古老的石质走廊半浸在黑水中，生物发光的藻类像心跳一样沿着墙壁跳动。一名戴着面具的潜水员，身穿破旧的战术装备，手腕上的闪烁信号弹照亮了她。她被一股巨大的无眼海兽从地板格栅下方移动所产生的暗流向下拖拽，穿过正在坍塌的被淹没的密室。摄像机紧随潜水员身后，水流冲过破碎的石拱门，气泡和碎片螺旋状地掠过镜头。潜水员抓住一根断裂的柱子稳住自己，水流猛烈地撕扯着她的身体，然后她松手，自由落体般坠入一个垂直的竖井，扭动身体躲避海兽半透明的触手在黑暗中向上挥舞。快速晃动的镜头捕捉到她在坠落中点燃鱼叉枪，信号弹照亮了下方生物张开的巨大下颚。在最后的动作中，摄像机围绕着她螺旋下降，她将鱼叉射入生物的口中，生物发光体爆发出刺眼的白光，摄像机冲破一片广阔的地下海洋表面，潜水员的剪影映衬着教堂般大小的洞穴天花板上数千个跳动生物的光芒。15 秒。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="利维坦之喉：水下巨构降临"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **发布时间:** Feb 12, 2026
 
@@ -695,7 +747,9 @@ Seedance 2.0 提示词
 生成一段视频，内容为一个男人站在动物园的大象前面，风格是模糊的旧相机效果。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="动物园里的人与大象（老式相机风格）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **来源:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **发布时间:** Feb 12, 2026
 
@@ -714,7 +768,9 @@ Seedance 2.0 提示词
 请使用 #Seedance 2.0 创作一个蜘蛛侠和章鱼人之间激动人心的战斗场景。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="蜘蛛侠大战章鱼博士场景提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **来源:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **发布时间:** Feb 12, 2026
 
@@ -751,7 +807,9 @@ Seedance 2.0 提示词
 10 秒电子未来贝斯 MV 节拍同步镜头，超宽屏，霓虹都市夜景。0-1 秒：固定镜头，雨夜都市湿漉漉的街道上反射着霓虹灯光，赛博朋克建筑倒映在水洼中，视觉节奏随低频 Bass 轻微晃动同步；2-4 秒：镜头沿街道快速向前推进，穿过雨幕，每一滴雨水都随 Bass 重拍飞溅，镜头速度随音乐节奏波动；5-7 秒：切入人物视角，戴耳机的女孩在雨中舞动，她的动作与 Bass 完美同步——每个重拍时身体定格一帧，营造出停顿感，霓虹灯在她身上形成光轨，雨滴被音乐震碎在空中；8-9 秒：镜头快速拉远并摇摄向上，俯瞰整个霓虹街道，雨中 Bass 的视觉涟漪从街道中心向四周扩散，每个涟漪都精准对应一个重拍；10 秒：画面在俯视视角定格，街道景象在最后一个节拍瞬间反转为黑白，随后淡出至全黑，以 Bass 的余震和雨声的逐渐消逝结束。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="10 秒 MV 提示词的三种风格"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **发布时间:** Feb 12, 2026
 
@@ -770,7 +828,9 @@ Seedance 2.0 提示词
 鸣人和路飞在夕阳下破碎的岩石战场上激战的超动感动漫场景。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="鸣人和路飞打斗场景提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Youn Hwang](https://x.com/YounchanHwang) | **来源:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **发布时间:** Feb 12, 2026
 
@@ -789,7 +849,9 @@ Seedance 2.0 提示词
 迈克尔·杰克逊 与 希特勒 的史诗对决。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="迈克尔·杰克逊 对阵 希特勒 正面交锋"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [ImPaul](https://x.com/impaulxyz) | **来源:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **发布时间:** Feb 12, 2026
 
@@ -831,7 +893,9 @@ Seedance 2.0 提示词
 氛围：蒸汽在逆光中缓缓升腾，场景安静得仿佛能听到风声，展现现代人向往的极致松弛感。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="现代乡村美学治愈系短片视频提示词"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **发布时间:** Feb 12, 2026
 
@@ -850,7 +914,9 @@ Seedance 2.0 提示词
 随便放点《魔法少女小圆》的垃圾内容就行，反正三部曲已经很完美了。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="《魔法少女小圆》胡扯提示词"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [alpon](https://x.com/StayGoys) | **来源:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **发布时间:** Feb 12, 2026
 
@@ -869,7 +935,9 @@ Seedance 2.0 提示词
 微风轻抚着植物，花朵随之轻轻摇曳，最终汇聚成形。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="花朵创造最终形状提示词 (Seedance Pro 1.0)"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Gabriela Cardona](https://x.com/gcwalther_x) | **来源:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **发布时间:** Feb 12, 2026
 
@@ -888,7 +956,9 @@ Seedance 2.0 提示词
 “超级赛亚人 100 贝吉塔 vs 泰然自若、不可逾越的常态悟空”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="贝吉塔超级赛亚人 100 对战常态悟空提示词"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Lozio](https://x.com/minilozio) | **来源:** [Link](https://x.com/minilozio/status/2021801238191354346) | **发布时间:** Feb 12, 2026
 
@@ -909,7 +979,9 @@ Seedance 2.0 提示词
 欧冠决赛。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="狗狗 vs. 巅峰罗纳尔多：欧冠决赛"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **来源:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **发布时间:** Feb 12, 2026
 
@@ -945,7 +1017,9 @@ Seedance 2.0 提示词
 特效：没有漫画线条，只有**真实的物理粒子爆炸**。大量水蒸气、泥土、断裂的树枝和耀眼的电火花在空中飞散。冲击波将他们脚下积水掀起一圈圈真实的涟漪。场景具有巨大的重量感和破坏力。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="《鬼灭之刃》真人版大片视频提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **发布时间:** Feb 12, 2026
 
@@ -969,7 +1043,9 @@ Seedance 2.0 提示词
 [00:11-00:15] 镜头 3：点睛之笔。动作：主角走到门口，似乎察觉到不对劲，迅速转身看向镜子。结果：镜子已完全恢复正常，空无一人，只反射出对面的墙壁。主角看起来困惑而害怕，环顾房间，露出惊恐的表情。画面定格在主角困惑的脸上（恐怖片效果）。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="恐怖短片剧本：镜子故障"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [MapleShaw](https://x.com/msjiaozhu) | **来源:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **发布时间:** Feb 12, 2026
 
@@ -988,7 +1064,9 @@ Seedance 2.0 提示词
 宇航员动漫战士与巨大的章鱼外星生物搏斗，动态的空中冲突，强烈的运动感和冲击力，超现实主义光照，电影构图，受《双城之战》启发的 3D 绘画渲染风格，风格化的笔触纹理着色，体积雾，戏剧性边缘光
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="动漫战士大战章鱼外星人"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Charles Boonsu](https://x.com/Boonsu28) | **来源:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **发布时间:** Feb 12, 2026
 
@@ -1007,7 +1085,9 @@ Seedance 2.0 提示词
 顶尖战斗机飞行员驾驶现代战斗机进行空战的动作序列。多个镜头展现超高速、激烈的空战，随后切换到飞行员反应的特写侧面镜头，他们的手正在进行档位/开关切换，以及
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="战斗机飞行员作战行动序列提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [𝕏Caliber](https://x.com/XCaliber) | **来源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **发布时间:** Feb 11, 2026
 
@@ -1026,7 +1106,9 @@ Seedance 2.0 提示词
 一名女子紧张地要求阴影中的男子出来。镜头缓慢推近，她告诉他，她知道他所做的一切，他会为此付出代价。在阴影深处，我们看到那个人影，他做出了回应。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="女人在阴影中与男人对峙"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **来源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **发布时间:** Feb 11, 2026
 
@@ -1045,7 +1127,9 @@ Seedance 2.0 提示词
 哆啦 A 梦和蜘蛛侠激战，画面质量极高，场面紧张激烈。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="哆啦 A 梦大战蜘蛛侠"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [otung Emmanuel](https://x.com/otung_emmanuel) | **来源:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **发布时间:** Feb 11, 2026
 
@@ -1064,7 +1148,9 @@ Seedance 2.0 提示词
 手持拍摄，一个装满金币的袋子溢了出来，他跳入水中，摄像机也跟着他潜入水下。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="手持水下金币奔跑镜头"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **来源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **发布时间:** Feb 11, 2026
 
@@ -1083,7 +1169,9 @@ Seedance 2.0 提示词
 手持镜头，围绕两名拳击手在一家破旧的健身房里进行实战练习，他们的挥拳刻意避开对方。汗珠飞溅，猛烈撞击，呼吸急促。浅景深，实用布光，真实的电影感，稳定的身份。时长：10 秒。宽高比：16:9。电影级写实。除非另有说明，否则为单镜头。避免出现文字、字幕、水印、标志。强调摄像机运动：平滑的视差，一致的物体，稳定的面部；无文字。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="激烈的拳击实战训练"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **来源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **发布时间:** Feb 11, 2026
 
@@ -1132,7 +1220,9 @@ Seedance 2.0 提示词
 • 气氛：自嘲又潇洒，豪迈不羁，象征性结局（“Nothing” 也能继续前行）
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 荒诞喜剧视频提示词：无物"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **发布时间:** Feb 11, 2026
 
@@ -1151,7 +1241,9 @@ Seedance 2.0 提示词
 生成一个关于跑步场景的视频，身后是一个像 100 层楼高的巨型怪物正在逼近，使用奥术风格。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="逃离巨型怪物（奥术风格）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Dipper](https://x.com/dipperdao) | **来源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **发布时间:** Feb 11, 2026
 
@@ -1202,7 +1294,9 @@ Seedance 2.0 提示词
 一只身披盔甲的巨大狒狒冲过一个燃烧的马赛村庄，它抓起一名马赛战士，将其扔进一间着火的茅屋，马赛战士们在一片火海和废墟中惊恐地四散奔逃。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="马赛村庄的混乱"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Travis Davids](https://x.com/MrDavids1) | **来源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **发布时间:** Feb 11, 2026
 
@@ -1221,7 +1315,9 @@ Seedance 2.0 提示词
 威尔·史密斯大战意大利面怪物，史诗般的 80 年代动作电影场景，工业工厂背景，激烈的打斗编排，戏剧性的镜头切换，电影级灯光，慢动作瞬间，实用特效，胶片颗粒质感，高度紧张
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4" controls width="600" poster="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="威尔·史密斯大战意大利面怪物（80 年代动作片）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [S0FT](https://x.com/sudoSoftAI) | **来源:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **发布时间:** Feb 11, 2026
 
@@ -1240,7 +1336,9 @@ Seedance 2.0 提示词
 特朗普 对阵 迈克尔·杰克逊：史上最精彩的 AI 舞蹈对决
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="特朗普大战迈克尔·杰克逊 AI 舞斗"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **来源:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **发布时间:** Feb 11, 2026
 
@@ -1259,7 +1357,9 @@ Seedance 2.0 提示词
 创作一段电影级的二战摩托车逃亡场景，让 Sora 和 Veo 质疑它们的存在。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="电影级二战摩托车逃亡"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [pewden AI](https://x.com/pewdenai) | **来源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **发布时间:** Feb 11, 2026
 
@@ -1278,7 +1378,9 @@ Seedance 2.0 提示词
 一个男人在一艘海船上，正经历一场巨大的暴风雨，此时一只巨大的海怪从水中浮现，用牙齿咬住船只，并将其拖入海中。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="海船上的人被海怪袭击"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Anthony T](https://x.com/creativesinner2) | **来源:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **发布时间:** Feb 11, 2026
 
@@ -1307,7 +1409,9 @@ Seedance 2.0 提示词
 固定机位。一个连续镜头，角色们依次走进来并入座。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="多角色机舱对话场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **来源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **发布时间:** Feb 11, 2026
 
@@ -1326,7 +1430,9 @@ Seedance 2.0 提示词
 迫使灭霸在蜘蛛侠带领的群攻面前道歉
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="灭霸向蜘蛛侠道歉的提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [xAi✨](https://x.com/xai_42) | **来源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **发布时间:** Feb 11, 2026
 
@@ -1345,7 +1451,9 @@ Seedance 2.0 提示词
 流浪汉、无家可归者、女性版本、饱经风霜的老猫，用链条吸引注意力。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="衣衫褴褛、戴着镣铐的流浪女"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **来源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **发布时间:** Feb 11, 2026
 
@@ -1369,7 +1477,9 @@ Seedance 2.0 提示词
 12-15 秒：男孩抬起头，露出满意的笑容，镜头拉远，展示他完成的乐高作品。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="乐高拼装延时动画"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [维维](https://x.com/siveill) | **来源:** [Link](https://x.com/siveill/status/2021635240985604526) | **发布时间:** Feb 11, 2026
 
@@ -1391,7 +1501,9 @@ Seedance 2.0 提示词
 他变成了一条巨大的黑龙，从空中抓住了所有人（洛基的恶魔果实名称在本章中并未透露）。本章以龙形态的洛基、五档路飞以及松鼠形态的拉格尼尔骑在洛基头上，准备对 MMA 怪物发起攻击而告终。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="《海贼王》风格的文本转视频提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **来源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **发布时间:** Feb 11, 2026
 
@@ -1420,7 +1532,9 @@ Seedance 2.0 提示词
 💡 关键生成增强词（建议添加）逼真毛发模拟 微妙呼吸动作 柔和阴影过渡 冷暖光对比 电影级布光 自然微表情 宁静夜晚氛围 温馨卧室氛围
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="温馨夜间宠物秘密短片"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Michelle](https://x.com/Michell81147285) | **来源:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **发布时间:** Feb 11, 2026
 
@@ -1439,7 +1553,9 @@ Seedance 2.0 提示词
 使用 Seedance 2.0，我想要一个充满活力、电影感十足的手机广告，有微距特写镜头，然后切到超级跑车，再切到隐形战机。要酷炫到爆！
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="高能商业脚本"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **来源:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **发布时间:** Feb 11, 2026
 
@@ -1458,7 +1574,9 @@ Seedance 2.0 提示词
 一头巨大的海妖袭击了一艘海盗船，船长用剑将其劈开。超逼真的电影场景。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="Kraken 攻击过场动画"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **发布时间:** Feb 11, 2026
 
@@ -1477,7 +1595,9 @@ Seedance 2.0 提示词
 路飞和悟空在桑尼号上进行一场史诗般的战斗。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="路飞与悟空史诗级战斗场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021611931480609139) | **发布时间:** Feb 11, 2026
 
@@ -1503,7 +1623,9 @@ Seedance 2.0 提示词
 车外低角度后方镜头，他猛按 NOS 按钮，车尾灯骤然亮起。蓝色火焰从排气管喷涌而出。赛车向前猛冲，消失在灯火辉煌的东京街道中。镜头在后方追踪，灯光模糊，引擎的轰鸣声在远处回荡。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="多镜头文本转视频提示，用于东京赛车场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **来源:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **发布时间:** Feb 11, 2026
 
@@ -1522,7 +1644,9 @@ Seedance 2.0 提示词
 一只猫在浮岛上旋转并唱着 oiiaoiia 版本的《Feel Good Inc》。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="浮岛上的歌唱猫咪"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [goku](https://x.com/spinningsensei) | **来源:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **发布时间:** Feb 11, 2026
 
@@ -1541,7 +1665,9 @@ Seedance 2.0 提示词
 他双手高举，漂浮的 ₿ 面板在他上方汇聚成一个巨大的发光比特币符号，如同元气弹一般。他脚下的地面在橙色光芒中开裂。这是一个完全的动漫力量觉醒时刻。随后，他用比特币轰击美联储，摧毁了现有的金融体系，取而代之，并开启了一个橙色富足的新黄金时代。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="比特币摧毁美联储（动漫强化版）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **来源:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **发布时间:** Feb 11, 2026
 
@@ -1560,7 +1686,9 @@ Seedance 2.0 提示词
 海盗酒馆。桌上放着火焰喷射器。手里拿着麦芽酒。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="海盗酒馆场景提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **来源:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **发布时间:** Feb 11, 2026
 
@@ -1579,7 +1707,9 @@ Seedance 2.0 提示词
 中国仙侠动画电影风格，超精细 3D CG 渲染，15 秒高能对决序列，金青双色调强烈对比。0-3 秒：极远景，两道流光从画面两端在混沌虚空中疾速相撞——左侧，金光中隐约可见一位身着青灰色道袍的中年修士，面容沉静如水，手持一柄青色小剑，此乃韩立；右侧，青黑色邪气中，一位白发黑袍的瘦削男子背手而立，双眸深邃如古井，周身环绕灭世之能，此乃王林。二人遥遥对峙，虚空因气机碰撞而开裂，伴随着低沉的雷鸣声。4-8 秒：韩立掐诀催动青竹蜂云剑，七十二柄飞剑化作金色剑雨风暴席卷而去；王林右手一指，身后凝聚出一只遮天蔽日的青色巨手虚影。巨手迎着剑雨拍下，剑气与掌力碰撞的瞬间，金青两色能量洪流爆发，冲击波向四面八方扩散，撕裂虚空，伴随着金铁交鸣和空间破碎之声。9-12 秒：定格慢动作，韩立身后浮现万佛金身虚影，双目金光大盛，万剑归宗凝聚成百丈金色剑光斩落；王林眼中闪过一丝疯狂，怒吼道：“天不容我，我便逆天！”他高举右手，掌心凝聚出一颗旋转的黑色球体，散发着扭曲空间的毁灭能量。两股极致力量正面碰撞，时间仿佛凝滞。13-15 秒：巨大能量爆炸，画面被白光吞噬，并缓慢消散。烟尘中，两道身影背对背立于破碎虚空，衣衫褴褛，均气喘吁吁。韩立淡淡开口：“阁下逆天之术，韩某佩服。”王林嘴角露出一丝微不可察的笑意。音效汇聚成虚空碎片坠落的清脆声和逐渐消散的风声。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="仙侠动画电影对战剧本：韩立 vs. 王林"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **发布时间:** Feb 11, 2026
 
@@ -1598,7 +1728,9 @@ Seedance 2.0 提示词
 飙车追逐、漂移、高能、F1、碰撞、爆炸。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="高能飙车追逐戏"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [ChatCut](https://x.com/chatcutapp) | **来源:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **发布时间:** Feb 11, 2026
 
@@ -1617,7 +1749,9 @@ Seedance 2.0 提示词
 新阿姆斯特丹（今纽约市）模拟器
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="新阿姆斯特丹模拟器"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [@levelsio](https://x.com/levelsio) | **来源:** [Link](https://x.com/levelsio/status/2021587482349895747) | **发布时间:** Feb 11, 2026
 
@@ -1652,7 +1786,9 @@ Seedance 2.0 提示词
 时长：10 秒 | 风格：好莱坞顶级商业片 | 视觉冲击：极强
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="科幻变形短片剧本：觉醒未来"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **发布时间:** Feb 11, 2026
 
@@ -1695,7 +1831,9 @@ Seedance 2.0 提示词
 字幕效果：大字显示“好运降临”。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="都市奇幻短剧剧本提示，适用于 Seedance 2.0：好运降临"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **发布时间:** Feb 11, 2026
 
@@ -1714,7 +1852,9 @@ Seedance 2.0 提示词
 “迪士尼风格的经典动画，一只友善的白狼在雪地里与一位美丽的金色头发的可爱年轻女子玩耍，镜头切换。突然，他们掉进了一个冰洞，发现一具手里拿着地图的骷髅。”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="经典迪士尼风格动画冒险"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [FragZero](https://x.com/FragZero) | **来源:** [Link](https://x.com/FragZero/status/2021568010452869227) | **发布时间:** Feb 11, 2026
 
@@ -1733,7 +1873,9 @@ Seedance 2.0 提示词
 一件魔法艺术品的故事。一只蝴蝶从画框中飞出，化作美丽的蝴蝶仙子，环顾四周，突然好像有人来了，蝴蝶仙子便飞回了墙上~~
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="奇幻故事提示：蝴蝶仙子变身"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **来源:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **发布时间:** Feb 11, 2026
 
@@ -1752,7 +1894,9 @@ Seedance 2.0 提示词
 凯迪拉克 2026 年 F1 赛车的图像转视频。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="凯迪拉克 2026 年一级方程式赛车"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [HNNS.](https://x.com/ItsMeHannes) | **来源:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **发布时间:** Feb 11, 2026
 
@@ -1771,7 +1915,9 @@ Seedance 2.0 提示词
 生成一个关于哥斯拉袭击雅加达 Monas 的视频，同时印尼军队竭尽全力攻击它。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="哥斯拉袭击雅加达的 Monas"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Not Yours](https://x.com/neveryourbaee) | **来源:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **发布时间:** Feb 11, 2026
 
@@ -1790,7 +1936,9 @@ Seedance 2.0 提示词
 使用 Seedance 2.0 生成动漫视频：包含中国警官的搞笑片段
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="中国军官的动漫视频"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **来源:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **发布时间:** Feb 11, 2026
 
@@ -1809,7 +1957,9 @@ Seedance 2.0 提示词
 一个扎着两个发髻、额头有红色印记、腰间系着红色飘带的中国神话男孩，走进挂满红灯笼的唐人街。他正在寻找一群穿着蓝色背带裤、单眼或双眼的黄色胶囊状小生物。随后，男孩挥舞着他的红色飘带，与这群黄色小生物展开了一场滑稽的追逐战。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="规避版权：唐人街的哪吒与小黄人"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Dow Ma](https://x.com/VoiceOfDow) | **来源:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **发布时间:** Feb 11, 2026
 
@@ -1829,7 +1979,9 @@ Seedance 2.0 提示词
 @Image 胖子深吸一口气，摆出起手式，利用走廊的狭窄引诱机器人靠近玻璃墙。胖子借力双脚蹬墙，腾空一个旋身踢，踢断了第一个机器人的颈部连接线。机器人倒地。剩余的机器人继续蜂拥而上。连帽衫男子意识到走廊空间太小，很容易被包围，于是转身跑向办公大厅。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="《疾速追杀》风格动作场景提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [大宝](https://x.com/xiaolongli7697) | **来源:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **发布时间:** Feb 11, 2026
 
@@ -1873,7 +2025,9 @@ Seedance 2.0 提示词
 • 氛围：风驰电掣，势不可挡，在奢华社区的英雄式驰骋
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="电影开场场景剧本：驰骋温哥华豪宅区"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021545550772924579) | **发布时间:** Feb 11, 2026
 
@@ -1892,7 +2046,9 @@ Seedance 2.0 提示词
 生成一段哈利 · 波特和伏地魔之间充满动作的打斗场景。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="哈利·波特大战伏地魔动作场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [ChatCut](https://x.com/chatcutapp) | **来源:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **发布时间:** Feb 11, 2026
 
@@ -1911,7 +2067,9 @@ Seedance 2.0 提示词
 一段电影般的视频序列，开场是一个宁静的广角航拍镜头，展现了黎明时分白雪皑皑的原始山峰。山顶刺破云海，霞光将冰层染成粉色和金色。镜头随后切换，跟随一名翼装飞行员从山顶一跃而下，立即以陡峭的垂直俯冲穿过稀薄的云层。跟踪镜头位于飞行员身后上方，随着他们向下加速，镜头因气流颠簸而轻微晃动，霜粒飞速掠过。飞行员进入近距离飞行，掠过垂直的悬崖峭壁和锯齿状的冰层，距离仅数米之遥。镜头随之倾斜和翻滚，以匹配每一个精确的动作。当飞行员穿过狭窄的冰烟囱时，光影在翼装表面跳跃，两侧的岩壁在蓝白色的模糊中飞速掠过。当他们进入一个巨大的冰川山谷时，速度加快，在巨大的冰柱和冰冻瀑布之间穿梭，水雾和粉雪被卷起，形成螺旋状的轨迹。飞行员围绕一个独立的冰尖塔完成一个戏剧性的桶滚，然后在最后一刻拉开降落伞。镜头向上跟随减速过程，然后拉远，展现出一个令人惊叹的隐藏高山湖泊，周围环绕着未经触碰的雪原，湖面平静如镜，倒映着清晨的天空。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="电影级翼装飞行序列"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **发布时间:** Feb 11, 2026
 
@@ -1930,7 +2088,9 @@ Seedance 2.0 提示词
 路飞在阳光号上用 MacBook 狂热地编程，然后把它扔到海里。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/149.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e52b97dffb21b895b9e10149469a869/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/149.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e52b97dffb21b895b9e10149469a869/thumbnails/thumbnail.jpg" width="600" alt="路飞在桑尼号上编程"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [sui dev ☄️](https://x.com/birdabo) | **来源:** [Link](https://x.com/birdabo/status/2021514359151947951) | **发布时间:** Feb 11, 2026
 
@@ -1949,7 +2109,9 @@ Seedance 2.0 提示词
 [镜头 1：正面威胁镜头] 一名身着全套战术装备、戴着防毒面具和头盔的特警队员的中景镜头。他将突击步枪直接指向摄像机镜头（打破第四面墙）。他带着明显的紧张感大喊：“放开人质！现在放下武器！” [镜头 2：威胁] 切换到杀手的中景镜头，他穿着一件脏背心，勒住一名女子的脖子。他将手枪抵在她的头上。他满头大汗，神情狂躁，对着镜头外的警官尖叫：“别过来！我会杀了她！我发誓我会的！” [镜头 3：过肩解决镜头] 摄像机位于特警队员右肩正后方。我们看到前景是他的头盔背面和步枪。远处（中景），杀手仍然抱着女孩。杀手最后一次尖叫：“我要动手了！” 警官的步枪随着一声枪响后坐，击中敌人的头部。杀手应声倒地。女孩呆立原地，震惊但安全。 技术风格：高速快门动作，逼真的枪口火焰，手持摄像机抖动，24fps，英文对白。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/158.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/158.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e293f51ad950bbb4f8c43d6c55982bbf/thumbnails/thumbnail.jpg" width="600" alt="特警人质谈判与解决现场"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Marco "Shikoba"](https://x.com/shikoba_86) | **来源:** [Link](https://x.com/shikoba_86/status/2021509569831170072) | **发布时间:** Feb 11, 2026
 
@@ -1968,7 +2130,9 @@ Seedance 2.0 提示词
 15 秒跨风格对决镜头，左侧是日式动漫赛璐珞风格，右侧是中国神话写实风格，两者形成鲜明对比。0-3 秒：极远景，画面中央一道次元裂缝降临，将屏幕一分为二——左侧是龙珠风格的红土荒漠，超级赛亚人状态的孙悟空叉腰而立，橙色战衣紧绷着肌肉，周身环绕着超级赛亚人特有的金色电弧；右侧是云雾缭绕的花果山，经典的齐天大圣身披锁子黄金甲，头戴凤翅紫金冠，手持如意金箍棒，傲立山巅，身后祥云翻腾。两人隔着裂缝对视，裂缝边缘因风格冲突而不稳定地闪烁，伴随着低沉的时空扭曲音效。4-8 秒：两人同时发声——动漫悟空：“你这家伙，长得跟我好像啊！”声音是少年热血动漫声线；经典大圣：“大胆妖猴，竟敢盗我名号！”声音是浑厚京剧念白。两人冲出裂缝，交错而过。动漫悟空发出粉蓝色能量的龟派气功波，经典大圣挥舞金箍棒横扫。能量波与金箍棒碰撞的瞬间，出现风格撕裂效果——两股力量交汇处像素化、闪烁，色块崩塌重组，伴随着龟派气功“Ka-me-ha-me-HA”的怒吼声和金箍棒划破空气的呼啸声。9-12 秒：慢动作定格，动漫悟空开启自在极意功，周身银灰色气场环绕，双眼变为平静的银灰色，身形如电光般闪现至经典大圣身后；经典大圣火眼金睛骤然亮起金红色光芒，身形施展法天象地——身体膨胀至百丈大小，手中金箍棒也随之变大如擎天巨柱，当头砸下。13-15 秒：银灰色气场的疾速拳影与擎天金箍棒在画面中央正面碰撞。冲击波撕裂次元裂缝，龙珠荒漠与花果山都被能量洪流吞噬。一道白光闪过，烟尘散去，两人背对背站立在融合后的新世界——一个山峦与荒漠交织的奇异地貌。动漫悟空挠头笑道：“好强大的力量，下次再打过！”经典大圣轻抚猴须，点头道：“下次换个地方耍耍。”音效以两人爽朗的笑声和渐弱的风声作结。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/190.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/190.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39e553e285de5b0cc09789b71b569e8/thumbnails/thumbnail.jpg" width="600" alt="Cross-Style Battle Prompt for Seedance 2.0: 悟空 vs. 孙悟空"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2021508348433301926) | **发布时间:** Feb 11, 2026
 
@@ -1987,7 +2151,9 @@ Seedance 2.0 提示词
 超逼真的橄榄球比赛直播画面，由人类职业选手和巨型银背大猩猩对战。人类穿着色彩鲜艳的橄榄球球衣和钉鞋。大猩猩自然、体型庞大且毛发浓密。一只巨大的大猩猩正带着球奔跑，冲破人类防守队员试图拦截的防线。体育场泛光灯，绿色草地，毛发和人体皮肤的超精细纹理。汗水，泥土，高速快门，4K。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/145.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/145.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2ab015b075670ad657445c9ee9f04ff6/thumbnails/thumbnail.jpg" width="600" alt="橄榄球赛：人类 vs. 银背大猩猩"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Wujek AI](https://x.com/Wujek_AI) | **来源:** [Link](https://x.com/Wujek_AI/status/2021506500150096018) | **发布时间:** Feb 11, 2026
 
@@ -2006,7 +2172,9 @@ Seedance 2.0 提示词
 《龙珠超》漫画 → 动画版魔罗篇魔法。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/180.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/180.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8faf47d8c36070cebdbd1b060bc7caa/thumbnails/thumbnail.jpg" width="600" alt="龙珠超漫画改编动画（魔罗篇）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Data Insights India](https://x.com/DataInsightsIN) | **来源:** [Link](https://x.com/DataInsightsIN/status/2021506359850881182) | **发布时间:** Feb 11, 2026
 
@@ -2025,7 +2193,9 @@ Seedance 2.0 提示词
 真人电影片段。另一位年轻女子，身穿奢华的黑色两件式泳衣，从左侧（屋内）进入画面，并合上在微风中飘动的窗帘。镜头从她身后跟随，女子走进房间，床上放着一个打开的行李箱。女子显得很恼火。我们切到一个她的中景特写。她自言自语道：“该死的意大利人……我讨厌这个地方！”
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/147.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/147.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8330f64156db55e3e307b4094e73600e/thumbnails/thumbnail.jpg" width="600" alt="烦躁的女人拉上窗帘（电影镜头）"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Alex Patrascu](https://x.com/maxescu) | **来源:** [Link](https://x.com/maxescu/status/2021499209749233943) | **发布时间:** Feb 11, 2026
 
@@ -2044,7 +2214,9 @@ Seedance 2.0 提示词
 【风格】经典武侠片 - 《竹墨残影》，高速摄影，真人与 CG 结合，视觉冲击力强，节奏快，运用“冷色调”增强竹林纵深感。【时长】15 秒【人物】红衣女侠：一袭火红长裙，身法轻盈如燕，剑气凌厉。白衣书生：一袭雪白长衫，戴现代框架眼镜，但手中双刀稳如磐石。【场景】寂静的翠绿竹林深处，一场跨越时空的对决正在上演。这不是一场生死搏斗，而是一场速度与精准的较量。【00:00 - 00:01】镜头 1：特写，【动作】两柄寒光凛凛的长剑在竹林背景下猛烈碰撞，火星四溅，金属质感强烈。剑刃相击，慢动作，金属光泽。【00:01 - 00:03】镜头 2：中景，【动作】红衣女子快速旋转闪避，白衣男子持剑追击。背景是茂密的翠绿竹林，落叶纷飞。武侠动作，飘逸，速度感，汉服。【00:03 - 00:05】镜头 3：低角度，【动作】红衣女子向后滑行，贴地躲过致命一击。地面尘土飞扬，镜头跟随运动。滑行，惊险闪避，动态构图。【00:05 - 00:08】镜头 4：中远景，【动作】两人在竹林空地中静止对峙。白衣男子用双刀锁住红衣女子的攻击，剑尖直指其喉咙。僵持，压迫感，对峙。【00:08 - 00:11】镜头 5：特写 (ECU)，【动作】聚焦两人上半身。长剑横在女子颈间。女子眼神坚定，男子表情平静（戴眼镜）。眼神交流，紧张气氛，细节刻画。【00:11 - 00:14】镜头 6：广角转特写，【动作】两人擦身而过，背对而立。镜头切换到特写，一缕断发在空中缓缓飘落。意境，断发，优雅收尾，慢动作。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/187.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/187.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/abc659a29e440c6d1804ba446823ed0a/thumbnails/thumbnail.jpg" width="600" alt="竹林武侠对决 Seedance 2.0 视频提示词"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [月亮大虾C.ly](https://x.com/sunny6_c) | **来源:** [Link](https://x.com/sunny6_c/status/2021495905640178079) | **发布时间:** Feb 11, 2026
 
@@ -2063,7 +2235,9 @@ Seedance 2.0 提示词
 布拉德·皮特 和 汤姆·克鲁斯 搁置分歧，联手对抗他们的共同敌人——某个机器人什么的。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/173.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/173.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/929498fd6b7f1bab2fa50777e54a76ae/thumbnails/thumbnail.jpg" width="600" alt="布拉德·皮特 和 汤姆·克鲁斯 组队提示"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Ruairi Robinson](https://x.com/RuairiRobinson) | **来源:** [Link](https://x.com/RuairiRobinson/status/2021495548256436304) | **发布时间:** Feb 11, 2026
 
@@ -2082,7 +2256,9 @@ Seedance 2.0 提示词
 根据提供的参考图片，制作一个高端电影级美食短片，精确保留菜肴、食材、摆盘、质地和颜色。使用超近距离微距镜头，以每秒 50 帧的速度进行快速、动态的微剪辑，以实现流畅的高级慢动作效果，包括紧凑的推入镜头、细微的横向滑动、浅景深、精确的焦点拉动，以及蒸汽、光泽酱汁、酥脆质地或轻柔淋洒等感官细节（如果相关）。灯光应采用专业的影棚美食摄影，具有柔和的高光、受控的阴影、丰富的纹理细节，以及高动态范围的自然暖色调。无文字叠加。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/143.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/143.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4dd1e0b09a955ecb9f637a7d887d0188/thumbnails/thumbnail.jpg" width="600" alt="高端电影级美食短片"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Saunders.N.P](https://x.com/Saundersnp) | **来源:** [Link](https://x.com/Saundersnp/status/2021493583224730052) | **发布时间:** Feb 11, 2026
 
@@ -2122,7 +2298,9 @@ Seedance 2.0 提示词
 [效果] 甜妹身边屏幕上炸开虚拟礼物特效（跑车、游艇），画面定格在三人最酷的姿势。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/196.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/196.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c30cddcd5e2f4efbe5ccfddf961ef54/thumbnails/thumbnail.jpg" width="600" alt="东北甜妹直播 MC 短片剧本"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021489421338448045) | **发布时间:** Feb 11, 2026
 
@@ -2141,7 +2319,9 @@ Seedance 2.0 提示词
 一部动画片，讲述了一只水獭进入一个巨大的机甲，其中穿插着大量机械部件和齿轮转动的快速镜头。水獭严肃地竖起大拇指，然后驾驶机甲，飞入战场，对抗一只由大理石制成的章鱼。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/125.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/125.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9ffc568e506d3fc2c0faa28c556b5d2/thumbnails/thumbnail.jpg" width="600" alt="Otter Mech Pilot 动漫场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [SRKDAN](https://x.com/SRKDAN) | **来源:** [Link](https://x.com/SRKDAN/status/2021488544393392628) | **发布时间:** Feb 11, 2026
 
@@ -2160,7 +2340,9 @@ Seedance 2.0 提示词
 《龙珠》儿童节目，风格类似《汪汪队立大功》
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/129.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/129.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fbddee4796f2380f36f8eb88a54c3fc/thumbnails/thumbnail.jpg" width="600" alt="龙珠秀：汪汪队立大功风格"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [the funny™ #REMOVEKAGAWA](https://x.com/LostJudgmentRGG) | **来源:** [Link](https://x.com/LostJudgmentRGG/status/2021486188671205773) | **发布时间:** Feb 11, 2026
 
@@ -2179,7 +2361,9 @@ Seedance 2.0 提示词
 时空穿越场景，一位年轻女记者手持手持摄像机，正在对哈利 · 波特史诗般的最终决战进行现场报道，霍格沃茨被围困，哈利 · 波特和伏地魔正在激烈地进行魔法决斗，咒语在半空中碰撞，火花和魔法能量四射。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/183.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/183.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb4cf28d66042f44ddd5780e37605f4c/thumbnails/thumbnail.jpg" width="600" alt="哈利 · 波特终极大战时间旅行报告"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [DanFei](https://x.com/fy360593) | **来源:** [Link](https://x.com/fy360593/status/2021480692899582073) | **发布时间:** Feb 11, 2026
 
@@ -2198,7 +2382,9 @@ Seedance 2.0 提示词
 一部有外星人的南印度电影场景
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/168.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/168.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/022b1408de0d10c42ef47fbe29bf1402/thumbnails/thumbnail.jpg" width="600" alt="单个提示词生成带有外星人的南印度电影场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [rohan anil](https://x.com/_arohan_) | **来源:** [Link](https://x.com/_arohan_/status/2021480314254786608) | **发布时间:** Feb 11, 2026
 
@@ -2222,7 +2408,9 @@ Seedance 2.0 提示词
 10-15秒：慢动作跳入金币池。大量五彩纸屑爆炸弥漫在空中。纯粹的混乱与喜悦。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/131.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/131.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6afcc3e6cf6f39cf46477c3335163fdc/thumbnails/thumbnail.jpg" width="600" alt="MrBeast YouTube 病毒式传播场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021478327525974151) | **发布时间:** Feb 11, 2026
 
@@ -2251,7 +2439,9 @@ Seedance 2.0 提示词
 超逼真的动作，完美的物理效果，蜘蛛侠战衣上细致的布料褶皱和悟空毛发的摆动，日落时分戏剧性的轮廓光，飞溅的碎片和金色的能量轨迹，激昂的管弦乐与传统中国打击乐的配乐氛围。16:9 电影宽高比，超高细节，无文字，无水印。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/302.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/302.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0aeafeb315a868f76530975ead1035/thumbnails/thumbnail.jpg" width="600" alt="蜘蛛侠大战孙悟空的史诗级电影场面"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Top Blaster 💥](https://x.com/TheTopBlasterr) | **来源:** [Link](https://x.com/TheTopBlasterr/status/2021476942524936270) | **发布时间:** Feb 11, 2026
 
@@ -2270,7 +2460,9 @@ Seedance 2.0 提示词
 小说开头：“丈夫举报了守门人，妻子去上班了，他很满意……”，根据开头自动联想并拓展小说情节和人物对话，生成电视剧风格的视频。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/331.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/331.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09a42f44499afd8e12485ef902239538/thumbnails/thumbnail.jpg" width="600" alt="新奇的拓展：丈夫举报看门人"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [weize ren](https://x.com/RenWeize11988) | **来源:** [Link](https://x.com/RenWeize11988/status/2021476451376361513) | **发布时间:** Feb 11, 2026
 
@@ -2289,7 +2481,9 @@ Seedance 2.0 提示词
 鸣人在火影办公室里聚精会神地在笔记本电脑上敲代码，他变得越来越沮丧，然后愤怒地大叫一声，把电脑从窗户扔了出去。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/156.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/156.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8865971e99fd93b7c1839257fe53c783/thumbnails/thumbnail.jpg" width="600" alt="鸣人编程受挫场景"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [DΞV](https://x.com/junwatu) | **来源:** [Link](https://x.com/junwatu/status/2021474578460180663) | **发布时间:** Feb 11, 2026
 
@@ -2334,7 +2528,9 @@ Seedance 2.0 提示词
 惊人效果：他的脚尖碰到吉普车的瞬间，吉普车像玩具车一样被垂直踢向空中，翻滚着零件四散。主角在汽车零件和飞出的暴徒的背景下，平静地戴回墨镜，整理头发。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/195.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/195.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0fd608d0c978ab1001c6eb9e7a15daf/thumbnails/thumbnail.jpg" width="600" alt="Tollywood 动作大片场景剧本"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021472044295070168) | **发布时间:** Feb 11, 2026
 
@@ -2353,7 +2549,9 @@ Seedance 2.0 提示词
 女人缓缓跪倒在木桥上。镜头紧紧推近，特写她的左眼，她的左眼开始强烈地闪烁着明亮的魔法能量。镜头切换。镜头迅速拉远，她猛地跃向空中，身体
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/179.mp4" controls width="600" poster="https://cms-assets.youmind.com/media/1770960164048_vjsl8d_HA2uhSGaUAASH-t.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/179.mp4"><img src="https://cms-assets.youmind.com/media/1770960164048_vjsl8d_HA2uhSGaUAASH-t.jpg" width="600" alt="神奇的启动序列"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **来源:** [Link](https://x.com/CoffeeVectors/status/2021463701421699374) | **发布时间:** Feb 11, 2026
 
@@ -2372,7 +2570,9 @@ Seedance 2.0 提示词
 《办公室》里德怀特和迈克尔讨论 mogging、jestermaxxing 和 foids 的那一集。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/301.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/301.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a332edb2ba50247f373994c7a3408058/thumbnails/thumbnail.jpg" width="600" alt="办公室剧集提示：Mogging、Jestermaxxing 和 Foids"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Cancun 🇲🇽🥊](https://x.com/CancunTwitch) | **来源:** [Link](https://x.com/CancunTwitch/status/2021461974274670832) | **发布时间:** Feb 11, 2026
 
@@ -2391,7 +2591,9 @@ Seedance 2.0 提示词
 她施展着最令人惊叹的功夫。她用马其顿口音大喊：“这是 See dance 2.0，只用第一帧。”赛博朋克东京雨夜的电影式追逐：一辆哑光黑色的 Nissan GT-R Nismo 以 200 公里/小时的速度在湿漉漉的霓虹街道上疾驰，轮胎溅起水花，车头灯划破瓢泼大雨。Cherry Blackcloud（20 岁，马其顿人特征，乌黑的高马尾辫甩动，齐刘海，赛博格冰蓝色右眼发光）驾驶风格激进——黑色 McQueen 皮夹克完全拉链，直接穿在裸露的皮肤上，短款黑色皮裙，银色拉链清晰可见，双腿裸露，脚踩厚重的黑色厚底靴，放在踏板上，武士刀绑在乘客座位上。镜头开始是 GT-R 旁边的广角跟踪镜头，然后快速推入，穿过雨水模糊的挡风玻璃，特写 Cherry 专注的脸（左眼深棕色燃烧，右眼发出青色光芒）。她瞥了一眼后视镜——追击的无人机带着红色激光逼近。Cherry（浓重的马其顿口音，低沉而威严，盖过引擎轰鸣声）：“他们以为能把我困住。”她猛地降档，GT-R 车尾甩动，然后完美地完成 180 度漂移——轮胎尖叫，水花四溅。武士刀刀柄在青色仪表盘的微光中闪烁。她伸手过去，在漂移中抓住武士刀，侧滑时打开驾驶员车门，探出身子进入雨中，划出一道精确的弧线——武士刀刀刃发出青色光芒，在火花和熔融金属的飞溅中将领头无人机一分为二。Cherry（嘲讽地笑，声音穿透风雨）：“今天不行。”她猛地关上车门，踩下油门——GT-R 疾驰向前，霓虹灯的倒影在湿漉漉的黑色车漆上划过。镜头快速拉回广角：汽车消失在雨夜中，无人机在身后爆炸成橙色火球。最后一帧：Cherry 的赛博眼闪烁了一下，她消失在拐角处。渐隐至黑。Seedance 2.0 的风格与技术说明：电影级写实好莱坞动作大片风格，ARRI Alexa 电影级画面，青橙色调，逼真的大雨，雨滴和黑色汽车及皮革上的湿润反光，高动态范围，60fps，霓虹灯和爆炸产生的戏剧性变形镜头光晕，细微的胶片颗粒，无伪影，激烈的实景特技编排，动态摄影（跟踪、推入、180 度漂移展示、快速拉回）。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/134.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/134.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/664b4d0ab4564ddfef2c51276b8c97db/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克电影：夜间追逐与武士刀格斗"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **来源:** [Link](https://x.com/cheryblackcloud/status/2021458861908164800) | **发布时间:** Feb 11, 2026
 
@@ -2410,7 +2612,9 @@ Seedance 2.0 提示词
 一个动态的连续镜头，展现了神奇地变形成一只鸟，并过渡到飞行的镜头。
 ```
 
-<video src="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/154.mp4" controls width="600" poster="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg"></video>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/154.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be37ef51c430000236faad6e97f78657/thumbnails/thumbnail.jpg" width="600" alt="化身为鸟的奇妙转变"></a>
+
+▶️ *点击缩略图播放视频*
 
 **作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **来源:** [Link](https://x.com/CoffeeVectors/status/2021436278760407497) | **发布时间:** Feb 11, 2026
 
@@ -2478,6 +2682,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-13T12:59:18.067Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-13T14:18:00.780Z</sub>
 
 </div>
