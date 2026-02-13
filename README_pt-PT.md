@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **175** |
+| 📝 Total de prompts | **176** |
 | ⭐ Prompts em destaque | **3** |
 | 🔄 Última atualização | **2026-02-13** |
 
@@ -1554,6 +1554,25 @@ Pedi-lhe para criar um vídeo promocional para o Agent Swarm da @Kimi_Moonshot, 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=155)**
 
 ---
+### Simple Prompt for Explosive Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt used to generate a Seedance 2.0 clip focusing on specific shots, resulting in a highly realistic explosion and physics simulation without extensive guidance.
+
+#### 📝 Prompt
+
+```
+a few shots to include. The explosion and physics is so on point without much guidance.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2021394057277181952/img/N8qyTnwL3ZmpWqGi.jpg" width="600" alt="Simple Prompt for Explosive Action Scene">
+
+**Autor:** [Caleb](https://x.com/sygmod) | **Fonte:** [Link](https://x.com/sygmod/status/2021443433811136831) | **Publicado:** Feb 11, 2026
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=224)**
+
+---
 ### Transformação Mágica em um Pássaro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2795,32 +2814,13 @@ Recriei o filme inteiro Her usando o Seedance2.0.
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=83)**
 
 ---
-### MAX POWER Cena de Ação Tempestade no Deserto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado e com várias tomadas, projetado para gerar uma cena de ação épica e corajosa no deserto, no estilo de Denis Villeneuve, com uma tempestade de areia colossal e um comboio militar, focando em escala, pânico e clímax.
-
-#### 📝 Prompt
-
-```
-Estilo: Filme IMAX 70mm, Estilo Denis Villeneuve, Realismo Cru, Escala Épica, Dessaturado. Duração: 15s. [00-05s] Plano Geral Extremo (A Escala). Uma tempestade de areia colossal, com quilômetros de altura, engole uma vasta paisagem desértica. Um pequeno comboio de veículos militares blindados foge dela. A escala da natureza versus o homem é aterrorizante. Tensão no estilo Hans Zimmer. [05-10s] Câmera de Cockpit (O Pânico). Dentro do veículo líder. O piloto grita "VAI! VAI!" (Legenda: POTÊNCIA MÁXIMA!). A câmera treme violentamente. Areia atinge o para-brisa. O sol é bloqueado pela parede de poeira que se aproxima. [10-15s] O Salto (O Clímax). O veículo atinge uma duna enorme e é lançado no ar (Câmera Lenta). Silhueta contra a tempestade escura. Raios atingem a nuvem de poeira. Detritos voam pela lente. Corta para o preto no impacto.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="MAX POWER Cena de Ação Tempestade no Deserto">
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **Publicado:** Feb 9, 2026
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=62)**
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 52 mais prompts não mostrados aqui
+### 🎯 53 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2875,6 +2875,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-13T02:12:52.896Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-02-13T05:21:26.852Z</sub>
 
 </div>

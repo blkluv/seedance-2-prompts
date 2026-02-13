@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **175** |
+| 📝 Toplam İstem | **178** |
 | ⭐ Öne Çıkan İstemler | **3** |
 | 🔄 Son Güncelleme | **2026-02-13** |
 
@@ -1395,6 +1395,35 @@ uzaylıların olduğu bir Güney Hindistan filminden bir film sahnesi
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=131)**
 
 ---
+### Cinematic Epic Battle: Spider-Man vs. Sun Wukong
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, multi-paragraph prompt for Seedance 2.0 describing a cinematic epic battle between Spider-Man and Sun Wukong on ancient Chinese temple rooftops at sunset, specifying character actions, camera movements, physics, visual details, and soundtrack vibe.
+
+#### 📝 İstem
+
+```
+Cinematic epic battle between Spider-Man and Sun Wukong the Monkey King on ancient Chinese temple rooftops at golden sunset. 
+
+Spider-Man in classic red-and-blue suit swings in with webs, flips mid-air and lands in a crouch. Sun Wukong, muscular monkey warrior wearing tiger-skin skirt and golden headband, twirls massive Ruyi Jingu Bang staff that extends and retracts fluidly.
+
+Intense close-quarters fight: Spider-Man dodges super-fast staff swings, uses web-shooters to wrap around the extending pole, gets yanked forward but backflips free. Sun Wukong leaps enormous distances, somersaults cloud-style, creates afterimages with 72 transformations (brief clone split into 3 versions attacking from different angles).
+
+Spider-Man counters with agile parkour across tiles, shoots web nets to trap clones, then webs the real Wukong's staff mid-swing causing huge shockwave that cracks roof tiles and sends golden sparks flying everywhere.
+
+Dramatic camera: fast dolly zooms, dynamic orbiting shots around fighters, slow-motion on key impacts (web clash vs golden staff, fists meeting with energy burst), quick cuts between wide epic vista and extreme close-ups of determined faces / gritted teeth.
+
+Hyper-realistic motion, perfect physics, detailed fabric ripple on Spider-Man's suit and fur movement on Wukong, dramatic rim lighting from sunset, flying debris and golden energy trails, intense orchestral + traditional Chinese percussion soundtrack vibe. 16:9 cinematic aspect ratio, ultra-detailed, no text, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2021476881628016640/img/OpNwaC_eZV4TKJOj.jpg" width="600" alt="Cinematic Epic Battle: Spider-Man vs. Sun Wukong">
+
+**Yazar:** [Top Blaster 💥](https://x.com/TheTopBlasterr) | **Kaynak:** [Link](https://x.com/TheTopBlasterr/status/2021476942524936270) | **Yayınlandı:** Feb 11, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=225)**
+
+---
 ### Naruto Kodlama Hayal Kırıklığı Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1552,6 +1581,25 @@ Ondan, @Kimi_Moonshot Agent Swarm için Kimi'nin küçük mavi top karakterine d
 **Yazar:** [Shengyuan](https://x.com/ShengyuanS) | **Kaynak:** [Link](https://x.com/ShengyuanS/status/2021445119963169049) | **Yayınlandı:** Feb 11, 2026
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=155)**
+
+---
+### Simple Prompt for Explosive Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt used to generate a Seedance 2.0 clip focusing on specific shots, resulting in a highly realistic explosion and physics simulation without extensive guidance.
+
+#### 📝 İstem
+
+```
+a few shots to include. The explosion and physics is so on point without much guidance.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2021394057277181952/img/N8qyTnwL3ZmpWqGi.jpg" width="600" alt="Simple Prompt for Explosive Action Scene">
+
+**Yazar:** [Caleb](https://x.com/sygmod) | **Kaynak:** [Link](https://x.com/sygmod/status/2021443433811136831) | **Yayınlandı:** Feb 11, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=224)**
 
 ---
 ### Bir Kuşa Büyülü Dönüşüm
@@ -1726,6 +1774,25 @@ hızlı bir moda montajı oluşturun ve gözlüklere odaklanın
 **Yazar:** [Fanis](https://x.com/pfanis) | **Kaynak:** [Link](https://x.com/pfanis/status/2021402352251699638) | **Yayınlandı:** Feb 11, 2026
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=139)**
+
+---
+### Video/Image Swap Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt used to seamlessly swap a person in an existing video with a reference image, maintaining outfit, movements, and allowing language change, all with a single prompt.
+
+#### 📝 İstem
+
+```
+Seedance 2.0 can take any video + any reference image and seamlessly swap the person while keeping their outfit, movements, and even changing the language.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2020296113950224384/img/zVve2MF-yIwOXCjt.jpg" width="600" alt="Video/Image Swap Prompt">
+
+**Yazar:** [SD | AI Animation Storyteller](https://x.com/SDxArt) | **Kaynak:** [Link](https://x.com/SDxArt/status/2021398120320336224) | **Yayınlandı:** Feb 11, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=226)**
 
 ---
 ### Tartışma ve sahneden öfkeyle ayrılma sahnesi komutu
@@ -2757,70 +2824,13 @@ Neon ışıklı dijital bir alanda siyah trençkotlu bir hafıza avcısı hacker
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=67)**
 
 ---
-### Akıcı Tarzda Uygulama Reklamı Oluşturma İstemleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0'ın, tek bir rastgele görsel ve hızlı bir komut kullanarak, yaklaşık 2 dakika içinde pürüzsüz cam animasyonlarına sahip, temiz, 15 saniyelik Fluent tarzı bir uygulama reklamı oluşturmasının bir gösterimi.
-
-#### 📝 İstem
-
-```
-Pürüzsüz cam animasyonları içeren, akıcı tarzda 15 saniyelik uygulama reklamı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfbf6295c8fffee5bf34672066439e22/thumbnails/thumbnail.jpg" width="600" alt="Akıcı Tarzda Uygulama Reklamı Oluşturma İstemleri">
-
-**Yazar:** [laurenz](https://x.com/laur3nzb) | **Kaynak:** [Link](https://x.com/laur3nzb/status/2020837174522864020) | **Yayınlandı:** Feb 9, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=84)**
-
----
-### Basit Bir İstekle 'Her' Filmini Yeniden Yaratmak
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kullanıcı, 'Her' filmini Seedance 2.0 kullanarak nasıl yeniden yarattığını açıklıyor ve ilk istemin basit olduğunu, ürünleri @Creaibo'nun taslağı ve storyboard'u otomatik olarak düzenlemek için Gemini'ı kullandığını belirtiyor. Sonuçlar sağlam bir karakter tutarlılığı gösterdi.
-
-#### 📝 İstem
-
-```
-Seedance2.0 kullanarak Her filminin tamamını yeniden yarattım.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/411781de82bfe8ab48c478b34ed6246a/thumbnails/thumbnail.jpg" width="600" alt="Basit Bir İstekle 'Her' Filmini Yeniden Yaratmak">
-
-**Yazar:** [Rylynn.W](https://x.com/BiuRylynn) | **Kaynak:** [Link](https://x.com/BiuRylynn/status/2020796814912610651) | **Yayınlandı:** Feb 9, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=83)**
-
----
-### MAX POWER Çöl Fırtınası Aksiyon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Devasa bir kum fırtınası ve askeri konvoy içeren, ölçek, panik ve doruk noktasına odaklanan, destansı, cesur, Denis Villeneuve tarzı bir çöl aksiyon sahnesi oluşturmak için tasarlanmış ayrıntılı, çok aşamalı bir komut istemi.
-
-#### 📝 İstem
-
-```
-Tarz: IMAX 70mm Film, Denis Villeneuve Tarzı, Sert Gerçekçilik, Destansı Ölçek, Doygunluğu Azaltılmış. Süre: 15sn. [00-05sn] Aşırı Geniş Çekim (Ölçek). Kilometrelerce yüksekliğindeki devasa bir kum fırtınası, uçsuz bucaksız bir çöl manzarasını yutuyor. Küçük bir zırhlı askeri araç konvoyu fırtınadan kaçıyor. Doğa ile insan arasındaki ölçek korkutucu. Hans Zimmer tarzı gerilim. [05-10sn] Kokpit Kamerası (Panik). Öndeki gezici aracın içinde. Pilot "GİT! GİT!" diye bağırıyor (Altyazı: MAKSİMUM GÜÇ!). Kamera şiddetle sallanıyor. Kum ön cama çarpıyor. Güneş, yaklaşan toz duvarı tarafından engelleniyor. [10-15sn] Atlayış (Zirve). Gezici araç devasa bir kuma çarparak havaya fırlıyor (Ağır Çekim). Karanlık fırtınaya karşı siluet. Toz bulutunun içinde şimşekler çakıyor. Enkaz merceğin önünden uçuşuyor. Çarpma anında karartma.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e9e19caebae8f0d46ecf20240b09deb/thumbnails/thumbnail.jpg" width="600" alt="MAX POWER Çöl Fırtınası Aksiyon Sahnesi">
-
-**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2020794007291404726) | **Yayınlandı:** Feb 9, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=62)**
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 52 burada gösterilmeyen daha fazla istem
+### 🎯 55 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 prompts in this README.
 
@@ -2875,6 +2885,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-13T02:12:53.360Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-13T05:21:29.559Z</sub>
 
 </div>

@@ -98,24 +98,20 @@ A luxury car transforms into Optimus Prime and fights Godzilla, unleashing explo
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=210)**
 
 ---
-### Surreal Battlefield Ronin Action Scene
+### Surreal Sky Battlefield Action Scene
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, multi-shot prompt for Seedance 2.0 describing a surreal, high-action battlefield scene in the sky, featuring a masked ronin pursued by a colossal winged beast whose chest is a vortex of storm clouds. The prompt includes specific camera movements, technical details (720p, 16:9, 15 seconds), and a dramatic finale.
+> A highly detailed creative description used as a prompt for Seedance 2.0, generating an action scene featuring a masked ronin battling a colossal winged beast on floating rock islands during a thunderstorm. The prompt specifies dynamic camera work, effects, and a dramatic finale.
 
 #### 📝 Prompt
 
 ```
 A surreal battlefield in the sky: floating rock islands drifting through a thunderstorm, clouds swirling below like an ocean. The masked ronin dashes across the drifting platforms, pursued by a colossal winged beast whose chest is a swirling vortex of storm clouds and lightning. The camera hurtles from island to island, struggling to keep up as rocks tilt, spin, and crumble away beneath them. Every wingbeat sends shockwaves through the air, shaking the frame and blowing debris and rain straight into the viewer’s face. Rapid handheld cuts capture the ronin leaping impossible gaps, sword carving arcs of light that briefly cut through the darkness. The finale shows the camera diving behind him as he jumps off the last crumbling rock, riding a bolt of lightning directly into the monster’s chest vortex with a final, all-or-nothing slash that explodes the storm from within and clears the sky in a blinding flash.
-
-720p
-16:9
-15 seconds
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="Surreal Battlefield Ronin Action Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee7166e6985749deb91ad1c529f94abe/thumbnails/thumbnail.jpg" width="700" alt="Surreal Sky Battlefield Action Scene">
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Published:** Feb 11, 2026
 
@@ -311,19 +307,19 @@ Scene 4: Rider Self-Mockingly Continues Galloping Away (0:20-0:30, 10 seconds)
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=186)**
 
 ---
-### Running from a Giant Monster (Arcane Style)
+### Arcane Style Giant Monster Chase
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt requesting a running scene in the style of the animated series Arcane, featuring a giant, building-sized monster pursuing the subject.
+> A prompt instructing Seedance 2.0 to generate a video in the style of 'Arcane,' featuring a running scene where a giant, 100-story building-sized monster is closing in from behind.
 
 #### 📝 Prompt
 
 ```
-generate a video about a running scene, behind is a giant monster big as a building with 100 floor is coming close, using Arcane style.
+generate a video about  a running scene, behind is a giant monster big as a building with 100 floor is coming close, using Arcane style.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b90edd9ac7efa64817e14e6d40df279/thumbnails/thumbnail.jpg" width="600" alt="Running from a Giant Monster (Arcane Style)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b90edd9ac7efa64817e14e6d40df279/thumbnails/thumbnail.jpg" width="600" alt="Arcane Style Giant Monster Chase">
 
 **Author:** [Dipper](https://x.com/dipperdao) | **Source:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Published:** Feb 11, 2026
 
@@ -400,11 +396,11 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=178)**
 
 ---
-### Cinematic WW2 Motorcycle Escape
+### Cinematic WW2 Motorcycle Escape Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to test the limits of Seedance 2.0 by requesting a cinematic World War 2 motorcycle escape sequence so impressive it would challenge competing AI models like Sora and Veo.
+> A prompt designed to test Seedance 2.0's cinematic capabilities by requesting a high-stakes, action-packed WW2 motorcycle escape scene, challenging other leading AI models like Sora and Veo.
 
 #### 📝 Prompt
 
@@ -412,18 +408,18 @@ Will smith fighting a spaghetti monster, Epic 80s action movie scene , industria
 create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5092796a86a2832e73822aa47ca603/thumbnails/thumbnail.jpg" width="600" alt="Cinematic WW2 Motorcycle Escape">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5092796a86a2832e73822aa47ca603/thumbnails/thumbnail.jpg" width="600" alt="Cinematic WW2 Motorcycle Escape Sequence">
 
 **Author:** [pewden AI](https://x.com/pewdenai) | **Source:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Published:** Feb 11, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=126)**
 
 ---
-### Multi-Character Cabin Scene with Dialogue
+### Multi-Character, Multi-Language Airplane Cabin Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex, multi-part prompt designed to test Seedance 2.0's ability to handle multiple characters with differing art styles, specific seating arrangements, dialogue in various languages, and the instruction to remove reference numbers from input images.
+> A highly detailed, complex prompt testing Seedance 2.0's ability to handle multiple characters, maintain specific art styles, incorporate different languages (Japanese, Mandarin, Spanish, Cantonese, Korean), and execute a continuous, stationary camera shot as characters walk in and take their seats on an airplane.
 
 #### 📝 Prompt
 
@@ -441,7 +437,7 @@ Characters of differing art styles walk takes their seats in their respective se
 Stationary camera. One continuous shot as characters walk in and takes their seats one after another.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e38054ccc4db74903e650688542c0343/thumbnails/thumbnail.jpg" width="600" alt="Multi-Character Cabin Scene with Dialogue">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e38054ccc4db74903e650688542c0343/thumbnails/thumbnail.jpg" width="600" alt="Multi-Character, Multi-Language Airplane Cabin Scene">
 
 **Author:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Published:** Feb 11, 2026
 
@@ -565,11 +561,11 @@ Luffy and Goku having an epic fight scene on the sunny.
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=163)**
 
 ---
-### Singing Cat on Floating Island
+### Cat Spinning and Singing Gorillaz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal prompt for Seedance 2.0 featuring a cat spinning and singing the 'oiiaoiia' version of 'Feel Good Inc.' while situated on a floating island.
+> A surreal and humorous prompt for Seedance 2.0, requesting a video of a cat spinning and singing an 'oiiaoiia' version of the Gorillaz song 'Feel Good Inc.' on a floating island.
 
 #### 📝 Prompt
 
@@ -577,7 +573,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 "A cat spinning and signing oiiaoiia version of feel good inc on a floating island."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/50095f862f0294eda80079930151faa8/thumbnails/thumbnail.jpg" width="600" alt="Singing Cat on Floating Island">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/50095f862f0294eda80079930151faa8/thumbnails/thumbnail.jpg" width="600" alt="Cat Spinning and Singing Gorillaz">
 
 **Author:** [goku](https://x.com/spinningsensei) | **Source:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **Published:** Feb 11, 2026
 
@@ -588,7 +584,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for an 80s action chaos scene featuring Will Smith fighting a giant spaghetti monster, used as an example of Seedance 2.0's capability to generate complex, imaginative scenarios.
+> A prompt designed to generate an 80s action chaos scene featuring Will Smith fighting a giant spaghetti monster, demonstrating Seedance 2.0's ability to handle surreal concepts.
 
 #### 📝 Prompt
 
@@ -603,11 +599,11 @@ Will Smith vs. a giant spaghetti monster, pure 80s action chaos.
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=144)**
 
 ---
-### Bitcoin Destroys the Federal Reserve (Anime Power-Up)
+### Bitcoin Spirit Bomb Destroys Federal Reserve
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An anime-style prompt describing a dramatic power-up sequence where a massive, glowing Bitcoin symbol is formed and then used to blast and destroy the Federal Reserve, ushering in a new golden age.
+> A narrative prompt for an anime-style video where a character raises their hands, converging floating Bitcoin panels into a massive glowing Bitcoin symbol (like a spirit bomb), which is then used to blast and destroy the Federal Reserve, ushering in a new golden age.
 
 #### 📝 Prompt
 
@@ -615,7 +611,7 @@ Will Smith vs. a giant spaghetti monster, pure 80s action chaos.
 With both hands raised, floating ₿ panels converge into one massive glowing bitcoin symbol above him like a spirit bomb. the ground beneath cracking with orange light. full anime power-up moment. He then blasts the federal reserve and destroys the existing financial system with bitcoin, replacing it and ushering in a new golden age of orange abundance.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3ed00861350a3096a295b4f4d7388e2/thumbnails/thumbnail.jpg" width="600" alt="Bitcoin Destroys the Federal Reserve (Anime Power-Up)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3ed00861350a3096a295b4f4d7388e2/thumbnails/thumbnail.jpg" width="600" alt="Bitcoin Spirit Bomb Destroys Federal Reserve">
 
 **Author:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **Source:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **Published:** Feb 11, 2026
 
@@ -776,11 +772,11 @@ Subtitle Effect: Large text displays “Good Luck Arrives.”
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=188)**
 
 ---
-### Classic Disney-Style Animation Adventure
+### Classic Animation Adventure Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Seedance 2.0 requesting a classic Disney-style animation featuring a friendly white wolf and a young blonde woman playing in the snow, who then fall into an ice cavern and discover a skeleton with a map.
+> A detailed narrative prompt for Seedance 2.0, requesting a classic Disney-style animation sequence involving a friendly white wolf, a young woman, snow, and the discovery of a skeleton and a map in an ice cavern.
 
 #### 📝 Prompt
 
@@ -788,7 +784,7 @@ Subtitle Effect: Large text displays “Good Luck Arrives.”
 "classic animation in the style of Disney, a friendly white wolf is playing with a beautiful blonde cute young woman in the snow, different cuts. Suddenly they fall into an ice cavern and find a skeleton with a map in the hand"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8b0b45fde82b4a337d123aa65f33061/thumbnails/thumbnail.jpg" width="600" alt="Classic Disney-Style Animation Adventure">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c8b0b45fde82b4a337d123aa65f33061/thumbnails/thumbnail.jpg" width="600" alt="Classic Animation Adventure Prompt">
 
 **Author:** [FragZero](https://x.com/FragZero) | **Source:** [Link](https://x.com/FragZero/status/2021568010452869227) | **Published:** Feb 11, 2026
 
@@ -837,7 +833,7 @@ generate a video about a godzilla attacking monas in jakarta while indonesian mi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt used for an image-to-video generation with Seedance 2.0 to create a short, funny anime sequence featuring a Chinese officer.
+> A prompt used for an image-to-video generation in Seedance 2.0, requesting an anime video sequence featuring a funny scene with a Chinese officer.
 
 #### 📝 Prompt
 
@@ -1140,11 +1136,11 @@ Dragon Ball Super manga → animated Moro arc magic.
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=180)**
 
 ---
-### Annoyed Woman Closing Drapes (Cinematic Sequence)
+### Annoyed Woman in Luxury Bathing Suit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt comparing Kling 3 and Seedance 2, describing a live-action sequence where a woman in a black bathing suit enters a room, closes the drapes, and expresses annoyance about being in Italy.
+> A detailed, live-action cinematic prompt for Seedance 2.0 (and Kling 3 comparison) describing a scene where a young woman in a black two-piece bathing suit enters a room, closes drapes, and expresses annoyance about 'Fucking Italians...' while tracking her movement to a close-up.
 
 #### 📝 Prompt
 
@@ -1152,7 +1148,7 @@ Dragon Ball Super manga → animated Moro arc magic.
 Live-action cinematic sequence. Another young woman, wearing a luxurious black two-piece bathing suit, enters the scene from the left (inside the house) and closes the drapes as they float in the gentle breeze. The woman walks, as the camera tracks her from behind, as she goes inside the room, where a suitcase is open on the bed. The woman is annoyed. We cut to a medium close-up of her. She mumbles to herself: "Fucking Italians... I hate this place!"
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa27ffe99a93fc80765a0d6ed1f00b3/thumbnails/thumbnail.jpg" width="600" alt="Annoyed Woman Closing Drapes (Cinematic Sequence)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/efa27ffe99a93fc80765a0d6ed1f00b3/thumbnails/thumbnail.jpg" width="600" alt="Annoyed Woman in Luxury Bathing Suit">
 
 **Author:** [Alex Patrascu](https://x.com/maxescu) | **Source:** [Link](https://x.com/maxescu/status/2021499209749233943) | **Published:** Feb 11, 2026
 
@@ -1220,12 +1216,12 @@ A very basic prompt with a starting and an end image
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-end cinematic food reel video based on a reference image, specifying ultra-close macro shots, dynamic micro-cuts, professional lighting, and sensory details.
+> A highly detailed prompt for Seedance 2.0 (Img2Vid) to create a professional cinematic food reel based on a reference image. It specifies macro shots, dynamic micro-cuts, lighting, and texture details, aiming for a premium slow-motion effect.
 
 #### 📝 Prompt
 
 ```
-Create a high-end cinematic food reel video based on the provided reference image, preserving the exact dish, ingredients, plating, textures, and colors. Use ultra-close macro shots with fast, dynamic micro-cuts at 50 frames per second for smooth premium slow motion, including tight push-ins, subtle lateral slides, shallow depth of field, precise focus pulls, and sensory details like steam, glossy sauce, crispy textures, or gentle drizzles if relevant. Lighting should be professional studio food photography with soft highlights, controlled shadows, rich texture definition, and natural warm color grading with high dynamic range. No text overlays
+"Create a high-end cinematic food reel video based on the provided reference image, preserving the exact dish, ingredients, plating, textures, and colors. Use ultra-close macro shots with fast, dynamic micro-cuts at 50 frames per second for smooth premium slow motion, including tight push-ins, subtle lateral slides, shallow depth of field, precise focus pulls, and sensory details like steam, glossy sauce, crispy textures, or gentle drizzles if relevant. Lighting should be professional studio food photography with soft highlights, controlled shadows, rich texture definition, and natural warm color grading with high dynamic range. No text overlays"
 ```
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72489a360eec3dcbac972cd36e49a8c6/thumbnails/thumbnail.jpg" width="600" alt="High-End Cinematic Food Reel">
@@ -1275,19 +1271,19 @@ Action: The sweet girl gives an extremely cool “gun” gesture (Wink) to the c
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=196)**
 
 ---
-### Otter Mech Pilot Anime Scene
+### Anime Otter Mech vs. Marble Octopus
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed, surreal anime prompt for Seedance 2.0 involving an otter piloting a large mech, with quick cuts of mechanical parts, culminating in the mech flying into battle against an octopus made of marble.
+> An anime-style prompt for Seedance 2.0 featuring an otter entering a large mech, with quick shots of mechanical parts, followed by the otter piloting the mech into battle against an octopus made of marble.
 
 #### 📝 Prompt
 
 ```
-"An anime where an otter goes into a large mech, with lots of quick shots of mechanical parts and gears turning. The otter gives a grim thumbs up, and then pilots the mech, flying into battle against an octopus made of marble."
+"An anime  where an otter goes into a large mech, with lots of quick shots of  mechanical parts and gears turning. The otter gives a grim thumbs up,  and then pilots the mech, flying into battle against an octopus made of marble."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1e6fda37adf95d598f6e67ff212526e/thumbnails/thumbnail.jpg" width="600" alt="Otter Mech Pilot Anime Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1e6fda37adf95d598f6e67ff212526e/thumbnails/thumbnail.jpg" width="600" alt="Anime Otter Mech vs. Marble Octopus">
 
 **Author:** [SRKDAN](https://x.com/SRKDAN) | **Source:** [Link](https://x.com/SRKDAN/status/2021488544393392628) | **Published:** Feb 11, 2026
 
@@ -1458,11 +1454,11 @@ Spectacular Effect: The moment his toe touches the jeep, it is kicked vertically
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=195)**
 
 ---
-### Insane Explosive Ship Scene
+### Insane Explosion Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A straightforward, high-energy prompt designed to generate an over-the-top, explosive video featuring a large ship, aiming for maximum visual insanity and social media engagement.
+> A chaotic and explosive prompt instructing Seedance 2.0 to generate a video with a large ship and multiple explosions, emphasizing an insane level of action.
 
 #### 📝 Prompt
 
@@ -1470,7 +1466,7 @@ Spectacular Effect: The moment his toe touches the jeep, it is kicked vertically
 just toss a bunch of bullshit on screen, show me like a big ship too, everything fucking blows up - make sure its insane and gets at least 50 likes
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b55edcbb398a706ae8aab3ee8e2385a5/thumbnails/thumbnail.jpg" width="600" alt="Insane Explosive Ship Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b55edcbb398a706ae8aab3ee8e2385a5/thumbnails/thumbnail.jpg" width="600" alt="Insane Explosion Scene">
 
 **Author:** [Gossip Goblin](https://x.com/Gossip_Goblin) | **Source:** [Link](https://x.com/Gossip_Goblin/status/2021468902220497061) | **Published:** Feb 11, 2026
 
@@ -1515,11 +1511,11 @@ A scene where Will Smith fights a spaghetti monster, epic action movie scene, va
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=215)**
 
 ---
-### Cinematic Cyberpunk Night Chase and Katana Fight
+### Cinematic Cyberpunk Tokyo Chase Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed, cinematic prompt for an image-to-video test in Seedance 2.0, describing a high-speed night chase in cyberpunk Tokyo featuring the character Cherry Blackcloud, who performs a complex drift maneuver to slice a drone with a katana.
+> An extremely detailed, cinematic prompt for an image-to-video test using Seedance 2.0, describing a high-speed night chase in cyberpunk Tokyo featuring a character named Cherry Blackcloud performing aggressive driving and a katana strike against pursuing drones. The prompt includes extensive technical notes for photorealistic Hollywood action style.
 
 #### 📝 Prompt
 
@@ -1527,7 +1523,7 @@ A scene where Will Smith fights a spaghetti monster, epic action movie scene, va
 She does the most amazing kung fu. She yells with a Macedonian accent: "This is See dance 2.0, using only a first frame." Cinematic night chase in cyberpunk Tokyo rain: matte-black Nissan GT-R Nismo screams down wet neon street at 200 km/h, tires spraying water, headlights cutting through heavy rain. Cherry Blackcloud (20, Macedonian features, jet-black high ponytail whipping, sharp fringe, cybernetic ice-cyan right eye glowing) drives aggressively—fully zipped black McQueen leather jacket on bare skin, short black leather skirt with silver zipper visible, bare legs, chunky black platform boots on pedals, katana strapped to passenger seat. Camera starts wide tracking shot beside the GT-R, then quick push-in through rain-streaked windshield to tight close-up on Cherry’s intense face (left eye dark brown burning, right eye glowing cyan). She glances at rear-view mirror—pursuing drones closing in with red lasers.Cherry (thick Macedonian accent, low & commanding, over engine roar): “They think they can box me in.”She downshifts hard, GT-R fishtails, then launches into a perfect 180° drift—tires screeching, water exploding in arcs. Katana handle glints in cyan dashboard glow. She reaches over, grabs katana mid-drift, opens driver door while sliding sideways, leans out into rain, and slashes a precise arc—katana blade glowing cyan, slicing the lead drone in half in a shower of sparks and molten metal.Cherry (smirking, voice cutting through wind & rain): “Not today.”She snaps the door shut, floors the accelerator—GT-R rockets forward, neon reflections streaking across wet black paint. Camera pulls back fast to wide shot: car vanishing into rainy night, drones exploding behind in orange fireballs. Final frame: Cherry’s cyber-eye flares once as she disappears around a corner. Fade to black. Style & Technical Notes for Seedance 2.0 Photorealistic Hollywood action blockbuster style, ARRI Alexa cinematic look, teal-orange color grade, realistic heavy rain with water droplets and wet reflections on black car and leather, high dynamic range, 60fps, dramatic anamorphic lens flares from neon and explosions, subtle film grain, no artifacts, intense practical stunt choreography, dynamic camera work (tracking, push-in, 180° drift reveal, fast pull-back).
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/772d114239e5783de22a25f583aa1de1/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Night Chase and Katana Fight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/772d114239e5783de22a25f583aa1de1/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cyberpunk Tokyo Chase Scene">
 
 **Author:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Source:** [Link](https://x.com/cheryblackcloud/status/2021458861908164800) | **Published:** Feb 11, 2026
 
@@ -1632,11 +1628,11 @@ A dense industrial refinery during a thunderstorm, metal catwalks and pipes form
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=157)**
 
 ---
-### Jujutsu Kaisen Fight Club
+### Jujutsu Kaisen Fight Club Crossover
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a live-action style video combining the worlds of Jujutsu Kaisen and Fight Club, specifically depicting Tyler Durden explaining the rules to JJK characters using Seedance 2.0.
+> A crossover prompt for Seedance 2.0, requesting a live-action style video where Tyler Durden explains the rules of Fight Club to characters from Jujutsu Kaisen.
 
 #### 📝 Prompt
 
@@ -1644,7 +1640,7 @@ A dense industrial refinery during a thunderstorm, metal catwalks and pipes form
 tyler durden explains fight club rules to jujutsu kaisen characters. live action style.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/913c284ff7f7c882918efdfb6802f84a/thumbnails/thumbnail.jpg" width="600" alt="Jujutsu Kaisen Fight Club">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/913c284ff7f7c882918efdfb6802f84a/thumbnails/thumbnail.jpg" width="600" alt="Jujutsu Kaisen Fight Club Crossover">
 
 **Author:** [Aimi Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2021412326172393760) | **Published:** Feb 11, 2026
 
@@ -1655,12 +1651,12 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple, whimsical prompt used to test the ByteDance SeeDance 2.0 model, resulting in a nature documentary style video about an otter piloting an airplane.
+> The very first prompt used by the user for the ByteDance SeeDance 2.0 video model, requesting a nature documentary style video about an otter piloting an airplane.
 
 #### 📝 Prompt
 
 ```
-A nature documentary about an otter flying an airplane
+"A nature documentary about an otter flying an airplane"
 ```
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b85a47832c83eefb0453c7635644f546/thumbnails/thumbnail.jpg" width="600" alt="Otter Flying an Airplane Documentary">
@@ -1712,7 +1708,7 @@ Generate a video based on the text description in the reference image.
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple prompt used with Seedance 2.0's image-to-video function, instructing the model to create a quick fashion montage with a specific focus on the glasses worn by the subject in the input image.
+> A simple image-to-video prompt given to Seedance 2.0, instructing it to create a quick fashion montage based on an input image, with a specific focus on the glasses.
 
 #### 📝 Prompt
 
@@ -2869,6 +2865,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-02-13T02:12:27.523Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-02-13T05:20:55.682Z</sub>
 
 </div>
