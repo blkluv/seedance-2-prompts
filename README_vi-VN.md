@@ -93,11 +93,10 @@ Một chiếc xe hơi hạng sang biến hình thành Optimus Prime và chiến 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime đấu Godzilla ở Tokyo"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=210)**
 
 **Tác giả:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Nguồn:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=210)**
 
 ---
 ### Cảnh Hành Động Ronin Trên Chiến Trường Siêu Thực
@@ -119,11 +118,10 @@ Một chiến trường siêu thực trên bầu trời: những hòn đảo đ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Cảnh Hành Động Ronin Trên Chiến Trường Siêu Thực"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=133)**
 
 **Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=133)**
 
 ---
 ### Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0
@@ -157,11 +155,10 @@ Cảnh tượng hiệu ứng đặc biệt: Rồng nước xanh và sét vàng n
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=189)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=189)**
 
 ---
 ## 🎬 Tất cả prompt
@@ -200,11 +197,10 @@ Người dùng sẽ tạo các video clip từ các khung hình chính của b�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/367.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fee93e1fdb451f68b53c39f956ecdf30/thumbnails/thumbnail.jpg" width="600" alt="Mẫu gợi ý Seedance 2.0 9-Panel Cinematic Contact Sheet"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=367)**
 
 **Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2022546491823243406) | **Đã xuất bản:** Feb 14, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=367)**
 
 ---
 ### Cảnh Phim Điện Ảnh: Cuộc Đua Tàu Cao Tốc
@@ -221,11 +217,10 @@ Một cảnh quay điện ảnh chân thực mở ra tại một vùng nông th�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/351.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98a6c2671424cfba8f035aaebc5a9e8e/thumbnails/thumbnail.jpg" width="600" alt="Cảnh Phim Điện Ảnh: Cuộc Đua Tàu Cao Tốc"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=351)**
 
 **Tác giả:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Nguồn:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=351)**
 
 ---
 ### Thông báo Giải đấu Cosmic Arena của Gintoki Sakata
@@ -244,11 +239,10 @@ Anh ta công bố luật...
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/344.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00350dbd60f3f36b91de62c203622c36/thumbnails/thumbnail.jpg" width="600" alt="Thông báo Giải đấu Cosmic Arena của Gintoki Sakata"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=344)**
 
 **Tác giả:** [KIRA](https://x.com/k1raa__) | **Nguồn:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=344)**
 
 ---
 ### Gợi ý cảnh phim đua xe Hollywood (Phần 1)
@@ -267,11 +261,10 @@ Phong cách: Phim Đua xe Chuyên nghiệp Hollywood (Phong cách Le Mans), Đi�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/350.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0419f57fbb236c19b9dd5de060cafa/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý cảnh phim đua xe Hollywood (Phần 1)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=350)**
 
 **Tác giả:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Nguồn:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=350)**
 
 ---
 ### Gợi ý cảnh chiến đấu của Maki Zenin (Di chuyển nhanh nhẹn)
@@ -288,11 +281,10 @@ cuộc đối đầu của người phụ nữ hạ gục tất cả các kiếm
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/354.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e6bdfb0ac629ade86666168dc021712/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý cảnh chiến đấu của Maki Zenin (Di chuyển nhanh nhẹn)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=354)**
 
 **Tác giả:** [karim_yourself](https://x.com/karim_yourself) | **Nguồn:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=354)**
 
 ---
 ### Mô tả cảnh chiến đấu của Maki Zenin (Từ trên xuống)
@@ -309,11 +301,10 @@ Cảnh quay từ trên xuống của người phụ nữ hạ gục tất cả k
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/352.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca030427d3307655c5430a9488220256/thumbnails/thumbnail.jpg" width="600" alt="Mô tả cảnh chiến đấu của Maki Zenin (Từ trên xuống)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=352)**
 
 **Tác giả:** [karim_yourself](https://x.com/karim_yourself) | **Nguồn:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=352)**
 
 ---
 ### Bữa Tiệc Stranger Things: Giải Phóng Siêu Năng Lực
@@ -330,11 +321,10 @@ Cảnh quay tập thể theo phong cách điện ảnh thập niên 1980 của n
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/347.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d204bfffb668bbf8033f9a4323b0a4a6/thumbnails/thumbnail.jpg" width="600" alt="Bữa Tiệc Stranger Things: Giải Phóng Siêu Năng Lực"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=347)**
 
 **Tác giả:** [Zopia AI](https://x.com/Zopia_AI) | **Nguồn:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=347)**
 
 ---
 ### Cảnh bóng rổ đường phố đậm chất điện ảnh: Người đàn ông bị người phụ nữ cản phá
@@ -351,11 +341,10 @@ Cảnh quay tập thể theo phong cách điện ảnh thập niên 1980 của n
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/371.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/162d3bc1b10ad26ea282d28315cb2fe7/thumbnails/thumbnail.jpg" width="600" alt="Cảnh bóng rổ đường phố đậm chất điện ảnh: Người đàn ông bị người phụ nữ cản phá"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=371)**
 
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2022324867425878479) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=371)**
 
 ---
 ### Đầu bếp Michelin Robot phong cách Steampunk
@@ -372,11 +361,10 @@ Một robot steampunk trở thành đầu bếp ba sao Michelin, sử dụng cá
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/370.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59edfa07f0166423287c506674bf2099/thumbnails/thumbnail.jpg" width="600" alt="Đầu bếp Michelin Robot phong cách Steampunk"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=370)**
 
 **Tác giả:** [Sims干货知识分享](https://x.com/smallstones677) | **Nguồn:** [Link](https://x.com/smallstones677/status/2022315355331559522) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=370)**
 
 ---
 ### Cảnh hành động Cảnh quay 1: Sạc góc thấp
@@ -393,11 +381,10 @@ CẢNH 1 (0-3s): Góc quay rộng từ dưới lên - chiếc Charger màu đen 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/361.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae4d192c75b90fecf81a9801c14854/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động Cảnh quay 1: Sạc góc thấp"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=361)**
 
 **Tác giả:** [RenderedReality](https://x.com/RenderedReal) | **Nguồn:** [Link](https://x.com/RenderedReal/status/2022304583327113508) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=361)**
 
 ---
 ### Độc thoại siêu thực của Walter White
@@ -414,11 +401,10 @@ một video clip dài 15 giây cho thấy hình ảnh tái tạo siêu thực c�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/342.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1305cc68ffb45a2599890826651508d7/thumbnails/thumbnail.jpg" width="600" alt="Độc thoại siêu thực của Walter White"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=342)**
 
 **Tác giả:** [Konstantinos](https://x.com/Simply__Digital) | **Nguồn:** [Link](https://x.com/Simply__Digital/status/2022300578919952460) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=342)**
 
 ---
 ### Kết thúc thay thế của Chúa tể những chiếc nhẫn (Đại bàng)
@@ -439,11 +425,10 @@ HẾT.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/346.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e07a4679b8da9dac70a793f306383a8/thumbnails/thumbnail.jpg" width="600" alt="Kết thúc thay thế của Chúa tể những chiếc nhẫn (Đại bàng)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=346)**
 
 **Tác giả:** [Talkturo.ai](https://x.com/talkturo) | **Nguồn:** [Link](https://x.com/talkturo/status/2022300374711795990) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=346)**
 
 ---
 ### Zelda: Breath of the Wild - Lời nhắc điện ảnh về sự thức tỉnh của đền thờ
@@ -461,11 +446,10 @@ Màn hình rộng 16:9, phong cách game phiêu lưu giả tưởng kết hợp 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/365.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77b25d2a03563ac399e88e0488161867/thumbnails/thumbnail.jpg" width="600" alt="Zelda: Breath of the Wild - Lời nhắc điện ảnh về sự thức tỉnh của đền thờ"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=365)**
 
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2022294267008573921) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=365)**
 
 ---
 ### Gợi ý cảnh chiến đấu đậm chất điện ảnh cho Seedance 2.0
@@ -482,11 +466,10 @@ Hai người đàn ông trong ảnh trao đổi những cú đấm siêu tốc v
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/373.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c9c2c2162b0e4d53b02a1e50714a4fe/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý cảnh chiến đấu đậm chất điện ảnh cho Seedance 2.0"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=373)**
 
 **Tác giả:** [赤染　史郎](https://x.com/akazomesirou) | **Nguồn:** [Link](https://x.com/akazomesirou/status/2022284846467600790) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=373)**
 
 ---
 ### Độc thoại cận cảnh của Anya Forger
@@ -503,11 +486,10 @@ Sử dụng Seedance 2.0 để tạo video về cảnh cận mặt Anya Forger, 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/360.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00747ec21808695108b56857fbc3fa8c/thumbnails/thumbnail.jpg" width="600" alt="Độc thoại cận cảnh của Anya Forger"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=360)**
 
 **Tác giả:** [nachos2d](https://x.com/NACHOS2D_) | **Nguồn:** [Link](https://x.com/NACHOS2D_/status/2022279856910729448) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=360)**
 
 ---
 ### Seedance 2.0 Cinematic JSON System Prompt
@@ -582,11 +564,10 @@ Bạn là một kỹ sư prompt video chuyên nghiệp, chuyên sâu về kiến
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/355.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d06ce1a0aa99ce24e04cb0c5ecd8923c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Cinematic JSON System Prompt"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=355)**
 
 **Tác giả:** [LinAi Dreams](https://x.com/CozyLinaGirl2) | **Nguồn:** [Link](https://x.com/CozyLinaGirl2/status/2022250200266334592) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=355)**
 
 ---
 ### Zelda: Breath of the Wild - Lời nhắc điện ảnh Hyrule Dawn
@@ -603,11 +584,10 @@ Màn hình rộng 16:9, phong cách game thế giới mở kết hợp kết xu�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/364.mp4"><img src="https://cms-assets.youmind.com/media/1771049189318_28mwdu_HBABmkibEAEbeuv.jpg" width="600" alt="Zelda: Breath of the Wild - Lời nhắc điện ảnh Hyrule Dawn"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=364)**
 
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2022196269624803548) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=364)**
 
 ---
 ### Lời nhắc điện ảnh Hằng Nga bay lên cung trăng (Ba phiên bản)
@@ -637,11 +617,10 @@ Phong cách thủy mặc phóng khoáng truyền thống Trung Quốc, chủ y�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/368.mp4"><img src="https://cms-assets.youmind.com/media/1771049194837_xr7lx2_HBABmkibEAEbeuv.jpg" width="600" alt="Lời nhắc điện ảnh Hằng Nga bay lên cung trăng (Ba phiên bản)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=368)**
 
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2022193135032611117) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=368)**
 
 ---
 ### Goku Đấm Nút Mua và Biến Thành Super Saiyan
@@ -658,11 +637,10 @@ Phong cách thủy mặc phóng khoáng truyền thống Trung Quốc, chủ y�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/343.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eea155d858eb8d6653778c6892395dd/thumbnails/thumbnail.jpg" width="600" alt="Goku Đấm Nút Mua và Biến Thành Super Saiyan"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=343)**
 
 **Tác giả:** [Cain 商](https://x.com/CainBd) | **Nguồn:** [Link](https://x.com/CainBd/status/2022187706919604412) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=343)**
 
 ---
 ### Lời nhắc cảnh chiến đấu giữa Brad Pitt và Tom Cruise
@@ -679,11 +657,10 @@ Tạo một cảnh chiến đấu giữa Brad Pitt và Tom Cruise, với lời t
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/358.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68339d00d60e226320c16afa0358488a/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc cảnh chiến đấu giữa Brad Pitt và Tom Cruise"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=358)**
 
 **Tác giả:** [Ajay Bagga](https://x.com/Ajay_Bagga) | **Nguồn:** [Link](https://x.com/Ajay_Bagga/status/2022182067547910610) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=358)**
 
 ---
 ### Seedance 2.0 Video Prompt cho Livestream Phong cách MC Đông Bắc
@@ -728,11 +705,10 @@ Hiệu ứng: Màn hình tràn ngập hiệu ứng quà tặng (xe thể thao, t
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/369.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753fbe0b274905cc5728f23d10f216d9/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt cho Livestream Phong cách MC Đông Bắc"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=369)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=369)**
 
 ---
 ### Lời nhắc chuỗi tàu điện mang phong cách điện ảnh cho Seedance 2.0
@@ -771,11 +747,10 @@ Tại điểm cao nhất của vòng xoắn ốc, máy quay đột ngột lùi l
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/363.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a2127f52b7da5e797750ecdc3f7e46d/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc chuỗi tàu điện mang phong cách điện ảnh cho Seedance 2.0"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=363)**
 
 **Tác giả:** [MindfulReturn 身心修复局](https://x.com/MindfulReturn) | **Nguồn:** [Link](https://x.com/MindfulReturn/status/2022141269196386457) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=363)**
 
 ---
 ### Người đàn ông quyết định rửa xe Prompt
@@ -792,11 +767,10 @@ Người đàn ông đang phân vân: "Mình muốn rửa xe, mà tiệm rửa x
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/357.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e869a23cb7971993b96dda3cf09cabe3/thumbnails/thumbnail.jpg" width="600" alt="Người đàn ông quyết định rửa xe Prompt"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=357)**
 
 **Tác giả:** [VORTEX: AI Bros & AI Arena. Next Gen Web3 Reviews](https://x.com/VORTEX_Promos) | **Nguồn:** [Link](https://x.com/VORTEX_Promos/status/2022125282468196750) | **Đã xuất bản:** Feb 13, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=357)**
 
 ---
 ### Lời nhắc trận chiến điện ảnh đa cảnh (Tôn Ngộ Không đấu với Homelander)
@@ -813,11 +787,10 @@ Người đàn ông đang phân vân: "Mình muốn rửa xe, mà tiệm rửa x
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc trận chiến điện ảnh đa cảnh (Tôn Ngộ Không đấu với Homelander)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=291)**
 
 **Tác giả:** [chimi チミワウ](https://x.com/chimiwaw) | **Nguồn:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=291)**
 
 ---
 ### Cảnh đối thoại trong Thủy thủ Mặt Trăng
@@ -834,11 +807,10 @@ Thủy Thủ Mặt Trăng nhảy lên giường và hét lên "Các cậu ơi, c
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="Cảnh đối thoại trong Thủy thủ Mặt Trăng"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=270)**
 
 **Tác giả:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Nguồn:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=270)**
 
 ---
 ### Phong cách đấu súng của John Woo
@@ -855,11 +827,10 @@ Thủy Thủ Mặt Trăng nhảy lên giường và hét lên "Các cậu ơi, c
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="Phong cách đấu súng của John Woo"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=277)**
 
 **Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=277)**
 
 ---
 ### Wuxia Swordsman Duel Prompt
@@ -876,11 +847,10 @@ Một siêu phẩm nghe nhìn mang phong cách kiếm hiệp. Một kiếm khác
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Swordsman Duel Prompt"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=258)**
 
 **Tác giả:** [Jay Sensei👾](https://x.com/hckinz) | **Nguồn:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=258)**
 
 ---
 ### Gợi ý cốt truyện Mad Max Exodus
@@ -897,11 +867,10 @@ Một video sử thi hành động cao trào nhiều cảnh quay về câu chuy�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý cốt truyện Mad Max Exodus"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=260)**
 
 **Tác giả:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Nguồn:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=260)**
 
 ---
 ### Gợi ý cảnh chiến đấu trong phim gián điệp
@@ -918,11 +887,10 @@ Người đàn ông mặc vest xanh lá cây có logo đang chiến đấu với
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý cảnh chiến đấu trong phim gián điệp"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=293)**
 
 **Tác giả:** [Restlessperson ](https://x.com/Restlessperson1) | **Nguồn:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=293)**
 
 ---
 ### Văn bản thành Video: Cảnh báo thù tại pháp trường cổ trang
@@ -940,11 +908,10 @@ Cảnh 11 Cận cảnh • Tuyết lẫn máu rơi xuống mặt đá lạnh l�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="Văn bản thành Video: Cảnh báo thù tại pháp trường cổ trang"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=282)**
 
 **Tác giả:** [Ken W](https://x.com/kenw_2) | **Nguồn:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=282)**
 
 ---
 ### Kamala đấu Trump với Tom và John Wick Prompt
@@ -961,11 +928,10 @@ Kamala đấu Trump với cùng một Prompt Tom và John Wick.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="Kamala đấu Trump với Tom và John Wick Prompt"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=247)**
 
 **Tác giả:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Nguồn:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=247)**
 
 ---
 ### Ảnh selfie toàn cảnh 360 độ trong cửa hàng tráng miệng
@@ -982,11 +948,10 @@ Chụp ảnh selfie toàn cảnh 360 độ. Máy ảnh xoay ngược chiều kim
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="Ảnh selfie toàn cảnh 360 độ trong cửa hàng tráng miệng"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=246)**
 
 **Tác giả:** [nachos2d](https://x.com/NACHOS2D_) | **Nguồn:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=246)**
 
 ---
 ### Grok Imagine Lời nhắc chuyển đổi hình ảnh thành video
@@ -1003,11 +968,10 @@ Phụ nữ chiến đấu tàn bạo với Elon Musk theo phong cách kickboxing
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Lời nhắc chuyển đổi hình ảnh thành video"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=262)**
 
 **Tác giả:** [Apil](https://x.com/apilpirman) | **Nguồn:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=262)**
 
 ---
 ### Live Action DBZ Battle Prompt
@@ -1024,11 +988,10 @@ Trận chiến Saiyan người thật giữa Goku & Vegeta, Super Saiyan Blue
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="Live Action DBZ Battle Prompt"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=259)**
 
 **Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=259)**
 
 ---
 ### Lời nhắc phỏng vấn ma cà rồng thập niên 1980
@@ -1045,11 +1008,10 @@ Phỏng vấn trong trường quay TV thập niên 1980, một nữ nhà báo t�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc phỏng vấn ma cà rồng thập niên 1980"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=254)**
 
 **Tác giả:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Nguồn:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=254)**
 
 ---
 ### Gợi ý Cảnh Hành Động Nhanh, Kịch Tính
@@ -1066,11 +1028,10 @@ Một cảnh chiến đấu tốc độ cao: John Wick & James Bond (007) & mộ
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý Cảnh Hành Động Nhanh, Kịch Tính"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=295)**
 
 **Tác giả:** [Chraft](https://x.com/chraft_ai) | **Nguồn:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=295)**
 
 ---
 ### Video Prompt Hình ảnh Nữ giới Giả tưởng Đen tối
@@ -1087,11 +1048,10 @@ Một nhân vật nữ giả tưởng đen tối siêu phàm, với mái tóc d�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt Hình ảnh Nữ giới Giả tưởng Đen tối"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=284)**
 
 **Tác giả:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **Nguồn:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=284)**
 
 ---
 ### Cảnh chiến đấu của Brad Pitt và Tom Cruise
@@ -1108,11 +1068,10 @@ tạo một cảnh chiến đấu giữa Brad Pitt và Tom Cruise, với lời t
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="Cảnh chiến đấu của Brad Pitt và Tom Cruise"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=249)**
 
 **Tác giả:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **Nguồn:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=249)**
 
 ---
 ### Câu chuyện lãng mạn Seedance 2.0 hình người
@@ -1129,11 +1088,10 @@ Sử dụng hình ảnh thú cưng dễ thương để kể một câu chuyện 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Câu chuyện lãng mạn Seedance 2.0 hình người"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=292)**
 
 **Tác giả:** [Rayko_Zopia](https://x.com/Fox1251104) | **Nguồn:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=292)**
 
 ---
 ### Cảnh Đua Sinh Vật Đa Cảnh
@@ -1150,11 +1108,10 @@ Một sinh vật đang lái xe cực nhanh xuyên qua thành phố tương lai, 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="Cảnh Đua Sinh Vật Đa Cảnh"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=250)**
 
 **Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=250)**
 
 ---
 ### Video giới thiệu Hội thảo Thành công Trung Quốc (Chicken Soup)
@@ -1189,11 +1146,10 @@ Khán giả: Đứng dậy điên cuồng, vỗ tay, một số người thậm 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="Video giới thiệu Hội thảo Thành công Trung Quốc (Chicken Soup)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=285)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=285)**
 
 ---
 ### Quảng cáo ô tô tương lai (Y - Lái tới tương lai)
@@ -1228,11 +1184,10 @@ Khung hình cuối cùng: Thân xe bay về phía một mặt trăng tròn khổ
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="Quảng cáo ô tô tương lai (Y - Lái tới tương lai)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=278)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=278)**
 
 ---
 ### Video Prompt Phong cách Phim truyền hình Hồng Kông thập niên 90 Đại Thời Đại (大时代)
@@ -1274,11 +1229,10 @@ Cận cảnh: Cảnh quay cuối cùng tập trung vào đôi mắt tuyệt vọ
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt Phong cách Phim truyền hình Hồng Kông thập niên 90 Đại Thời Đại (大时代)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=286)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=286)**
 
 ---
 ### Ba gợi ý kịch ngắn (Lãng mạn/Xung đột hiện đại)
@@ -1317,11 +1271,10 @@ Phim ngắn hiện đại 15 giây, bối cảnh nhà hàng cao cấp, tông mà
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="Ba gợi ý kịch ngắn (Lãng mạn/Xung đột hiện đại)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=281)**
 
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=281)**
 
 ---
 ### Cảnh hành động giật gân cường độ cao trong buồng lái
@@ -1338,11 +1291,10 @@ Cảnh phim hành động giật gân cường độ cao, máy quay cầm tay ru
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động giật gân cường độ cao trong buồng lái"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=267)**
 
 **Tác giả:** [Kemal Cagin](https://x.com/kemalcse) | **Nguồn:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=267)**
 
 ---
 ### Họng Leviathan: Hạ xuống Siêu Cấu trúc dưới nước
@@ -1359,11 +1311,10 @@ Một siêu cấu trúc ngầm bị ngập lụt, những hành lang đá cổ �
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="Họng Leviathan: Hạ xuống Siêu Cấu trúc dưới nước"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=248)**
 
 **Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=248)**
 
 ---
 ### Người đàn ông và Voi tại Sở thú (Phong cách máy ảnh cũ)
@@ -1380,11 +1331,10 @@ tạo video một người đàn ông đứng trước con voi ở sở thú, th
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="Người đàn ông và Voi tại Sở thú (Phong cách máy ảnh cũ)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=273)**
 
 **Tác giả:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **Nguồn:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=273)**
 
 ---
 ### Cảnh chiến đấu giữa Người Nhện và Người Bạch Tuộc
@@ -1401,11 +1351,10 @@ Hãy tạo một cảnh chiến đấu gay cấn giữa Spider-Man và Octopus M
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="Cảnh chiến đấu giữa Người Nhện và Người Bạch Tuộc"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=290)**
 
 **Tác giả:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **Nguồn:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=290)**
 
 ---
 ### Ba Phong Cách Tạo MV 10 Giây
@@ -1440,11 +1389,10 @@ Seedance 2.0 Prompt
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="Ba Phong Cách Tạo MV 10 Giây"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=280)**
 
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=280)**
 
 ---
 ### Lời nhắc cảnh chiến đấu giữa Naruto và Luffy
@@ -1461,11 +1409,10 @@ Cảnh hành động anime cực kỳ sống động của Naruto từ Naruto v�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc cảnh chiến đấu giữa Naruto và Luffy"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=253)**
 
 **Tác giả:** [Youn Hwang](https://x.com/YounchanHwang) | **Nguồn:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=253)**
 
 ---
 ### Michael Jackson đối đầu Hitler
@@ -1482,11 +1429,10 @@ Michael Jackson đấu với Hitler trong một cuộc đối đầu hoành trá
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="Michael Jackson đối đầu Hitler"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=264)**
 
 **Tác giả:** [ImPaul](https://x.com/impaulxyz) | **Nguồn:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=264)**
 
 ---
 ### Gợi ý Video Phim Ngắn Chữa Lành Thẩm Mỹ Nông Thôn Hiện Đại
@@ -1526,11 +1472,10 @@ Không khí: Hơi nước từ từ bốc lên ngược sáng, khung cảnh tĩn
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý Video Phim Ngắn Chữa Lành Thẩm Mỹ Nông Thôn Hiện Đại"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=288)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=288)**
 
 ---
 ### Madoka Magica Bullshit Prompt
@@ -1547,11 +1492,10 @@ Cứ chiếu mấy cái Madoka Magica nhảm nhí lên màn hình đi, bộ ba p
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="Madoka Magica Bullshit Prompt"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=256)**
 
 **Tác giả:** [alpon](https://x.com/StayGoys) | **Nguồn:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=256)**
 
 ---
 ### Lời nhắc tạo hình dáng cuối cùng của hoa (Seedance Pro 1.0)
@@ -1568,11 +1512,10 @@ khi gió nhẹ nhàng lay động cây cối, những bông hoa bắt đầu chu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc tạo hình dáng cuối cùng của hoa (Seedance Pro 1.0)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=294)**
 
 **Tác giả:** [Gabriela Cardona](https://x.com/gcwalther_x) | **Nguồn:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=294)**
 
 ---
 ### Vegeta Super Saiyan 100 đấu với Goku Bản Năng Vô Cực: Lời nhắc
@@ -1589,11 +1532,10 @@ Vegeta Super Saiyan 100 đấu với Goku dạng cơ bản bất khả xâm ph�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="Vegeta Super Saiyan 100 đấu với Goku Bản Năng Vô Cực: Lời nhắc"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=257)**
 
 **Tác giả:** [Lozio](https://x.com/minilozio) | **Nguồn:** [Link](https://x.com/minilozio/status/2021801238191354346) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=257)**
 
 ---
 ### Chó đấu với Prime Ronaldo trong trận Chung kết Champions League
@@ -1612,11 +1554,10 @@ Chung kết Champions League.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="Chó đấu với Prime Ronaldo trong trận Chung kết Champions League"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=276)**
 
 **Tác giả:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **Nguồn:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=276)**
 
 ---
 ### Lời nhắc video bom tấn người đóng của Demon Slayer
@@ -1650,11 +1591,10 @@ Hiệu ứng đặc biệt: Không có đường nét truyện tranh, chỉ có 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc video bom tấn người đóng của Demon Slayer"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=287)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=287)**
 
 ---
 ### Kịch bản phim kinh dị ngắn: Lỗi Gương
@@ -1676,11 +1616,10 @@ Hiệu ứng đặc biệt: Không có đường nét truyện tranh, chỉ có 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="Kịch bản phim kinh dị ngắn: Lỗi Gương"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=194)**
 
 **Tác giả:** [MapleShaw](https://x.com/msjiaozhu) | **Nguồn:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=194)**
 
 ---
 ### Chiến binh Anime đấu với Người ngoài hành tinh bạch tuộc
@@ -1697,11 +1636,10 @@ Chiến binh anime phi hành gia chiến đấu với một sinh vật bạch tu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="Chiến binh Anime đấu với Người ngoài hành tinh bạch tuộc"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=268)**
 
 **Tác giả:** [Charles Boonsu](https://x.com/Boonsu28) | **Nguồn:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **Đã xuất bản:** Feb 12, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=268)**
 
 ---
 ### Chuỗi hành động gợi ý cho phi công chiến đấu
@@ -1718,11 +1656,10 @@ Trình tự hành động của phi công chiến đấu hàng đầu thực hi�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động gợi ý cho phi công chiến đấu"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=170)**
 
 **Tác giả:** [𝕏Caliber](https://x.com/XCaliber) | **Nguồn:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=170)**
 
 ---
 ### Người phụ nữ đối mặt với người đàn ông trong bóng tối
@@ -1739,11 +1676,10 @@ Một người phụ nữ căng thẳng yêu cầu người đàn ông trong bó
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ đối mặt với người đàn ông trong bóng tối"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=208)**
 
 **Tác giả:** [Gavin Purcell](https://x.com/gavinpurcell) | **Nguồn:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=208)**
 
 ---
 ### Doraemon và Người Nhện Đánh Nhau
@@ -1760,11 +1696,10 @@ Doramon và Spiderman chiến đấu cực kỳ chất lượng và dữ dội
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="Doraemon và Người Nhện Đánh Nhau"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=309)**
 
 **Tác giả:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Nguồn:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=309)**
 
 ---
 ### Cảnh quay cầm tay người đang chạy với những đồng tiền vàng dưới nước
@@ -1781,11 +1716,10 @@ Cảnh quay cầm tay một người đang chạy với một túi tiền vàng 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay cầm tay người đang chạy với những đồng tiền vàng dưới nước"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=161)**
 
 **Tác giả:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Nguồn:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=161)**
 
 ---
 ### Buổi Tập Đấu Đối Kháng Quyết Liệt Của Môn Boxing
@@ -1802,11 +1736,10 @@ Cảnh quay cầm tay quay vòng quanh hai võ sĩ quyền Anh đang tập luy�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="Buổi Tập Đấu Đối Kháng Quyết Liệt Của Môn Boxing"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=140)**
 
 **Tác giả:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Nguồn:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=140)**
 
 ---
 ### Video Hài Kịch Phi Lý Gợi Ý cho Seedance 2.0: Không gì cả
@@ -1856,11 +1789,10 @@ Cảnh 4: Kỵ sĩ tự chế giễu tiếp tục phi nước đại đi xa (0:2
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Video Hài Kịch Phi Lý Gợi Ý cho Seedance 2.0: Không gì cả"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=186)**
 
 **Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=186)**
 
 ---
 ### Chạy trốn khỏi Quái vật khổng lồ (Phong cách Arcane)
@@ -1877,11 +1809,10 @@ tạo một video về cảnh chạy trốn, phía sau là một con quái vật
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="Chạy trốn khỏi Quái vật khổng lồ (Phong cách Arcane)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=142)**
 
 **Tác giả:** [Dipper](https://x.com/dipperdao) | **Nguồn:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=142)**
 
 ---
 ### Lời nhắc của đạo diễn Flash
@@ -1930,11 +1861,10 @@ Một con khỉ đầu chó khổng lồ bọc thép xông qua một ngôi làng
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="Hỗn Loạn Ở Một Ngôi Làng Maasai"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=160)**
 
 **Tác giả:** [Travis Davids](https://x.com/MrDavids1) | **Nguồn:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=160)**
 
 ---
 ### Will Smith Đánh Nhau Với Quái Vật Mì Spaghetti (Phim Hành Động Thập Niên 80)
@@ -1951,11 +1881,10 @@ Will Smith chiến đấu với quái vật mì Ý, cảnh phim hành động ho
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Đánh Nhau Với Quái Vật Mì Spaghetti (Phim Hành Động Thập Niên 80)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=178)**
 
 **Tác giả:** [S0FT](https://x.com/sudoSoftAI) | **Nguồn:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=178)**
 
 ---
 ### Trận chiến nhảy AI giữa Trump và Michael Jackson
@@ -1972,11 +1901,10 @@ TRUMP VS MICHAEL JACKSON: TRẬN CHIẾN NHẢY AI ĐỈNH CAO NHẤT
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="Trận chiến nhảy AI giữa Trump và Michael Jackson"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=263)**
 
 **Tác giả:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Nguồn:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=263)**
 
 ---
 ### Cuộc đào thoát bằng mô tô trong Thế chiến thứ hai đậm chất điện ảnh
@@ -1993,11 +1921,10 @@ tạo một phân cảnh thoát hiểm bằng xe máy trong Thế chiến II man
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="Cuộc đào thoát bằng mô tô trong Thế chiến thứ hai đậm chất điện ảnh"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=126)**
 
 **Tác giả:** [pewden AI](https://x.com/pewdenai) | **Nguồn:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=126)**
 
 ---
 ### Người đàn ông trên thuyền bị quái vật biển tấn công
@@ -2014,11 +1941,10 @@ Một người đàn ông đang ở trên một chiếc thuyền giữa cơn bã
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="Người đàn ông trên thuyền bị quái vật biển tấn công"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=303)**
 
 **Tác giả:** [Anthony T](https://x.com/creativesinner2) | **Nguồn:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=303)**
 
 ---
 ### Cảnh trong cabin với nhiều nhân vật và hội thoại
@@ -2045,11 +1971,10 @@ Camera cố định. Một cảnh quay liên tục khi các nhân vật lần l�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="Cảnh trong cabin với nhiều nhân vật và hội thoại"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=138)**
 
 **Tác giả:** [Jason W - AI](https://x.com/PocketScreenAI) | **Nguồn:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=138)**
 
 ---
 ### Lời nhắc Thanos xin lỗi Spider-Man
@@ -2066,11 +1991,10 @@ buộc Thanos phải xin lỗi trước cuộc tấn công tập thể do Spider
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc Thanos xin lỗi Spider-Man"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=207)**
 
 **Tác giả:** [xAi✨](https://x.com/xai_42) | **Nguồn:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=207)**
 
 ---
 ### Người phụ nữ vô gia cư rách rưới với những sợi xích
@@ -2087,11 +2011,10 @@ Lumpen, Hobo, phiên bản nữ, mèo già tả tơi, với dây xích để thu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ vô gia cư rách rưới với những sợi xích"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=205)**
 
 **Tác giả:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Nguồn:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=205)**
 
 ---
 ### Hoạt ảnh Time-Lapse Lắp Ráp Lego
@@ -2113,11 +2036,10 @@ Một cậu bé đang say sưa lắp ráp những viên gạch Lego trong phòng
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Time-Lapse Lắp Ráp Lego"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=329)**
 
 **Tác giả:** [维维](https://x.com/siveill) | **Nguồn:** [Link](https://x.com/siveill/status/2021635240985604526) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=329)**
 
 ---
 ### Lời nhắc chuyển văn bản thành video lấy cảm hứng từ One Piece
@@ -2137,11 +2059,10 @@ Anh biến thành một con rồng đen khổng lồ và tóm lấy tất cả m
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc chuyển văn bản thành video lấy cảm hứng từ One Piece"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=199)**
 
 **Tác giả:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Nguồn:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=199)**
 
 ---
 ### Phim ngắn Bí mật thú cưng đêm ấm cúng
@@ -2168,11 +2089,10 @@ Anh biến thành một con rồng đen khổng lồ và tóm lấy tất cả m
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="Phim ngắn Bí mật thú cưng đêm ấm cúng"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=330)**
 
 **Tác giả:** [Michelle](https://x.com/Michell81147285) | **Nguồn:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=330)**
 
 ---
 ### Kịch bản quảng cáo năng lượng cao
@@ -2189,11 +2109,10 @@ sử dụng Seedance 2.0, tôi muốn một quảng cáo điện thoại với n
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="Kịch bản quảng cáo năng lượng cao"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=311)**
 
 **Tác giả:** [Kaiwen Li](https://x.com/realkaiwenli) | **Nguồn:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=311)**
 
 ---
 ### Cảnh phim Kraken Tấn Công
@@ -2210,11 +2129,10 @@ Một con kraken khổng lồ tấn công một con tàu cướp biển, thuyề
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phim Kraken Tấn Công"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=152)**
 
 **Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=152)**
 
 ---
 ### Cảnh chiến đấu hoành tráng của Luffy và Goku
@@ -2231,11 +2149,10 @@ Luffy và Goku có một cảnh chiến đấu hoành tráng trên Sunny.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="Cảnh chiến đấu hoành tráng của Luffy và Goku"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=163)**
 
 **Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=163)**
 
 ---
 ### Lời nhắc văn bản thành video đa cảnh cho cảnh đua xe ở Tokyo
@@ -2259,11 +2176,10 @@ Góc quay thấp từ phía sau xe, đèn hậu của chiếc xe bùng sáng khi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc văn bản thành video đa cảnh cho cảnh đua xe ở Tokyo"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=265)**
 
 **Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Nguồn:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=265)**
 
 ---
 ### Mèo Hát Trên Đảo Bay
@@ -2280,11 +2196,10 @@ Một chú mèo đang xoay tròn và hát phiên bản oiiaoiia của bài "Feel
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="Mèo Hát Trên Đảo Bay"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=164)**
 
 **Tác giả:** [goku](https://x.com/spinningsensei) | **Nguồn:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=164)**
 
 ---
 ### Bitcoin Hủy Diệt Cục Dự Trữ Liên Bang (Anime Power-Up)
@@ -2301,11 +2216,10 @@ Với hai tay giơ cao, các tấm ₿ nổi hội tụ thành một biểu tư�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="Bitcoin Hủy Diệt Cục Dự Trữ Liên Bang (Anime Power-Up)"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=148)**
 
 **Tác giả:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **Nguồn:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=148)**
 
 ---
 ### Gợi ý cảnh quán rượu cướp biển
@@ -2322,11 +2236,10 @@ Quán rượu cướp biển. Súng phun lửa trên bàn. Bia trong tay.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý cảnh quán rượu cướp biển"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=306)**
 
 **Tác giả:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **Nguồn:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=306)**
 
 ---
 ### Kịch bản trận chiến phim hoạt hình Tiên Hiệp: Hàn Lập đấu Vương Lâm
@@ -2343,11 +2256,10 @@ Phong cách phim hoạt hình tiên hiệp Trung Quốc, kết xuất 3D CG siê
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="Kịch bản trận chiến phim hoạt hình Tiên Hiệp: Hàn Lập đấu Vương Lâm"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=193)**
 
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=193)**
 
 ---
 ### Cảnh Đuổi Bắt Xe Hơi Tốc Độ Cao
@@ -2364,11 +2276,10 @@ Phong cách phim hoạt hình tiên hiệp Trung Quốc, kết xuất 3D CG siê
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="Cảnh Đuổi Bắt Xe Hơi Tốc Độ Cao"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=165)**
 
 **Tác giả:** [ChatCut](https://x.com/chatcutapp) | **Nguồn:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=165)**
 
 ---
 ### New Amsterdam Simulator
@@ -2385,11 +2296,10 @@ New Amsterdam (Thành phố New York ngày nay) Simulator
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="New Amsterdam Simulator"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=181)**
 
 **Tác giả:** [@levelsio](https://x.com/levelsio) | **Nguồn:** [Link](https://x.com/levelsio/status/2021587482349895747) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=181)**
 
 ---
 ### Kịch bản phim ngắn khoa học viễn tưởng: Thức tỉnh tương lai
@@ -2422,11 +2332,10 @@ Thời lượng: 10 giây | Phong cách: Phim quảng cáo Hollywood hàng đầ
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="Kịch bản phim ngắn khoa học viễn tưởng: Thức tỉnh tương lai"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=182)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=182)**
 
 ---
 ### Kịch bản phim ngắn Urban Fantasy cho Seedance 2.0: May Mắn Đến
@@ -2467,11 +2376,10 @@ Hiệu ứng phụ đề: Chữ lớn hiển thị “May Mắn Đến Rồi.”
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="Kịch bản phim ngắn Urban Fantasy cho Seedance 2.0: May Mắn Đến"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=188)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=188)**
 
 ---
 ### Cuộc phiêu lưu hoạt hình kinh điển phong cách Disney
@@ -2488,11 +2396,10 @@ Hoạt hình cổ điển theo phong cách Disney, một con sói trắng thân 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="Cuộc phiêu lưu hoạt hình kinh điển phong cách Disney"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=141)**
 
 **Tác giả:** [FragZero](https://x.com/FragZero) | **Nguồn:** [Link](https://x.com/FragZero/status/2021568010452869227) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=141)**
 
 ---
 ### Gợi ý truyện giả tưởng: Tiên bướm hóa hình
@@ -2509,11 +2416,10 @@ Câu chuyện về một cổ vật ma thuật. Một con bướm bay ra khỏi 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý truyện giả tưởng: Tiên bướm hóa hình"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=112)**
 
 **Tác giả:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **Nguồn:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=112)**
 
 ---
 ### Xe Cadillac Công thức 1 2026
@@ -2530,11 +2436,10 @@ Chuyển đổi hình ảnh thành video về xe Cadillac Formula One 2026.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="Xe Cadillac Công thức 1 2026"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=310)**
 
 **Tác giả:** [HNNS.](https://x.com/ItsMeHannes) | **Nguồn:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=310)**
 
 ---
 ### Godzilla Tấn Công Tượng Đài Monas ở Jakarta
@@ -2551,11 +2456,10 @@ tạo một video về Godzilla tấn công tượng đài Monas ở Jakarta tro
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="Godzilla Tấn Công Tượng Đài Monas ở Jakarta"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=90)**
 
 **Tác giả:** [Not Yours](https://x.com/neveryourbaee) | **Nguồn:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=90)**
 
 ---
 ### Video Anime về Sĩ quan Trung Quốc
@@ -2572,11 +2476,10 @@ Sử dụng Seedance 2.0 để tạo video anime: phân cảnh hài hước vớ
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="Video Anime về Sĩ quan Trung Quốc"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=146)**
 
 **Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=146)**
 
 ---
 ### Bỏ qua bản quyền: Nezha đấu với Minions ở khu phố Tàu
@@ -2593,11 +2496,10 @@ Một cậu bé thần thoại Trung Quốc với hai búi tóc, một vết đ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="Bỏ qua bản quyền: Nezha đấu với Minions ở khu phố Tàu"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=318)**
 
 **Tác giả:** [Dow Ma](https://x.com/VoiceOfDow) | **Nguồn:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=318)**
 
 ---
 ### Gợi ý cảnh hành động theo phong cách John Wick
@@ -2615,11 +2517,10 @@ Một cậu bé thần thoại Trung Quốc với hai búi tóc, một vết đ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý cảnh hành động theo phong cách John Wick"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=319)**
 
 **Tác giả:** [大宝](https://x.com/xiaolongli7697) | **Nguồn:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=319)**
 
 ---
 ### Kịch bản cảnh mở đầu điện ảnh: Phi nước đại qua các biệt thự Vancouver
@@ -2661,11 +2562,10 @@ Cảnh 3: Phi nước đại ngang qua bên hông Dinh thự (0:09-0:15, 6 giây
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="Kịch bản cảnh mở đầu điện ảnh: Phi nước đại qua các biệt thự Vancouver"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=185)**
 
 **Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2021545550772924579) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=185)**
 
 ---
 ### Cảnh hành động Harry Potter đấu với Voldemort
@@ -2682,11 +2582,10 @@ Tạo một cảnh chiến đấu đầy kịch tính giữa Harry Potter và Vo
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động Harry Potter đấu với Voldemort"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=153)**
 
 **Tác giả:** [ChatCut](https://x.com/chatcutapp) | **Nguồn:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=153)**
 
 ---
 ### Trình tự bay Wingsuit điện ảnh
@@ -2703,11 +2602,10 @@ Một đoạn video điện ảnh mở đầu bằng một cảnh quay rộng tr
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Trình tự bay Wingsuit điện ảnh"></a>
 
-📥 *Nhấp vào hình ảnh để tải video*
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=132)**
 
 **Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Đã xuất bản:** Feb 11, 2026
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=132)**
 
 ---
 ---

@@ -93,11 +93,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="東京でのオプティマス・プライム対ゴジラ"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=210)**
 
 **作者:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **ソース:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=210)**
 
 ---
 ### シュールな戦場を舞台にした浪人アクションシーン
@@ -119,11 +118,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="シュールな戦場を舞台にした浪人アクションシーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=133)**
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=133)**
 
 ---
 ### Demon Slayer ライブアクションバトルプロンプト for Seedance 2.0
@@ -157,11 +155,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer ライブアクションバトルプロンプト for Seedance 2.0"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=189)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=189)**
 
 ---
 ## 🎬 すべてのプロンプト
@@ -200,11 +197,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/367.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fee93e1fdb451f68b53c39f956ecdf30/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 9パネル シネマティック コンタクトシート プロンプトテンプレート"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=367)**
 
 **作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2022546491823243406) | **公開日:** Feb 14, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=367)**
 
 ---
 ### 映画のシーンのプロンプト：弾丸列車レース
@@ -221,11 +217,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/351.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98a6c2671424cfba8f035aaebc5a9e8e/thumbnails/thumbnail.jpg" width="600" alt="映画のシーンのプロンプト：弾丸列車レース"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=351)**
 
 **作者:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **ソース:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=351)**
 
 ---
 ### 坂田銀時によるコズミックアリーナトーナメントのお知らせ
@@ -244,11 +239,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/344.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00350dbd60f3f36b91de62c203622c36/thumbnails/thumbnail.jpg" width="600" alt="坂田銀時によるコズミックアリーナトーナメントのお知らせ"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=344)**
 
 **作者:** [KIRA](https://x.com/k1raa__) | **ソース:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=344)**
 
 ---
 ### ハリウッド レーシング ムービー シーン プロンプト (パート 1)
@@ -267,11 +261,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/350.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0419f57fbb236c19b9dd5de060cafa/thumbnails/thumbnail.jpg" width="600" alt="ハリウッド レーシング ムービー シーン プロンプト (パート 1)"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=350)**
 
 **作者:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **ソース:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=350)**
 
 ---
 ### 禪院真希の戦闘シーンのプロンプト（素早い動き）
@@ -288,11 +281,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/354.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e6bdfb0ac629ade86666168dc021712/thumbnails/thumbnail.jpg" width="600" alt="禪院真希の戦闘シーンのプロンプト（素早い動き）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=354)**
 
 **作者:** [karim_yourself](https://x.com/karim_yourself) | **ソース:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=354)**
 
 ---
 ### 禪院真希の戦闘シーンのプロンプト（トップダウン）
@@ -309,11 +301,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/352.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca030427d3307655c5430a9488220256/thumbnails/thumbnail.jpg" width="600" alt="禪院真希の戦闘シーンのプロンプト（トップダウン）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=352)**
 
 **作者:** [karim_yourself](https://x.com/karim_yourself) | **ソース:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=352)**
 
 ---
 ### ストレンジャー・シングス・パーティー：超能力を解き放て
@@ -330,11 +321,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/347.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d204bfffb668bbf8033f9a4323b0a4a6/thumbnails/thumbnail.jpg" width="600" alt="ストレンジャー・シングス・パーティー：超能力を解き放て"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=347)**
 
 **作者:** [Zopia AI](https://x.com/Zopia_AI) | **ソース:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=347)**
 
 ---
 ### 映画のようなストリートバスケのシーン：男性が女性にブロックされる
@@ -351,11 +341,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/371.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/162d3bc1b10ad26ea282d28315cb2fe7/thumbnails/thumbnail.jpg" width="600" alt="映画のようなストリートバスケのシーン：男性が女性にブロックされる"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=371)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2022324867425878479) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=371)**
 
 ---
 ### スチームパンク ロボット ミシュラン シェフ
@@ -372,11 +361,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/370.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59edfa07f0166423287c506674bf2099/thumbnails/thumbnail.jpg" width="600" alt="スチームパンク ロボット ミシュラン シェフ"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=370)**
 
 **作者:** [Sims干货知识分享](https://x.com/smallstones677) | **ソース:** [Link](https://x.com/smallstones677/status/2022315355331559522) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=370)**
 
 ---
 ### アクションシーン ショット 1: ローアングル充電器
@@ -393,11 +381,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/361.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae4d192c75b90fecf81a9801c14854/thumbnails/thumbnail.jpg" width="600" alt="アクションシーン ショット 1: ローアングル充電器"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=361)**
 
 **作者:** [RenderedReality](https://x.com/RenderedReal) | **ソース:** [Link](https://x.com/RenderedReal/status/2022304583327113508) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=361)**
 
 ---
 ### 超リアルなウォルター・ホワイトの独白
@@ -414,11 +401,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/342.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1305cc68ffb45a2599890826651508d7/thumbnails/thumbnail.jpg" width="600" alt="超リアルなウォルター・ホワイトの独白"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=342)**
 
 **作者:** [Konstantinos](https://x.com/Simply__Digital) | **ソース:** [Link](https://x.com/Simply__Digital/status/2022300578919952460) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=342)**
 
 ---
 ### ロード・オブ・ザ・リング別エンディング（ワシ）
@@ -439,11 +425,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/346.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e07a4679b8da9dac70a793f306383a8/thumbnails/thumbnail.jpg" width="600" alt="ロード・オブ・ザ・リング別エンディング（ワシ）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=346)**
 
 **作者:** [Talkturo.ai](https://x.com/talkturo) | **ソース:** [Link](https://x.com/talkturo/status/2022300374711795990) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=346)**
 
 ---
 ### ゼルダの伝説 ブレス オブ ザ ワイルド - 始まりの台地 シネマティック プロンプト
@@ -465,11 +450,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/365.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77b25d2a03563ac399e88e0488161867/thumbnails/thumbnail.jpg" width="600" alt="ゼルダの伝説 ブレス オブ ザ ワイルド - 始まりの台地 シネマティック プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=365)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2022294267008573921) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=365)**
 
 ---
 ### Seedance 2.0 の映画のような格闘シーンのプロンプト
@@ -486,11 +470,10 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/373.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c9c2c2162b0e4d53b02a1e50714a4fe/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 の映画のような格闘シーンのプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=373)**
 
 **作者:** [赤染　史郎](https://x.com/akazomesirou) | **ソース:** [Link](https://x.com/akazomesirou/status/2022284846467600790) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=373)**
 
 ---
 ### アーニャ・フォージャー クローズアップ モノローグ
@@ -507,11 +490,10 @@ Seedance 2.0 を使用して、アーニャ・フォージャーの口元に極�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/360.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00747ec21808695108b56857fbc3fa8c/thumbnails/thumbnail.jpg" width="600" alt="アーニャ・フォージャー クローズアップ モノローグ"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=360)**
 
 **作者:** [nachos2d](https://x.com/NACHOS2D_) | **ソース:** [Link](https://x.com/NACHOS2D_/status/2022279856910729448) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=360)**
 
 ---
 ### Seedance 2.0 シネマティック JSON システムプロンプト
@@ -586,11 +568,10 @@ Seedance 2.0 を使用して、アーニャ・フォージャーの口元に極�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/355.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d06ce1a0aa99ce24e04cb0c5ecd8923c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 シネマティック JSON システムプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=355)**
 
 **作者:** [LinAi Dreams](https://x.com/CozyLinaGirl2) | **ソース:** [Link](https://x.com/CozyLinaGirl2/status/2022250200266334592) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=355)**
 
 ---
 ### ゼルダの伝説 ブレス オブ ザ ワイルド - ハイラル ドーン シネマティック プロンプト
@@ -607,11 +588,10 @@ Seedance 2.0 を使用して、アーニャ・フォージャーの口元に極�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/364.mp4"><img src="https://cms-assets.youmind.com/media/1771049189318_28mwdu_HBABmkibEAEbeuv.jpg" width="600" alt="ゼルダの伝説 ブレス オブ ザ ワイルド - ハイラル ドーン シネマティック プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=364)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2022196269624803548) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=364)**
 
 ---
 ### 嫦娥奔月シネマティックプロンプト（3つのバージョン）
@@ -641,11 +621,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/368.mp4"><img src="https://cms-assets.youmind.com/media/1771049194837_xr7lx2_HBABmkibEAEbeuv.jpg" width="600" alt="嫦娥奔月シネマティックプロンプト（3つのバージョン）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=368)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2022193135032611117) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=368)**
 
 ---
 ### 悟空が購入ボタンをパンチしてスーパーサイヤ人になる
@@ -662,11 +641,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/343.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eea155d858eb8d6653778c6892395dd/thumbnails/thumbnail.jpg" width="600" alt="悟空が購入ボタンをパンチしてスーパーサイヤ人になる"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=343)**
 
 **作者:** [Cain 商](https://x.com/CainBd) | **ソース:** [Link](https://x.com/CainBd/status/2022187706919604412) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=343)**
 
 ---
 ### ブラッド・ピット vs トム・クルーズの格闘シーンのプロンプト
@@ -683,11 +661,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/358.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68339d00d60e226320c16afa0358488a/thumbnails/thumbnail.jpg" width="600" alt="ブラッド・ピット vs トム・クルーズの格闘シーンのプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=358)**
 
 **作者:** [Ajay Bagga](https://x.com/Ajay_Bagga) | **ソース:** [Link](https://x.com/Ajay_Bagga/status/2022182067547910610) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=358)**
 
 ---
 ### Seedance 2.0 東北 MC スタイル ライブ ストリーム用ビデオ プロンプト
@@ -732,11 +709,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/369.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753fbe0b274905cc5728f23d10f216d9/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 東北 MC スタイル ライブ ストリーム用ビデオ プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=369)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=369)**
 
 ---
 ### Seedance 2.0 用シネマティック列車シーケンスプロンプト
@@ -775,11 +751,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/363.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a2127f52b7da5e797750ecdc3f7e46d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 用シネマティック列車シーケンスプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=363)**
 
 **作者:** [MindfulReturn 身心修复局](https://x.com/MindfulReturn) | **ソース:** [Link](https://x.com/MindfulReturn/status/2022141269196386457) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=363)**
 
 ---
 ### 男性が洗車を決意するプロンプト
@@ -796,11 +771,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/357.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e869a23cb7971993b96dda3cf09cabe3/thumbnails/thumbnail.jpg" width="600" alt="男性が洗車を決意するプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=357)**
 
 **作者:** [VORTEX: AI Bros & AI Arena. Next Gen Web3 Reviews](https://x.com/VORTEX_Promos) | **ソース:** [Link](https://x.com/VORTEX_Promos/status/2022125282468196750) | **公開日:** Feb 13, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=357)**
 
 ---
 ### マルチシーン シネマティック バトル プロンプト (孫悟空 vs. ホームランダー)
@@ -817,11 +791,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="マルチシーン シネマティック バトル プロンプト (孫悟空 vs. ホームランダー)"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=291)**
 
 **作者:** [chimi チミワウ](https://x.com/chimiwaw) | **ソース:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=291)**
 
 ---
 ### セーラームーンの対話シーン
@@ -838,11 +811,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="セーラームーンの対話シーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=270)**
 
 **作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **ソース:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=270)**
 
 ---
 ### ジョン・ウー スタイル ガンファイト シーン プロンプト
@@ -859,11 +831,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="ジョン・ウー スタイル ガンファイト シーン プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=277)**
 
 **作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2022066865296601311) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=277)**
 
 ---
 ### 武侠剣士の決闘プロンプト
@@ -880,11 +851,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="武侠剣士の決闘プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=258)**
 
 **作者:** [Jay Sensei👾](https://x.com/hckinz) | **ソース:** [Link](https://x.com/hckinz/status/2022062799732777214) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=258)**
 
 ---
 ### マッドマックス エクソダス ストーリー プロンプト
@@ -901,11 +871,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="マッドマックス エクソダス ストーリー プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=260)**
 
 **作者:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **ソース:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=260)**
 
 ---
 ### スパイ映画の格闘シーンのプロンプト
@@ -922,11 +891,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="スパイ映画の格闘シーンのプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=293)**
 
 **作者:** [Restlessperson ](https://x.com/Restlessperson1) | **ソース:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=293)**
 
 ---
 ### テキストからビデオへのプロンプト：古代衣装の処刑場での復讐シーン
@@ -944,11 +912,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="テキストからビデオへのプロンプト：古代衣装の処刑場での復讐シーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=282)**
 
 **作者:** [Ken W](https://x.com/kenw_2) | **ソース:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=282)**
 
 ---
 ### カマラ vs トランプ：トムとジョン・ウィックのプロンプトによる対決
@@ -965,11 +932,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="カマラ vs トランプ：トムとジョン・ウィックのプロンプトによる対決"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=247)**
 
 **作者:** [X Citizen Journal](https://x.com/xcitizenjournal) | **ソース:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=247)**
 
 ---
 ### デザートショップで 360 度パノラマセルフィー
@@ -986,11 +952,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="デザートショップで 360 度パノラマセルフィー"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=246)**
 
 **作者:** [nachos2d](https://x.com/NACHOS2D_) | **ソース:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=246)**
 
 ---
 ### Grok Imagine 画像から動画へのプロンプト
@@ -1007,11 +972,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine 画像から動画へのプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=262)**
 
 **作者:** [Apil](https://x.com/apilpirman) | **ソース:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=262)**
 
 ---
 ### 実写版 DBZ バトルプロンプト
@@ -1028,11 +992,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="実写版 DBZ バトルプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=259)**
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **ソース:** [Link](https://x.com/markgadala/status/2021985063840403880) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=259)**
 
 ---
 ### 1980年代のヴァンパイア インタビュー プロンプト
@@ -1049,11 +1012,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="1980年代のヴァンパイア インタビュー プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=254)**
 
 **作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **ソース:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=254)**
 
 ---
 ### ハイスピードなアクションシーンのプロンプト
@@ -1070,11 +1032,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="ハイスピードなアクションシーンのプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=295)**
 
 **作者:** [Chraft](https://x.com/chraft_ai) | **ソース:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=295)**
 
 ---
 ### ダークファンタジーの女性画像プロンプト
@@ -1091,11 +1052,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="ダークファンタジーの女性画像プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=284)**
 
 **作者:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **ソース:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=284)**
 
 ---
 ### ブラッド・ピットとトム・クルーズの格闘シーン
@@ -1112,11 +1072,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="ブラッド・ピットとトム・クルーズの格闘シーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=249)**
 
 **作者:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **ソース:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=249)**
 
 ---
 ### Seedance 2.0 擬人化ロマンスストーリー
@@ -1133,11 +1092,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 擬人化ロマンスストーリー"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=292)**
 
 **作者:** [Rayko_Zopia](https://x.com/Fox1251104) | **ソース:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=292)**
 
 ---
 ### マルチショット クリーチャー レース シーン
@@ -1154,11 +1112,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="マルチショット クリーチャー レース シーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=250)**
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=250)**
 
 ---
 ### 中国の成功セミナー（チキンスープ）動画プロンプト
@@ -1193,11 +1150,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="中国の成功セミナー（チキンスープ）動画プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=285)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=285)**
 
 ---
 ### 未来的な車のコマーシャルプロンプト（Y - 未来を運転する）
@@ -1232,11 +1188,10 @@ Brand Y · The Future is Here（15秒 · ハリウッド大作コマーシャル
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="未来的な車のコマーシャルプロンプト（Y - 未来を運転する）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=278)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=278)**
 
 ---
 ### 大時代 90年代香港TVドラマ風ビデオプロンプト
@@ -1278,11 +1233,10 @@ Brand Y · The Future is Here（15秒 · ハリウッド大作コマーシャル
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="大時代 90年代香港TVドラマ風ビデオプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=286)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=286)**
 
 ---
 ### 3 つの短編ドラマプロンプト（現代のロマンス/対立）
@@ -1321,11 +1275,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="3 つの短編ドラマプロンプト（現代のロマンス/対立）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=281)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=281)**
 
 ---
 ### コックピットでの高強度アクションスリラーシーン
@@ -1342,11 +1295,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="コックピットでの高強度アクションスリラーシーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=267)**
 
 **作者:** [Kemal Cagin](https://x.com/kemalcse) | **ソース:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=267)**
 
 ---
 ### リヴァイアサンの喉：水中巨大構造物への降下
@@ -1363,11 +1315,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="リヴァイアサンの喉：水中巨大構造物への降下"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=248)**
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=248)**
 
 ---
 ### 動物園の男性と象（古いカメラ風）
@@ -1384,11 +1335,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="動物園の男性と象（古いカメラ風）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=273)**
 
 **作者:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **ソース:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=273)**
 
 ---
 ### スパイダーマン対オクトパスマンの戦闘シーンのプロンプト
@@ -1405,11 +1355,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="スパイダーマン対オクトパスマンの戦闘シーンのプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=290)**
 
 **作者:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **ソース:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=290)**
 
 ---
 ### 10 秒 MV プロンプトの 3 つのスタイル
@@ -1444,11 +1393,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="10 秒 MV プロンプトの 3 つのスタイル"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=280)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=280)**
 
 ---
 ### ナルトとルフィの戦闘シーンプロンプト
@@ -1465,11 +1413,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="ナルトとルフィの戦闘シーンプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=253)**
 
 **作者:** [Youn Hwang](https://x.com/YounchanHwang) | **ソース:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=253)**
 
 ---
 ### マイケル・ジャクソン vs ヒトラー 対決
@@ -1486,11 +1433,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="マイケル・ジャクソン vs ヒトラー 対決"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=264)**
 
 **作者:** [ImPaul](https://x.com/impaulxyz) | **ソース:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=264)**
 
 ---
 ### 現代の田舎の美学が癒しをもたらす短編映像プロンプト
@@ -1530,11 +1476,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="現代の田舎の美学が癒しをもたらす短編映像プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=288)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=288)**
 
 ---
 ### まどか☆マギカ クソプロンプト
@@ -1551,11 +1496,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="まどか☆マギカ クソプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=256)**
 
 **作者:** [alpon](https://x.com/StayGoys) | **ソース:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=256)**
 
 ---
 ### 最終的な形状を作成する花プロンプト (Seedance Pro 1.0)
@@ -1572,11 +1516,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="最終的な形状を作成する花プロンプト (Seedance Pro 1.0)"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=294)**
 
 **作者:** [Gabriela Cardona](https://x.com/gcwalther_x) | **ソース:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=294)**
 
 ---
 ### ベジータ スーパーサイヤ人 100 vs 悟空（通常状態）プロンプト
@@ -1593,11 +1536,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="ベジータ スーパーサイヤ人 100 vs 悟空（通常状態）プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=257)**
 
 **作者:** [Lozio](https://x.com/minilozio) | **ソース:** [Link](https://x.com/minilozio/status/2021801238191354346) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=257)**
 
 ---
 ### チャンピオンズリーグ決勝での犬 vs. 全盛期のロナウド
@@ -1616,11 +1558,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="チャンピオンズリーグ決勝での犬 vs. 全盛期のロナウド"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=276)**
 
 **作者:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **ソース:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=276)**
 
 ---
 ### Demon Slayer 実写版超大作動画プロンプト
@@ -1654,11 +1595,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer 実写版超大作動画プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=287)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=287)**
 
 ---
 ### ホラー短編映画脚本：ミラーグリッチ
@@ -1680,11 +1620,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="ホラー短編映画脚本：ミラーグリッチ"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=194)**
 
 **作者:** [MapleShaw](https://x.com/msjiaozhu) | **ソース:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=194)**
 
 ---
 ### アニメの戦士 vs. タコのエイリアン
@@ -1701,11 +1640,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="アニメの戦士 vs. タコのエイリアン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=268)**
 
 **作者:** [Charles Boonsu](https://x.com/Boonsu28) | **ソース:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **公開日:** Feb 12, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=268)**
 
 ---
 ### 戦闘機パイロットの戦闘におけるアクションシーケンスプロンプト
@@ -1722,11 +1660,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="戦闘機パイロットの戦闘におけるアクションシーケンスプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=170)**
 
 **作者:** [𝕏Caliber](https://x.com/XCaliber) | **ソース:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=170)**
 
 ---
 ### 影の男に女性が対峙
@@ -1743,11 +1680,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="影の男に女性が対峙"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=208)**
 
 **作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **ソース:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=208)**
 
 ---
 ### ドラえもん VS スパイダーマン
@@ -1764,11 +1700,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="ドラえもん VS スパイダーマン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=309)**
 
 **作者:** [otung Emmanuel](https://x.com/otung_emmanuel) | **ソース:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=309)**
 
 ---
 ### 水中を走る手持ち撮影と金貨
@@ -1785,11 +1720,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="水中を走る手持ち撮影と金貨"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=161)**
 
 **作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **ソース:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=161)**
 
 ---
 ### 激しいボクシングのスパーリングセッション
@@ -1806,11 +1740,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="激しいボクシングのスパーリングセッション"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=140)**
 
 **作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **ソース:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=140)**
 
 ---
 ### Seedance 2.0 向け不条理コメディ動画プロンプト：無
@@ -1860,11 +1793,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 向け不条理コメディ動画プロンプト：無"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=186)**
 
 **作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2021706240272069021) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=186)**
 
 ---
 ### 巨大モンスターからの逃走（秘術スタイル）
@@ -1881,11 +1813,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="巨大モンスターからの逃走（秘術スタイル）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=142)**
 
 **作者:** [Dipper](https://x.com/dipperdao) | **ソース:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=142)**
 
 ---
 ### Flash ディレクターズ プロンプト
@@ -1934,11 +1865,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="マサイ族の村での混乱"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=160)**
 
 **作者:** [Travis Davids](https://x.com/MrDavids1) | **ソース:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=160)**
 
 ---
 ### ウィル・スミスがスパゲッティモンスターと戦う（80年代アクション）
@@ -1955,11 +1885,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="ウィル・スミスがスパゲッティモンスターと戦う（80年代アクション）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=178)**
 
 **作者:** [S0FT](https://x.com/sudoSoftAI) | **ソース:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=178)**
 
 ---
 ### トランプ vs マイケル・ジャクソン AI ダンスバトル
@@ -1976,11 +1905,10 @@ Seedance 2.0 プロンプト
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="トランプ vs マイケル・ジャクソン AI ダンスバトル"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=263)**
 
 **作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **ソース:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=263)**
 
 ---
 ### 映画のような第二次世界大戦のバイク脱出
@@ -1997,11 +1925,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="映画のような第二次世界大戦のバイク脱出"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=126)**
 
 **作者:** [pewden AI](https://x.com/pewdenai) | **ソース:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=126)**
 
 ---
 ### シーボートに乗った男性が海の怪物に襲われる
@@ -2018,11 +1945,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="シーボートに乗った男性が海の怪物に襲われる"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=303)**
 
 **作者:** [Anthony T](https://x.com/creativesinner2) | **ソース:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=303)**
 
 ---
 ### 複数キャラクターが登場する会話シーン
@@ -2049,11 +1975,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="複数キャラクターが登場する会話シーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=138)**
 
 **作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **ソース:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=138)**
 
 ---
 ### Thanos が Spider-Man に謝罪するプロンプト
@@ -2070,11 +1995,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Thanos が Spider-Man に謝罪するプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=207)**
 
 **作者:** [xAi✨](https://x.com/xai_42) | **ソース:** [Link](https://x.com/xai_42/status/2021637349247951131) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=207)**
 
 ---
 ### 鎖をつけた浮浪者の女性
@@ -2091,11 +2015,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="鎖をつけた浮浪者の女性"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=205)**
 
 **作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **ソース:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=205)**
 
 ---
 ### レゴの組み立てタイムラプスアニメーション
@@ -2122,11 +2045,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="レゴの組み立てタイムラプスアニメーション"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=329)**
 
 **作者:** [维维](https://x.com/siveill) | **ソース:** [Link](https://x.com/siveill/status/2021635240985604526) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=329)**
 
 ---
 ### ワンピース風テキスト to ビデオプロンプト
@@ -2146,11 +2068,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="ワンピース風テキスト to ビデオプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=199)**
 
 **作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **ソース:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=199)**
 
 ---
 ### Cozy Nighttime Pet Secret 短編映画
@@ -2177,11 +2098,10 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="Cozy Nighttime Pet Secret 短編映画"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=330)**
 
 **作者:** [Michelle](https://x.com/Michell81147285) | **ソース:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=330)**
 
 ---
 ### 高エネルギーコマーシャルスクリプト
@@ -2198,11 +2118,10 @@ Seedance 2.0 を使って、ハイエナジーでシネマティックな、マ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="高エネルギーコマーシャルスクリプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=311)**
 
 **作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **ソース:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=311)**
 
 ---
 ### クラーケン襲撃のシネマティックシーン
@@ -2219,11 +2138,10 @@ Seedance 2.0 を使って、ハイエナジーでシネマティックな、マ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="クラーケン襲撃のシネマティックシーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=152)**
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **ソース:** [Link](https://x.com/markgadala/status/2021615497670737953) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=152)**
 
 ---
 ### ルフィと悟空の壮大な戦いのシーン
@@ -2240,11 +2158,10 @@ Seedance 2.0 を使って、ハイエナジーでシネマティックな、マ�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="ルフィと悟空の壮大な戦いのシーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=163)**
 
 **作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **ソース:** [Link](https://x.com/markgadala/status/2021611931480609139) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=163)**
 
 ---
 ### 東京のレースシーン向けマルチショット テキスト to ビデオ プロンプト
@@ -2268,11 +2185,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="東京のレースシーン向けマルチショット テキスト to ビデオ プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=265)**
 
 **作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=265)**
 
 ---
 ### 浮島で歌う猫
@@ -2289,11 +2205,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="浮島で歌う猫"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=164)**
 
 **作者:** [goku](https://x.com/spinningsensei) | **ソース:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=164)**
 
 ---
 ### ビットコインが連邦準備制度を破壊する（アニメのパワーアップ）
@@ -2310,11 +2225,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="ビットコインが連邦準備制度を破壊する（アニメのパワーアップ）"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=148)**
 
 **作者:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **ソース:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=148)**
 
 ---
 ### 海賊の酒場のシーンのプロンプト
@@ -2331,11 +2245,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="海賊の酒場のシーンのプロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=306)**
 
 **作者:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **ソース:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=306)**
 
 ---
 ### 仙侠アニメ映画バトルスクリプト：韓立 vs. 王林
@@ -2360,11 +2273,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="仙侠アニメ映画バトルスクリプト：韓立 vs. 王林"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=193)**
 
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=193)**
 
 ---
 ### ハイオクタン価のカーチェイスシーン
@@ -2381,11 +2293,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="ハイオクタン価のカーチェイスシーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=165)**
 
 **作者:** [ChatCut](https://x.com/chatcutapp) | **ソース:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=165)**
 
 ---
 ### New Amsterdam Simulator
@@ -2402,11 +2313,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="New Amsterdam Simulator"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=181)**
 
 **作者:** [@levelsio](https://x.com/levelsio) | **ソース:** [Link](https://x.com/levelsio/status/2021587482349895747) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=181)**
 
 ---
 ### SF 変身短編映画スクリプト：未来の目覚め
@@ -2439,11 +2349,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="SF 変身短編映画スクリプト：未来の目覚め"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=182)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=182)**
 
 ---
 ### Urban Fantasy 短編ドラマプロンプト Seedance 2.0: 幸運が訪れる
@@ -2484,11 +2393,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="Urban Fantasy 短編ドラマプロンプト Seedance 2.0: 幸運が訪れる"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=188)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=188)**
 
 ---
 ### ディズニーのクラシック スタイル アニメーション アドベンチャー
@@ -2505,11 +2413,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="ディズニーのクラシック スタイル アニメーション アドベンチャー"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=141)**
 
 **作者:** [FragZero](https://x.com/FragZero) | **ソース:** [Link](https://x.com/FragZero/status/2021568010452869227) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=141)**
 
 ---
 ### ファンタジー物語のプロンプト：蝶の妖精への変身
@@ -2526,11 +2433,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="ファンタジー物語のプロンプト：蝶の妖精への変身"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=112)**
 
 **作者:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **ソース:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=112)**
 
 ---
 ### キャデラック フォーミュラ 1 カー 2026
@@ -2547,11 +2453,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="キャデラック フォーミュラ 1 カー 2026"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=310)**
 
 **作者:** [HNNS.](https://x.com/ItsMeHannes) | **ソース:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=310)**
 
 ---
 ### ゴジラがジャカルタのモナスを襲撃
@@ -2568,11 +2473,10 @@ SHOT3
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="ゴジラがジャカルタのモナスを襲撃"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=90)**
 
 **作者:** [Not Yours](https://x.com/neveryourbaee) | **ソース:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=90)**
 
 ---
 ### 中国の将校のアニメ動画
@@ -2589,11 +2493,10 @@ Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="中国の将校のアニメ動画"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=146)**
 
 **作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **ソース:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=146)**
 
 ---
 ### 著作権回避：チャイナタウンにおけるナタとミニオンズ
@@ -2610,11 +2513,10 @@ Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="著作権回避：チャイナタウンにおけるナタとミニオンズ"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=318)**
 
 **作者:** [Dow Ma](https://x.com/VoiceOfDow) | **ソース:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=318)**
 
 ---
 ### ジョン・ウィック スタイルのアクションシーン プロンプト
@@ -2632,11 +2534,10 @@ Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="ジョン・ウィック スタイルのアクションシーン プロンプト"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=319)**
 
 **作者:** [大宝](https://x.com/xiaolongli7697) | **ソース:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=319)**
 
 ---
 ### 映画のような登場シーンの脚本：バンクーバーの邸宅を駆け抜ける
@@ -2678,11 +2579,10 @@ Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="映画のような登場シーンの脚本：バンクーバーの邸宅を駆け抜ける"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=185)**
 
 **作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2021545550772924579) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=185)**
 
 ---
 ### ハリー・ポッター vs ヴォルデモート アクションシーン
@@ -2699,11 +2599,10 @@ Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="ハリー・ポッター vs ヴォルデモート アクションシーン"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=153)**
 
 **作者:** [ChatCut](https://x.com/chatcutapp) | **ソース:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=153)**
 
 ---
 ### シネマティック ウィングスーツ フライト シーケンス
@@ -2720,11 +2619,10 @@ Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="シネマティック ウィングスーツ フライト シーケンス"></a>
 
-📥 *画像をクリックして動画をダウンロード*
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=132)**
 
 **作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **公開日:** Feb 11, 2026
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=132)**
 
 ---
 ---
