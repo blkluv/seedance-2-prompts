@@ -93,11 +93,9 @@ Lüks bir otomobil Optimus Prime'a dönüşüyor ve yağmurlu bir Tokyo gecesini
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs Godzilla Tokyo'da"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=210)**
 
 **Yazar:** [HopefulofNFTs](https://x.com/HopefulofNFTs) | **Kaynak:** [Link](https://x.com/HopefulofNFTs/status/2021822131143635160) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=210)**
 
 ---
 ### Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi
@@ -119,11 +117,9 @@ Gökyüzünde gerçeküstü bir savaş alanı: fırtına bulutlarının arasınd
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Gerçeküstü Savaş Alanı Ronin Aksiyon Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=133)**
 
-**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=133)**
+**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için
@@ -157,11 +153,9 @@ Aksiyon: İki kılıç çerçevenin merkezinde şiddetle çarpışır.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/189.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=189)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=189)**
 
 ---
 ## 🎬 Tüm İstemler
@@ -200,11 +194,9 @@ Kullanıcı, anahtar karelerinizden video klipler oluşturacak ve bunları nihai
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/367.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fee93e1fdb451f68b53c39f956ecdf30/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 9 Panelli Sinematik İletişim Sayfası İstemi Şablonu"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=367)**
 
 **Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2022546491823243406) | **Yayınlandı:** Feb 14, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=367)**
 
 ---
 ### Sinematik Sahne İstemcisi: Hızlı Tren Yarışı
@@ -221,11 +213,9 @@ Kullanıcı, anahtar karelerinizden video klipler oluşturacak ve bunları nihai
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/351.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/98a6c2671424cfba8f035aaebc5a9e8e/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Sahne İstemcisi: Hızlı Tren Yarışı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=351)**
 
-**Yazar:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Kaynak:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=351)**
+**Yazar:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Kaynak:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Yayınlandı:** Feb 14, 2026
 
 ---
 ### Gintoki Sakata'dan Kozmik Arena Turnuvası Duyurusu
@@ -244,11 +234,9 @@ Kuralı açıklıyor...
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/344.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00350dbd60f3f36b91de62c203622c36/thumbnails/thumbnail.jpg" width="600" alt="Gintoki Sakata'dan Kozmik Arena Turnuvası Duyurusu"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=344)**
 
-**Yazar:** [KIRA](https://x.com/k1raa__) | **Kaynak:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=344)**
+**Yazar:** [KIRA](https://x.com/k1raa__) | **Kaynak:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Yayınlandı:** Feb 14, 2026
 
 ---
 ### Hollywood Yarış Filmi Sahnesi İstemleri (Bölüm 1)
@@ -267,11 +255,9 @@ Stil: Hollywood Profesyonel Yarış Filmi (Le Mans Tarzı), Sinematik Gece, Yağ
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/350.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e0419f57fbb236c19b9dd5de060cafa/thumbnails/thumbnail.jpg" width="600" alt="Hollywood Yarış Filmi Sahnesi İstemleri (Bölüm 1)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=350)**
 
-**Yazar:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Kaynak:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=350)**
+**Yazar:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Kaynak:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Yayınlandı:** Feb 14, 2026
 
 ---
 ### Maki Zenin Dövüş Sahnesi İstemleri (Çevik Hareketler)
@@ -288,11 +274,9 @@ kadın, tüm kılıç ustası erkekleri güçlü saldırılarla alt ediyor, sağ
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/354.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e6bdfb0ac629ade86666168dc021712/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin Dövüş Sahnesi İstemleri (Çevik Hareketler)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=354)**
 
-**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=354)**
+**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Yayınlandı:** Feb 14, 2026
 
 ---
 ### Maki Zenin Dövüş Sahnesi İstemleri (Yukarıdan Aşağıya)
@@ -309,11 +293,9 @@ Kadının tüm kılıç ustası adamları güçlü saldırılarla alt ettiğini 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/352.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca030427d3307655c5430a9488220256/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin Dövüş Sahnesi İstemleri (Yukarıdan Aşağıya)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=352)**
 
-**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=352)**
+**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Yayınlandı:** Feb 14, 2026
 
 ---
 ### Stranger Things Partisi: Süper Güçleri Ortaya Çıkarma
@@ -330,11 +312,9 @@ Yıkık bir laboratuvarda Stranger Things ekibinin sinematik 1980'ler karanlık 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/347.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d204bfffb668bbf8033f9a4323b0a4a6/thumbnails/thumbnail.jpg" width="600" alt="Stranger Things Partisi: Süper Güçleri Ortaya Çıkarma"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=347)**
 
-**Yazar:** [Zopia AI](https://x.com/Zopia_AI) | **Kaynak:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=347)**
+**Yazar:** [Zopia AI](https://x.com/Zopia_AI) | **Kaynak:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Yayınlandı:** Feb 14, 2026
 
 ---
 ### Sinematik Sokak Basketbolu Sahnesi: Adamın Şutu Kadın Tarafından Engellendi
@@ -351,11 +331,9 @@ Yıkık bir laboratuvarda Stranger Things ekibinin sinematik 1980'ler karanlık 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/371.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/162d3bc1b10ad26ea282d28315cb2fe7/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Sokak Basketbolu Sahnesi: Adamın Şutu Kadın Tarafından Engellendi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=371)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2022324867425878479) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=371)**
 
 ---
 ### Steampunk Robot Michelin Şef
@@ -372,11 +350,9 @@ Bir buharlı robot, fütüristik bir mutfakta mekanik kollarıyla Kung Pao Tavu�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/370.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59edfa07f0166423287c506674bf2099/thumbnails/thumbnail.jpg" width="600" alt="Steampunk Robot Michelin Şef"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=370)**
 
 **Yazar:** [Sims干货知识分享](https://x.com/smallstones677) | **Kaynak:** [Link](https://x.com/smallstones677/status/2022315355331559522) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=370)**
 
 ---
 ### Aksiyon Sahnesi Çekim 1: Alçak Açılı Şarj Cihazı
@@ -393,11 +369,9 @@ SHOT 1 (0-3s): Alçak açılı geniş çekim - mat siyah Charger kameraya doğru
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/361.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cbae4d192c75b90fecf81a9801c14854/thumbnails/thumbnail.jpg" width="600" alt="Aksiyon Sahnesi Çekim 1: Alçak Açılı Şarj Cihazı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=361)**
 
 **Yazar:** [RenderedReality](https://x.com/RenderedReal) | **Kaynak:** [Link](https://x.com/RenderedReal/status/2022304583327113508) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=361)**
 
 ---
 ### Hiper Gerçekçi Walter White Monoloğu
@@ -414,11 +388,9 @@ Bryan Cranston'ın Walter White (Breaking Bad'den) olarak hiper-gerçekçi bir y
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/342.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1305cc68ffb45a2599890826651508d7/thumbnails/thumbnail.jpg" width="600" alt="Hiper Gerçekçi Walter White Monoloğu"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=342)**
 
 **Yazar:** [Konstantinos](https://x.com/Simply__Digital) | **Kaynak:** [Link](https://x.com/Simply__Digital/status/2022300578919952460) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=342)**
 
 ---
 ### Yüzüklerin Efendisi Alternatif Sonu (Kartallar)
@@ -439,11 +411,9 @@ SON.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/346.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e07a4679b8da9dac70a793f306383a8/thumbnails/thumbnail.jpg" width="600" alt="Yüzüklerin Efendisi Alternatif Sonu (Kartallar)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=346)**
 
 **Yazar:** [Talkturo.ai](https://x.com/talkturo) | **Kaynak:** [Link](https://x.com/talkturo/status/2022300374711795990) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=346)**
 
 ---
 ### Zelda: Breath of the Wild - Tapınak Uyanışı Sinematik İstem
@@ -461,11 +431,9 @@ SON.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/365.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77b25d2a03563ac399e88e0488161867/thumbnails/thumbnail.jpg" width="600" alt="Zelda: Breath of the Wild - Tapınak Uyanışı Sinematik İstem"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=365)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2022294267008573921) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=365)**
 
 ---
 ### Seedance 2.0 için Sinematik Dövüş Sahnesi İstemleri
@@ -482,11 +450,9 @@ Görüntüdeki iki adam, JoJo'nun Ora Ora Rush'ı gibi, artçı görüntülerle 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/373.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7c9c2c2162b0e4d53b02a1e50714a4fe/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 için Sinematik Dövüş Sahnesi İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=373)**
 
 **Yazar:** [赤染　史郎](https://x.com/akazomesirou) | **Kaynak:** [Link](https://x.com/akazomesirou/status/2022284846467600790) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=373)**
 
 ---
 ### Anya Forger Yakın Çekim Monologu
@@ -503,11 +469,9 @@ Anya Forger'ın ağzına aşırı yakın çekim, dramatik aydınlatma, düzenli 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/360.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/00747ec21808695108b56857fbc3fa8c/thumbnails/thumbnail.jpg" width="600" alt="Anya Forger Yakın Çekim Monologu"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=360)**
 
 **Yazar:** [nachos2d](https://x.com/NACHOS2D_) | **Kaynak:** [Link](https://x.com/NACHOS2D_/status/2022279856910729448) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=360)**
 
 ---
 ### Seedance 2.0 Sinematik JSON Sistem İstemcisi
@@ -582,11 +546,9 @@ Siz, **Seedance 2.0** model mimarisinde uzmanlaşmış deneyimli bir video istem
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/355.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d06ce1a0aa99ce24e04cb0c5ecd8923c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Sinematik JSON Sistem İstemcisi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=355)**
 
 **Yazar:** [LinAi Dreams](https://x.com/CozyLinaGirl2) | **Kaynak:** [Link](https://x.com/CozyLinaGirl2/status/2022250200266334592) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=355)**
 
 ---
 ### Zelda: Breath of the Wild - Hyrule Şafağı Sinematik İstemi
@@ -603,11 +565,9 @@ Siz, **Seedance 2.0** model mimarisinde uzmanlaşmış deneyimli bir video istem
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/364.mp4"><img src="https://cms-assets.youmind.com/media/1771049189318_28mwdu_HBABmkibEAEbeuv.jpg" width="600" alt="Zelda: Breath of the Wild - Hyrule Şafağı Sinematik İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=364)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2022196269624803548) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=364)**
 
 ---
 ### Ay'a Uçan Chang'e Sinematik İstemleri (Üç Versiyon)
@@ -637,11 +597,9 @@ Geleneksel Çin serbest mürekkep sıçraması stili, ağırlıklı olarak siyah
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/368.mp4"><img src="https://cms-assets.youmind.com/media/1771049194837_xr7lx2_HBABmkibEAEbeuv.jpg" width="600" alt="Ay'a Uçan Chang'e Sinematik İstemleri (Üç Versiyon)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=368)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2022193135032611117) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=368)**
 
 ---
 ### Goku Satın Al Düğmesine Yumruk Atıyor ve Süper Saiyan Oluyor
@@ -658,11 +616,9 @@ Geleneksel Çin serbest mürekkep sıçraması stili, ağırlıklı olarak siyah
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/343.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0eea155d858eb8d6653778c6892395dd/thumbnails/thumbnail.jpg" width="600" alt="Goku Satın Al Düğmesine Yumruk Atıyor ve Süper Saiyan Oluyor"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=343)**
 
 **Yazar:** [Cain 商](https://x.com/CainBd) | **Kaynak:** [Link](https://x.com/CainBd/status/2022187706919604412) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=343)**
 
 ---
 ### Brad Pitt vs Tom Cruise Dövüş Sahnesi Komutu
@@ -679,11 +635,9 @@ Brad Pitt ve Tom Cruise arasında, diyalogları Epstein dosyaları etrafında d�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/358.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68339d00d60e226320c16afa0358488a/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt vs Tom Cruise Dövüş Sahnesi Komutu"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=358)**
 
 **Yazar:** [Ajay Bagga](https://x.com/Ajay_Bagga) | **Kaynak:** [Link](https://x.com/Ajay_Bagga/status/2022182067547910610) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=358)**
 
 ---
 ### Seedance 2.0 Kuzeydoğu MC Tarzı Canlı Yayın için Video İstemi
@@ -728,11 +682,9 @@ Efektler: Ekran hediye efektleriyle (spor arabalar, roketler) ve "Şimdi Sipari�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/369.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/753fbe0b274905cc5728f23d10f216d9/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Kuzeydoğu MC Tarzı Canlı Yayın için Video İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=369)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=369)**
 
 ---
 ### Seedance 2.0 için Sinematik Tren Sekansı İstemleri
@@ -771,11 +723,9 @@ Spiralin en yüksek noktasında, kamera keskin bir şekilde geri ve yukarı çek
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/363.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a2127f52b7da5e797750ecdc3f7e46d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 için Sinematik Tren Sekansı İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=363)**
 
 **Yazar:** [MindfulReturn 身心修复局](https://x.com/MindfulReturn) | **Kaynak:** [Link](https://x.com/MindfulReturn/status/2022141269196386457) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=363)**
 
 ---
 ### Araba Yıkamaya Karar Veren Adam İstemi
@@ -792,11 +742,9 @@ Adam "Arabamı yıkamak istiyorum ve oto yıkamacı 50 metre uzakta. Yürümeli 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/357.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e869a23cb7971993b96dda3cf09cabe3/thumbnails/thumbnail.jpg" width="600" alt="Araba Yıkamaya Karar Veren Adam İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=357)**
 
 **Yazar:** [VORTEX: AI Bros & AI Arena. Next Gen Web3 Reviews](https://x.com/VORTEX_Promos) | **Kaynak:** [Link](https://x.com/VORTEX_Promos/status/2022125282468196750) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=357)**
 
 ---
 ### Çok Sahneli Sinematik Savaş İstemleri (Sun Wukong vs. Homelander)
@@ -813,11 +761,9 @@ Müziğin Eşlik Ettiği Sahne 1: "Sun Wukong şehrin çatısında duruyor, alt�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/291.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/922b47d8d3eff00061ff7b14d63c78a6/thumbnails/thumbnail.jpg" width="600" alt="Çok Sahneli Sinematik Savaş İstemleri (Sun Wukong vs. Homelander)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=291)**
 
-**Yazar:** [chimi チミワウ](https://x.com/chimiwaw) | **Kaynak:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=291)**
+**Yazar:** [chimi チミワウ](https://x.com/chimiwaw) | **Kaynak:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Sailor Moon Diyalog Sahnesi
@@ -834,11 +780,9 @@ Sailor Moon yatağa atlayıp "Kızlar, başardık!" diye bağırır. Sailor Ven�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/270.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70b54ecdd347520c0f6db607ad1810d0/thumbnails/thumbnail.jpg" width="600" alt="Sailor Moon Diyalog Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=270)**
 
-**Yazar:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Kaynak:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=270)**
+**Yazar:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Kaynak:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### John Woo Tarzı Çatışma Sahnesi İstemleri
@@ -855,11 +799,9 @@ Sailor Moon yatağa atlayıp "Kızlar, başardık!" diye bağırır. Sailor Ven�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/277.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b947e044556be2899fa51746bba19/thumbnails/thumbnail.jpg" width="600" alt="John Woo Tarzı Çatışma Sahnesi İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=277)**
 
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=277)**
+**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Wuxia Kılıç Ustası Düellosu İstemleri
@@ -876,11 +818,9 @@ Bir Wuxia tarzı görsel-işitsel gişe rekorları kıran bir yapım. Beyazlar i
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/258.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c5228a203da11693b6feec4187bb48af/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Kılıç Ustası Düellosu İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=258)**
 
-**Yazar:** [Jay Sensei👾](https://x.com/hckinz) | **Kaynak:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=258)**
+**Yazar:** [Jay Sensei👾](https://x.com/hckinz) | **Kaynak:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Mad Max Exodus Hikayesi Konu Başlığı
@@ -897,11 +837,9 @@ Mad Max tarzında, göç hikayesini anlatan, çok sahneli, yüksek aksiyonlu des
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/260.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/550fc6c1d98e7927aa0169ec1466bed4/thumbnails/thumbnail.jpg" width="600" alt="Mad Max Exodus Hikayesi Konu Başlığı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=260)**
 
-**Yazar:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Kaynak:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=260)**
+**Yazar:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Kaynak:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Casus Filmi Dövüş Sahnesi İstemleri
@@ -918,11 +856,9 @@ Yeşil takım elbiseli, logolu bir adamın, casus filmleri tarzında, siyah giyi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/293.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95a99a2e883faf69056979542b02f17b/thumbnails/thumbnail.jpg" width="600" alt="Casus Filmi Dövüş Sahnesi İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=293)**
 
-**Yazar:** [Restlessperson ](https://x.com/Restlessperson1) | **Kaynak:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=293)**
+**Yazar:** [Restlessperson ](https://x.com/Restlessperson1) | **Kaynak:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Metinden Videoya İstemi: Antik Kostümlü İnfaz Sahnesi İntikamı
@@ -940,11 +876,9 @@ Antik kostüm infaz alanı/Kanlı gözyaşı intikamı
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/282.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70dd88146577f2004bc0f5bdfb5e060/thumbnails/thumbnail.jpg" width="600" alt="Metinden Videoya İstemi: Antik Kostümlü İnfaz Sahnesi İntikamı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=282)**
 
-**Yazar:** [Ken W](https://x.com/kenw_2) | **Kaynak:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=282)**
+**Yazar:** [Ken W](https://x.com/kenw_2) | **Kaynak:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Kamala ile Trump'ın Tom ve John Wick Prompt'u ile Kavgası
@@ -961,11 +895,9 @@ Kamala, Tom ve John Wick komut istemiyle Trump'a karşı.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/247.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20e5ac06f0809299f65b0ca74bb38fce/thumbnails/thumbnail.jpg" width="600" alt="Kamala ile Trump'ın Tom ve John Wick Prompt'u ile Kavgası"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=247)**
 
-**Yazar:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Kaynak:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=247)**
+**Yazar:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Kaynak:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Bir Tatlıcıda 360 Derece Panoramik Selfie
@@ -982,11 +914,9 @@ Kamala, Tom ve John Wick komut istemiyle Trump'a karşı.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/246.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a450c998b8f407f567a4e388fb28a51f/thumbnails/thumbnail.jpg" width="600" alt="Bir Tatlıcıda 360 Derece Panoramik Selfie"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=246)**
 
-**Yazar:** [nachos2d](https://x.com/NACHOS2D_) | **Kaynak:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=246)**
+**Yazar:** [nachos2d](https://x.com/NACHOS2D_) | **Kaynak:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Grok Imagine Görüntüden Videoya İstemi
@@ -1003,11 +933,9 @@ Kadınların Elon Musk'a karşı güzel kick boks stili ve ölümcül tekme ile 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/262.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c488600f5174e2706854c8266152f23c/thumbnails/thumbnail.jpg" width="600" alt="Grok Imagine Görüntüden Videoya İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=262)**
 
-**Yazar:** [Apil](https://x.com/apilpirman) | **Kaynak:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=262)**
+**Yazar:** [Apil](https://x.com/apilpirman) | **Kaynak:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Canlı Aksiyon DBZ Savaş İstemcisi
@@ -1024,11 +952,9 @@ Goku ve Vegeta arasında canlı aksiyon Saiyan savaşı, süper Saiyan mavisi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/259.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bdd940530db035d37ce23b075059c1f/thumbnails/thumbnail.jpg" width="600" alt="Canlı Aksiyon DBZ Savaş İstemcisi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=259)**
 
-**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=259)**
+**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### 1980'ler Vampir Röportajı İstemleri
@@ -1045,11 +971,9 @@ Goku ve Vegeta arasında canlı aksiyon Saiyan savaşı, süper Saiyan mavisi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/254.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/415c02911856359ec121c2680e3cecad/thumbnails/thumbnail.jpg" width="600" alt="1980'ler Vampir Röportajı İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=254)**
 
 **Yazar:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Kaynak:** [Link](https://x.com/ImperfectEngel/status/2021977382781927821) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=254)**
 
 ---
 ### Hızlı Aksiyon Sahnesi İstemleri
@@ -1066,11 +990,9 @@ Hızlı tempolu bir dövüş sahnesi: John Wick ve James Bond (007) ve başka bi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/295.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6537507c94c98909512166dcf60bc31/thumbnails/thumbnail.jpg" width="600" alt="Hızlı Aksiyon Sahnesi İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=295)**
 
 **Yazar:** [Chraft](https://x.com/chraft_ai) | **Kaynak:** [Link](https://x.com/chraft_ai/status/2021971858409832507) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=295)**
 
 ---
 ### Karanlık Fantezi Kadın Görüntüsü Video İstemleri
@@ -1087,11 +1009,9 @@ Uzun, dalgalı saçları olan, keskin, boynuz benzeri uçlara sahip karmaşık m
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/284.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/600e0f0c15a2eb3938c6b52fdb92a16f/thumbnails/thumbnail.jpg" width="600" alt="Karanlık Fantezi Kadın Görüntüsü Video İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=284)**
 
 **Yazar:** [惜命少女阿昕要出海~](https://x.com/MRongxin7589) | **Kaynak:** [Link](https://x.com/MRongxin7589/status/2021952831398559882) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=284)**
 
 ---
 ### Brad Pitt ve Tom Cruise Dövüş Sahnesi
@@ -1108,11 +1028,9 @@ Brad Pitt ve Tom Cruise arasında, kavga sırasındaki diyaloglarının Epstein 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/249.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/615e2c9869fca69f5e939a74e42ee50f/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt ve Tom Cruise Dövüş Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=249)**
 
 **Yazar:** [China pulse 🇨🇳](https://x.com/Eng_china5) | **Kaynak:** [Link](https://x.com/Eng_china5/status/2021949493374259431) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=249)**
 
 ---
 ### Seedance 2.0 Antropomorfik Romantik Hikaye
@@ -1129,11 +1047,9 @@ Antropomorfik ayakta duruşlara sahip sevimli evcil hayvan görsellerini kullana
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/292.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0904f5589c27d9b576ccca06c00ceec0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Antropomorfik Romantik Hikaye"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=292)**
 
 **Yazar:** [Rayko_Zopia](https://x.com/Fox1251104) | **Kaynak:** [Link](https://x.com/Fox1251104/status/2021949028481843527) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=292)**
 
 ---
 ### Çoklu Çekim Yaratık Yarışı Sahnesi
@@ -1150,11 +1066,9 @@ Fütüristik şehirde aşırı hızlı giden bir Yaratık, dramatik açılardan 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/250.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f540787e090f8d8fecca3a422a2c43f/thumbnails/thumbnail.jpg" width="600" alt="Çoklu Çekim Yaratık Yarışı Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=250)**
 
 **Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021943401198104904) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=250)**
 
 ---
 ### Çin Başarı Semineri (Tavuk Suyu) Video İstemi
@@ -1189,11 +1103,9 @@ Seyirci: Çılgınca ayağa kalkar, alkışlar, bazılarının gözlerinde yaşl
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/285.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/318a244853e3b45a7e701e249dee0300/thumbnails/thumbnail.jpg" width="600" alt="Çin Başarı Semineri (Tavuk Suyu) Video İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=285)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021938129821663469) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=285)**
 
 ---
 ### Fütüristik Araba Reklamı İstemleri (Y - Geleceği Sürün)
@@ -1228,11 +1140,9 @@ Bitiş Dondurulmuş Kare: Araba gövdesi dev bir dolunaya doğru uçuyor ve kare
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/278.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/385d9ffbdc03e8d0db8a4e2b2cd96d0a/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Araba Reklamı İstemleri (Y - Geleceği Sürün)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=278)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021928568272412985) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=278)**
 
 ---
 ### The Great Era (大时代) 90'lar HK TV Dizisi Tarzı Video İstemi
@@ -1274,11 +1184,9 @@ Yakın çekim: Çekim nihayet onun çaresiz, boş gözlerine (göz bebekleri par
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/286.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6e275327a6c1142fe12b74dcf04d66e9/thumbnails/thumbnail.jpg" width="600" alt="The Great Era (大时代) 90'lar HK TV Dizisi Tarzı Video İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=286)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021919778667999639) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=286)**
 
 ---
 ### Üç Kısa Drama Senaryosu (Modern Romantizm/Çatışma)
@@ -1317,11 +1225,9 @@ Seedance 2.0 İstem
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/281.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31886222bfa7cac401b2b73e7e228654/thumbnails/thumbnail.jpg" width="600" alt="Üç Kısa Drama Senaryosu (Modern Romantizm/Çatışma)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=281)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2021918709573652649) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=281)**
 
 ---
 ### Bir Kokpitte Yüksek Yoğunluklu Aksiyon Gerilim Sahnesi
@@ -1338,11 +1244,9 @@ Yüksek yoğunluklu aksiyon gerilim sahnesi, elde sallanan kamera, sinematik har
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/267.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964a44bbdbdacffef96dcb70b8f8a7b/thumbnails/thumbnail.jpg" width="600" alt="Bir Kokpitte Yüksek Yoğunluklu Aksiyon Gerilim Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=267)**
 
 **Yazar:** [Kemal Cagin](https://x.com/kemalcse) | **Kaynak:** [Link](https://x.com/kemalcse/status/2021903817382437323) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=267)**
 
 ---
 ### Leviathan'ın Boğazı: Sualtı Megayapısına İniş
@@ -1359,11 +1263,9 @@ Sular altında kalmış yeraltı bir mega yapı, siyah suya yarı batmış antik
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/248.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ec8cf21148b39e7df98676ac29516ba/thumbnails/thumbnail.jpg" width="600" alt="Leviathan'ın Boğazı: Sualtı Megayapısına İniş"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=248)**
 
 **Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021901586889428999) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=248)**
 
 ---
 ### Hayvanat Bahçesinde İnsan ve Fil (Eski Kamera Stili)
@@ -1380,11 +1282,9 @@ Hayvanat bahçesinde bir filin önünde duran bir adamın bulanık, eski kamera 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/273.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbd5602ebdab2ccc1dd8419d3c1e2637/thumbnails/thumbnail.jpg" width="600" alt="Hayvanat Bahçesinde İnsan ve Fil (Eski Kamera Stili)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=273)**
 
 **Yazar:** [rizzy (bulk uwuuu arc)](https://x.com/rizzy_sol) | **Kaynak:** [Link](https://x.com/rizzy_sol/status/2021899370313232797) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=273)**
 
 ---
 ### Örümcek Adam vs. Ahtapot Adam Dövüş Sahnesi İstemleri
@@ -1401,11 +1301,9 @@ Lütfen #Seedance 2.0 kullanarak Örümcek Adam ve Ahtapot Adam arasında heyeca
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/290.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2c570b487f1120d7b4d7b362a62ef2ce/thumbnails/thumbnail.jpg" width="600" alt="Örümcek Adam vs. Ahtapot Adam Dövüş Sahnesi İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=290)**
 
 **Yazar:** [なぁさん｜AIと働くひとり社長](https://x.com/nasan_0422) | **Kaynak:** [Link](https://x.com/nasan_0422/status/2021856286237995387) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=290)**
 
 ---
 ### 10 Saniyelik MV İsteklerinin Üç Tarzı
@@ -1440,11 +1338,9 @@ Seedance 2.0 İstem
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/280.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d64a1a89a513469573578fdb58deb06/thumbnails/thumbnail.jpg" width="600" alt="10 Saniyelik MV İsteklerinin Üç Tarzı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=280)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2021837242767905051) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=280)**
 
 ---
 ### Naruto ve Luffy Dövüş Sahnesi İstemcisi
@@ -1461,11 +1357,9 @@ Seedance 2.0 İstem
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/253.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97ef3801653cc305a13ae972efa3da64/thumbnails/thumbnail.jpg" width="600" alt="Naruto ve Luffy Dövüş Sahnesi İstemcisi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=253)**
 
 **Yazar:** [Youn Hwang](https://x.com/YounchanHwang) | **Kaynak:** [Link](https://x.com/YounchanHwang/status/2021827758574514425) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=253)**
 
 ---
 ### Michael Jackson vs Hitler Karşılaşması
@@ -1482,11 +1376,9 @@ Michael Jackson ve Hitler destansı bir kapışmada.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/264.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e47461365198915f680d6213de0bd47b/thumbnails/thumbnail.jpg" width="600" alt="Michael Jackson vs Hitler Karşılaşması"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=264)**
 
 **Yazar:** [ImPaul](https://x.com/impaulxyz) | **Kaynak:** [Link](https://x.com/impaulxyz/status/2021825594963767522) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=264)**
 
 ---
 ### Modern Kırsal Estetik Şifa Veren Kısa Film Video İstemleri
@@ -1526,11 +1418,9 @@ Atmosfer: Arkadan aydınlatmaya karşı buhar yavaşça yükselir, sahne o kadar
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="600" alt="Modern Kırsal Estetik Şifa Veren Kısa Film Video İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=288)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021818021354848258) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=288)**
 
 ---
 ### Madoka Magica Saçmalık İstemcisi
@@ -1547,11 +1437,9 @@ Ekrana biraz Madoka Magica saçmalığı koyun yeter, üçleme zaten mükemmeldi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/256.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51eb72c679636031c1bc390931f39a85/thumbnails/thumbnail.jpg" width="600" alt="Madoka Magica Saçmalık İstemcisi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=256)**
 
 **Yazar:** [alpon](https://x.com/StayGoys) | **Kaynak:** [Link](https://x.com/StayGoys/status/2021814981998915591) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=256)**
 
 ---
 ### Çiçekler Son Bir Şekil Oluşturuyor İstem (Seedance Pro 1.0)
@@ -1568,11 +1456,9 @@ rüzgar bitkileri yavaşça hareket ettirdikçe, çiçekler de birlikte hareket 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/294.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c022dfe1bd826f69e1af7d138e18566a/thumbnails/thumbnail.jpg" width="600" alt="Çiçekler Son Bir Şekil Oluşturuyor İstem (Seedance Pro 1.0)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=294)**
 
 **Yazar:** [Gabriela Cardona](https://x.com/gcwalther_x) | **Kaynak:** [Link](https://x.com/gcwalther_x/status/2021807433329541251) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=294)**
 
 ---
 ### Vegeta Süper Saiyan 100 vs Temel Goku İstemci
@@ -1589,11 +1475,9 @@ rüzgar bitkileri yavaşça hareket ettirdikçe, çiçekler de birlikte hareket 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/257.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59933f3b03e5acb9c78ba8103b17b234/thumbnails/thumbnail.jpg" width="600" alt="Vegeta Süper Saiyan 100 vs Temel Goku İstemci"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=257)**
 
 **Yazar:** [Lozio](https://x.com/minilozio) | **Kaynak:** [Link](https://x.com/minilozio/status/2021801238191354346) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=257)**
 
 ---
 ### Şampiyonlar Ligi Finalinde Köpek vs. Prime Ronaldo
@@ -1612,11 +1496,9 @@ Köpeğiniz. vs Prime Ronaldo.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/276.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8610c8b785a4ca16ad5efa0a20e12c62/thumbnails/thumbnail.jpg" width="600" alt="Şampiyonlar Ligi Finalinde Köpek vs. Prime Ronaldo"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=276)**
 
 **Yazar:** [Sohrab Khalid](https://x.com/Sohrabkhalid01) | **Kaynak:** [Link](https://x.com/Sohrabkhalid01/status/2021793484152443204) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=276)**
 
 ---
 ### Demon Slayer Canlı Aksiyon Gişe Rekortmeni Video İstemleri
@@ -1650,11 +1532,9 @@ Aksiyon: Katı su akışı kılıcı, yıldırım ışık kılıcıyla şiddetle
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/287.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b68ef87baba667e396542bfb75bf8143/thumbnails/thumbnail.jpg" width="600" alt="Demon Slayer Canlı Aksiyon Gişe Rekortmeni Video İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=287)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021786934536740871) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=287)**
 
 ---
 ### Korku Kısa Film Senaryosu: Ayna Hatası
@@ -1676,11 +1556,9 @@ Aksiyon: Katı su akışı kılıcı, yıldırım ışık kılıcıyla şiddetle
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/194.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4dfa5920ffbe5cafb0bfa2e1c8d5e43/thumbnails/thumbnail.jpg" width="600" alt="Korku Kısa Film Senaryosu: Ayna Hatası"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=194)**
 
 **Yazar:** [MapleShaw](https://x.com/msjiaozhu) | **Kaynak:** [Link](https://x.com/msjiaozhu/status/2021777584913363052) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=194)**
 
 ---
 ### Anime Savaşçısı vs. Ahtapot Uzaylı
@@ -1697,11 +1575,9 @@ Aksiyon: Katı su akışı kılıcı, yıldırım ışık kılıcıyla şiddetle
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/268.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e15b8deffb25d1c4eb359cb7a51e7d3c/thumbnails/thumbnail.jpg" width="600" alt="Anime Savaşçısı vs. Ahtapot Uzaylı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=268)**
 
 **Yazar:** [Charles Boonsu](https://x.com/Boonsu28) | **Kaynak:** [Link](https://x.com/Boonsu28/status/2021744608565461025) | **Yayınlandı:** Feb 12, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=268)**
 
 ---
 ### Savaş Pilotu Muharebesi için Aksiyon Dizisi İstemleri
@@ -1718,11 +1594,9 @@ Modern savaş jetlerinde havada çatışmaya giren üst düzey bir savaş pilotu
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/170.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83d45e6e5c5c4b55b0aeb2be8457dc3f/thumbnails/thumbnail.jpg" width="600" alt="Savaş Pilotu Muharebesi için Aksiyon Dizisi İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=170)**
 
-**Yazar:** [𝕏Caliber](https://x.com/XCaliber) | **Kaynak:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=170)**
+**Yazar:** [𝕏Caliber](https://x.com/XCaliber) | **Kaynak:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Kadın Gölgedeki Adamla Yüzleşiyor
@@ -1739,11 +1613,9 @@ Bir kadın gergin bir şekilde gölgelerdeki adamdan dışarı çıkmasını ist
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/208.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88c907293c0360906cb9348795f68510/thumbnails/thumbnail.jpg" width="600" alt="Kadın Gölgedeki Adamla Yüzleşiyor"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=208)**
 
-**Yazar:** [Gavin Purcell](https://x.com/gavinpurcell) | **Kaynak:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=208)**
+**Yazar:** [Gavin Purcell](https://x.com/gavinpurcell) | **Kaynak:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Doraemon ve Örümcek Adam Dövüşüyor
@@ -1760,11 +1632,9 @@ Doramon ve Spiderman'in çok kaliteli ve yoğun dövüşü
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/309.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/831e251abb54dcafb9017321c9ee454c/thumbnails/thumbnail.jpg" width="600" alt="Doraemon ve Örümcek Adam Dövüşüyor"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=309)**
 
-**Yazar:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Kaynak:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=309)**
+**Yazar:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Kaynak:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Sualtı Altın Paralarıyla Elde Koşu Çekimi
@@ -1781,11 +1651,9 @@ Altın paralarla dolu bir çantayla koşan, suya atlayan ve kameranın su altın
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/161.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc5e9f5f1117e88be32669ceef99e258/thumbnails/thumbnail.jpg" width="600" alt="Sualtı Altın Paralarıyla Elde Koşu Çekimi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=161)**
 
-**Yazar:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Kaynak:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=161)**
+**Yazar:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Kaynak:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Sert Boks Antrenmanı Seansı
@@ -1802,11 +1670,9 @@ Kirli bir spor salonunda iki boksörün antrenman maçı yaparken etrafında dö
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/140.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/979c969281afb9fc2ed8eac25b2cdc4a/thumbnails/thumbnail.jpg" width="600" alt="Sert Boks Antrenmanı Seansı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=140)**
 
-**Yazar:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Kaynak:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=140)**
+**Yazar:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Kaynak:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Seedance 2.0 için Absürt Komedi Video İstemcisi: Hiçbir Şey
@@ -1853,11 +1719,9 @@ Sahne 4: Binici Kendini Alaya Alarak Dörtnala Koşmaya Devam Ediyor (0:20-0:30,
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/186.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb508c2bee50c5f91dcc9af38b81789c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 için Absürt Komedi Video İstemcisi: Hiçbir Şey"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=186)**
 
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=186)**
+**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Dev Bir Canavardan Kaçmak (Arcane Tarzı)
@@ -1874,11 +1738,9 @@ Sahne 4: Binici Kendini Alaya Alarak Dörtnala Koşmaya Devam Ediyor (0:20-0:30,
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/142.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03053e7c2f2fab12eb9beb859ee4a0cf/thumbnails/thumbnail.jpg" width="600" alt="Dev Bir Canavardan Kaçmak (Arcane Tarzı)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=142)**
 
-**Yazar:** [Dipper](https://x.com/dipperdao) | **Kaynak:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=142)**
+**Yazar:** [Dipper](https://x.com/dipperdao) | **Kaynak:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Flash Yönetmeninin İstemleri
@@ -1908,9 +1770,9 @@ Alçak, rezonanslı bir uğultu yükselir. Önündeki hava cam gibi çatlar. Dai
 
 <img src="https://pbs.twimg.com/ext_tw_video_thumb/2021687496200138752/pu/img/5dvJPMJNeKbkhWXw.jpg" width="600" alt="Flash Yönetmeninin İstemleri">
 
-**Yazar:** [Rufus](https://x.com/Rufus87078959) | **Kaynak:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Yayınlandı:** Feb 11, 2026
-
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=167)**
+
+**Yazar:** [Rufus](https://x.com/Rufus87078959) | **Kaynak:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Bir Maasai Köyünde Kaos
@@ -1927,11 +1789,9 @@ Devasa zırhlı bir babun, yanan bir Maasai köyünde dörtnala ilerliyor, bir M
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/160.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3596ec617da95fd7cbc1f714b784364/thumbnails/thumbnail.jpg" width="600" alt="Bir Maasai Köyünde Kaos"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=160)**
 
-**Yazar:** [Travis Davids](https://x.com/MrDavids1) | **Kaynak:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=160)**
+**Yazar:** [Travis Davids](https://x.com/MrDavids1) | **Kaynak:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Will Smith Spagetti Canavarıyla Savaşıyor (80'ler Aksiyon)
@@ -1948,11 +1808,9 @@ Will Smith spagetti canavarıyla dövüşüyor, destansı 80'ler aksiyon filmi s
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/178.mp4"><img src="https://cms-assets.youmind.com/media/1770973052093_6qmpso_HA5yb5kbsAASxIT.jpg" width="600" alt="Will Smith Spagetti Canavarıyla Savaşıyor (80'ler Aksiyon)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=178)**
 
-**Yazar:** [S0FT](https://x.com/sudoSoftAI) | **Kaynak:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=178)**
+**Yazar:** [S0FT](https://x.com/sudoSoftAI) | **Kaynak:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Trump vs Michael Jackson Yapay Zeka Dans Savaşı
@@ -1969,11 +1827,9 @@ TRUMP VS MICHAEL JACKSON: EN DESTANSI YAPAY ZEKA DANS SAVAŞI
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/263.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09236d8fc9ba53eb3a24cf6f971b172f/thumbnails/thumbnail.jpg" width="600" alt="Trump vs Michael Jackson Yapay Zeka Dans Savaşı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=263)**
 
-**Yazar:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Kaynak:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=263)**
+**Yazar:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Kaynak:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Sinematik 2. Dünya Savaşı Motosiklet Kaçışı
@@ -1990,11 +1846,9 @@ Sora ve Veo'nun varlıklarını sorgulatacak sinematik bir 2. Dünya Savaşı mo
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/126.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba1b4c7e9e3008edae6f64ff8791a2c9/thumbnails/thumbnail.jpg" width="600" alt="Sinematik 2. Dünya Savaşı Motosiklet Kaçışı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=126)**
 
-**Yazar:** [pewden AI](https://x.com/pewdenai) | **Kaynak:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=126)**
+**Yazar:** [pewden AI](https://x.com/pewdenai) | **Kaynak:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Deniz canavarı tarafından saldırıya uğrayan bir deniz teknesindeki adam
@@ -2011,11 +1865,9 @@ Devasa bir yağmur fırtınası sırasında bir adam denizde bir teknededir ve b
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/303.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7b14b6fcc2e0a3acaf1e3d44070aa03/thumbnails/thumbnail.jpg" width="600" alt="Deniz canavarı tarafından saldırıya uğrayan bir deniz teknesindeki adam"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=303)**
 
-**Yazar:** [Anthony T](https://x.com/creativesinner2) | **Kaynak:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=303)**
+**Yazar:** [Anthony T](https://x.com/creativesinner2) | **Kaynak:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Diyaloglu Çok Karakterli Kabin Sahnesi
@@ -2042,11 +1894,9 @@ Sabit kamera. Karakterler içeri girip art arda koltuklarına otururken tek bir 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/138.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/770840fa40915a251a4403ad9aa8cecc/thumbnails/thumbnail.jpg" width="600" alt="Diyaloglu Çok Karakterli Kabin Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=138)**
 
-**Yazar:** [Jason W - AI](https://x.com/PocketScreenAI) | **Kaynak:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=138)**
+**Yazar:** [Jason W - AI](https://x.com/PocketScreenAI) | **Kaynak:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Thanos Spider-Man'den Özür Diliyor İstemi
@@ -2063,11 +1913,9 @@ Thanos'u, Örümcek Adam liderliğindeki bir grup saldırıdan önce özür dile
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/207.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70efc711721216b6fa7ca23d8ba611c8/thumbnails/thumbnail.jpg" width="600" alt="Thanos Spider-Man'den Özür Diliyor İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=207)**
 
-**Yazar:** [xAi✨](https://x.com/xai_42) | **Kaynak:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=207)**
+**Yazar:** [xAi✨](https://x.com/xai_42) | **Kaynak:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Zincirli, perişan evsiz kadın
@@ -2084,11 +1932,9 @@ Lumpen, Hobo, kadın versiyonu, eski püskü kedi, dikkat çekmek için zincirle
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Zincirli, perişan evsiz kadın"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=205)**
 
-**Yazar:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Kaynak:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=205)**
+**Yazar:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Kaynak:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Lego Montaj Hızlandırılmış Animasyon
@@ -2110,11 +1956,9 @@ Odada Lego parçalarını ciddi bir şekilde birleştiren bir çocuk, sahne 3D a
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Lego Montaj Hızlandırılmış Animasyon"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=329)**
 
-**Yazar:** [维维](https://x.com/siveill) | **Kaynak:** [Link](https://x.com/siveill/status/2021635240985604526) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=329)**
+**Yazar:** [维维](https://x.com/siveill) | **Kaynak:** [Link](https://x.com/siveill/status/2021635240985604526) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### One Piece Esintili Metinden Videoya İstemi
@@ -2134,11 +1978,9 @@ Dev bir kara ejderhaya dönüşüyor ve herkesi gökyüzünden yakalıyor (Loki'
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="One Piece Esintili Metinden Videoya İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=199)**
 
-**Yazar:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Kaynak:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=199)**
+**Yazar:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Kaynak:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Cozy Nighttime Pet Secret Kısa Filmi
@@ -2165,11 +2007,9 @@ Dev bir kara ejderhaya dönüşüyor ve herkesi gökyüzünden yakalıyor (Loki'
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="Cozy Nighttime Pet Secret Kısa Filmi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=330)**
 
-**Yazar:** [Michelle](https://x.com/Michell81147285) | **Kaynak:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=330)**
+**Yazar:** [Michelle](https://x.com/Michell81147285) | **Kaynak:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Yüksek Enerjili Ticari Senaryo
@@ -2186,11 +2026,9 @@ Seedance 2.0 kullan, yüksek enerjili, sinematik, makro yakın çekimlerle bir t
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="Yüksek Enerjili Ticari Senaryo"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=311)**
 
-**Yazar:** [Kaiwen Li](https://x.com/realkaiwenli) | **Kaynak:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=311)**
+**Yazar:** [Kaiwen Li](https://x.com/realkaiwenli) | **Kaynak:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Kraken Saldırısı Sinematik Sahnesi
@@ -2207,11 +2045,9 @@ Dev bir kraken bir korsan gemisine saldırıyor, kaptan kılıcıyla onu dilimli
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="Kraken Saldırısı Sinematik Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=152)**
 
-**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=152)**
+**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Luffy ve Goku Destansı Dövüş Sahnesi
@@ -2228,11 +2064,9 @@ Luffy ve Goku, Sunny'de destansı bir dövüş sahnesi yaşıyor.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="Luffy ve Goku Destansı Dövüş Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=163)**
 
 **Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021611931480609139) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=163)**
 
 ---
 ### Tokyo Yarış Sahnesi için Çoklu Çekim Metinden Videoya İstemi
@@ -2256,11 +2090,9 @@ Dışarıdan alçak arka çekim, sürücü NOS düğmesine bastığında araban�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Yarış Sahnesi için Çoklu Çekim Metinden Videoya İstemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=265)**
 
 **Yazar:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Kaynak:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=265)**
 
 ---
 ### Yüzen Adada Şarkı Söyleyen Kedi
@@ -2277,11 +2109,9 @@ Dışarıdan alçak arka çekim, sürücü NOS düğmesine bastığında araban�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="Yüzen Adada Şarkı Söyleyen Kedi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=164)**
 
 **Yazar:** [goku](https://x.com/spinningsensei) | **Kaynak:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=164)**
 
 ---
 ### Bitcoin Federal Rezerv'i Yok Ediyor (Anime Güçlendirmesi)
@@ -2298,11 +2128,9 @@ Dışarıdan alçak arka çekim, sürücü NOS düğmesine bastığında araban�
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="Bitcoin Federal Rezerv'i Yok Ediyor (Anime Güçlendirmesi)"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=148)**
 
 **Yazar:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **Kaynak:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=148)**
 
 ---
 ### Korsan meyhanesi sahnesi istemi
@@ -2319,11 +2147,9 @@ Korsan meyhanesi. Masada alev makinesi. Elinde bira.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="Korsan meyhanesi sahnesi istemi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=306)**
 
 **Yazar:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **Kaynak:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=306)**
 
 ---
 ### Xianxia Animasyon Filmi Savaş Senaryosu: Han Li vs. Wang Lin
@@ -2340,11 +2166,9 @@ Korsan meyhanesi. Masada alev makinesi. Elinde bira.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="Xianxia Animasyon Filmi Savaş Senaryosu: Han Li vs. Wang Lin"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=193)**
 
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=193)**
 
 ---
 ### Yüksek Oktanlı Araba Kovalamaca Sahnesi
@@ -2361,11 +2185,9 @@ Araba takibi, drift, yüksek oktan, F1, çarpışma, patlama.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="Yüksek Oktanlı Araba Kovalamaca Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=165)**
 
 **Yazar:** [ChatCut](https://x.com/chatcutapp) | **Kaynak:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=165)**
 
 ---
 ### New Amsterdam Simülatörü
@@ -2382,11 +2204,9 @@ New Amsterdam (Günümüz New York Şehri) Simülatörü
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="New Amsterdam Simülatörü"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=181)**
 
 **Yazar:** [@levelsio](https://x.com/levelsio) | **Kaynak:** [Link](https://x.com/levelsio/status/2021587482349895747) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=181)**
 
 ---
 ### Bilim Kurgu Dönüşüm Kısa Film Senaryosu: Geleceği Uyandırmak
@@ -2419,11 +2239,9 @@ Süre: 10 saniye | Stil: En iyi Hollywood reklam filmi | Görsel Etki: Son derec
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="Bilim Kurgu Dönüşüm Kısa Film Senaryosu: Geleceği Uyandırmak"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=182)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=182)**
 
 ---
 ### Seedance 2.0 için Kentsel Fantezi Kısa Drama Konusu: İyi Şans Geliyor
@@ -2464,11 +2282,9 @@ Altyazı Efekti: Büyük metin "Şans Geliyor" yazar.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 için Kentsel Fantezi Kısa Drama Konusu: İyi Şans Geliyor"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=188)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=188)**
 
 ---
 ### Klasik Disney Tarzı Animasyon Macerası
@@ -2485,11 +2301,9 @@ Altyazı Efekti: Büyük metin "Şans Geliyor" yazar.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="Klasik Disney Tarzı Animasyon Macerası"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=141)**
 
 **Yazar:** [FragZero](https://x.com/FragZero) | **Kaynak:** [Link](https://x.com/FragZero/status/2021568010452869227) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=141)**
 
 ---
 ### Fantezi Hikaye Konusu: Kelebek Perisi Dönüşümü
@@ -2506,11 +2320,9 @@ Sihirli bir eserin hikayesi. Çerçeveden bir kelebek uçar, güzel bir kelebek 
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="Fantezi Hikaye Konusu: Kelebek Perisi Dönüşümü"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=112)**
 
 **Yazar:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **Kaynak:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=112)**
 
 ---
 ### Cadillac Formula 1 Otomobili 2026
@@ -2527,11 +2339,9 @@ Cadillac Formula 1 2026 aracının görüntüsünden videoya.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="Cadillac Formula 1 Otomobili 2026"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=310)**
 
 **Yazar:** [HNNS.](https://x.com/ItsMeHannes) | **Kaynak:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=310)**
 
 ---
 ### Godzilla Jakarta'daki Monas'a Saldırıyor
@@ -2548,11 +2358,9 @@ Endonezya ordusu saldırırken Godzilla'nın Cakarta'daki Monas'a saldırdığı
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="Godzilla Jakarta'daki Monas'a Saldırıyor"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=90)**
 
 **Yazar:** [Not Yours](https://x.com/neveryourbaee) | **Kaynak:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=90)**
 
 ---
 ### Çinli Subayın Anime Videosu
@@ -2569,11 +2377,9 @@ Seedance 2.0'ı kullanarak bir anime videosu oluşturun: Çinli bir memurla komi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="Çinli Subayın Anime Videosu"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=146)**
 
 **Yazar:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Kaynak:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=146)**
 
 ---
 ### Telif Hakkını Aşmak: Chinatown'da Nezha ve Minyonlar
@@ -2590,11 +2396,9 @@ Seedance 2.0'ı kullanarak bir anime videosu oluşturun: Çinli bir memurla komi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="Telif Hakkını Aşmak: Chinatown'da Nezha ve Minyonlar"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=318)**
 
 **Yazar:** [Dow Ma](https://x.com/VoiceOfDow) | **Kaynak:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=318)**
 
 ---
 ### John Wick Tarzı Aksiyon Sahnesi İstemleri
@@ -2612,11 +2416,9 @@ Seedance 2.0'ı kullanarak bir anime videosu oluşturun: Çinli bir memurla komi
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="John Wick Tarzı Aksiyon Sahnesi İstemleri"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=319)**
 
 **Yazar:** [大宝](https://x.com/xiaolongli7697) | **Kaynak:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=319)**
 
 ---
 ### Sinematik Giriş Sahnesi Senaryosu: Vancouver Konaklarında Dörtnala
@@ -2658,11 +2460,9 @@ Sahne 3: Malikanenin Yanından Dörtnala Geçiş (0:09-0:15, 6 saniye)
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Giriş Sahnesi Senaryosu: Vancouver Konaklarında Dörtnala"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=185)**
 
 **Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2021545550772924579) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=185)**
 
 ---
 ### Harry Potter ve Voldemort Aksiyon Sahnesi
@@ -2679,11 +2479,9 @@ Harry Potter ve Voldemort arasında aksiyon dolu bir dövüş sahnesi oluştur.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Harry Potter ve Voldemort Aksiyon Sahnesi"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=153)**
 
 **Yazar:** [ChatCut](https://x.com/chatcutapp) | **Kaynak:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=153)**
 
 ---
 ### Sinematik Kanatlı Tulum Uçuş Sekansı
@@ -2700,11 +2498,9 @@ Harry Potter ve Voldemort arasında aksiyon dolu bir dövüş sahnesi oluştur.
 
 <a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Kanatlı Tulum Uçuş Sekansı"></a>
 
-📥 *Videoyu indirmek için resme tıklayın*
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=132)**
 
 **Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Yayınlandı:** Feb 11, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=132)**
 
 ---
 ---
@@ -2768,6 +2564,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T16:46:22.434Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T16:58:09.831Z</sub>
 
 </div>

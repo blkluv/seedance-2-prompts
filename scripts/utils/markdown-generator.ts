@@ -289,14 +289,15 @@ function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, local
   // Check if we have a video URL from the mapping
   const videoUrl = videoUrls[String(p.id)];
   let mediaEmbed: string;
+  const watchVideoLink = `**[${t('watchVideo', locale)}](${tryLink})**`;
   if (videoUrl && videoUrl.includes('user-attachments/assets/')) {
     // GitHub auto-renders user-attachments URLs as inline video players
-    mediaEmbed = videoUrl;
+    mediaEmbed = `${videoUrl}\n\n${watchVideoLink}`;
   } else if (videoUrl && displayImage) {
     // Fallback: release assets URL — use clickable thumbnail (GitHub won't auto-embed these)
-    mediaEmbed = `<a href="${videoUrl}"><img src="${displayImage}" width="${imgWidth}" alt="${p.title}"></a>\n\n📥 *${t('clickToPlay', locale)}*`;
+    mediaEmbed = `<a href="${videoUrl}"><img src="${displayImage}" width="${imgWidth}" alt="${p.title}"></a>\n\n📥 *${t('clickToPlay', locale)}* | ${watchVideoLink}`;
   } else {
-    mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">`;
+    mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${p.title}">\n\n${watchVideoLink}`;
   }
 
   return `### ${p.title}
@@ -312,8 +313,6 @@ ${promptContent}
 ${mediaEmbed}
 
 ${authorLine}${sourceLine}${dateLine}
-
-**[${t('watchVideo', locale)}](${tryLink})**
 
 ---
 `;
