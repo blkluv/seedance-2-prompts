@@ -101,7 +101,7 @@ ${t('subtitle', locale)}
 
   // Gallery CTA
   const imageLang = locale === 'zh' || locale === 'zh-TW' ? 'zh' : 'en';
-  const coverImage = `public/gallery-${imageLang}.jpg`;
+  const coverImage = `public/gallery-${imageLang}.png`;
 
   md += `## 🌐 ${t('viewInGallery', locale)}
 
