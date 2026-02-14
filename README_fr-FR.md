@@ -119,7 +119,7 @@ Un champ de bataille surréaliste dans le ciel : des îles rocheuses flottantes 
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=133)**
 
-**Auteur:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publié:** Feb 12, 2026
+**Auteur:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Publié:** Feb 11, 2026
 
 ---
 ### Prompt de combat en direct de Demon Slayer pour Seedance 2.0
@@ -215,7 +215,7 @@ Une scène cinématographique réaliste s'ouvre sur une paisible campagne japona
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=351)**
 
-**Auteur:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Source:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Publié:** Feb 14, 2026
+**Auteur:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Source:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Publié:** Feb 13, 2026
 
 ---
 ### Annonce du tournoi Cosmic Arena par Gintoki Sakata
@@ -236,7 +236,7 @@ Il annonce la règle...
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=344)**
 
-**Auteur:** [KIRA](https://x.com/k1raa__) | **Source:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Publié:** Feb 14, 2026
+**Auteur:** [KIRA](https://x.com/k1raa__) | **Source:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Publié:** Feb 13, 2026
 
 ---
 ### Scène de film de course hollywoodien : invite (partie 1)
@@ -257,7 +257,7 @@ Style : Film de course automobile professionnel hollywoodien (style Le Mans), nu
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=350)**
 
-**Auteur:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Source:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Publié:** Feb 14, 2026
+**Auteur:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Source:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Publié:** Feb 13, 2026
 
 ---
 ### Maki Zenin : Scène de combat rapide (Mouvements agiles)
@@ -276,7 +276,7 @@ affrontement où la femme élimine tous les épéistes avec des attaques puissan
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=354)**
 
-**Auteur:** [karim_yourself](https://x.com/karim_yourself) | **Source:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Publié:** Feb 14, 2026
+**Auteur:** [karim_yourself](https://x.com/karim_yourself) | **Source:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Publié:** Feb 13, 2026
 
 ---
 ### Maki Zenin : Scène de combat (vue de dessus)
@@ -295,7 +295,7 @@ Plan en plongée sur la femme qui élimine tous les épéistes avec des attaques
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=352)**
 
-**Auteur:** [karim_yourself](https://x.com/karim_yourself) | **Source:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Publié:** Feb 14, 2026
+**Auteur:** [karim_yourself](https://x.com/karim_yourself) | **Source:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Publié:** Feb 13, 2026
 
 ---
 ### Fête Stranger Things : Libérer les superpouvoirs
@@ -314,7 +314,7 @@ Plan d'ensemble cinématographique de dark fantasy des années 1980 du groupe St
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=347)**
 
-**Auteur:** [Zopia AI](https://x.com/Zopia_AI) | **Source:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Publié:** Feb 14, 2026
+**Auteur:** [Zopia AI](https://x.com/Zopia_AI) | **Source:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Publié:** Feb 13, 2026
 
 ---
 ### Scène de basket de rue cinématique : un homme se fait contrer par une femme
@@ -763,7 +763,7 @@ Musique accompagnant la scène 1 : « Sun Wukong se tient sur le toit de la vill
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=291)**
 
-**Auteur:** [chimi チミワウ](https://x.com/chimiwaw) | **Source:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Publié:** Feb 13, 2026
+**Auteur:** [chimi チミワウ](https://x.com/chimiwaw) | **Source:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Publié:** Feb 12, 2026
 
 ---
 ### Scène de dialogue de Sailor Moon
@@ -782,7 +782,7 @@ Sailor Moon saute sur le lit en criant : « Les filles, on l'a fait ! » Sailor 
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=270)**
 
-**Auteur:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Source:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Publié:** Feb 13, 2026
+**Auteur:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Source:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Publié:** Feb 12, 2026
 
 ---
 ### Scène de fusillade à la John Woo – Prompt
@@ -801,7 +801,7 @@ Sailor Moon saute sur le lit en criant : « Les filles, on l'a fait ! » Sailor 
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=277)**
 
-**Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Publié:** Feb 13, 2026
+**Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Publié:** Feb 12, 2026
 
 ---
 ### Invite de duel de spadassins Wuxia
@@ -820,7 +820,7 @@ Un blockbuster audiovisuel de style Wuxia. Un épéiste vêtu de blanc et un ma�
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=258)**
 
-**Auteur:** [Jay Sensei👾](https://x.com/hckinz) | **Source:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Publié:** Feb 13, 2026
+**Auteur:** [Jay Sensei👾](https://x.com/hckinz) | **Source:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Publié:** Feb 12, 2026
 
 ---
 ### Scénario de l'histoire de Mad Max Exodus
@@ -839,7 +839,7 @@ Une vidéo épique multi-plans et pleine d'action sur l'histoire de l'exode, dan
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=260)**
 
-**Auteur:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Source:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Publié:** Feb 13, 2026
+**Auteur:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Source:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Publié:** Feb 12, 2026
 
 ---
 ### Scène de combat de film d'espionnage : invite
@@ -858,7 +858,7 @@ Un homme en costume vert avec un logo se bat avec un homme en noir, dans le styl
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=293)**
 
-**Auteur:** [Restlessperson ](https://x.com/Restlessperson1) | **Source:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Publié:** Feb 13, 2026
+**Auteur:** [Restlessperson ](https://x.com/Restlessperson1) | **Source:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Publié:** Feb 12, 2026
 
 ---
 ### **Prompt texte-vers-vidéo :** Scène de vengeance sur le lieu d'exécution en costume ancien
@@ -878,7 +878,7 @@ Plan 11 Gros plan • Des flocons de neige mêlés à de l'eau sanglante tombent
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=282)**
 
-**Auteur:** [Ken W](https://x.com/kenw_2) | **Source:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Publié:** Feb 13, 2026
+**Auteur:** [Ken W](https://x.com/kenw_2) | **Source:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Publié:** Feb 12, 2026
 
 ---
 ### Combat Kamala vs Trump avec l'invite Tom et John Wick
@@ -897,7 +897,7 @@ Combat Kamala vs Trump avec la même invite Tom et John Wick.
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=247)**
 
-**Auteur:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Source:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Publié:** Feb 13, 2026
+**Auteur:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Source:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Publié:** Feb 12, 2026
 
 ---
 ### Selfie panoramique à 360 degrés dans une pâtisserie
@@ -916,7 +916,7 @@ Selfie panoramique à 360 degrés. La caméra tourne dans le sens inverse des ai
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=246)**
 
-**Auteur:** [nachos2d](https://x.com/NACHOS2D_) | **Source:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Publié:** Feb 13, 2026
+**Auteur:** [nachos2d](https://x.com/NACHOS2D_) | **Source:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Publié:** Feb 12, 2026
 
 ---
 ### Grok Imagine Image-to-Video Prompt
@@ -935,7 +935,7 @@ Combat brutal de femmes contre Elon Musk avec un magnifique style de kick-boxing
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=262)**
 
-**Auteur:** [Apil](https://x.com/apilpirman) | **Source:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Publié:** Feb 13, 2026
+**Auteur:** [Apil](https://x.com/apilpirman) | **Source:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Publié:** Feb 12, 2026
 
 ---
 ### Invite de combat DBZ en direct
@@ -954,7 +954,7 @@ Bataille de Saiyans en prise de vues réelles entre Goku et Vegeta, Super Saiyan
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=259)**
 
-**Auteur:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Publié:** Feb 13, 2026
+**Auteur:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Publié:** Feb 12, 2026
 
 ---
 ### Prompt d'entretien avec un vampire des années 1980
@@ -1596,7 +1596,7 @@ Séquence d'action d'un pilote de chasse d'élite en combat aérien à bord de c
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=170)**
 
-**Auteur:** [𝕏Caliber](https://x.com/XCaliber) | **Source:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Publié:** Feb 12, 2026
+**Auteur:** [𝕏Caliber](https://x.com/XCaliber) | **Source:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Publié:** Feb 11, 2026
 
 ---
 ### Une femme affronte un homme dans l'ombre
@@ -1615,7 +1615,7 @@ Une femme demande avec tension à l'homme dans l'ombre de sortir. Un lent travel
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=208)**
 
-**Auteur:** [Gavin Purcell](https://x.com/gavinpurcell) | **Source:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Publié:** Feb 12, 2026
+**Auteur:** [Gavin Purcell](https://x.com/gavinpurcell) | **Source:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Publié:** Feb 11, 2026
 
 ---
 ### Doraemon et Spiderman se battent
@@ -1634,7 +1634,7 @@ Doramon et Spiderman se battent : très haute qualité et intensité
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=309)**
 
-**Auteur:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Source:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Publié:** Feb 12, 2026
+**Auteur:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Source:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Publié:** Feb 11, 2026
 
 ---
 ### Prise de vue à main levée d'une course avec des pièces d'or sous l'eau
@@ -1653,7 +1653,7 @@ Prise de vue à main levée d'un homme qui court avec un sac de pièces d'or dé
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=161)**
 
-**Auteur:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Publié:** Feb 12, 2026
+**Auteur:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Source:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Publié:** Feb 11, 2026
 
 ---
 ### Séance de sparring de boxe intense
@@ -1672,7 +1672,7 @@ Prise de vue à main levée en cercle autour de deux boxeurs s'entraînant dans 
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=140)**
 
-**Auteur:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Source:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Publié:** Feb 12, 2026
+**Auteur:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Source:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Publié:** Feb 11, 2026
 
 ---
 ### Absurd Comedy Video Prompt pour Seedance 2.0 : Rien
@@ -1721,7 +1721,7 @@ Scène 4 : Le cavalier continue de galoper en s'auto-moquant (0:20-0:30, 10 seco
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=186)**
 
-**Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Publié:** Feb 12, 2026
+**Auteur:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Publié:** Feb 11, 2026
 
 ---
 ### Fuite devant un monstre géant (style Arcanes)
@@ -1740,7 +1740,7 @@ Générer une vidéo sur une scène de course, derrière laquelle un monstre gé
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=142)**
 
-**Auteur:** [Dipper](https://x.com/dipperdao) | **Source:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Publié:** Feb 12, 2026
+**Auteur:** [Dipper](https://x.com/dipperdao) | **Source:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Publié:** Feb 11, 2026
 
 ---
 ### L'invite du réalisateur de Flash
@@ -1772,7 +1772,7 @@ Un bourdonnement grave et résonnant monte. L'air devant se fracture comme du ve
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=167)**
 
-**Auteur:** [Rufus](https://x.com/Rufus87078959) | **Source:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Publié:** Feb 12, 2026
+**Auteur:** [Rufus](https://x.com/Rufus87078959) | **Source:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Publié:** Feb 11, 2026
 
 ---
 ### Chaos dans un village Maasai
@@ -1791,7 +1791,7 @@ Un babouin blindé colossal charge à travers un village Maasai en flammes, il a
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=160)**
 
-**Auteur:** [Travis Davids](https://x.com/MrDavids1) | **Source:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Publié:** Feb 12, 2026
+**Auteur:** [Travis Davids](https://x.com/MrDavids1) | **Source:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Publié:** Feb 11, 2026
 
 ---
 ### Will Smith contre un monstre spaghetti (film d'action des années 80)
@@ -1810,7 +1810,7 @@ Will Smith combattant un monstre spaghetti, scène de film d'action épique des 
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=178)**
 
-**Auteur:** [S0FT](https://x.com/sudoSoftAI) | **Source:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Publié:** Feb 12, 2026
+**Auteur:** [S0FT](https://x.com/sudoSoftAI) | **Source:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Publié:** Feb 11, 2026
 
 ---
 ### Trump contre Michael Jackson : la bataille de danse IA
@@ -1829,7 +1829,7 @@ TRUMP VS MICHAEL JACKSON : LA BATAILLE DE DANSE IA LA PLUS ÉPIQUE
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=263)**
 
-**Auteur:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Source:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Publié:** Feb 12, 2026
+**Auteur:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Source:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Publié:** Feb 11, 2026
 
 ---
 ### Évasion cinématographique à moto de la Seconde Guerre mondiale
@@ -1848,7 +1848,7 @@ créer une séquence d'évasion cinématographique à moto pendant la Seconde Gu
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=126)**
 
-**Auteur:** [pewden AI](https://x.com/pewdenai) | **Source:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Publié:** Feb 12, 2026
+**Auteur:** [pewden AI](https://x.com/pewdenai) | **Source:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Publié:** Feb 11, 2026
 
 ---
 ### Homme sur un bateau attaqué par un monstre marin
@@ -1867,7 +1867,7 @@ Un homme est sur un bateau en pleine mer pendant une violente tempête de pluie,
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=303)**
 
-**Auteur:** [Anthony T](https://x.com/creativesinner2) | **Source:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Publié:** Feb 12, 2026
+**Auteur:** [Anthony T](https://x.com/creativesinner2) | **Source:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Publié:** Feb 11, 2026
 
 ---
 ### Scène de cabine à plusieurs personnages avec dialogue
@@ -1896,7 +1896,7 @@ Caméra fixe. Un plan séquence continu où les personnages entrent et prennent 
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=138)**
 
-**Auteur:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Publié:** Feb 12, 2026
+**Auteur:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Publié:** Feb 11, 2026
 
 ---
 ### Prompt Thanos s'excuse auprès de Spider-Man
@@ -1915,7 +1915,7 @@ forçant Thanos à s'excuser avant un assaut groupé mené par Spider-Man
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=207)**
 
-**Auteur:** [xAi✨](https://x.com/xai_42) | **Source:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Publié:** Feb 12, 2026
+**Auteur:** [xAi✨](https://x.com/xai_42) | **Source:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Publié:** Feb 11, 2026
 
 ---
 ### Femme clocharde dépenaillée avec des chaînes
@@ -1934,7 +1934,7 @@ Lumpen, clocharde, version féminine, vieille chatte amochée, avec des chaînes
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=205)**
 
-**Auteur:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Source:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Publié:** Feb 12, 2026
+**Auteur:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Source:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Publié:** Feb 11, 2026
 
 ---
 ### Animation en accéléré de l'assemblage de Lego
@@ -1958,7 +1958,7 @@ Un garçon assemble sérieusement des briques Lego dans sa chambre, la scène ad
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=329)**
 
-**Auteur:** [维维](https://x.com/siveill) | **Source:** [Link](https://x.com/siveill/status/2021635240985604526) | **Publié:** Feb 12, 2026
+**Auteur:** [维维](https://x.com/siveill) | **Source:** [Link](https://x.com/siveill/status/2021635240985604526) | **Publié:** Feb 11, 2026
 
 ---
 ### Prompt texte-vers-vidéo inspiré de One Piece
@@ -1980,7 +1980,7 @@ Il se transforme en un dragon noir géant et attrape tout le monde depuis le cie
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=199)**
 
-**Auteur:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Source:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Publié:** Feb 12, 2026
+**Auteur:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Source:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Publié:** Feb 11, 2026
 
 ---
 ### Court-métrage : Le secret douillet des animaux de compagnie la nuit
@@ -2009,7 +2009,7 @@ Il se transforme en un dragon noir géant et attrape tout le monde depuis le cie
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=330)**
 
-**Auteur:** [Michelle](https://x.com/Michell81147285) | **Source:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Publié:** Feb 12, 2026
+**Auteur:** [Michelle](https://x.com/Michell81147285) | **Source:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Publié:** Feb 11, 2026
 
 ---
 ### Script publicitaire à haute énergie
@@ -2028,7 +2028,7 @@ Utilisez Seedance 2.0, je veux une publicité pour téléphone avec beaucoup d'�
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=311)**
 
-**Auteur:** [Kaiwen Li](https://x.com/realkaiwenli) | **Source:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Publié:** Feb 12, 2026
+**Auteur:** [Kaiwen Li](https://x.com/realkaiwenli) | **Source:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Publié:** Feb 11, 2026
 
 ---
 ### Scène cinématique d'attaque du Kraken
@@ -2047,7 +2047,7 @@ Un kraken gigantesque attaque un navire pirate, le capitaine le tranche avec son
 
 📥 *Cliquez sur l'image pour télécharger la vidéo* | **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=152)**
 
-**Auteur:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Publié:** Feb 12, 2026
+**Auteur:** [Mark Gadala-Maria](https://x.com/markgadala) | **Source:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Publié:** Feb 11, 2026
 
 ---
 ### Combat épique entre Luffy et Goku
@@ -2564,6 +2564,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-02-14T16:57:54.736Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-02-14T16:59:30.615Z</sub>
 
 </div>

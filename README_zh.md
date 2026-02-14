@@ -119,7 +119,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=133)**
 
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 12, 2026
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **发布时间:** Feb 11, 2026
 
 ---
 ### 《鬼灭之刃》真人战斗提示词，适用于 Seedance 2.0
@@ -215,7 +215,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=351)**
 
-**作者:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **来源:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **发布时间:** Feb 14, 2026
+**作者:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **来源:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **发布时间:** Feb 13, 2026
 
 ---
 ### 坂田银时发布宇宙竞技场锦标赛公告
@@ -236,7 +236,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=344)**
 
-**作者:** [KIRA](https://x.com/k1raa__) | **来源:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **发布时间:** Feb 14, 2026
+**作者:** [KIRA](https://x.com/k1raa__) | **来源:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **发布时间:** Feb 13, 2026
 
 ---
 ### 好莱坞赛车电影场景提示（第一部分）
@@ -257,7 +257,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=350)**
 
-**作者:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **来源:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **发布时间:** Feb 14, 2026
+**作者:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **来源:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **发布时间:** Feb 13, 2026
 
 ---
 ### 禅院真希打斗场景提示（敏捷动作）
@@ -276,7 +276,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=354)**
 
-**作者:** [karim_yourself](https://x.com/karim_yourself) | **来源:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **发布时间:** Feb 14, 2026
+**作者:** [karim_yourself](https://x.com/karim_yourself) | **来源:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **发布时间:** Feb 13, 2026
 
 ---
 ### 禅院真希战斗场景提示（俯视）
@@ -295,7 +295,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=352)**
 
-**作者:** [karim_yourself](https://x.com/karim_yourself) | **来源:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **发布时间:** Feb 14, 2026
+**作者:** [karim_yourself](https://x.com/karim_yourself) | **来源:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **发布时间:** Feb 13, 2026
 
 ---
 ### 《怪奇物语》主题派对：释放你的超能力
@@ -314,7 +314,7 @@
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=347)**
 
-**作者:** [Zopia AI](https://x.com/Zopia_AI) | **来源:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **发布时间:** Feb 14, 2026
+**作者:** [Zopia AI](https://x.com/Zopia_AI) | **来源:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **发布时间:** Feb 13, 2026
 
 ---
 ### 电影感街头篮球场景：男子被女子盖帽
@@ -763,7 +763,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=291)**
 
-**作者:** [chimi チミワウ](https://x.com/chimiwaw) | **来源:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **发布时间:** Feb 13, 2026
+**作者:** [chimi チミワウ](https://x.com/chimiwaw) | **来源:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **发布时间:** Feb 12, 2026
 
 ---
 ### 美少女战士 对话场景
@@ -782,7 +782,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=270)**
 
-**作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **来源:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **发布时间:** Feb 13, 2026
+**作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **来源:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **发布时间:** Feb 12, 2026
 
 ---
 ### 吴宇森风格枪战场景提示
@@ -801,7 +801,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=277)**
 
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2022066865296601311) | **发布时间:** Feb 13, 2026
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2022066865296601311) | **发布时间:** Feb 12, 2026
 
 ---
 ### 武侠剑客对决提示
@@ -820,7 +820,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=258)**
 
-**作者:** [Jay Sensei👾](https://x.com/hckinz) | **来源:** [Link](https://x.com/hckinz/status/2022062799732777214) | **发布时间:** Feb 13, 2026
+**作者:** [Jay Sensei👾](https://x.com/hckinz) | **来源:** [Link](https://x.com/hckinz/status/2022062799732777214) | **发布时间:** Feb 12, 2026
 
 ---
 ### 疯狂的麦克斯：出埃及记 故事提示
@@ -839,7 +839,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=260)**
 
-**作者:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **来源:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **发布时间:** Feb 13, 2026
+**作者:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **来源:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **发布时间:** Feb 12, 2026
 
 ---
 ### 特工电影打斗场景提示
@@ -858,7 +858,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=293)**
 
-**作者:** [Restlessperson ](https://x.com/Restlessperson1) | **来源:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **发布时间:** Feb 13, 2026
+**作者:** [Restlessperson ](https://x.com/Restlessperson1) | **来源:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **发布时间:** Feb 12, 2026
 
 ---
 ### 文本转视频提示词：古装刑场复仇场景
@@ -878,7 +878,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=282)**
 
-**作者:** [Ken W](https://x.com/kenw_2) | **来源:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **发布时间:** Feb 13, 2026
+**作者:** [Ken W](https://x.com/kenw_2) | **来源:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **发布时间:** Feb 12, 2026
 
 ---
 ### 卡玛拉 对阵 特朗普：与 汤姆 和 约翰·威克 的提示之战
@@ -897,7 +897,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=247)**
 
-**作者:** [X Citizen Journal](https://x.com/xcitizenjournal) | **来源:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **发布时间:** Feb 13, 2026
+**作者:** [X Citizen Journal](https://x.com/xcitizenjournal) | **来源:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **发布时间:** Feb 12, 2026
 
 ---
 ### 甜品店里的 360 度全景自拍
@@ -916,7 +916,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=246)**
 
-**作者:** [nachos2d](https://x.com/NACHOS2D_) | **来源:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **发布时间:** Feb 13, 2026
+**作者:** [nachos2d](https://x.com/NACHOS2D_) | **来源:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **发布时间:** Feb 12, 2026
 
 ---
 ### Grok 想象图像转视频提示
@@ -935,7 +935,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=262)**
 
-**作者:** [Apil](https://x.com/apilpirman) | **来源:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **发布时间:** Feb 13, 2026
+**作者:** [Apil](https://x.com/apilpirman) | **来源:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **发布时间:** Feb 12, 2026
 
 ---
 ### 真人版《龙珠 Z》战斗提示
@@ -954,7 +954,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=259)**
 
-**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021985063840403880) | **发布时间:** Feb 13, 2026
+**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021985063840403880) | **发布时间:** Feb 12, 2026
 
 ---
 ### 1980 年代吸血鬼访谈提示
@@ -1596,7 +1596,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=170)**
 
-**作者:** [𝕏Caliber](https://x.com/XCaliber) | **来源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **发布时间:** Feb 12, 2026
+**作者:** [𝕏Caliber](https://x.com/XCaliber) | **来源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **发布时间:** Feb 11, 2026
 
 ---
 ### 女人在阴影中与男人对峙
@@ -1615,7 +1615,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=208)**
 
-**作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **来源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **发布时间:** Feb 12, 2026
+**作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **来源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **发布时间:** Feb 11, 2026
 
 ---
 ### 哆啦 A 梦大战蜘蛛侠
@@ -1634,7 +1634,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=309)**
 
-**作者:** [otung Emmanuel](https://x.com/otung_emmanuel) | **来源:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **发布时间:** Feb 12, 2026
+**作者:** [otung Emmanuel](https://x.com/otung_emmanuel) | **来源:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **发布时间:** Feb 11, 2026
 
 ---
 ### 手持水下金币奔跑镜头
@@ -1653,7 +1653,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=161)**
 
-**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **来源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **发布时间:** Feb 12, 2026
+**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **来源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **发布时间:** Feb 11, 2026
 
 ---
 ### 激烈的拳击实战训练
@@ -1672,7 +1672,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=140)**
 
-**作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **来源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **发布时间:** Feb 12, 2026
+**作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **来源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **发布时间:** Feb 11, 2026
 
 ---
 ### Seedance 2.0 荒诞喜剧视频提示词：无物
@@ -1721,7 +1721,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=186)**
 
-**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **发布时间:** Feb 12, 2026
+**作者:** [John](https://x.com/john87445528) | **来源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **发布时间:** Feb 11, 2026
 
 ---
 ### 逃离巨型怪物（奥术风格）
@@ -1740,7 +1740,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=142)**
 
-**作者:** [Dipper](https://x.com/dipperdao) | **来源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **发布时间:** Feb 12, 2026
+**作者:** [Dipper](https://x.com/dipperdao) | **来源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **发布时间:** Feb 11, 2026
 
 ---
 ### Flash 导演的提示
@@ -1772,7 +1772,7 @@ Seedance 2.0 提示词
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=167)**
 
-**作者:** [Rufus](https://x.com/Rufus87078959) | **来源:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **发布时间:** Feb 12, 2026
+**作者:** [Rufus](https://x.com/Rufus87078959) | **来源:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **发布时间:** Feb 11, 2026
 
 ---
 ### 马赛村庄的混乱
@@ -1791,7 +1791,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=160)**
 
-**作者:** [Travis Davids](https://x.com/MrDavids1) | **来源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **发布时间:** Feb 12, 2026
+**作者:** [Travis Davids](https://x.com/MrDavids1) | **来源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **发布时间:** Feb 11, 2026
 
 ---
 ### 威尔·史密斯大战意大利面怪物（80 年代动作片）
@@ -1810,7 +1810,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=178)**
 
-**作者:** [S0FT](https://x.com/sudoSoftAI) | **来源:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **发布时间:** Feb 12, 2026
+**作者:** [S0FT](https://x.com/sudoSoftAI) | **来源:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **发布时间:** Feb 11, 2026
 
 ---
 ### 特朗普大战迈克尔·杰克逊 AI 舞斗
@@ -1829,7 +1829,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=263)**
 
-**作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **来源:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **发布时间:** Feb 12, 2026
+**作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **来源:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **发布时间:** Feb 11, 2026
 
 ---
 ### 电影级二战摩托车逃亡
@@ -1848,7 +1848,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=126)**
 
-**作者:** [pewden AI](https://x.com/pewdenai) | **来源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **发布时间:** Feb 12, 2026
+**作者:** [pewden AI](https://x.com/pewdenai) | **来源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **发布时间:** Feb 11, 2026
 
 ---
 ### 海船上的人被海怪袭击
@@ -1867,7 +1867,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=303)**
 
-**作者:** [Anthony T](https://x.com/creativesinner2) | **来源:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **发布时间:** Feb 12, 2026
+**作者:** [Anthony T](https://x.com/creativesinner2) | **来源:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **发布时间:** Feb 11, 2026
 
 ---
 ### 多角色机舱对话场景
@@ -1896,7 +1896,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=138)**
 
-**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **来源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **发布时间:** Feb 12, 2026
+**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **来源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **发布时间:** Feb 11, 2026
 
 ---
 ### 灭霸向蜘蛛侠道歉的提示
@@ -1915,7 +1915,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=207)**
 
-**作者:** [xAi✨](https://x.com/xai_42) | **来源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **发布时间:** Feb 12, 2026
+**作者:** [xAi✨](https://x.com/xai_42) | **来源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **发布时间:** Feb 11, 2026
 
 ---
 ### 衣衫褴褛、戴着镣铐的流浪女
@@ -1934,7 +1934,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=205)**
 
-**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **来源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **发布时间:** Feb 12, 2026
+**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **来源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **发布时间:** Feb 11, 2026
 
 ---
 ### 乐高拼装延时动画
@@ -1958,7 +1958,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=329)**
 
-**作者:** [维维](https://x.com/siveill) | **来源:** [Link](https://x.com/siveill/status/2021635240985604526) | **发布时间:** Feb 12, 2026
+**作者:** [维维](https://x.com/siveill) | **来源:** [Link](https://x.com/siveill/status/2021635240985604526) | **发布时间:** Feb 11, 2026
 
 ---
 ### 《海贼王》风格的文本转视频提示
@@ -1980,7 +1980,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=199)**
 
-**作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **来源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **发布时间:** Feb 12, 2026
+**作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **来源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **发布时间:** Feb 11, 2026
 
 ---
 ### 温馨夜间宠物秘密短片
@@ -2009,7 +2009,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=330)**
 
-**作者:** [Michelle](https://x.com/Michell81147285) | **来源:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **发布时间:** Feb 12, 2026
+**作者:** [Michelle](https://x.com/Michell81147285) | **来源:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **发布时间:** Feb 11, 2026
 
 ---
 ### 高能商业脚本
@@ -2028,7 +2028,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=311)**
 
-**作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **来源:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **发布时间:** Feb 12, 2026
+**作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **来源:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **发布时间:** Feb 11, 2026
 
 ---
 ### Kraken 攻击过场动画
@@ -2047,7 +2047,7 @@ Seedance 2.0 提示词
 
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=152)**
 
-**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **发布时间:** Feb 12, 2026
+**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **来源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **发布时间:** Feb 11, 2026
 
 ---
 ### 路飞与悟空史诗级战斗场景
@@ -2564,6 +2564,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-14T16:57:20.193Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-14T16:59:26.728Z</sub>
 
 </div>

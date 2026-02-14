@@ -119,7 +119,7 @@ Một chiến trường siêu thực trên bầu trời: những hòn đảo đ�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=133)**
 
-**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0
@@ -215,7 +215,7 @@ Một cảnh quay điện ảnh chân thực mở ra tại một vùng nông th�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=351)**
 
-**Tác giả:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Nguồn:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Đã xuất bản:** Feb 14, 2026
+**Tác giả:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Nguồn:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Đã xuất bản:** Feb 13, 2026
 
 ---
 ### Thông báo Giải đấu Cosmic Arena của Gintoki Sakata
@@ -236,7 +236,7 @@ Anh ta công bố luật...
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=344)**
 
-**Tác giả:** [KIRA](https://x.com/k1raa__) | **Nguồn:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Đã xuất bản:** Feb 14, 2026
+**Tác giả:** [KIRA](https://x.com/k1raa__) | **Nguồn:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Đã xuất bản:** Feb 13, 2026
 
 ---
 ### Gợi ý cảnh phim đua xe Hollywood (Phần 1)
@@ -257,7 +257,7 @@ Phong cách: Phim Đua xe Chuyên nghiệp Hollywood (Phong cách Le Mans), Đi�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=350)**
 
-**Tác giả:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Nguồn:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Đã xuất bản:** Feb 14, 2026
+**Tác giả:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Nguồn:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Đã xuất bản:** Feb 13, 2026
 
 ---
 ### Gợi ý cảnh chiến đấu của Maki Zenin (Di chuyển nhanh nhẹn)
@@ -276,7 +276,7 @@ cuộc đối đầu của người phụ nữ hạ gục tất cả các kiếm
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=354)**
 
-**Tác giả:** [karim_yourself](https://x.com/karim_yourself) | **Nguồn:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Đã xuất bản:** Feb 14, 2026
+**Tác giả:** [karim_yourself](https://x.com/karim_yourself) | **Nguồn:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Đã xuất bản:** Feb 13, 2026
 
 ---
 ### Mô tả cảnh chiến đấu của Maki Zenin (Từ trên xuống)
@@ -295,7 +295,7 @@ Cảnh quay từ trên xuống của người phụ nữ hạ gục tất cả k
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=352)**
 
-**Tác giả:** [karim_yourself](https://x.com/karim_yourself) | **Nguồn:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Đã xuất bản:** Feb 14, 2026
+**Tác giả:** [karim_yourself](https://x.com/karim_yourself) | **Nguồn:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Đã xuất bản:** Feb 13, 2026
 
 ---
 ### Bữa Tiệc Stranger Things: Giải Phóng Siêu Năng Lực
@@ -314,7 +314,7 @@ Cảnh quay tập thể theo phong cách điện ảnh thập niên 1980 của n
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=347)**
 
-**Tác giả:** [Zopia AI](https://x.com/Zopia_AI) | **Nguồn:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Đã xuất bản:** Feb 14, 2026
+**Tác giả:** [Zopia AI](https://x.com/Zopia_AI) | **Nguồn:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Đã xuất bản:** Feb 13, 2026
 
 ---
 ### Cảnh bóng rổ đường phố đậm chất điện ảnh: Người đàn ông bị người phụ nữ cản phá
@@ -763,7 +763,7 @@ Người đàn ông đang phân vân: "Mình muốn rửa xe, mà tiệm rửa x
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=291)**
 
-**Tác giả:** [chimi チミワウ](https://x.com/chimiwaw) | **Nguồn:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [chimi チミワウ](https://x.com/chimiwaw) | **Nguồn:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Cảnh đối thoại trong Thủy thủ Mặt Trăng
@@ -782,7 +782,7 @@ Thủy Thủ Mặt Trăng nhảy lên giường và hét lên "Các cậu ơi, c
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=270)**
 
-**Tác giả:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Nguồn:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Nguồn:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Phong cách đấu súng của John Woo
@@ -801,7 +801,7 @@ Thủy Thủ Mặt Trăng nhảy lên giường và hét lên "Các cậu ơi, c
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=277)**
 
-**Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Wuxia Swordsman Duel Prompt
@@ -820,7 +820,7 @@ Một siêu phẩm nghe nhìn mang phong cách kiếm hiệp. Một kiếm khác
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=258)**
 
-**Tác giả:** [Jay Sensei👾](https://x.com/hckinz) | **Nguồn:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [Jay Sensei👾](https://x.com/hckinz) | **Nguồn:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Gợi ý cốt truyện Mad Max Exodus
@@ -839,7 +839,7 @@ Một video sử thi hành động cao trào nhiều cảnh quay về câu chuy�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=260)**
 
-**Tác giả:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Nguồn:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Nguồn:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Gợi ý cảnh chiến đấu trong phim gián điệp
@@ -858,7 +858,7 @@ Người đàn ông mặc vest xanh lá cây có logo đang chiến đấu với
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=293)**
 
-**Tác giả:** [Restlessperson ](https://x.com/Restlessperson1) | **Nguồn:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [Restlessperson ](https://x.com/Restlessperson1) | **Nguồn:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Văn bản thành Video: Cảnh báo thù tại pháp trường cổ trang
@@ -878,7 +878,7 @@ Cảnh 11 Cận cảnh • Tuyết lẫn máu rơi xuống mặt đá lạnh l�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=282)**
 
-**Tác giả:** [Ken W](https://x.com/kenw_2) | **Nguồn:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [Ken W](https://x.com/kenw_2) | **Nguồn:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Kamala đấu Trump với Tom và John Wick Prompt
@@ -897,7 +897,7 @@ Kamala đấu Trump với cùng một Prompt Tom và John Wick.
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=247)**
 
-**Tác giả:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Nguồn:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Nguồn:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Ảnh selfie toàn cảnh 360 độ trong cửa hàng tráng miệng
@@ -916,7 +916,7 @@ Chụp ảnh selfie toàn cảnh 360 độ. Máy ảnh xoay ngược chiều kim
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=246)**
 
-**Tác giả:** [nachos2d](https://x.com/NACHOS2D_) | **Nguồn:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [nachos2d](https://x.com/NACHOS2D_) | **Nguồn:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Grok Imagine Lời nhắc chuyển đổi hình ảnh thành video
@@ -935,7 +935,7 @@ Phụ nữ chiến đấu tàn bạo với Elon Musk theo phong cách kickboxing
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=262)**
 
-**Tác giả:** [Apil](https://x.com/apilpirman) | **Nguồn:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [Apil](https://x.com/apilpirman) | **Nguồn:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Live Action DBZ Battle Prompt
@@ -954,7 +954,7 @@ Trận chiến Saiyan người thật giữa Goku & Vegeta, Super Saiyan Blue
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=259)**
 
-**Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Đã xuất bản:** Feb 13, 2026
+**Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Đã xuất bản:** Feb 12, 2026
 
 ---
 ### Lời nhắc phỏng vấn ma cà rồng thập niên 1980
@@ -1596,7 +1596,7 @@ Trình tự hành động của phi công chiến đấu hàng đầu thực hi�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=170)**
 
-**Tác giả:** [𝕏Caliber](https://x.com/XCaliber) | **Nguồn:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [𝕏Caliber](https://x.com/XCaliber) | **Nguồn:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Người phụ nữ đối mặt với người đàn ông trong bóng tối
@@ -1615,7 +1615,7 @@ Một người phụ nữ căng thẳng yêu cầu người đàn ông trong bó
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=208)**
 
-**Tác giả:** [Gavin Purcell](https://x.com/gavinpurcell) | **Nguồn:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Gavin Purcell](https://x.com/gavinpurcell) | **Nguồn:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Doraemon và Người Nhện Đánh Nhau
@@ -1634,7 +1634,7 @@ Doramon và Spiderman chiến đấu cực kỳ chất lượng và dữ dội
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=309)**
 
-**Tác giả:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Nguồn:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Nguồn:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Cảnh quay cầm tay người đang chạy với những đồng tiền vàng dưới nước
@@ -1653,7 +1653,7 @@ Cảnh quay cầm tay một người đang chạy với một túi tiền vàng 
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=161)**
 
-**Tác giả:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Nguồn:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Nguồn:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Buổi Tập Đấu Đối Kháng Quyết Liệt Của Môn Boxing
@@ -1672,7 +1672,7 @@ Cảnh quay cầm tay quay vòng quanh hai võ sĩ quyền Anh đang tập luy�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=140)**
 
-**Tác giả:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Nguồn:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Nguồn:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Video Hài Kịch Phi Lý Gợi Ý cho Seedance 2.0: Không gì cả
@@ -1724,7 +1724,7 @@ Cảnh 4: Kỵ sĩ tự chế giễu tiếp tục phi nước đại đi xa (0:2
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=186)**
 
-**Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [John](https://x.com/john87445528) | **Nguồn:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Chạy trốn khỏi Quái vật khổng lồ (Phong cách Arcane)
@@ -1743,7 +1743,7 @@ tạo một video về cảnh chạy trốn, phía sau là một con quái vật
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=142)**
 
-**Tác giả:** [Dipper](https://x.com/dipperdao) | **Nguồn:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Dipper](https://x.com/dipperdao) | **Nguồn:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Lời nhắc của đạo diễn Flash
@@ -1775,7 +1775,7 @@ Một tiếng vo ve trầm, vang vọng vang lên. Không khí phía trước v�
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=167)**
 
-**Tác giả:** [Rufus](https://x.com/Rufus87078959) | **Nguồn:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Rufus](https://x.com/Rufus87078959) | **Nguồn:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Hỗn Loạn Ở Một Ngôi Làng Maasai
@@ -1794,7 +1794,7 @@ Một con khỉ đầu chó khổng lồ bọc thép xông qua một ngôi làng
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=160)**
 
-**Tác giả:** [Travis Davids](https://x.com/MrDavids1) | **Nguồn:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Travis Davids](https://x.com/MrDavids1) | **Nguồn:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Will Smith Đánh Nhau Với Quái Vật Mì Spaghetti (Phim Hành Động Thập Niên 80)
@@ -1813,7 +1813,7 @@ Will Smith chiến đấu với quái vật mì Ý, cảnh phim hành động ho
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=178)**
 
-**Tác giả:** [S0FT](https://x.com/sudoSoftAI) | **Nguồn:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [S0FT](https://x.com/sudoSoftAI) | **Nguồn:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Trận chiến nhảy AI giữa Trump và Michael Jackson
@@ -1832,7 +1832,7 @@ TRUMP VS MICHAEL JACKSON: TRẬN CHIẾN NHẢY AI ĐỈNH CAO NHẤT
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=263)**
 
-**Tác giả:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Nguồn:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Nguồn:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Cuộc đào thoát bằng mô tô trong Thế chiến thứ hai đậm chất điện ảnh
@@ -1851,7 +1851,7 @@ tạo một phân cảnh thoát hiểm bằng xe máy trong Thế chiến II man
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=126)**
 
-**Tác giả:** [pewden AI](https://x.com/pewdenai) | **Nguồn:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [pewden AI](https://x.com/pewdenai) | **Nguồn:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Người đàn ông trên thuyền bị quái vật biển tấn công
@@ -1870,7 +1870,7 @@ Một người đàn ông đang ở trên một chiếc thuyền giữa cơn bã
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=303)**
 
-**Tác giả:** [Anthony T](https://x.com/creativesinner2) | **Nguồn:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Anthony T](https://x.com/creativesinner2) | **Nguồn:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Cảnh trong cabin với nhiều nhân vật và hội thoại
@@ -1899,7 +1899,7 @@ Camera cố định. Một cảnh quay liên tục khi các nhân vật lần l�
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=138)**
 
-**Tác giả:** [Jason W - AI](https://x.com/PocketScreenAI) | **Nguồn:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Jason W - AI](https://x.com/PocketScreenAI) | **Nguồn:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Lời nhắc Thanos xin lỗi Spider-Man
@@ -1918,7 +1918,7 @@ buộc Thanos phải xin lỗi trước cuộc tấn công tập thể do Spider
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=207)**
 
-**Tác giả:** [xAi✨](https://x.com/xai_42) | **Nguồn:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [xAi✨](https://x.com/xai_42) | **Nguồn:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Người phụ nữ vô gia cư rách rưới với những sợi xích
@@ -1937,7 +1937,7 @@ Lumpen, Hobo, phiên bản nữ, mèo già tả tơi, với dây xích để thu
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=205)**
 
-**Tác giả:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Nguồn:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Nguồn:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Hoạt ảnh Time-Lapse Lắp Ráp Lego
@@ -1961,7 +1961,7 @@ Một cậu bé đang say sưa lắp ráp những viên gạch Lego trong phòng
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=329)**
 
-**Tác giả:** [维维](https://x.com/siveill) | **Nguồn:** [Link](https://x.com/siveill/status/2021635240985604526) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [维维](https://x.com/siveill) | **Nguồn:** [Link](https://x.com/siveill/status/2021635240985604526) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Lời nhắc chuyển văn bản thành video lấy cảm hứng từ One Piece
@@ -1983,7 +1983,7 @@ Anh biến thành một con rồng đen khổng lồ và tóm lấy tất cả m
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=199)**
 
-**Tác giả:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Nguồn:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Nguồn:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Phim ngắn Bí mật thú cưng đêm ấm cúng
@@ -2012,7 +2012,7 @@ Anh biến thành một con rồng đen khổng lồ và tóm lấy tất cả m
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=330)**
 
-**Tác giả:** [Michelle](https://x.com/Michell81147285) | **Nguồn:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Michelle](https://x.com/Michell81147285) | **Nguồn:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Kịch bản quảng cáo năng lượng cao
@@ -2031,7 +2031,7 @@ sử dụng Seedance 2.0, tôi muốn một quảng cáo điện thoại với n
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=311)**
 
-**Tác giả:** [Kaiwen Li](https://x.com/realkaiwenli) | **Nguồn:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Kaiwen Li](https://x.com/realkaiwenli) | **Nguồn:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Cảnh phim Kraken Tấn Công
@@ -2050,7 +2050,7 @@ Một con kraken khổng lồ tấn công một con tàu cướp biển, thuyề
 
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=152)**
 
-**Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Đã xuất bản:** Feb 12, 2026
+**Tác giả:** [Mark Gadala-Maria](https://x.com/markgadala) | **Nguồn:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ### Cảnh chiến đấu hoành tráng của Luffy và Goku
@@ -2567,6 +2567,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-14T16:57:38.680Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-14T16:59:28.686Z</sub>
 
 </div>

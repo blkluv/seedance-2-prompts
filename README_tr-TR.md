@@ -119,7 +119,7 @@ Gökyüzünde gerçeküstü bir savaş alanı: fırtına bulutlarının arasınd
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=133)**
 
-**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Demon Slayer Live-Action Savaş İstemleri Seedance 2.0 için
@@ -215,7 +215,7 @@ Kullanıcı, anahtar karelerinizden video klipler oluşturacak ve bunları nihai
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=351)**
 
-**Yazar:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Kaynak:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Yayınlandı:** Feb 14, 2026
+**Yazar:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **Kaynak:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Gintoki Sakata'dan Kozmik Arena Turnuvası Duyurusu
@@ -236,7 +236,7 @@ Kuralı açıklıyor...
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=344)**
 
-**Yazar:** [KIRA](https://x.com/k1raa__) | **Kaynak:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Yayınlandı:** Feb 14, 2026
+**Yazar:** [KIRA](https://x.com/k1raa__) | **Kaynak:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Hollywood Yarış Filmi Sahnesi İstemleri (Bölüm 1)
@@ -257,7 +257,7 @@ Stil: Hollywood Profesyonel Yarış Filmi (Le Mans Tarzı), Sinematik Gece, Yağ
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=350)**
 
-**Yazar:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Kaynak:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Yayınlandı:** Feb 14, 2026
+**Yazar:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **Kaynak:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Maki Zenin Dövüş Sahnesi İstemleri (Çevik Hareketler)
@@ -276,7 +276,7 @@ kadın, tüm kılıç ustası erkekleri güçlü saldırılarla alt ediyor, sağ
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=354)**
 
-**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Yayınlandı:** Feb 14, 2026
+**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Maki Zenin Dövüş Sahnesi İstemleri (Yukarıdan Aşağıya)
@@ -295,7 +295,7 @@ Kadının tüm kılıç ustası adamları güçlü saldırılarla alt ettiğini 
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=352)**
 
-**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Yayınlandı:** Feb 14, 2026
+**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Stranger Things Partisi: Süper Güçleri Ortaya Çıkarma
@@ -314,7 +314,7 @@ Yıkık bir laboratuvarda Stranger Things ekibinin sinematik 1980'ler karanlık 
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=347)**
 
-**Yazar:** [Zopia AI](https://x.com/Zopia_AI) | **Kaynak:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Yayınlandı:** Feb 14, 2026
+**Yazar:** [Zopia AI](https://x.com/Zopia_AI) | **Kaynak:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **Yayınlandı:** Feb 13, 2026
 
 ---
 ### Sinematik Sokak Basketbolu Sahnesi: Adamın Şutu Kadın Tarafından Engellendi
@@ -763,7 +763,7 @@ Müziğin Eşlik Ettiği Sahne 1: "Sun Wukong şehrin çatısında duruyor, alt�
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=291)**
 
-**Yazar:** [chimi チミワウ](https://x.com/chimiwaw) | **Kaynak:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [chimi チミワウ](https://x.com/chimiwaw) | **Kaynak:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Sailor Moon Diyalog Sahnesi
@@ -782,7 +782,7 @@ Sailor Moon yatağa atlayıp "Kızlar, başardık!" diye bağırır. Sailor Ven�
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=270)**
 
-**Yazar:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Kaynak:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [BigMotion.ai](https://x.com/BigMotion_ai) | **Kaynak:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### John Woo Tarzı Çatışma Sahnesi İstemleri
@@ -801,7 +801,7 @@ Sailor Moon yatağa atlayıp "Kızlar, başardık!" diye bağırır. Sailor Ven�
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=277)**
 
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2022066865296601311) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Wuxia Kılıç Ustası Düellosu İstemleri
@@ -820,7 +820,7 @@ Bir Wuxia tarzı görsel-işitsel gişe rekorları kıran bir yapım. Beyazlar i
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=258)**
 
-**Yazar:** [Jay Sensei👾](https://x.com/hckinz) | **Kaynak:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [Jay Sensei👾](https://x.com/hckinz) | **Kaynak:** [Link](https://x.com/hckinz/status/2022062799732777214) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Mad Max Exodus Hikayesi Konu Başlığı
@@ -839,7 +839,7 @@ Mad Max tarzında, göç hikayesini anlatan, çok sahneli, yüksek aksiyonlu des
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=260)**
 
-**Yazar:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Kaynak:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **Kaynak:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Casus Filmi Dövüş Sahnesi İstemleri
@@ -858,7 +858,7 @@ Yeşil takım elbiseli, logolu bir adamın, casus filmleri tarzında, siyah giyi
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=293)**
 
-**Yazar:** [Restlessperson ](https://x.com/Restlessperson1) | **Kaynak:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [Restlessperson ](https://x.com/Restlessperson1) | **Kaynak:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Metinden Videoya İstemi: Antik Kostümlü İnfaz Sahnesi İntikamı
@@ -878,7 +878,7 @@ Antik kostüm infaz alanı/Kanlı gözyaşı intikamı
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=282)**
 
-**Yazar:** [Ken W](https://x.com/kenw_2) | **Kaynak:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [Ken W](https://x.com/kenw_2) | **Kaynak:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Kamala ile Trump'ın Tom ve John Wick Prompt'u ile Kavgası
@@ -897,7 +897,7 @@ Kamala, Tom ve John Wick komut istemiyle Trump'a karşı.
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=247)**
 
-**Yazar:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Kaynak:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [X Citizen Journal](https://x.com/xcitizenjournal) | **Kaynak:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Bir Tatlıcıda 360 Derece Panoramik Selfie
@@ -916,7 +916,7 @@ Kamala, Tom ve John Wick komut istemiyle Trump'a karşı.
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=246)**
 
-**Yazar:** [nachos2d](https://x.com/NACHOS2D_) | **Kaynak:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [nachos2d](https://x.com/NACHOS2D_) | **Kaynak:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Grok Imagine Görüntüden Videoya İstemi
@@ -935,7 +935,7 @@ Kadınların Elon Musk'a karşı güzel kick boks stili ve ölümcül tekme ile 
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=262)**
 
-**Yazar:** [Apil](https://x.com/apilpirman) | **Kaynak:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [Apil](https://x.com/apilpirman) | **Kaynak:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### Canlı Aksiyon DBZ Savaş İstemcisi
@@ -954,7 +954,7 @@ Goku ve Vegeta arasında canlı aksiyon Saiyan savaşı, süper Saiyan mavisi
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=259)**
 
-**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Yayınlandı:** Feb 13, 2026
+**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021985063840403880) | **Yayınlandı:** Feb 12, 2026
 
 ---
 ### 1980'ler Vampir Röportajı İstemleri
@@ -1596,7 +1596,7 @@ Modern savaş jetlerinde havada çatışmaya giren üst düzey bir savaş pilotu
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=170)**
 
-**Yazar:** [𝕏Caliber](https://x.com/XCaliber) | **Kaynak:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [𝕏Caliber](https://x.com/XCaliber) | **Kaynak:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Kadın Gölgedeki Adamla Yüzleşiyor
@@ -1615,7 +1615,7 @@ Bir kadın gergin bir şekilde gölgelerdeki adamdan dışarı çıkmasını ist
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=208)**
 
-**Yazar:** [Gavin Purcell](https://x.com/gavinpurcell) | **Kaynak:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Gavin Purcell](https://x.com/gavinpurcell) | **Kaynak:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Doraemon ve Örümcek Adam Dövüşüyor
@@ -1634,7 +1634,7 @@ Doramon ve Spiderman'in çok kaliteli ve yoğun dövüşü
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=309)**
 
-**Yazar:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Kaynak:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [otung Emmanuel](https://x.com/otung_emmanuel) | **Kaynak:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Sualtı Altın Paralarıyla Elde Koşu Çekimi
@@ -1653,7 +1653,7 @@ Altın paralarla dolu bir çantayla koşan, suya atlayan ve kameranın su altın
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=161)**
 
-**Yazar:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Kaynak:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [CoffeeVectors](https://x.com/CoffeeVectors) | **Kaynak:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Sert Boks Antrenmanı Seansı
@@ -1672,7 +1672,7 @@ Kirli bir spor salonunda iki boksörün antrenman maçı yaparken etrafında dö
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=140)**
 
-**Yazar:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Kaynak:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **Kaynak:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Seedance 2.0 için Absürt Komedi Video İstemcisi: Hiçbir Şey
@@ -1721,7 +1721,7 @@ Sahne 4: Binici Kendini Alaya Alarak Dörtnala Koşmaya Devam Ediyor (0:20-0:30,
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=186)**
 
-**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [John](https://x.com/john87445528) | **Kaynak:** [Link](https://x.com/john87445528/status/2021706240272069021) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Dev Bir Canavardan Kaçmak (Arcane Tarzı)
@@ -1740,7 +1740,7 @@ Sahne 4: Binici Kendini Alaya Alarak Dörtnala Koşmaya Devam Ediyor (0:20-0:30,
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=142)**
 
-**Yazar:** [Dipper](https://x.com/dipperdao) | **Kaynak:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Dipper](https://x.com/dipperdao) | **Kaynak:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Flash Yönetmeninin İstemleri
@@ -1772,7 +1772,7 @@ Alçak, rezonanslı bir uğultu yükselir. Önündeki hava cam gibi çatlar. Dai
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=167)**
 
-**Yazar:** [Rufus](https://x.com/Rufus87078959) | **Kaynak:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Rufus](https://x.com/Rufus87078959) | **Kaynak:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Bir Maasai Köyünde Kaos
@@ -1791,7 +1791,7 @@ Devasa zırhlı bir babun, yanan bir Maasai köyünde dörtnala ilerliyor, bir M
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=160)**
 
-**Yazar:** [Travis Davids](https://x.com/MrDavids1) | **Kaynak:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Travis Davids](https://x.com/MrDavids1) | **Kaynak:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Will Smith Spagetti Canavarıyla Savaşıyor (80'ler Aksiyon)
@@ -1810,7 +1810,7 @@ Will Smith spagetti canavarıyla dövüşüyor, destansı 80'ler aksiyon filmi s
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=178)**
 
-**Yazar:** [S0FT](https://x.com/sudoSoftAI) | **Kaynak:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [S0FT](https://x.com/sudoSoftAI) | **Kaynak:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Trump vs Michael Jackson Yapay Zeka Dans Savaşı
@@ -1829,7 +1829,7 @@ TRUMP VS MICHAEL JACKSON: EN DESTANSI YAPAY ZEKA DANS SAVAŞI
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=263)**
 
-**Yazar:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Kaynak:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Shira Wiggles](https://x.com/ImperfectEngel) | **Kaynak:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Sinematik 2. Dünya Savaşı Motosiklet Kaçışı
@@ -1848,7 +1848,7 @@ Sora ve Veo'nun varlıklarını sorgulatacak sinematik bir 2. Dünya Savaşı mo
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=126)**
 
-**Yazar:** [pewden AI](https://x.com/pewdenai) | **Kaynak:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [pewden AI](https://x.com/pewdenai) | **Kaynak:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Deniz canavarı tarafından saldırıya uğrayan bir deniz teknesindeki adam
@@ -1867,7 +1867,7 @@ Devasa bir yağmur fırtınası sırasında bir adam denizde bir teknededir ve b
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=303)**
 
-**Yazar:** [Anthony T](https://x.com/creativesinner2) | **Kaynak:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Anthony T](https://x.com/creativesinner2) | **Kaynak:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Diyaloglu Çok Karakterli Kabin Sahnesi
@@ -1896,7 +1896,7 @@ Sabit kamera. Karakterler içeri girip art arda koltuklarına otururken tek bir 
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=138)**
 
-**Yazar:** [Jason W - AI](https://x.com/PocketScreenAI) | **Kaynak:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Jason W - AI](https://x.com/PocketScreenAI) | **Kaynak:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Thanos Spider-Man'den Özür Diliyor İstemi
@@ -1915,7 +1915,7 @@ Thanos'u, Örümcek Adam liderliğindeki bir grup saldırıdan önce özür dile
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=207)**
 
-**Yazar:** [xAi✨](https://x.com/xai_42) | **Kaynak:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [xAi✨](https://x.com/xai_42) | **Kaynak:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Zincirli, perişan evsiz kadın
@@ -1934,7 +1934,7 @@ Lumpen, Hobo, kadın versiyonu, eski püskü kedi, dikkat çekmek için zincirle
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=205)**
 
-**Yazar:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Kaynak:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Kaynak:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Lego Montaj Hızlandırılmış Animasyon
@@ -1958,7 +1958,7 @@ Odada Lego parçalarını ciddi bir şekilde birleştiren bir çocuk, sahne 3D a
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=329)**
 
-**Yazar:** [维维](https://x.com/siveill) | **Kaynak:** [Link](https://x.com/siveill/status/2021635240985604526) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [维维](https://x.com/siveill) | **Kaynak:** [Link](https://x.com/siveill/status/2021635240985604526) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### One Piece Esintili Metinden Videoya İstemi
@@ -1980,7 +1980,7 @@ Dev bir kara ejderhaya dönüşüyor ve herkesi gökyüzünden yakalıyor (Loki'
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=199)**
 
-**Yazar:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Kaynak:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **Kaynak:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Cozy Nighttime Pet Secret Kısa Filmi
@@ -2009,7 +2009,7 @@ Dev bir kara ejderhaya dönüşüyor ve herkesi gökyüzünden yakalıyor (Loki'
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=330)**
 
-**Yazar:** [Michelle](https://x.com/Michell81147285) | **Kaynak:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Michelle](https://x.com/Michell81147285) | **Kaynak:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Yüksek Enerjili Ticari Senaryo
@@ -2028,7 +2028,7 @@ Seedance 2.0 kullan, yüksek enerjili, sinematik, makro yakın çekimlerle bir t
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=311)**
 
-**Yazar:** [Kaiwen Li](https://x.com/realkaiwenli) | **Kaynak:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Kaiwen Li](https://x.com/realkaiwenli) | **Kaynak:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Kraken Saldırısı Sinematik Sahnesi
@@ -2047,7 +2047,7 @@ Dev bir kraken bir korsan gemisine saldırıyor, kaptan kılıcıyla onu dilimli
 
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=152)**
 
-**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Yayınlandı:** Feb 12, 2026
+**Yazar:** [Mark Gadala-Maria](https://x.com/markgadala) | **Kaynak:** [Link](https://x.com/markgadala/status/2021615497670737953) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ### Luffy ve Goku Destansı Dövüş Sahnesi
@@ -2564,6 +2564,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T16:58:09.831Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T16:59:32.002Z</sub>
 
 </div>

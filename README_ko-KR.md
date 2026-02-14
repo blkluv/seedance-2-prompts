@@ -119,7 +119,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=133)**
 
-**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **게시일:** Feb 12, 2026
+**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **게시일:** Feb 11, 2026
 
 ---
 ### Demon Slayer Live-Action Battle Prompt for Seedance 2.0
@@ -215,7 +215,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=351)**
 
-**작성자:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **출처:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **게시일:** Feb 14, 2026
+**작성자:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **출처:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **게시일:** Feb 13, 2026
 
 ---
 ### Cosmic Arena 토너먼트 공지 (사카타 긴토키)
@@ -236,7 +236,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=344)**
 
-**작성자:** [KIRA](https://x.com/k1raa__) | **출처:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **게시일:** Feb 14, 2026
+**작성자:** [KIRA](https://x.com/k1raa__) | **출처:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **게시일:** Feb 13, 2026
 
 ---
 ### 할리우드 레이싱 영화 장면 프롬프트 (1부)
@@ -257,7 +257,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=350)**
 
-**작성자:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **출처:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **게시일:** Feb 14, 2026
+**작성자:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **출처:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **게시일:** Feb 13, 2026
 
 ---
 ### 마키 제닌 전투 장면 프롬프트 (민첩한 움직임)
@@ -276,7 +276,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=354)**
 
-**작성자:** [karim_yourself](https://x.com/karim_yourself) | **출처:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **게시일:** Feb 14, 2026
+**작성자:** [karim_yourself](https://x.com/karim_yourself) | **출처:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **게시일:** Feb 13, 2026
 
 ---
 ### 마키 제닌 전투 장면 프롬프트 (탑 다운)
@@ -295,7 +295,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=352)**
 
-**작성자:** [karim_yourself](https://x.com/karim_yourself) | **출처:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **게시일:** Feb 14, 2026
+**작성자:** [karim_yourself](https://x.com/karim_yourself) | **출처:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **게시일:** Feb 13, 2026
 
 ---
 ### 기묘한 이야기 파티: 초능력 발휘하기
@@ -314,7 +314,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=347)**
 
-**작성자:** [Zopia AI](https://x.com/Zopia_AI) | **출처:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **게시일:** Feb 14, 2026
+**작성자:** [Zopia AI](https://x.com/Zopia_AI) | **출처:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **게시일:** Feb 13, 2026
 
 ---
 ### 시네마틱 스트리트 농구 장면: 여성이 남성의 슛을 블록하다
@@ -767,7 +767,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=291)**
 
-**작성자:** [chimi チミワウ](https://x.com/chimiwaw) | **출처:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **게시일:** Feb 13, 2026
+**작성자:** [chimi チミワウ](https://x.com/chimiwaw) | **출처:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **게시일:** Feb 12, 2026
 
 ---
 ### 세일러 문 대화 장면
@@ -786,7 +786,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=270)**
 
-**작성자:** [BigMotion.ai](https://x.com/BigMotion_ai) | **출처:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **게시일:** Feb 13, 2026
+**작성자:** [BigMotion.ai](https://x.com/BigMotion_ai) | **출처:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **게시일:** Feb 12, 2026
 
 ---
 ### 존 우 스타일 총격전 장면 프롬프트
@@ -805,7 +805,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=277)**
 
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2022066865296601311) | **게시일:** Feb 13, 2026
+**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2022066865296601311) | **게시일:** Feb 12, 2026
 
 ---
 ### 무협 검객 결투 프롬프트
@@ -824,7 +824,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=258)**
 
-**작성자:** [Jay Sensei👾](https://x.com/hckinz) | **출처:** [Link](https://x.com/hckinz/status/2022062799732777214) | **게시일:** Feb 13, 2026
+**작성자:** [Jay Sensei👾](https://x.com/hckinz) | **출처:** [Link](https://x.com/hckinz/status/2022062799732777214) | **게시일:** Feb 12, 2026
 
 ---
 ### 매드 맥스 엑소더스 스토리 프롬프트
@@ -843,7 +843,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=260)**
 
-**작성자:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **출처:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **게시일:** Feb 13, 2026
+**작성자:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **출처:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **게시일:** Feb 12, 2026
 
 ---
 ### 스파이 영화 격투 장면 프롬프트
@@ -862,7 +862,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=293)**
 
-**작성자:** [Restlessperson ](https://x.com/Restlessperson1) | **출처:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **게시일:** Feb 13, 2026
+**작성자:** [Restlessperson ](https://x.com/Restlessperson1) | **출처:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **게시일:** Feb 12, 2026
 
 ---
 ### 텍스트-투-비디오 프롬프트: 고대 의상 처형장 복수극 장면
@@ -882,7 +882,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=282)**
 
-**작성자:** [Ken W](https://x.com/kenw_2) | **출처:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **게시일:** Feb 13, 2026
+**작성자:** [Ken W](https://x.com/kenw_2) | **출처:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **게시일:** Feb 12, 2026
 
 ---
 ### 카말라 대 트럼프, 톰과 존 윅 프롬프트로 싸우다
@@ -901,7 +901,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=247)**
 
-**작성자:** [X Citizen Journal](https://x.com/xcitizenjournal) | **출처:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **게시일:** Feb 13, 2026
+**작성자:** [X Citizen Journal](https://x.com/xcitizenjournal) | **출처:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **게시일:** Feb 12, 2026
 
 ---
 ### 디저트 가게에서 찍는 360도 파노라마 셀카
@@ -920,7 +920,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=246)**
 
-**작성자:** [nachos2d](https://x.com/NACHOS2D_) | **출처:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **게시일:** Feb 13, 2026
+**작성자:** [nachos2d](https://x.com/NACHOS2D_) | **출처:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **게시일:** Feb 12, 2026
 
 ---
 ### Grok Imagine 이미지-투-비디오 프롬프트
@@ -939,7 +939,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=262)**
 
-**작성자:** [Apil](https://x.com/apilpirman) | **출처:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **게시일:** Feb 13, 2026
+**작성자:** [Apil](https://x.com/apilpirman) | **출처:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **게시일:** Feb 12, 2026
 
 ---
 ### 실사판 드래곤볼 Z 전투 프롬프트
@@ -958,7 +958,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=259)**
 
-**작성자:** [Mark Gadala-Maria](https://x.com/markgadala) | **출처:** [Link](https://x.com/markgadala/status/2021985063840403880) | **게시일:** Feb 13, 2026
+**작성자:** [Mark Gadala-Maria](https://x.com/markgadala) | **출처:** [Link](https://x.com/markgadala/status/2021985063840403880) | **게시일:** Feb 12, 2026
 
 ---
 ### 1980년대 뱀파이어 인터뷰 프롬프트
@@ -1600,7 +1600,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=170)**
 
-**작성자:** [𝕏Caliber](https://x.com/XCaliber) | **출처:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **게시일:** Feb 12, 2026
+**작성자:** [𝕏Caliber](https://x.com/XCaliber) | **출처:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **게시일:** Feb 11, 2026
 
 ---
 ### 여성이 그림자 속 남성과 대치하다
@@ -1619,7 +1619,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=208)**
 
-**작성자:** [Gavin Purcell](https://x.com/gavinpurcell) | **출처:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **게시일:** Feb 12, 2026
+**작성자:** [Gavin Purcell](https://x.com/gavinpurcell) | **출처:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **게시일:** Feb 11, 2026
 
 ---
 ### 도라에몽과 스파이더맨 싸움
@@ -1638,7 +1638,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=309)**
 
-**작성자:** [otung Emmanuel](https://x.com/otung_emmanuel) | **출처:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **게시일:** Feb 12, 2026
+**작성자:** [otung Emmanuel](https://x.com/otung_emmanuel) | **출처:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **게시일:** Feb 11, 2026
 
 ---
 ### 수중에서 금화를 들고 달리는 모습
@@ -1657,7 +1657,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=161)**
 
-**작성자:** [CoffeeVectors](https://x.com/CoffeeVectors) | **출처:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **게시일:** Feb 12, 2026
+**작성자:** [CoffeeVectors](https://x.com/CoffeeVectors) | **출처:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **게시일:** Feb 11, 2026
 
 ---
 ### 강렬한 복싱 스파링 세션
@@ -1676,7 +1676,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=140)**
 
-**작성자:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **출처:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **게시일:** Feb 12, 2026
+**작성자:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **출처:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **게시일:** Feb 11, 2026
 
 ---
 ### Seedance 2.0을 위한 황당 코미디 비디오 프롬프트: Nothing
@@ -1728,7 +1728,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=186)**
 
-**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2021706240272069021) | **게시일:** Feb 12, 2026
+**작성자:** [John](https://x.com/john87445528) | **출처:** [Link](https://x.com/john87445528/status/2021706240272069021) | **게시일:** Feb 11, 2026
 
 ---
 ### 거대 괴물에게서 도망치기 (아케인 스타일)
@@ -1747,7 +1747,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=142)**
 
-**작성자:** [Dipper](https://x.com/dipperdao) | **출처:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **게시일:** Feb 12, 2026
+**작성자:** [Dipper](https://x.com/dipperdao) | **출처:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **게시일:** Feb 11, 2026
 
 ---
 ### Flash 디렉터 프롬프트
@@ -1779,7 +1779,7 @@ Seedance 2.0 프롬프트
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=167)**
 
-**작성자:** [Rufus](https://x.com/Rufus87078959) | **출처:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **게시일:** Feb 12, 2026
+**작성자:** [Rufus](https://x.com/Rufus87078959) | **출처:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **게시일:** Feb 11, 2026
 
 ---
 ### 마사이 마을의 혼돈
@@ -1798,7 +1798,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=160)**
 
-**작성자:** [Travis Davids](https://x.com/MrDavids1) | **출처:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **게시일:** Feb 12, 2026
+**작성자:** [Travis Davids](https://x.com/MrDavids1) | **출처:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **게시일:** Feb 11, 2026
 
 ---
 ### 윌 스미스가 스파게티 괴물과 싸우는 모습 (80년대 액션)
@@ -1817,7 +1817,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=178)**
 
-**작성자:** [S0FT](https://x.com/sudoSoftAI) | **출처:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **게시일:** Feb 12, 2026
+**작성자:** [S0FT](https://x.com/sudoSoftAI) | **출처:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **게시일:** Feb 11, 2026
 
 ---
 ### 트럼프 대 마이클 잭슨 AI 댄스 배틀
@@ -1836,7 +1836,7 @@ Seedance 2.0 프롬프트
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=263)**
 
-**작성자:** [Shira Wiggles](https://x.com/ImperfectEngel) | **출처:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **게시일:** Feb 12, 2026
+**작성자:** [Shira Wiggles](https://x.com/ImperfectEngel) | **출처:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **게시일:** Feb 11, 2026
 
 ---
 ### 영화 같은 2차 세계대전 오토바이 탈출
@@ -1855,7 +1855,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=126)**
 
-**작성자:** [pewden AI](https://x.com/pewdenai) | **출처:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **게시일:** Feb 12, 2026
+**작성자:** [pewden AI](https://x.com/pewdenai) | **출처:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **게시일:** Feb 11, 2026
 
 ---
 ### 바다 괴물에게 공격당하는 배 위의 남자
@@ -1874,7 +1874,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=303)**
 
-**작성자:** [Anthony T](https://x.com/creativesinner2) | **출처:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **게시일:** Feb 12, 2026
+**작성자:** [Anthony T](https://x.com/creativesinner2) | **출처:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **게시일:** Feb 11, 2026
 
 ---
 ### 대화가 있는 다중 캐릭터 객실 장면
@@ -1903,7 +1903,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=138)**
 
-**작성자:** [Jason W - AI](https://x.com/PocketScreenAI) | **출처:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **게시일:** Feb 12, 2026
+**작성자:** [Jason W - AI](https://x.com/PocketScreenAI) | **출처:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **게시일:** Feb 11, 2026
 
 ---
 ### 타노스가 스파이더맨에게 사과하는 프롬프트
@@ -1922,7 +1922,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=207)**
 
-**작성자:** [xAi✨](https://x.com/xai_42) | **출처:** [Link](https://x.com/xai_42/status/2021637349247951131) | **게시일:** Feb 12, 2026
+**작성자:** [xAi✨](https://x.com/xai_42) | **출처:** [Link](https://x.com/xai_42/status/2021637349247951131) | **게시일:** Feb 11, 2026
 
 ---
 ### 사슬을 찬 룸펜 호보 여성
@@ -1941,7 +1941,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=205)**
 
-**작성자:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **출처:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **게시일:** Feb 12, 2026
+**작성자:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **출처:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **게시일:** Feb 11, 2026
 
 ---
 ### 레고 조립 타임랩스 애니메이션
@@ -1965,7 +1965,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=329)**
 
-**작성자:** [维维](https://x.com/siveill) | **출처:** [Link](https://x.com/siveill/status/2021635240985604526) | **게시일:** Feb 12, 2026
+**작성자:** [维维](https://x.com/siveill) | **출처:** [Link](https://x.com/siveill/status/2021635240985604526) | **게시일:** Feb 11, 2026
 
 ---
 ### 원피스에서 영감을 받은 텍스트-투-비디오 프롬프트
@@ -1987,7 +1987,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=199)**
 
-**작성자:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **출처:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **게시일:** Feb 12, 2026
+**작성자:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **출처:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **게시일:** Feb 11, 2026
 
 ---
 ### 코지 나이트타임 펫 시크릿 단편 영화
@@ -2016,7 +2016,7 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=330)**
 
-**작성자:** [Michelle](https://x.com/Michell81147285) | **출처:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **게시일:** Feb 12, 2026
+**작성자:** [Michelle](https://x.com/Michell81147285) | **출처:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **게시일:** Feb 11, 2026
 
 ---
 ### 고에너지 상업 스크립트
@@ -2035,7 +2035,7 @@ Seedance 2.0을 사용해서, 에너지 넘치고 영화 같은, 접사 클로�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=311)**
 
-**작성자:** [Kaiwen Li](https://x.com/realkaiwenli) | **출처:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **게시일:** Feb 12, 2026
+**작성자:** [Kaiwen Li](https://x.com/realkaiwenli) | **출처:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **게시일:** Feb 11, 2026
 
 ---
 ### Kraken Attack 시네마틱 장면
@@ -2054,7 +2054,7 @@ Seedance 2.0을 사용해서, 에너지 넘치고 영화 같은, 접사 클로�
 
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=152)**
 
-**작성자:** [Mark Gadala-Maria](https://x.com/markgadala) | **출처:** [Link](https://x.com/markgadala/status/2021615497670737953) | **게시일:** Feb 12, 2026
+**작성자:** [Mark Gadala-Maria](https://x.com/markgadala) | **출처:** [Link](https://x.com/markgadala/status/2021615497670737953) | **게시일:** Feb 11, 2026
 
 ---
 ### 루피와 오공의 장대한 싸움 장면
@@ -2571,6 +2571,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-14T16:57:31.506Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-14T16:59:27.934Z</sub>
 
 </div>

@@ -119,7 +119,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=133)**
 
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 12, 2026
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021689626092589532) | **發布時間:** Feb 11, 2026
 
 ---
 ### 《鬼滅之刃》真人戰鬥提示詞，適用於 Seedance 2.0
@@ -215,7 +215,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=351)**
 
-**作者:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **來源:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **發布時間:** Feb 14, 2026
+**作者:** [tinyfilmstudios](https://x.com/tinyfilmstudios) | **來源:** [Link](https://x.com/tinyfilmstudios/status/2022459197779247322) | **發布時間:** Feb 13, 2026
 
 ---
 ### Cosmic Arena 錦標賽公告：坂田銀時
@@ -236,7 +236,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=344)**
 
-**作者:** [KIRA](https://x.com/k1raa__) | **來源:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **發布時間:** Feb 14, 2026
+**作者:** [KIRA](https://x.com/k1raa__) | **來源:** [Link](https://x.com/k1raa__/status/2022442702667710484) | **發布時間:** Feb 13, 2026
 
 ---
 ### 好萊塢賽車電影場景提示（第一部分）
@@ -257,7 +257,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=350)**
 
-**作者:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **來源:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **發布時間:** Feb 14, 2026
+**作者:** [AYOUB AYOUR](https://x.com/AYOUBAYOUR9) | **來源:** [Link](https://x.com/AYOUBAYOUR9/status/2022428164564386132) | **發布時間:** Feb 13, 2026
 
 ---
 ### 禪院真希戰鬥場景提示（敏捷動作）
@@ -276,7 +276,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=354)**
 
-**作者:** [karim_yourself](https://x.com/karim_yourself) | **來源:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **發布時間:** Feb 14, 2026
+**作者:** [karim_yourself](https://x.com/karim_yourself) | **來源:** [Link](https://x.com/karim_yourself/status/2022374083468427428) | **發布時間:** Feb 13, 2026
 
 ---
 ### 禪院真希戰鬥場景提示（俯視）
@@ -295,7 +295,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=352)**
 
-**作者:** [karim_yourself](https://x.com/karim_yourself) | **來源:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **發布時間:** Feb 14, 2026
+**作者:** [karim_yourself](https://x.com/karim_yourself) | **來源:** [Link](https://x.com/karim_yourself/status/2022374077550457313) | **發布時間:** Feb 13, 2026
 
 ---
 ### 《怪奇物語》派對：釋放超能力
@@ -314,7 +314,7 @@
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=347)**
 
-**作者:** [Zopia AI](https://x.com/Zopia_AI) | **來源:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **發布時間:** Feb 14, 2026
+**作者:** [Zopia AI](https://x.com/Zopia_AI) | **來源:** [Link](https://x.com/Zopia_AI/status/2022355091223908496) | **發布時間:** Feb 13, 2026
 
 ---
 ### 電影感街頭籃球場景：男子被女子蓋火鍋
@@ -763,7 +763,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=291)**
 
-**作者:** [chimi チミワウ](https://x.com/chimiwaw) | **來源:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **發布時間:** Feb 13, 2026
+**作者:** [chimi チミワウ](https://x.com/chimiwaw) | **來源:** [Link](https://x.com/chimiwaw/status/2022091833632076051) | **發布時間:** Feb 12, 2026
 
 ---
 ### 《美少女戰士》對話場景
@@ -782,7 +782,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=270)**
 
-**作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **來源:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **發布時間:** Feb 13, 2026
+**作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **來源:** [Link](https://x.com/BigMotion_ai/status/2022090726511980552) | **發布時間:** Feb 12, 2026
 
 ---
 ### 吳宇森風格槍戰場景提示
@@ -801,7 +801,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=277)**
 
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2022066865296601311) | **發布時間:** Feb 13, 2026
+**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2022066865296601311) | **發布時間:** Feb 12, 2026
 
 ---
 ### 武俠劍客對決提示
@@ -820,7 +820,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=258)**
 
-**作者:** [Jay Sensei👾](https://x.com/hckinz) | **來源:** [Link](https://x.com/hckinz/status/2022062799732777214) | **發布時間:** Feb 13, 2026
+**作者:** [Jay Sensei👾](https://x.com/hckinz) | **來源:** [Link](https://x.com/hckinz/status/2022062799732777214) | **發布時間:** Feb 12, 2026
 
 ---
 ### Mad Max 疏散故事提示
@@ -839,7 +839,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=260)**
 
-**作者:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **來源:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **發布時間:** Feb 13, 2026
+**作者:** [Dana Akerman Green](https://x.com/DanaGreenAI) | **來源:** [Link](https://x.com/DanaGreenAI/status/2022060390411383290) | **發布時間:** Feb 12, 2026
 
 ---
 ### 特務電影打鬥場景提示
@@ -858,7 +858,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=293)**
 
-**作者:** [Restlessperson ](https://x.com/Restlessperson1) | **來源:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **發布時間:** Feb 13, 2026
+**作者:** [Restlessperson ](https://x.com/Restlessperson1) | **來源:** [Link](https://x.com/Restlessperson1/status/2022059501348856015) | **發布時間:** Feb 12, 2026
 
 ---
 ### 文字轉影片提示：古裝刑場復仇場景
@@ -878,7 +878,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=282)**
 
-**作者:** [Ken W](https://x.com/kenw_2) | **來源:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **發布時間:** Feb 13, 2026
+**作者:** [Ken W](https://x.com/kenw_2) | **來源:** [Link](https://x.com/kenw_2/status/2022045055716929675) | **發布時間:** Feb 12, 2026
 
 ---
 ### 賀錦麗對川普之戰，由湯姆和約翰·維克提示
@@ -897,7 +897,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=247)**
 
-**作者:** [X Citizen Journal](https://x.com/xcitizenjournal) | **來源:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **發布時間:** Feb 13, 2026
+**作者:** [X Citizen Journal](https://x.com/xcitizenjournal) | **來源:** [Link](https://x.com/xcitizenjournal/status/2022036097984090611) | **發布時間:** Feb 12, 2026
 
 ---
 ### 甜點店裡的 360 度全景自拍
@@ -916,7 +916,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=246)**
 
-**作者:** [nachos2d](https://x.com/NACHOS2D_) | **來源:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **發布時間:** Feb 13, 2026
+**作者:** [nachos2d](https://x.com/NACHOS2D_) | **來源:** [Link](https://x.com/NACHOS2D_/status/2022003177369776414) | **發布時間:** Feb 12, 2026
 
 ---
 ### Grok Imagine 圖像轉影片提示
@@ -935,7 +935,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=262)**
 
-**作者:** [Apil](https://x.com/apilpirman) | **來源:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **發布時間:** Feb 13, 2026
+**作者:** [Apil](https://x.com/apilpirman) | **來源:** [Link](https://x.com/apilpirman/status/2021988787501592737) | **發布時間:** Feb 12, 2026
 
 ---
 ### 真人版七龍珠戰鬥提示
@@ -954,7 +954,7 @@ Seedance 2.0 Prompt
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=259)**
 
-**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021985063840403880) | **發布時間:** Feb 13, 2026
+**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021985063840403880) | **發布時間:** Feb 12, 2026
 
 ---
 ### 1980 年代吸血鬼訪談提示
@@ -1596,7 +1596,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=170)**
 
-**作者:** [𝕏Caliber](https://x.com/XCaliber) | **來源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **發布時間:** Feb 12, 2026
+**作者:** [𝕏Caliber](https://x.com/XCaliber) | **來源:** [Link](https://x.com/XCaliber/status/2021733224838574311) | **發布時間:** Feb 11, 2026
 
 ---
 ### 女子在陰影中與男子對峙
@@ -1615,7 +1615,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=208)**
 
-**作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **來源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **發布時間:** Feb 12, 2026
+**作者:** [Gavin Purcell](https://x.com/gavinpurcell) | **來源:** [Link](https://x.com/gavinpurcell/status/2021732810554507352) | **發布時間:** Feb 11, 2026
 
 ---
 ### 哆啦 A 夢與蜘蛛人打鬥
@@ -1634,7 +1634,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=309)**
 
-**作者:** [otung Emmanuel](https://x.com/otung_emmanuel) | **來源:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **發布時間:** Feb 12, 2026
+**作者:** [otung Emmanuel](https://x.com/otung_emmanuel) | **來源:** [Link](https://x.com/otung_emmanuel/status/2021724349619700055) | **發布時間:** Feb 11, 2026
 
 ---
 ### 手持金幣水下奔跑鏡頭
@@ -1653,7 +1653,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=161)**
 
-**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **來源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **發布時間:** Feb 12, 2026
+**作者:** [CoffeeVectors](https://x.com/CoffeeVectors) | **來源:** [Link](https://x.com/CoffeeVectors/status/2021713445855355226) | **發布時間:** Feb 11, 2026
 
 ---
 ### 激烈的拳擊實戰訓練
@@ -1672,7 +1672,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=140)**
 
-**作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **來源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **發布時間:** Feb 12, 2026
+**作者:** [AIVideoDotCom](https://x.com/AIVideoDotCom) | **來源:** [Link](https://x.com/AIVideoDotCom/status/2021708002286501951) | **發布時間:** Feb 11, 2026
 
 ---
 ### Seedance 2.0 的荒謬喜劇影片提示：無
@@ -1724,7 +1724,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=186)**
 
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **發布時間:** Feb 12, 2026
+**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2021706240272069021) | **發布時間:** Feb 11, 2026
 
 ---
 ### 逃離巨型怪物（奧術風格）
@@ -1743,7 +1743,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=142)**
 
-**作者:** [Dipper](https://x.com/dipperdao) | **來源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **發布時間:** Feb 12, 2026
+**作者:** [Dipper](https://x.com/dipperdao) | **來源:** [Link](https://x.com/dipperdao/status/2021689147485040917) | **發布時間:** Feb 11, 2026
 
 ---
 ### Flash 導演提示
@@ -1775,7 +1775,7 @@ Seedance 2.0 提示
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=167)**
 
-**作者:** [Rufus](https://x.com/Rufus87078959) | **來源:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **發布時間:** Feb 12, 2026
+**作者:** [Rufus](https://x.com/Rufus87078959) | **來源:** [Link](https://x.com/Rufus87078959/status/2021687818188439745) | **發布時間:** Feb 11, 2026
 
 ---
 ### 馬賽村莊的混亂
@@ -1794,7 +1794,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=160)**
 
-**作者:** [Travis Davids](https://x.com/MrDavids1) | **來源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **發布時間:** Feb 12, 2026
+**作者:** [Travis Davids](https://x.com/MrDavids1) | **來源:** [Link](https://x.com/MrDavids1/status/2021686153913463257) | **發布時間:** Feb 11, 2026
 
 ---
 ### 威爾·史密斯大戰義大利麵怪獸 (80 年代動作片)
@@ -1813,7 +1813,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=178)**
 
-**作者:** [S0FT](https://x.com/sudoSoftAI) | **來源:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **發布時間:** Feb 12, 2026
+**作者:** [S0FT](https://x.com/sudoSoftAI) | **來源:** [Link](https://x.com/sudoSoftAI/status/2021679124511678523) | **發布時間:** Feb 11, 2026
 
 ---
 ### 川普 vs 麥可·傑克森 AI 舞蹈對決
@@ -1832,7 +1832,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=263)**
 
-**作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **來源:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **發布時間:** Feb 12, 2026
+**作者:** [Shira Wiggles](https://x.com/ImperfectEngel) | **來源:** [Link](https://x.com/ImperfectEngel/status/2021661749490139461) | **發布時間:** Feb 11, 2026
 
 ---
 ### 電影級二戰摩托車逃亡
@@ -1851,7 +1851,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=126)**
 
-**作者:** [pewden AI](https://x.com/pewdenai) | **來源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **發布時間:** Feb 12, 2026
+**作者:** [pewden AI](https://x.com/pewdenai) | **來源:** [Link](https://x.com/pewdenai/status/2021648907915411795) | **發布時間:** Feb 11, 2026
 
 ---
 ### 海船上的男子遭到海怪襲擊
@@ -1870,7 +1870,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=303)**
 
-**作者:** [Anthony T](https://x.com/creativesinner2) | **來源:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **發布時間:** Feb 12, 2026
+**作者:** [Anthony T](https://x.com/creativesinner2) | **來源:** [Link](https://x.com/creativesinner2/status/2021644275201507502) | **發布時間:** Feb 11, 2026
 
 ---
 ### 多角色機艙場景與對話
@@ -1899,7 +1899,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=138)**
 
-**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **來源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **發布時間:** Feb 12, 2026
+**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **來源:** [Link](https://x.com/PocketScreenAI/status/2021642407964803237) | **發布時間:** Feb 11, 2026
 
 ---
 ### 薩諾斯向蜘蛛人道歉的提示
@@ -1918,7 +1918,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=207)**
 
-**作者:** [xAi✨](https://x.com/xai_42) | **來源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **發布時間:** Feb 12, 2026
+**作者:** [xAi✨](https://x.com/xai_42) | **來源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **發布時間:** Feb 11, 2026
 
 ---
 ### 衣衫襤褸、戴著鎖鏈的流浪婦女
@@ -1937,7 +1937,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=205)**
 
-**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **來源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **發布時間:** Feb 12, 2026
+**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **來源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **發布時間:** Feb 11, 2026
 
 ---
 ### 樂高組裝縮時動畫
@@ -1961,7 +1961,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=329)**
 
-**作者:** [维维](https://x.com/siveill) | **來源:** [Link](https://x.com/siveill/status/2021635240985604526) | **發布時間:** Feb 12, 2026
+**作者:** [维维](https://x.com/siveill) | **來源:** [Link](https://x.com/siveill/status/2021635240985604526) | **發布時間:** Feb 11, 2026
 
 ---
 ### 《航海王》風格的文字轉影片提示
@@ -1983,7 +1983,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=199)**
 
-**作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **來源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **發布時間:** Feb 12, 2026
+**作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **來源:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **發布時間:** Feb 11, 2026
 
 ---
 ### 溫馨夜間寵物秘密短片
@@ -2013,7 +2013,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=330)**
 
-**作者:** [Michelle](https://x.com/Michell81147285) | **來源:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **發布時間:** Feb 12, 2026
+**作者:** [Michelle](https://x.com/Michell81147285) | **來源:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **發布時間:** Feb 11, 2026
 
 ---
 ### 高能量商業腳本
@@ -2032,7 +2032,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=311)**
 
-**作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **來源:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **發布時間:** Feb 12, 2026
+**作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **來源:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **發布時間:** Feb 11, 2026
 
 ---
 ### Kraken 攻擊過場動畫
@@ -2051,7 +2051,7 @@ Seedance 2.0 提示
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=152)**
 
-**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **發布時間:** Feb 12, 2026
+**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **來源:** [Link](https://x.com/markgadala/status/2021615497670737953) | **發布時間:** Feb 11, 2026
 
 ---
 ### 路飛與悟空的史詩級戰鬥場景
@@ -2568,6 +2568,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-14T16:57:23.956Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-14T16:59:27.093Z</sub>
 
 </div>
