@@ -295,27 +295,6 @@
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=354)**
 
 ---
-### 禅院真希打斗场景提示（伤疤）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个提示，描述了一场对决：一名伤痕累累的女子在禅宗花园上方的玻璃地板上击败了剑客，强调了她的伤势和一系列血腥的跳切镜头。
-
-#### 📝 提示词
-
-```
-一名女子与所有剑客搏斗，她用强大的攻击击败了他们。她的右眼有伤疤，身体上有烧伤痕迹——她在紫色灯光照亮的禅意花园上方的玻璃地板上战斗。镜头快速切换，她砍杀一个又一个敌人，鲜血飞溅。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="禅院真希打斗场景提示（伤疤）"></a>
-
-📥 *点击图片下载视频*
-
-**作者:** [karim_yourself](https://x.com/karim_yourself) | **来源:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **发布时间:** Feb 13, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=353)**
-
----
 ### 禅院真希战斗场景提示（俯视）
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -754,27 +733,6 @@ Seedance 2.0 提示词
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **发布时间:** Feb 13, 2026
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=369)**
-
----
-### 布拉德·皮特 对阵 汤姆·克鲁斯 打斗场景提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于测试 Seedance 2.0 的提示，通过生成演员布拉德·皮特和汤姆·克鲁斯之间的打斗场景，他们的对话围绕着“爱泼斯坦档案”展开。
-
-#### 📝 提示词
-
-```
-生成一段 #布拉德皮特 和 #汤姆克鲁斯 之间的 #打斗场景，他们在打斗中的对话围绕着 #爱泼斯坦档案 展开。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="布拉德·皮特 对阵 汤姆·克鲁斯 打斗场景提示"></a>
-
-📥 *点击图片下载视频*
-
-**作者:** [Box Office Reporter](https://x.com/BORReporter) | **来源:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **发布时间:** Feb 13, 2026
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=359)**
 
 ---
 ### Seedance 2.0 电影列车序列提示
@@ -2707,6 +2665,48 @@ Seedance 2.0 提示词
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=185)**
 
 ---
+### 哈利·波特大战伏地魔动作场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ChatCut 提供的一个提示模板，用于使用 Seedance 2.0 生成哈利 · 波特和伏地魔之间充满动作的打斗场景。
+
+#### 📝 提示词
+
+```
+生成一段哈利 · 波特和伏地魔之间充满动作的打斗场景。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="哈利·波特大战伏地魔动作场景"></a>
+
+📥 *点击图片下载视频*
+
+**作者:** [ChatCut](https://x.com/chatcutapp) | **来源:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **发布时间:** Feb 11, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=153)**
+
+---
+### 电影级翼装飞行序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细、多镜头提示，用于 Seedance Pro 2.0，描述了一个电影般的空中序列：一名翼装飞行员从白雪覆盖的山顶俯冲而下，穿梭于冰层之间进行近距离飞行，并在高山湖泊上方展开降落伞。
+
+#### 📝 提示词
+
+```
+一段电影般的视频序列，开场是一个宁静的广角航拍镜头，展现了黎明时分白雪皑皑的原始山峰。山顶刺破云海，霞光将冰层染成粉色和金色。镜头随后切换，跟随一名翼装飞行员从山顶一跃而下，立即以陡峭的垂直俯冲穿过稀薄的云层。跟踪镜头位于飞行员身后上方，随着他们向下加速，镜头因气流颠簸而轻微晃动，霜粒飞速掠过。飞行员进入近距离飞行，掠过垂直的悬崖峭壁和锯齿状的冰层，距离仅数米之遥。镜头随之倾斜和翻滚，以匹配每一个精确的动作。当飞行员穿过狭窄的冰烟囱时，光影在翼装表面跳跃，两侧的岩壁在蓝白色的模糊中飞速掠过。当他们进入一个巨大的冰川山谷时，速度加快，在巨大的冰柱和冰冻瀑布之间穿梭，水雾和粉雪被卷起，形成螺旋状的轨迹。飞行员围绕一个独立的冰尖塔完成一个戏剧性的桶滚，然后在最后一刻拉开降落伞。镜头向上跟随减速过程，然后拉远，展现出一个令人惊叹的隐藏高山湖泊，周围环绕着未经触碰的雪原，湖面平静如镜，倒映着清晨的天空。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="电影级翼装飞行序列"></a>
+
+📥 *点击图片下载视频*
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **发布时间:** Feb 11, 2026
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 更多提示词
@@ -2768,6 +2768,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-14T12:49:15.427Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-14T16:30:28.400Z</sub>
 
 </div>

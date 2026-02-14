@@ -295,27 +295,6 @@ kadın, tüm kılıç ustası erkekleri güçlü saldırılarla alt ediyor, sağ
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=354)**
 
 ---
-### Maki Zenin Dövüş Sahnesi İstem (Yaralı)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yaralı bir kadının zen bahçesinin üzerindeki cam bir zeminde kılıç ustalarını yendiği, yaralarına ve kanlı hızlı geçişlere odaklanan bir hesaplaşmayı anlatan bir komut istemi.
-
-#### 📝 İstem
-
-```
-kadın tüm kılıç ustası erkekleri güçlü saldırılarla alt ediyor, sağ gözü yaralı, vücudunda yanık izleri var - mor ışıkla aydınlatılmış bir zen bahçesinin üzerindeki cam bir zeminde dövüşüyor - bir düşmanı kestikten sonra kanlar içinde art arda hızlı geçişler.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin Dövüş Sahnesi İstem (Yaralı)"></a>
-
-📥 *Videoyu indirmek için resme tıklayın*
-
-**Yazar:** [karim_yourself](https://x.com/karim_yourself) | **Kaynak:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=353)**
-
----
 ### Maki Zenin Dövüş Sahnesi İstemleri (Yukarıdan Aşağıya)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -754,27 +733,6 @@ Efektler: Ekran hediye efektleriyle (spor arabalar, roketler) ve "Şimdi Sipari�
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **Yayınlandı:** Feb 13, 2026
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=369)**
-
----
-### Brad Pitt vs Tom Cruise Dövüş Sahnesi Komutu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Aktörler Brad Pitt ve Tom Cruise arasında, diyalogları Epstein Dosyaları etrafında dönen bir dövüş sahnesi oluşturarak Seedance 2.0'ı test etmek için kullanılan bir bilgi istemi.
-
-#### 📝 İstem
-
-```
-#BradPitt ve #TomCruise arasında, dövüş sırasındaki diyaloglarının #EpsteinDosyaları etrafında döndüğü bir #dövüşsahnesi oluştur.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt vs Tom Cruise Dövüş Sahnesi Komutu"></a>
-
-📥 *Videoyu indirmek için resme tıklayın*
-
-**Yazar:** [Box Office Reporter](https://x.com/BORReporter) | **Kaynak:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **Yayınlandı:** Feb 13, 2026
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=359)**
 
 ---
 ### Seedance 2.0 için Sinematik Tren Sekansı İstemleri
@@ -2707,6 +2665,48 @@ Sahne 3: Malikanenin Yanından Dörtnala Geçiş (0:09-0:15, 6 saniye)
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=185)**
 
 ---
+### Harry Potter ve Voldemort Aksiyon Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ChatCut tarafından, Seedance 2.0 kullanarak Harry Potter ve Voldemort arasında aksiyon dolu bir dövüş sahnesi oluşturmak için sağlanan bir istem şablonu.
+
+#### 📝 İstem
+
+```
+Harry Potter ve Voldemort arasında aksiyon dolu bir dövüş sahnesi oluştur.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Harry Potter ve Voldemort Aksiyon Sahnesi"></a>
+
+📥 *Videoyu indirmek için resme tıklayın*
+
+**Yazar:** [ChatCut](https://x.com/chatcutapp) | **Kaynak:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Yayınlandı:** Feb 11, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=153)**
+
+---
+### Sinematik Kanatlı Tulum Uçuş Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance Pro 2.0 için, karla kaplı bir dağ zirvesinden atlayan, buz oluşumları arasından yakın uçuş yapan ve bir dağ gölü üzerinde paraşüt açan bir kanatlı elbise pilotunun sinematik bir hava sekansını tanımlayan, oldukça ayrıntılı, çoklu çekim istemi.
+
+#### 📝 İstem
+
+```
+Şafak vakti, el değmemiş, karla kaplı bir dağ zirvesinin sakin, geniş bir hava çekimiyle başlayan sinematik bir video sekansı. Zirve, alpenglow'un buz oluşumlarını pembe ve altın rengine boyadığı bir bulut denizi arasından yükseliyor. Kamera, zirveden atlayan ve hemen ince bulutların arasından dik bir dikey dalışa geçen bir kanatlı elbise pilotunu takip etmek üzere geçiş yapıyor. Takip çekimi, pilot aşağı doğru hızlanırken hemen arkasında ve üzerinde konumlanıyor; kamera hava türbülansından hafifçe sallanıyor, buz parçacıkları hızla geçiyor. Pilot, sarp uçurum yüzeylerinin ve sivri buz oluşumlarının birkaç metre yakınından sıyırarak yakın uçuşa geçiyor; kamera her hassas harekete uyum sağlamak için yatıyor ve dönüyor. Pilot dar bir buz bacasından geçerken kanatlı elbisenin yüzeyinde gölgeler ve ışık dans ediyor, duvarlar mavi ve beyaz bir bulanıklık içinde hızla geçiyor. Pilot, devasa bir buzul vadisine girerken hız artıyor, devasa buz sütunları ve donmuş şelaleler arasında süzülüyor, sis ve toz kar spiral izler halinde yükseliyor. Pilot, bağımsız bir buz kulesinin etrafında dramatik bir takla atıyor ve ardından mümkün olan son anda paraşütü açıyor. Kamera, yavaşlama boyunca yukarı doğru takip ediyor, ardından genişleyerek el değmemiş kar tarlalarıyla çevrili, sabah gökyüzünü yansıtan, mükemmel derecede durgun ve ayna gibi nefes kesici gizli bir alp gölünü ortaya çıkarıyor.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Kanatlı Tulum Uçuş Sekansı"></a>
+
+📥 *Videoyu indirmek için resme tıklayın*
+
+**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Yayınlandı:** Feb 11, 2026
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2768,6 +2768,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T12:49:54.339Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-14T16:31:06.045Z</sub>
 
 </div>

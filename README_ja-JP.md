@@ -295,27 +295,6 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=354)**
 
 ---
-### 禪院真希の戦闘シーンのプロンプト（傷跡あり）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 禅ガーデンの上にあるガラスの床で、傷だらけの女性が剣士たちを倒す対決を描いたプロンプト。彼女の負傷と血まみれのジャンプカットの連続を強調する。
-
-#### 📝 プロンプト
-
-```
-女性がすべての剣士たちを強力な攻撃で倒していく様子。彼女の右目には傷があり、体には火傷の跡がある。紫色の光で照らされた枯山水庭園の上のガラスの床で戦っている。敵を次々と切り裂き、血が飛び散る中、ジャンプカットが続く。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="禪院真希の戦闘シーンのプロンプト（傷跡あり）"></a>
-
-📥 *画像をクリックして動画をダウンロード*
-
-**作者:** [karim_yourself](https://x.com/karim_yourself) | **ソース:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **公開日:** Feb 13, 2026
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=353)**
-
----
 ### 禪院真希の戦闘シーンのプロンプト（トップダウン）
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -758,27 +737,6 @@ Seedance 2.0 プロンプト
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **公開日:** Feb 13, 2026
 
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=369)**
-
----
-### ブラッド・ピット vs トム・クルーズの格闘シーンのプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 俳優のブラッド・ピットとトム・クルーズがエプスタイン・ファイルを巡って対話する格闘シーンを生成することで、Seedance 2.0 をテストするために使用されたプロンプト。
-
-#### 📝 プロンプト
-
-```
-#ブラッド・ピット と #トム・クルーズ の #格闘シーン を作成してください。格闘中のセリフは #エプスタインファイル を中心に展開されるものとします。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="ブラッド・ピット vs トム・クルーズの格闘シーンのプロンプト"></a>
-
-📥 *画像をクリックして動画をダウンロード*
-
-**作者:** [Box Office Reporter](https://x.com/BORReporter) | **ソース:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **公開日:** Feb 13, 2026
-
-**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=359)**
 
 ---
 ### Seedance 2.0 用シネマティック列車シーケンスプロンプト
@@ -2727,6 +2685,48 @@ Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白�
 **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=185)**
 
 ---
+### ハリー・ポッター vs ヴォルデモート アクションシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ChatCut が提供するプロンプトテンプレート。Seedance 2.0 を使用して、ハリー・ポッターとヴォルデモートの激しい戦闘シーンを生成します。
+
+#### 📝 プロンプト
+
+```
+ハリー・ポッターとヴォルデモートの、アクション満載の戦闘シーンを生成してください。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="ハリー・ポッター vs ヴォルデモート アクションシーン"></a>
+
+📥 *画像をクリックして動画をダウンロード*
+
+**作者:** [ChatCut](https://x.com/chatcutapp) | **ソース:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **公開日:** Feb 11, 2026
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=153)**
+
+---
+### シネマティック ウィングスーツ フライト シーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance Pro 2.0 用の、非常に詳細なマルチショットプロンプト。雪に覆われた山頂からウィングスーツパイロットが飛び立ち、氷の造形物の間を近接飛行し、高山湖の上空でパラシュートを展開する、映画のような空中シーケンスを描写。
+
+#### 📝 プロンプト
+
+```
+夜明け、手つかずの雪に覆われた山頂の穏やかな広角空撮から始まるシネマティックな映像シーケンス。山頂は雲海を突き抜け、朝焼けが氷の造形をピンクと金色に染めている。カメラは、山頂から飛び降り、すぐに薄い雲の中を急降下するウィングスーツパイロットを追う。追跡ショットはパイロットのすぐ後ろ上方に位置し、パイロットが加速して降下するにつれて、カメラは空気の乱気流でわずかに揺れ、霜の粒子が流れ去っていく。パイロットは絶壁やギザギザの氷の造形から数メートル以内をかすめるように飛行するプロキシミティフライトに入り、カメラはパイロットの正確な動きに合わせてバンクしたりロールしたりする。パイロットが狭い氷の煙突を通り抜ける際、ウィングスーツの表面に影と光が戯れ、壁は青と白のぼやけた塊となって通り過ぎる。巨大な氷河谷に入ると速度は増し、巨大な氷柱や凍った滝の間を縫うように進み、霧と粉雪が渦を巻く軌跡となって舞い上がる。パイロットは独立した氷の尖塔の周りで劇的なバレルロールを実行し、ぎりぎりのタイミングでパラシュートを開く。カメラは減速しながら上方に追従し、その後、手つかずの雪原に囲まれた息をのむような隠れた高山湖を広角で捉える。湖面は完全に静止し、鏡のように朝の空を映し出している。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="シネマティック ウィングスーツ フライト シーケンス"></a>
+
+📥 *画像をクリックして動画をダウンロード*
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **公開日:** Feb 11, 2026
+
+**[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 その他のプロンプト
@@ -2788,6 +2788,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-14T12:49:21.273Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-14T16:30:35.202Z</sub>
 
 </div>

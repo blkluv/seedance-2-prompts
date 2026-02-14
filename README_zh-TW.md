@@ -295,27 +295,6 @@
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=354)**
 
 ---
-### 禪院真希戰鬥場景提示（傷痕累累）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個描述一名傷痕累累的女子在禪意花園上方的玻璃地板上擊敗劍客的提示，強調她的傷勢和一系列血腥的跳接鏡頭。
-
-#### 📝 提示詞
-
-```
-一名女子與所有劍客對決，她以強大的攻擊擊敗男性敵人，右眼有疤痕，身上有燒傷痕跡——在紫色燈光照亮的禪意花園上方，一個玻璃地板上戰鬥——一個又一個的跳切畫面，她斬殺敵人時鮮血飛濺。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="禪院真希戰鬥場景提示（傷痕累累）"></a>
-
-📥 *點擊圖片下載視頻*
-
-**作者:** [karim_yourself](https://x.com/karim_yourself) | **來源:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **發布時間:** Feb 13, 2026
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=353)**
-
----
 ### 禪院真希戰鬥場景提示（俯視）
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -754,27 +733,6 @@ Seedance 2.0 Prompt
 **作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **發布時間:** Feb 13, 2026
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=369)**
-
----
-### Brad Pitt 對戰 Tom Cruise 打鬥場景提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於測試 Seedance 2.0 的提示，內容是生成演員布萊德·彼特和湯姆·克魯斯之間的打鬥場景，他們的對話圍繞著愛潑斯坦檔案。
-
-#### 📝 提示詞
-
-```
-生成一段 #BradPitt 和 #TomCruise 之間的 #打鬥場景，他們在打鬥中的對話圍繞著 #EpsteinFiles。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt 對戰 Tom Cruise 打鬥場景提示"></a>
-
-📥 *點擊圖片下載視頻*
-
-**作者:** [Box Office Reporter](https://x.com/BORReporter) | **來源:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **發布時間:** Feb 13, 2026
-
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=359)**
 
 ---
 ### Seedance 2.0 的電影級列車序列提示
@@ -2711,6 +2669,48 @@ SHOT3
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=185)**
 
 ---
+### 哈利波特大戰佛地魔動作場面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ChatCut 提供的一個提示範本，用於使用 Seedance 2.0 生成哈利波特和佛地魔之間充滿動作的打鬥場景。
+
+#### 📝 提示詞
+
+```
+生成一段哈利波特與佛地魔之間充滿動作的打鬥場景。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="哈利波特大戰佛地魔動作場面"></a>
+
+📥 *點擊圖片下載視頻*
+
+**作者:** [ChatCut](https://x.com/chatcutapp) | **來源:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **發布時間:** Feb 11, 2026
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=153)**
+
+---
+### 電影翼裝飛行序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度詳細、多鏡頭的 Seedance Pro 2.0 提示，描述了一段電影般的空中序列：一名翼裝飛行員從白雪皚皚的山峰跳下，穿梭於冰層之間進行近距離飛行，並在一個高山湖泊上空打開降落傘。
+
+#### 📝 提示詞
+
+```
+一段電影般的影片開場，以黎明時分白雪皚皚的山峰寧靜的廣角空拍鏡頭呈現，山頂刺破雲海，霞光將冰層染成粉紅色和金色。鏡頭轉向追隨一位翼裝飛行員，他從山頂一躍而下，立即穿過稀薄的雲層，進行陡峭的垂直俯衝。追蹤鏡頭位於飛行員的後上方，隨著他們向下加速，鏡頭因氣流輕微晃動，霜粒飛逝而過。飛行員進入近距離飛行，掠過幾米內的懸崖峭壁和鋸齒狀冰層，鏡頭隨之傾斜和翻滾，以配合每一個精確的動作。當飛行員穿過狹窄的冰煙囪時，光影在翼裝表面跳躍，兩側的冰壁模糊成一片藍白。當他們進入巨大的冰川山谷時，速度加快，穿梭於巨大的冰柱和冰凍瀑布之間，薄霧和粉雪被捲成螺旋狀的軌跡。飛行員繞著一個獨立的冰尖石進行了一次戲劇性的桶滾，然後在最後一刻拉開降落傘。鏡頭向上追隨減速過程，然後拉遠，展現出一個令人驚嘆的隱藏高山湖泊，周圍環繞著未受破壞的雪地，湖面平靜如鏡，倒映著晨光。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="電影翼裝飛行序列"></a>
+
+📥 *點擊圖片下載視頻*
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **發布時間:** Feb 11, 2026
+
+**[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 更多提示詞
@@ -2772,6 +2772,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-02-14T12:49:18.469Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-02-14T16:30:31.829Z</sub>
 
 </div>

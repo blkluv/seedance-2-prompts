@@ -295,27 +295,6 @@ cuộc đối đầu của người phụ nữ hạ gục tất cả các kiếm
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=354)**
 
 ---
-### Mô tả cảnh chiến đấu của Maki Zenin (Bị sẹo)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc mô tả cuộc đối đầu nơi một người phụ nữ đầy sẹo đánh bại các kiếm sĩ trên sàn kính phía trên một khu vườn Thiền, nhấn mạnh những vết thương của cô và một chuỗi các cảnh cắt nhanh đẫm máu.
-
-#### 📝 Prompt
-
-```
-cuộc đối đầu của người phụ nữ hạ gục tất cả những kiếm sĩ nam bằng những đòn tấn công mạnh mẽ, mắt phải của cô ấy có vết sẹo, cơ thể cô ấy có vết bỏng - chiến đấu trên sàn kính phía trên khu vườn thiền được chiếu sáng bằng ánh sáng tím - , cảnh cắt nhanh liên tục với máu của cô ấy khi cô ấy chém một kẻ thù này đến kẻ thù khác
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="Mô tả cảnh chiến đấu của Maki Zenin (Bị sẹo)"></a>
-
-📥 *Nhấp vào hình ảnh để tải video*
-
-**Tác giả:** [karim_yourself](https://x.com/karim_yourself) | **Nguồn:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **Đã xuất bản:** Feb 13, 2026
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=353)**
-
----
 ### Mô tả cảnh chiến đấu của Maki Zenin (Từ trên xuống)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -754,27 +733,6 @@ Hiệu ứng: Màn hình tràn ngập hiệu ứng quà tặng (xe thể thao, t
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **Đã xuất bản:** Feb 13, 2026
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=369)**
-
----
-### Lời nhắc cảnh chiến đấu giữa Brad Pitt và Tom Cruise
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc được sử dụng để kiểm tra Seedance 2.0 bằng cách tạo ra một cảnh chiến đấu giữa các diễn viên Brad Pitt và Tom Cruise, với đoạn hội thoại của họ xoay quanh Hồ sơ Epstein.
-
-#### 📝 Prompt
-
-```
-tạo một #cảnhđánhnhau giữa #BradPitt và #TomCruise, với lời thoại của họ trong trận chiến xoay quanh #EpsteinFiles
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="Lời nhắc cảnh chiến đấu giữa Brad Pitt và Tom Cruise"></a>
-
-📥 *Nhấp vào hình ảnh để tải video*
-
-**Tác giả:** [Box Office Reporter](https://x.com/BORReporter) | **Nguồn:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **Đã xuất bản:** Feb 13, 2026
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=359)**
 
 ---
 ### Lời nhắc chuỗi tàu điện mang phong cách điện ảnh cho Seedance 2.0
@@ -2710,6 +2668,48 @@ Cảnh 3: Phi nước đại ngang qua bên hông Dinh thự (0:09-0:15, 6 giây
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=185)**
 
 ---
+### Cảnh hành động Harry Potter đấu với Voldemort
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một mẫu lời nhắc do ChatCut cung cấp để tạo ra một cảnh chiến đấu đầy kịch tính giữa Harry Potter và Voldemort bằng cách sử dụng Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh chiến đấu đầy kịch tính giữa Harry Potter và Voldemort.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Cảnh hành động Harry Potter đấu với Voldemort"></a>
+
+📥 *Nhấp vào hình ảnh để tải video*
+
+**Tác giả:** [ChatCut](https://x.com/chatcutapp) | **Nguồn:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Đã xuất bản:** Feb 11, 2026
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=153)**
+
+---
+### Trình tự bay Wingsuit điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc đa cảnh quay, cực kỳ chi tiết dành cho Seedance Pro 2.0 mô tả một phân cảnh trên không đậm chất điện ảnh về một phi công bộ đồ bay lượn từ đỉnh núi phủ tuyết, thực hiện chuyến bay gần qua các khối băng, và bung dù trên một hồ nước trên núi cao.
+
+#### 📝 Prompt
+
+```
+Một đoạn video điện ảnh mở đầu bằng một cảnh quay rộng trên không thanh bình về đỉnh núi phủ tuyết trắng tinh khôi vào lúc bình minh, đỉnh núi xuyên qua biển mây với ánh alpenglow nhuộm hồng và vàng các khối băng. Máy quay chuyển cảnh theo một phi công wingsuit nhảy từ đỉnh núi, ngay lập tức lao xuống dốc thẳng đứng xuyên qua những đám mây mỏng manh. Cảnh quay theo dõi được đặt ngay phía sau và phía trên phi công khi họ tăng tốc lao xuống, máy quay rung nhẹ do nhiễu loạn không khí, các hạt băng bay qua. Phi công thực hiện một chuyến bay sát, lướt trong vòng vài mét so với các vách đá dựng đứng và các khối băng lởm chởm, máy quay nghiêng và xoay để khớp với mọi chuyển động chính xác. Bóng và ánh sáng chơi đùa trên bề mặt bộ wingsuit khi phi công luồn qua một khe băng hẹp, các bức tường lướt qua trong một vệt mờ xanh và trắng. Tốc độ tăng lên khi họ đi vào một thung lũng sông băng khổng lồ, luồn lách giữa những cột băng khổng lồ và thác nước đóng băng, sương mù và tuyết bột bay lên thành những vệt xoáy. Phi công thực hiện một cú barrel roll ngoạn mục quanh một chóp băng đứng độc lập trước khi bung dù vào khoảnh khắc cuối cùng có thể. Máy quay theo dõi lên trên qua quá trình giảm tốc, sau đó mở rộng để lộ một hồ nước alpine ẩn mình ngoạn mục được bao quanh bởi những cánh đồng tuyết hoang sơ, hoàn toàn tĩnh lặng và như gương, phản chiếu bầu trời buổi sáng.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Trình tự bay Wingsuit điện ảnh"></a>
+
+📥 *Nhấp vào hình ảnh để tải video*
+
+**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Đã xuất bản:** Feb 11, 2026
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2771,6 +2771,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-14T12:49:29.787Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-14T16:30:44.764Z</sub>
 
 </div>

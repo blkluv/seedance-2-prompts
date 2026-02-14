@@ -295,27 +295,6 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=354)**
 
 ---
-### 마키 제닌 전투 장면 프롬프트 (흉터)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 젠 가든 위 유리 바닥에서 흉터 입은 여인이 검객들을 물리치는 대결을 묘사하는 프롬프트로, 그녀의 부상과 피 튀기는 점프컷 시퀀스를 강조합니다.
-
-#### 📝 프롬프트
-
-```
-모든 검객들을 쓰러뜨리는 여인. 강력한 공격을 가하고, 오른쪽 눈에 흉터가 있으며, 몸에 화상 자국이 있다. 보랏빛 조명으로 빛나는 선(禪) 정원 위 유리 바닥에서 싸우고 있다. 적들을 베어 넘길 때마다 피가 튀는 점프컷이 이어진다.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="마키 제닌 전투 장면 프롬프트 (흉터)"></a>
-
-📥 *이미지를 클릭하여 동영상 다운로드*
-
-**작성자:** [karim_yourself](https://x.com/karim_yourself) | **출처:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **게시일:** Feb 13, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=353)**
-
----
 ### 마키 제닌 전투 장면 프롬프트 (탑 다운)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -758,27 +737,6 @@ Seedance 2.0 프롬프트
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **게시일:** Feb 13, 2026
 
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=369)**
-
----
-### 브래드 피트 대 톰 크루즈 싸움 장면 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 배우 브래드 피트와 톰 크루즈가 엡스타인 파일에 대한 대화를 나누는 격투 장면을 생성하여 Seedance 2.0을 테스트하는 데 사용된 프롬프트.
-
-#### 📝 프롬프트
-
-```
-#브래드피트 와 #톰크루즈 가 #엡스타인파일 에 대한 대화를 나누면서 #격투 장면 을 벌이는 모습을 생성해 줘.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="브래드 피트 대 톰 크루즈 싸움 장면 프롬프트"></a>
-
-📥 *이미지를 클릭하여 동영상 다운로드*
-
-**작성자:** [Box Office Reporter](https://x.com/BORReporter) | **출처:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **게시일:** Feb 13, 2026
-
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=359)**
 
 ---
 ### Seedance 2.0을 위한 시네마틱 기차 시퀀스 프롬프트
@@ -2714,6 +2672,48 @@ Seedance 2.0을 사용하여 애니메이션 비디오를 생성하세요: 중�
 **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=185)**
 
 ---
+### 해리 포터 vs 볼드모트 액션 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ChatCut이 제공하는 프롬프트 템플릿으로 Seedance 2.0을 사용하여 해리 포터와 볼드모트 간의 박진감 넘치는 격투 장면을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+해리 포터와 볼드모트 간의 박진감 넘치는 싸움 장면을 생성해 주세요.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="해리 포터 vs 볼드모트 액션 장면"></a>
+
+📥 *이미지를 클릭하여 동영상 다운로드*
+
+**작성자:** [ChatCut](https://x.com/chatcutapp) | **출처:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=153)**
+
+---
+### 시네마틱 윙슈트 비행 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 눈 덮인 산봉우리에서 윙슈트 조종사가 다이빙하여 얼음 지형을 근접 비행하고, 고산 호수 위에서 낙하산을 펼치는 시네마틱 공중 시퀀스를 묘사하는 Seedance Pro 2.0용으로 매우 상세하게 여러 컷으로 구성된 프롬프트.
+
+#### 📝 프롬프트
+
+```
+새벽, 눈 덮인 깨끗한 산봉우리의 고요한 광각 항공 촬영으로 시작되는 영화 같은 영상 시퀀스. 정상은 구름 바다를 뚫고 솟아 있고, 알펜글로우가 얼음 지형을 분홍색과 금색으로 물들입니다. 카메라는 봉우리에서 뛰어내려 얇은 구름 사이로 가파른 수직 하강을 시작하는 윙슈트 조종사를 따라갑니다. 추적 촬영은 조종사의 바로 뒤와 위에서 이루어지며, 조종사가 아래로 가속할 때 공기 난류로 인해 카메라가 미묘하게 흔들리고 서리 입자가 스쳐 지나갑니다. 조종사는 아슬아슬한 근접 비행을 하며 가파른 절벽과 들쭉날쭉한 얼음 지형을 몇 미터 안에서 스쳐 지나가고, 카메라는 조종사의 모든 정밀한 움직임에 맞춰 기울고 회전합니다. 조종사가 좁은 얼음 굴뚝을 통과할 때 윙슈트 표면에 그림자와 빛이 드리워지고, 벽은 파란색과 흰색의 흐릿한 모습으로 빠르게 지나갑니다. 거대한 빙하 계곡으로 진입하면서 속도가 빨라지고, 거대한 얼음 기둥과 얼어붙은 폭포 사이를 누비며 안개와 가루눈이 소용돌이치는 흔적을 남깁니다. 조종사는 독립된 얼음 첨탑 주위를 극적인 배럴 롤로 비행한 후 마지막 순간에 낙하산을 펼칩니다. 카메라는 감속하는 조종사를 따라 위로 향하다가 넓게 펼쳐져 손대지 않은 설원과 완벽하게 고요하고 거울 같은 숨겨진 고산 호수가 아침 하늘을 비추는 숨 막히는 풍경을 드러냅니다.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 윙슈트 비행 시퀀스"></a>
+
+📥 *이미지를 클릭하여 동영상 다운로드*
+
+**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **게시일:** Feb 11, 2026
+
+**[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2775,6 +2775,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-14T12:49:23.958Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-14T16:30:38.474Z</sub>
 
 </div>

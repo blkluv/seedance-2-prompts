@@ -299,27 +299,6 @@ showdown the woman taking out the all the swordsmen men with and powerful attack
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=354)**
 
 ---
-### Maki Zenin Fight Scene Prompt (Scarred)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt describing a showdown where a scarred woman defeats swordsmen on a glass floor above a zen garden, emphasizing her injuries and a sequence of bloody jumpcuts.
-
-#### 📝 Prompt
-
-```
-showdown the woman taking out the all the swordsmen men with and powerful attacks, her right eye is scarred, she has burnmarks on her body- fighting on top a glass floor above zen garden lit by purple light- , jumpcut after jumpcut with blood of her cutting one enemy after the
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin Fight Scene Prompt (Scarred)"></a>
-
-📥 *Click image to download video*
-
-**Author:** [karim_yourself](https://x.com/karim_yourself) | **Source:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **Published:** Feb 13, 2026
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=353)**
-
----
 ### Maki Zenin Fight Scene Prompt (Top Down)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -757,27 +736,6 @@ Effects: The screen is filled with gift effects (sports cars, rockets) and the w
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **Published:** Feb 13, 2026
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=369)**
-
----
-### Brad Pitt vs Tom Cruise Fight Scene Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt used to test Seedance 2.0 by generating a fight scene between actors Brad Pitt and Tom Cruise, with their dialogue centered around the Epstein Files.
-
-#### 📝 Prompt
-
-```
-generate a #fightscene between #BradPitt and #TomCruise, with their dialogue during the fight revolving around the #EpsteinFiles
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt vs Tom Cruise Fight Scene Prompt"></a>
-
-📥 *Click image to download video*
-
-**Author:** [Box Office Reporter](https://x.com/BORReporter) | **Source:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **Published:** Feb 13, 2026
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=359)**
 
 ---
 ### Cinematic Train Sequence Prompt for Seedance 2.0
@@ -2735,6 +2693,48 @@ Scene 3: Galloping across the side of the mansion (0:09-0:15, 6 seconds)
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=185)**
 
 ---
+### Harry Potter vs Voldemort Fight Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt instruction used to generate an action-packed fight scene between Harry Potter and Voldemort, also serving as a mechanism to request early access to Seedance 2.0 within ChatCut.
+
+#### 📝 Prompt
+
+```
+Generate an action-packed fight scene, between Harry Potter and Voldemort.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Harry Potter vs Voldemort Fight Scene"></a>
+
+📥 *Click image to download video*
+
+**Author:** [ChatCut](https://x.com/chatcutapp) | **Source:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Published:** Feb 11, 2026
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=153)**
+
+---
+### Cinematic Aerial Shot of Wingsuit Pilot in Alpine Valley
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed, multi-paragraph prompt used to generate a cinematic aerial video sequence using Seedance Pro 2.0, describing a wingsuit pilot diving from a snow-covered mountain peak through an alpine valley.
+
+#### 📝 Prompt
+
+```
+A cinematic video sequence opening with a serene wide aerial shot of a pristine snow-covered mountain peak at dawn, the summit piercing through a sea of clouds with alpenglow painting the ice formations pink and gold. The camera transitions to follow a wingsuit pilot who leaps from the peak, immediately entering a steep vertical dive through wispy clouds. The tracking shot positions just behind and above the pilot as they accelerate downward, the camera shaking subtly from air turbulence, frost particles streaming past. The pilot pulls into a proximity flight, skimming within meters of sheer cliff faces and jagged ice formations, the camera banking and rolling to match every precise movement. Shadows and light play across the wingsuit's surface as the pilot threads through a narrow ice chimney, walls rushing past in a blur of blue and white. Speed intensifies as they enter a massive glacial valley, weaving between enormous ice pillars and frozen waterfalls, mist and powder snow kicked up in spiraling trails. The pilot executes a dramatic barrel roll around a freestanding ice spire before pulling the parachute at the last possible moment. The camera follows upward through the deceleration, then pulls wide to reveal a breathtaking hidden alpine lake surrounded by untouched snow fields, perfectly still and mirror-like, reflecting the morning sky.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Aerial Shot of Wingsuit Pilot in Alpine Valley"></a>
+
+📥 *Click image to download video*
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Published:** Feb 11, 2026
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2796,6 +2796,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-02-14T12:49:12.351Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-02-14T16:30:25.009Z</sub>
 
 </div>

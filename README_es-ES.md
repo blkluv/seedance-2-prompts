@@ -295,27 +295,6 @@ enfrentamiento la mujer eliminando a todos los espadachines con ataques poderoso
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=354)**
 
 ---
-### Maki Zenin - Escena de Lucha (Cicatrizada)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un *prompt* que describe un enfrentamiento donde una mujer con cicatrices derrota a espadachines en un suelo de cristal sobre un jardín zen, enfatizando sus heridas y una secuencia de cortes de salto sangrientos.
-
-#### 📝 Prompt
-
-```
-enfrentamiento la mujer eliminando a todos los espadachines con ataques poderosos, su ojo derecho está cicatrizado, tiene quemaduras en el cuerpo, luchando sobre un suelo de cristal encima de un jardín zen iluminado por luz púrpura, corte tras corte con la sangre de ella cortando a un enemigo tras otro
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin - Escena de Lucha (Cicatrizada)"></a>
-
-📥 *Haz clic en la imagen para descargar el video*
-
-**Autor:** [karim_yourself](https://x.com/karim_yourself) | **Fuente:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **Publicado:** Feb 13, 2026
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=353)**
-
----
 ### Escena de lucha de Maki Zenin (vista cenital)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -754,27 +733,6 @@ Efectos: La pantalla se llena de efectos de regalo (coches deportivos, cohetes) 
 **Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **Publicado:** Feb 13, 2026
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=369)**
-
----
-### Brad Pitt vs Tom Cruise: Escena de Lucha - Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un *prompt* utilizado para probar Seedance 2.0 generando una escena de lucha entre los actores Brad Pitt y Tom Cruise, con su diálogo centrado en los Archivos Epstein.
-
-#### 📝 Prompt
-
-```
-genera una #escenadepelea entre #BradPitt y #TomCruise, con su diálogo durante la pelea girando en torno a los #EpsteinFiles
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt vs Tom Cruise: Escena de Lucha - Prompt"></a>
-
-📥 *Haz clic en la imagen para descargar el video*
-
-**Autor:** [Box Office Reporter](https://x.com/BORReporter) | **Fuente:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **Publicado:** Feb 13, 2026
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=359)**
 
 ---
 ### Prompt de secuencia de tren cinematográfica para Seedance 2.0
@@ -2707,6 +2665,48 @@ Escena 3: Galope por el lateral de la mansión (0:09-0:15, 6 segundos)
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=185)**
 
 ---
+### Escena de acción de Harry Potter contra Voldemort
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una plantilla de prompt proporcionada por ChatCut para generar una escena de lucha llena de acción entre Harry Potter y Voldemort usando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Genera una escena de lucha llena de acción entre Harry Potter y Voldemort.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Escena de acción de Harry Potter contra Voldemort"></a>
+
+📥 *Haz clic en la imagen para descargar el video*
+
+**Autor:** [ChatCut](https://x.com/chatcutapp) | **Fuente:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Publicado:** Feb 11, 2026
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=153)**
+
+---
+### Secuencia cinematográfica de vuelo en traje de alas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt muy detallado y de múltiples tomas para Seedance Pro 2.0 que describe una secuencia aérea cinematográfica de un piloto de traje de alas que se lanza desde la cima de una montaña nevada, realiza un vuelo de proximidad a través de formaciones de hielo y despliega un paracaídas sobre un lago alpino.
+
+#### 📝 Prompt
+
+```
+Una secuencia de video cinematográfica que comienza con una serena toma aérea amplia de la cima de una montaña prístina cubierta de nieve al amanecer, la cumbre perforando un mar de nubes con el alpenglow pintando las formaciones de hielo de rosa y oro. La cámara hace una transición para seguir a un piloto de traje de alas que salta desde la cima, entrando inmediatamente en una inmersión vertical pronunciada a través de nubes tenues. La toma de seguimiento se posiciona justo detrás y encima del piloto mientras aceleran hacia abajo, la cámara temblando sutilmente por la turbulencia del aire, partículas de escarcha pasando a toda velocidad. El piloto realiza un vuelo de proximidad, rozando a metros de acantilados escarpados y formaciones de hielo irregulares, la cámara inclinándose y girando para igualar cada movimiento preciso. Las sombras y la luz juegan sobre la superficie del traje de alas mientras el piloto se desliza por una estrecha chimenea de hielo, las paredes pasando rápidamente en un borrón de azul y blanco. La velocidad se intensifica a medida que entran en un enorme valle glacial, zigzagueando entre enormes pilares de hielo y cascadas congeladas, la niebla y la nieve en polvo levantándose en estelas en espiral. El piloto ejecuta un dramático giro de tonel alrededor de una aguja de hielo independiente antes de abrir el paracaídas en el último momento posible. La cámara sigue hacia arriba a través de la desaceleración, luego se abre para revelar un impresionante lago alpino escondido rodeado de campos de nieve intactos, perfectamente inmóvil y como un espejo, reflejando el cielo matutino.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Secuencia cinematográfica de vuelo en traje de alas"></a>
+
+📥 *Haz clic en la imagen para descargar el video*
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Publicado:** Feb 11, 2026
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -2768,6 +2768,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-14T12:49:35.397Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-02-14T16:30:50.735Z</sub>
 
 </div>

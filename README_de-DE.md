@@ -295,27 +295,6 @@ Showdown: Die Frau schaltet alle Schwertkämpfer mit schnellen und mächtigen An
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=354)**
 
 ---
-### Maki Zenin Kampfszenen-Prompt (vernarbt)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der einen Showdown beschreibt, in dem eine vernarbte Frau Schwertkämpfer auf einem Glasboden über einem Zen-Garten besiegt, wobei ihre Verletzungen und eine Abfolge blutiger Jumpcuts betont werden.
-
-#### 📝 Prompt
-
-```
-Showdown: Die Frau schaltet alle Schwertkämpfer mit mächtigen Angriffen aus. Ihr rechtes Auge ist vernarbt, sie hat Brandmale am Körper – sie kämpft auf einem Glasboden über einem Zen-Garten, der von violettem Licht beleuchtet wird. Jumpcut nach Jumpcut, während sie einen Feind nach dem anderen niedermetzelt und Blut spritzt.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/353.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8ac8935405b6b9186b47363d037cef8/thumbnails/thumbnail.jpg" width="600" alt="Maki Zenin Kampfszenen-Prompt (vernarbt)"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen*
-
-**Autor:** [karim_yourself](https://x.com/karim_yourself) | **Quelle:** [Link](https://x.com/karim_yourself/status/2022374080607813654) | **Veröffentlicht:** Feb 13, 2026
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=353)**
-
----
 ### Maki Zenin Kampfszene Prompt (Top-Down)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -754,27 +733,6 @@ Effekte: Der Bildschirm ist gefüllt mit Geschenkeffekten (Sportwagen, Raketen) 
 **Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2022158001441058937) | **Veröffentlicht:** Feb 13, 2026
 
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=369)**
-
----
-### Brad Pitt vs. Tom Cruise Kampfszene Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der verwendet wurde, um Seedance 2.0 zu testen, indem eine Kampfszene zwischen den Schauspielern Brad Pitt und Tom Cruise generiert wurde, deren Dialog sich um die Epstein-Akten dreht.
-
-#### 📝 Prompt
-
-```
-Generiere eine #Kampfszene zwischen #BradPitt und #TomCruise, wobei sich ihr Dialog während des Kampfes um die #EpsteinFiles dreht.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/359.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f604393e73b10c16698336f1b801114/thumbnails/thumbnail.jpg" width="600" alt="Brad Pitt vs. Tom Cruise Kampfszene Prompt"></a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen*
-
-**Autor:** [Box Office Reporter](https://x.com/BORReporter) | **Quelle:** [Link](https://x.com/BORReporter/status/2022146221469819250) | **Veröffentlicht:** Feb 13, 2026
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=359)**
 
 ---
 ### Filmische Zugsequenz-Eingabeaufforderung für Seedance 2.0
@@ -2706,6 +2664,48 @@ Szene 3: Galopp entlang der Seite des Herrenhauses (0:09-0:15, 6 Sekunden)
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=185)**
 
 ---
+### Harry Potter vs. Voldemort: Actionszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine von ChatCut bereitgestellte Prompt-Vorlage zur Generierung einer actiongeladenen Kampfszene zwischen Harry Potter und Voldemort mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Generiere eine actiongeladene Kampfszene zwischen Harry Potter und Voldemort.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="Harry Potter vs. Voldemort: Actionszene"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen*
+
+**Autor:** [ChatCut](https://x.com/chatcutapp) | **Quelle:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **Veröffentlicht:** Feb 11, 2026
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=153)**
+
+---
+### Kino-Wingsuit-Flugsequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein sehr detaillierter Multi-Shot-Prompt für Seedance Pro 2.0, der eine filmische Luftsequenz beschreibt, in der ein Wingsuit-Pilot von einem schneebedeckten Berggipfel abspringt, einen Proximity-Flug durch Eisformationen durchführt und einen Fallschirm über einem Alpensee auslöst.
+
+#### 📝 Prompt
+
+```
+Eine filmische Videosequenz beginnt mit einer ruhigen, weiten Luftaufnahme eines makellosen, schneebedeckten Berggipfels bei Sonnenaufgang. Der Gipfel durchstößt ein Wolkenmeer, während Alpenglühen die Eisformationen in Rosa und Gold taucht. Die Kamera wechselt, um einem Wingsuit-Piloten zu folgen, der vom Gipfel springt und sofort in einen steilen vertikalen Sturzflug durch zarte Wolken übergeht. Die Verfolgungsaufnahme positioniert sich direkt hinter und über dem Piloten, während dieser nach unten beschleunigt. Die Kamera wackelt leicht durch Luftturbulenzen, und Eiskristalle strömen vorbei. Der Pilot geht in einen Proximity-Flug über, gleitet nur wenige Meter an steilen Felswänden und zerklüfteten Eisformationen vorbei, wobei die Kamera sich neigt und rollt, um jeder präzisen Bewegung zu folgen. Schatten und Licht spielen auf der Oberfläche des Wingsuits, während der Pilot durch einen engen Eiskamin fliegt, dessen Wände in einem Schleier aus Blau und Weiß vorbeirauschen. Die Geschwindigkeit nimmt zu, als sie in ein massives Gletschertal eintreten und zwischen riesigen Eissäulen und gefrorenen Wasserfällen hindurchweben, wobei Nebel und Pulverschnee in spiralförmigen Spuren aufgewirbelt werden. Der Pilot führt einen dramatischen Barrel Roll um eine freistehende Eissäule aus, bevor er im letzten möglichen Moment den Fallschirm zieht. Die Kamera folgt der Verlangsamung nach oben und zieht dann weit zurück, um einen atemberaubenden, versteckten Alpensee zu enthüllen, der von unberührten Schneefeldern umgeben ist, vollkommen still und spiegelglatt, den Morgenhimmel widerspiegelnd.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="Kino-Wingsuit-Flugsequenz"></a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen*
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **Veröffentlicht:** Feb 11, 2026
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=132)**
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2767,6 +2767,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-14T12:49:40.780Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-02-14T16:30:56.908Z</sub>
 
 </div>
