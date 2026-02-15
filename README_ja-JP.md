@@ -162,6 +162,393 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 > 📝 公開日でソート（新しい順）
 
+### ボクサー vs ジークンドー：ジャンクヤードでの戦い
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 廃墟のゴミ捨て場で、2人のキャラクター（Image1 と Image2 で参照）が繰り広げる壮絶な格闘シーンを生成するためのプロンプト。『ザ・レイド』シリーズのようなスタイルで、屈強なボクサーと素早いジークンドーの使い手が激突する。
+
+#### 📝 プロンプト
+
+```
+Image1 と Image2 のキャラクターを戦わせる
+設定：廃墟のジャンクヤード
+屈強なボクサー vs 素早いジークンドー スタイルのファイター、映画『ザ・レイド』のようなブルータルなフィルム スタイルで
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/391.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6430a3333c0141f26f558bc1e2f2b80/thumbnails/thumbnail.jpg" width="600" alt="ボクサー vs ジークンドー：ジャンクヤードでの戦い"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=391)**
+
+**作者:** [Prince Bell](https://x.com/UrbanAcolyte) | **ソース:** [Link](https://x.com/UrbanAcolyte/status/2022848623197982926) | **公開日:** Feb 15, 2026
+
+---
+### メソンライトを備えた未来的な月面基地（パート 1）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Grok の協力を得て生成された、すぐに使える非常に詳細なプロンプトの最初の部分。このプロンプトは、巨大なガラスドームと先進的な「メソンライト」（光り輝く、この世のものとは思えない、SF 的な粒子ベースの照明と解釈）を特徴とする未来的な月面基地を描写しています。
+
+#### 📝 プロンプト
+
+```
+未来的な月面基地を生成するための、詳細でそのまま使えるプロンプトです。この基地は、大きなガラスドームと「メソンライト」（高度で異質なSF粒子ベース、またはメソン場照明と解釈：光り輝き、幽玄な）を特徴としています。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/394.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb06b594a1a789081373c9918b58d877/thumbnails/thumbnail.jpg" width="600" alt="メソンライトを備えた未来的な月面基地（パート 1）"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=394)**
+
+**作者:** [Colonize the moon](https://x.com/ColonyMB1) | **ソース:** [Link](https://x.com/ColonyMB1/status/2022817909882699966) | **公開日:** Feb 14, 2026
+
+---
+### Sgt. Pepe アニメーションシットコムプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sgt. Pepe と Frens が登場するアニメーションシットコム動画を Seedance 2.0 にリクエストするプロンプト。史上初の 6529 ミームネイティブアニメーションシットコムのようなスタイルで。
+
+#### 📝 プロンプト
+
+```
+@Ars0nic をフィーチャーした、史上初の 6529 ミームネイティブアニメーションシットコムのような Sgt. Pepe and Frens の動画 🐸
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/386.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0717aeb424e15ec70d8c920ee6d65468/thumbnails/thumbnail.jpg" width="600" alt="Sgt. Pepe アニメーションシットコムプロンプト"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=386)**
+
+**作者:** [Sgt Pepe](https://x.com/SgtPepeWorld) | **ソース:** [Link](https://x.com/SgtPepeWorld/status/2022804542258315457) | **公開日:** Feb 14, 2026
+
+---
+### MCU におけるスパイダーマンの妊娠
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スパイダーマンが妻のエルサとの間に子供を授かるという、マーベル・シネマティック・ユニバース内のシーンを生成するための、非常に具体的で奇妙なプロンプト。
+
+#### 📝 プロンプト
+
+```
+マーベル・シネマティック・ユニバースでは、スパイダーマンが妻のエルサとの間に子供を授かる。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/377.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e80b4a1b0911ecc1e27510e4d4fb0622/thumbnails/thumbnail.jpg" width="600" alt="MCU におけるスパイダーマンの妊娠"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=377)**
+
+**作者:** [Peptostate](https://x.com/PeptoState) | **ソース:** [Link](https://x.com/PeptoState/status/2022788625704820876) | **公開日:** Feb 14, 2026
+
+---
+### 参照画像と動画プロンプトによるキャラクターファイト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 用の複雑なプロンプト。AI に、2 つの入力画像からキャラクターを生成し、グリーンバックの参照動画から動きを抽出し、廃墟の駐車場を舞台に、視覚効果を追加して戦わせるよう指示する。
+
+#### 📝 プロンプト
+
+```
+画像 1 と画像 2 のキャラクターに、グリーンバックの参考動画の動きを使って戦わせてください。舞台は廃墟の駐車場。戦闘中に視覚効果を追加してください。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/383.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800ed34b236e2491daa235942978d87b/thumbnails/thumbnail.jpg" width="600" alt="参照画像と動画プロンプトによるキャラクターファイト"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=383)**
+
+**作者:** [Angry Tom](https://x.com/AngryTomtweets) | **ソース:** [Link](https://x.com/AngryTomtweets/status/2022782885036790091) | **公開日:** Feb 14, 2026
+
+---
+### パトリック・スター vs ウサイン・ボルト レースシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 向けの非常に詳細なプロンプト。パトリック・スターとウサイン・ボルトによる白熱した陸上競技大会を描写し、劇的な展開と彼らの走るスピードの対比に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+パトリック・スターが陸上競技でウサイン・ボルトと対決します。スタートラインで準備する2人の間に壮大な緊張感が漂い、号砲が鳴り響くと同時に音楽が止まります。ウサイン・ボルトが猛スピードで飛び出す中、カメラは息を切らしながらゆっくり走るパトリック・スターを映し続けます。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/385.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9ef72bb811efb3b02c2ae8f8cbffdb7/thumbnails/thumbnail.jpg" width="600" alt="パトリック・スター vs ウサイン・ボルト レースシーン"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=385)**
+
+**作者:** [Oluwatimileyin✨🦋](https://x.com/Timmysofine) | **ソース:** [Link](https://x.com/Timmysofine/status/2022778239341498669) | **公開日:** Feb 14, 2026
+
+---
+### 真実の愛 バレンタイン ガーデン ポートレート
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> シュールなバレンタインガーデンで、美しい若い赤毛の女性の親密なポートレートを生成するための詳細なプロンプト。このシーンには、特定の照明（バラ色とブラッシュ）、3 匹の異なる猫（雪のように白い猫、ジンジャー猫、黒猫）、そしてハート型の花、ボケ効果、愛情を象徴する光り輝く光のアークがある没入型の花の環境が含まれます。
+
+#### 📝 プロンプト
+
+```
+シュールなバレンタインガーデンの中心に、若く美しい赤毛の女性が親密なポートレート構図で立っています。彼女の銅色の髪は肩に柔らかく流れ落ち、温かいバラ色とチークの光の下で輝いています。彼女は、真珠のような光沢のある雪のように白い猫、金色のハイライトを持つ温かいジンジャー猫、そして柔らかなマゼンタの光に縁取られたなめらかな黒猫の 3 匹の猫が彼女の近くに集まっているのを優しく見下ろしています。
+周囲全体は完全に没入型で花に満ちています。彩度の高いピンク、コーラル、ルビー色の半透明のハート型の花が彼女の周りを囲んでいます。前景の花は奥行きを出すためにわずかにぼかされており、背景は輝くボケのハートと浮かぶ金色の粒子の中に溶け込んでいます。彼女と猫たちの間には、柔らかく輝く光の細いリボンが優しく弧を描き、愛情を象徴しています。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/399.mp4"><img src="https://cms-assets.youmind.com/media/1771135395128_vnue4r_HBHK-MyXgAAlh6z.jpg" width="600" alt="真実の愛 バレンタイン ガーデン ポートレート"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=399)**
+
+**作者:** [Naya](https://x.com/NayaVerseee) | **ソース:** [Link](https://x.com/NayaVerseee/status/2022755222343553200) | **公開日:** Feb 14, 2026
+
+---
+### ウェス・アンダーソン風映画予告編
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ウェス・アンダーソン監督の独特なスタイルで映画の予告編を生成するための詳細なプロンプト。左右対称性、パステルカラー、風変わりなキャラクター、そして高速カットのような特定の編集テクニックを強調します。
+
+#### 📝 プロンプト
+
+```
+映画の予告編: ウェス・アンダーソン的な左右対称、中央に配置された構図、パステルカラーの配色、風変わりなキャラクター、絵本のようなプロダクションデザイン。風変わりなユーモア、視覚的な調和、ノスタルジックな優雅さ。複数のショット、高速カット。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/375.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/717d56a5a2fa286354f424a0bf4ae098/thumbnails/thumbnail.jpg" width="600" alt="ウェス・アンダーソン風映画予告編"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=375)**
+
+**作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **ソース:** [Link](https://x.com/airina_xyz/status/2022720243206877455) | **公開日:** Feb 14, 2026
+
+---
+### 夕暮れの屋上武術対決
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 夕暮れの屋上での壮大な武術の格闘シーンを生成するための、詳細な映画的プロンプト。特定のカメラワーク（スムーズな軌道）とアクション要素（スローモーションの蹴り）を特徴とする。
+
+#### 📝 プロンプト
+
+```
+夕焼けの屋上で戦う 2 人の武道家、回転蹴りや素早いパンチ、風になびく服、滑らかなシネマティックなカメラの軌道、スローモーションの空中蹴り、壮大な雰囲気。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/376.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbb9e6357e17297ce36743f7bc70b2c3/thumbnails/thumbnail.jpg" width="600" alt="夕暮れの屋上武術対決"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=376)**
+
+**作者:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **ソース:** [Link](https://x.com/ZephyraLeigh/status/2022702079832395803) | **公開日:** Feb 14, 2026
+
+---
+### Seedance 2.0 プロンプト：タイムトラベル短編ドラマ
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 のプロンプト：タイムトラベル短編ドラマの最初のセグメント（15秒）を生成。現代の少女がスカイブリッジでスマホを見ながら誤って転落し、古代中国の時代劇風のシネマティックな映像と特定のカラーグレーディングに移行するシーン。
+
+#### 📝 プロンプト
+
+```
+15秒、中国時代劇風ショートドラマ、映画のような画質、暖色系の金色と寒色系のシアンが交互に現れる色調、2.35:1 のワイドスクリーン構図を 9:16 の縦型画面に圧縮。シーン（0-3秒）：現代の都市夜景、白いドレスを着た若く美しい少女がスカイブリッジに立ち、スマートフォンを見下ろしている。突然足を踏み外し、
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/400.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f23bfa5c1051a5880807af4940f6efd7/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 プロンプト：タイムトラベル短編ドラマ"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=400)**
+
+**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2022702046244409570) | **公開日:** Feb 14, 2026
+
+---
+### 雨中の垂直超高層ビル戦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> アスペクト比、ライティング、カラーグレーディングを指定した、嵐の中の摩天楼での劇的な垂直バトルをフィーチャーした 15 秒の 3D CG アニメーション シーケンスの詳細なシネマティック プロンプト。
+
+#### 📝 プロンプト
+
+```
+16:9 ワイドスクリーン、3D CG アニメーション、劇的なボリュームライト、ティールとオレンジのカラーグレーディング、雨の中での垂直摩天楼バトル、15 秒。0-4 秒: 夜のエンパイアステートビルをローアングルで捉えたショット。雨が降りしきる中、巨大な黒い毛皮の類人猿がしがみついている。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/389.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e5524198373f528d56a28eb9d2dd0388/thumbnails/thumbnail.jpg" width="600" alt="雨中の垂直超高層ビル戦"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=389)**
+
+**作者:** [Mr.pinecone](https://x.com/Mrpinecone888) | **ソース:** [Link](https://x.com/Mrpinecone888/status/2022692437504802982) | **公開日:** Feb 14, 2026
+
+---
+### Seedance 2.0 プロンプト：ファッション広告シーン
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 のプロンプトで、ファッション広告の超大作のような品質を持つ動画の最初の 15 秒間を生成します。シーンは、長い髪の中国人女性がカジュアルな服装で、大きな床から天井までの鏡の前で髪を整えている様子で、高精細、浅い被写界深度、強い光のコントラストを強調します。
+
+#### 📝 プロンプト
+
+```
+ファッション広告の超大作のようなクオリティ、高精細な縦型スクリーン、浅い被写界深度で人物を際立たせ、強い光と影のコントラスト。0〜3秒: 固定ショット、正面からのミディアムビュー。ルーズなグレーのパーカーを着た長い髪の中国人女性が、ノーメイクで髪を無造作にお団子にまとめ、巨大な床から天井までの鏡の前に立っている。女性はだるそうに手を上げて乱れた髪を整えている。背景は、
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/401.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d19550b2be19f083618339356689a6c3/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 プロンプト：ファッション広告シーン"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=401)**
+
+**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **公開日:** Feb 14, 2026
+
+---
+### ボリウッドダンスに気を取られる彼氏のミームプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 に向けて、AI に「Distracted Boyfriend」ミームの文脈でボリウッドダンスのスタイルを要約するよう指示するプロンプト。ユーモラスで注目を集めるようなトーンで。
+
+#### 📝 プロンプト
+
+```
+ミーム「Distracted Boyfriend」のボリウッドダンスを要約して。バカっぽくして、50 いいねもらえるようにね。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="ボリウッドダンスに気を取られる彼氏のミームプロンプト"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=379)**
+
+**作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **ソース:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **公開日:** Feb 14, 2026
+
+---
+### Nami プログラミング バグ修正シーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> サウザンドサニー号でナミがプログラミングをしていて、バグを直すために天候棒（クリマ・タクト）を使っている、ワンピースのワンシーンを生成するための Seedance 2.0 向け詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+ナミがサウザンドサニー号で Mac を使ってプログラミングをしていると、突然バグが発生しました。ナミは天候棒を使ってバグを模倣し、修正しました。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/384.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8c08bbaf60db3f8bdeb60df562d6ce7/thumbnails/thumbnail.jpg" width="600" alt="Nami プログラミング バグ修正シーン"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=384)**
+
+**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2022642300942193007) | **公開日:** Feb 14, 2026
+
+---
+### 超リアルな物理演算と慣性プロンプト
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 不自然な浮遊感、無重力感、慣性の欠如といった問題を解決し、長回しでの追跡シーンや戦闘シーンに不可欠な、核レベルでリアルな物理演算を実現するための強力なプロンプト。
+
+#### 📝 プロンプト
+
+```
+超リアルな物理演算、正確な重量配分、自然な慣性および運動量
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/402.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3740b9f49b9f843e0698e63e5f22deca/thumbnails/thumbnail.jpg" width="600" alt="超リアルな物理演算と慣性プロンプト"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=402)**
+
+**作者:** [Sims干货知识分享](https://x.com/smallstones677) | **ソース:** [Link](https://x.com/smallstones677/status/2022638893615759854) | **公開日:** Feb 14, 2026
+
+---
+### バイクチェイス ワンカット撮影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 地中海の村を舞台にしたバイクチェイスの、映画のようなワンカット長回し映像を生成するための、非常に詳細なプロンプト。ゴールデンアワーの海を見下ろす劇的なシーンで最高潮に達する。
+
+#### 📝 プロンプト
+
+```
+地中海の村の狭い通りをバイクが駆け抜けるワンカット撮影。カメラは洗濯物や露店の間を縫うように進み、ライダーは間一髪で障害物をかわす。そして最後に、ゴールデンアワーの無限に広がる海を見下ろす巨大な崖の端が映し出される。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/374.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f3d94524fb58c88f069d9610e13972a/thumbnails/thumbnail.jpg" width="600" alt="バイクチェイス ワンカット撮影"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=374)**
+
+**作者:** [Tomatech](https://x.com/tomatechie) | **ソース:** [Link](https://x.com/tomatechie/status/2022627120049270924) | **公開日:** Feb 14, 2026
+
+---
+### 砂漠の終末戦争車両
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> スクラップメタル製の装甲、スパイク、頭蓋骨の装飾、搭載された武器で覆われた、V8 マッスルカーをベースにした改造された終末戦争車両が、オレンジ色の砂漠を轟音を立てて駆け抜ける様子を詳細に描写したプロンプト。
+
+#### 📝 プロンプト
+
+```
+大改造された終末戦争車両 – 巨大なスパイクタイヤ、スクラップメタル製の装甲板、頭蓋骨の装飾、屋根に取り付けられた機関銃と火炎放射器、車体に巻き付けられた錆びた有刺鉄線を備えた巨大な V8 マッスルカーが、果てしなく広がるオレンジ色の砂漠を轟音を立てて走り抜ける
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/390.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af42f408bf150f66e31bec2914f6808b/thumbnails/thumbnail.jpg" width="600" alt="砂漠の終末戦争車両"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=390)**
+
+**作者:** [TechyTricksAI](https://x.com/TechyTricksAI) | **ソース:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **公開日:** Feb 14, 2026
+
+---
+### 崖の街を駆け抜けるスピードチェイス（シングル連続ショット）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 記念碑的な崖の都市を駆け抜ける高速スピードチェイスを描いた、非常に詳細で連続したショットのプロンプト。ダイナミックなカメラワーク、陽炎、破片に焦点を当て、最終的に滝が流れ込む谷が明らかになる。
+
+#### 📝 プロンプト
+
+```
+崖の都市を駆け抜けるスピーダーチェイス（ワンカット）
+
+石に刻まれた壮大な崖の都市から、カメラは狭い崖の道に沿って走る小さな光の筋へと急降下する。ロックオン：壁にへばりつくように猛スピードで走るスピーダー。カメラは前方に飛び出し、後方へ戻り、そしてリアスラスターにぴったりと張り付く。熱による霞、崖から飛び散る砂塵、点滅する警告灯。崩れ落ちるバルコニーから瓦礫が降り注ぎ、ライダーは落ちてくるアーチの下を間一髪でかわし、吊るされた洗濯物や開いた窓の間を流れるようにすり抜ける。カメラも同じ開口部を通り抜け、その動きにぴったりと追随する。最後のカーブを曲がると突然の静寂。カメラは外へと広がり、無限の滝が流れ込む谷へと開ける都市の全景を映し出す。霧は虹へと変わっていく。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="崖の街を駆け抜けるスピードチェイス（シングル連続ショット）"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=393)**
+
+**作者:** [Umesh](https://x.com/umesh_ai) | **ソース:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **公開日:** Feb 14, 2026
+
+---
+### 短いプロンプトに基づいた Seedance 2.0 の生成
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ユーザーは、24 時間待った後、Seedance 2.0 の結果を共有し、非常に短い 10 語のプロンプトを使用したにもかかわらず、キャラクターの詳細に満足していると述べています。彼らは今後、走る描写を減らし、戦闘の激しさを増し、より多くのキャラクターを追加するために、プロンプトを微調整する予定です。
+
+#### 📝 プロンプト
+
+```
+移動を減らす
+- より激しい戦闘アニメーション
+- より多くのキャラクターが戦闘に参加
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/387.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c1a3aa325731a412cbc6d240b41e0b8d/thumbnails/thumbnail.jpg" width="600" alt="短いプロンプトに基づいた Seedance 2.0 の生成"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=387)**
+
+**作者:** [SiiMi](https://x.com/siimi96) | **ソース:** [Link](https://x.com/siimi96/status/2022562824128541015) | **公開日:** Feb 14, 2026
+
+---
+### ユーモラスな AI ディスコースミームプロンプト（軽快なトーン）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 向けのプロンプト。AI を巡る議論をユーモラスなミームで要約するようリクエスト。軽快なトーンとソーシャルメディアでのエンゲージメントに焦点を当てる。
+
+#### 📝 プロンプト
+
+```
+AI を巡る議論をユーモラスなミームで要約してください。気楽な感じで、50 いいねを獲得できるものにしてください。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/382.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/feba060a4989b7ab1aff97dce75b339f/thumbnails/thumbnail.jpg" width="600" alt="ユーモラスな AI ディスコースミームプロンプト（軽快なトーン）"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=382)**
+
+**作者:** [ANIRUDDHA ADAK](https://x.com/aniruddhadak) | **ソース:** [Link](https://x.com/aniruddhadak/status/2022546896473199008) | **公開日:** Feb 14, 2026
+
+---
 ### Seedance 2.0 9パネル シネマティック コンタクトシート プロンプトテンプレート
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -192,11 +579,128 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 </steps>
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/367.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fee93e1fdb451f68b53c39f956ecdf30/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 9パネル シネマティック コンタクトシート プロンプトテンプレート"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/367.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1892e774754e70029533692e3b58f89e/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 9パネル シネマティック コンタクトシート プロンプトテンプレート"></a>
 
 📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=367)**
 
 **作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2022546491823243406) | **公開日:** Feb 14, 2026
+
+---
+### 猛スピードの車から子犬を救う少年（タイムフリーズ）
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 猛スピードで走る車から子犬を救おうと少年が駆け寄る、劇的で感情的なプロンプト。少年が空中で犬を捕まえた瞬間、時間が止まるクライマックスを迎える。
+
+#### 📝 プロンプト
+
+```
+少年と子犬が路上で遊んでいる。子犬が突然、道路に飛び出した。遠くから車が猛スピードで向かってくる。少年は恐怖に顔を歪ませ、子犬に向かって駆け出し、飛び込んだ。空中で子犬を捕まえた瞬間、時間が止まったように見えた。彼らは
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/392.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4ce5c92471de85050d7f99f0b9886b4/thumbnails/thumbnail.jpg" width="600" alt="猛スピードの車から子犬を救う少年（タイムフリーズ）"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=392)**
+
+**作者:** [Latte](https://x.com/0xbisc) | **ソース:** [Link](https://x.com/0xbisc/status/2022510001575928295) | **公開日:** Feb 14, 2026
+
+---
+### パルクールとモンスターファイトのプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 のプロンプト。キャラクターが街中をパルクールで駆け抜け、邪悪なモンスターと激しい戦いを繰り広げるよう指示します。
+
+#### 📝 プロンプト
+
+```
+このキャラクターは、街中をパルクールで駆け抜け、邪悪なモンスターと激しく戦います。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/381.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/285cffd4c775a0376a13228be31c84b9/thumbnails/thumbnail.jpg" width="600" alt="パルクールとモンスターファイトのプロンプト"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=381)**
+
+**作者:** [Rayko_Zopia](https://x.com/Fox1251104) | **ソース:** [Link](https://x.com/Fox1251104/status/2022495493285384457) | **公開日:** Feb 14, 2026
+
+---
+### スマートフォンを持った中世の騎士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ろうそくの光が灯る城の内部で、全身鎧の中世の騎士が現代のスマートフォンを困惑した様子で見つめている。画面の光が騎士を照らしている。このようなシネマティックな動画を生成するためのプロンプト。
+
+#### 📝 プロンプト
+
+```
+動画を生成: 中世の騎士が全身甲冑を身につけ、現代のスマートフォンを困惑した表情で見つめている。スクリーンの光が顔を照らし、城の内部はろうそくの光に包まれている。シネマティックなライティング。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/397.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0598ed4e591f7dfab25566e62aa36ea3/thumbnails/thumbnail.jpg" width="600" alt="スマートフォンを持った中世の騎士"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=397)**
+
+**作者:** [Tomatech](https://x.com/tomatechie) | **ソース:** [Link](https://x.com/tomatechie/status/2022491231130157397) | **公開日:** Feb 14, 2026
+
+---
+### 史上最高のサッカー選手の伝説的瞬間
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 「サッカー史上最高の選手による壮大な瞬間」をフィーチャーした動画を生成するよう設計された、挑発的なプロンプト。特に「メッシ好き」を動揺させることを意図しています。
+
+#### 📝 プロンプト
+
+```
+サッカー史上最高の選手による壮大な瞬間を、メッシファン全員に届けて感動の涙を流させましょう。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/378.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b73b3906230f80b37d9c2eb065199dc/thumbnails/thumbnail.jpg" width="600" alt="史上最高のサッカー選手の伝説的瞬間"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=378)**
+
+**作者:** [Arielipillo](https://x.com/arielipillo) | **ソース:** [Link](https://x.com/arielipillo/status/2022490891131539764) | **公開日:** Feb 14, 2026
+
+---
+### Seedance 2.0 対話比較プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 と他のモデル（Grok 1、Vidu 3、Kling 3）を比較する動画を生成するために使用されたプロンプト。このプロンプトは、X でフォロワー 400 人を祝うツンデレ AI コンテンツクリエイターについて記述しています。
+
+#### 📝 プロンプト
+
+```
+X のフォロワーが 400 人に到達したことを祝う彼女の動画。彼女は AI コンテンツ クリエイターで、AI 動画作成に関するヒントやコツを共有しています。彼女の頭上には「400!!」というテキストが表示されています。すべてのセリフは英語または日本語である必要があります。彼女はツンデレです。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/404.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/000f27a7f61244dddba3b8c7d6463733/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 対話比較プロンプト"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=404)**
+
+**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **ソース:** [Link](https://x.com/PocketScreenAI/status/2022479431714123948) | **公開日:** Feb 14, 2026
+
+---
+### AI が生成したクロスオーバー：ラム・チェンイン vs. 妓夫太郎
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> このツイートは、香港映画の伝説的スターであるラム・チェンインと、アニメ「鬼滅の刃」のキャラクターである妓夫太郎を組み合わせた、AI 生成の動画または画像を公開しています。ユーザーは、この予期せぬジャンルの組み合わせに驚きと興奮を表明しています。
+
+#### 📝 プロンプト
+
+```
+ラム・チェンイン 🆚 妓夫太郎。⚡️
+
+香港の古典映画が「鬼滅の刃」と出会う。
+👹🤯🔥
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/403.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/628fccc4f1767478e4430cf5065de9b5/thumbnails/thumbnail.jpg" width="600" alt="AI が生成したクロスオーバー：ラム・チェンイン vs. 妓夫太郎"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=403)**
+
+**作者:** [Marcio Lima 利真 マルシオ 💎](https://x.com/Preda2005) | **ソース:** [Link](https://x.com/Preda2005/status/2022478098911117516) | **公開日:** Feb 14, 2026
 
 ---
 ### 映画のシーンのプロンプト：弾丸列車レース
@@ -329,7 +833,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 15秒、シネマティックでリアルなスタイル、暖かなゴールデンアワーの照明、アメリカのストリートバスケットボールの雰囲気。0-3秒：ロサンゼルスの屋外ストリートバスケットボールコート、陽光が差し込んでいる。背が高く筋肉質なアフリカ系アメリカ人男性プレイヤーが、袖なしのトレーニングベストとアスレチックショーツを着用し、クロスオーバードリブルでウォーミングアップしている。彼の筋肉のラインははっきりとしており、表情は自信に満ち、やや軽蔑的だ。彼と対峙しているのは、ポニーテールを高く結んだ小柄な若いアメリカ人ブロンドの少女で、ゆったりとしたバスケットボールの半袖シャツとアスレチックショーツを着用し、落ち着いた表情をしている。男性プレイヤーは微笑み、ボールを叩いて、彼女にオフェンスを開始するよう合図する。カメラはミッドショットで、二人が対峙する様子をアイレベルで捉えている。4-8秒：男性プレイヤーがオフェンスを開始し、連続したクロスオーバーとビハインド・ザ・バックドリブルのスキルを披露する。彼のスニーカーが地面を擦り、埃が舞い上がる。彼は突然加速して右に突破し、レイアップの準備をする。手持ちのトラッキングショットが彼のフットワークを間近で追う。少女は素早く柔軟に動き、横に移動して彼の進路を遮る。彼女の表情は集中しており、目はバスケットボールに釘付けだ。9-12秒：スローモーションのシーケンス。男性プレイヤーがジャンプし、右手でのレイアップの準備をする。ボールが頭上に持ち上げられたまさにその瞬間、少女も同時にジャンプし、体は空中で完全に伸びている。彼女の右手は、最高点でバスケットボールを正確かつ激しく叩き落とす。ボールはフレームの外に飛び出す。男性プレイヤーの表情は、空中で自信から驚きへと瞬時に変わり、目は見開かれ、口は開いている。カメラは、彼らが同時にジャンプする瞬間をローアングルから捉える。13-15秒：通常の速度に戻る。男性プレイヤーは着地後、よろめきながら2歩後ずさり、膝に手を置いて前かがみになり、荒い息遣いで、顔は信じられないといった表情でいっぱいだ。少女は軽々と着地し、ポニーテールをひるがえし、無表情でバスケットボールを拾い上げ、片手で2回ドリブルし、わずかに首を傾げて彼を軽蔑的な笑みを浮かべながら見つめ、立ち去る。彼女のシルエットは決然としていて、きびきびとしている。効果音：終始ストリートの環境音、ドリブルとスニーカーのキュッキュッという音はクリアでリアル。ブロックの瞬間に鈍く力強い平手打ちの音、周囲の観衆の「おおーっ」という歓声が伴う。低くリズミカルなヒップホップビートで終わる。テキスト、字幕、透かしは一切許可しない。
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/371.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/162d3bc1b10ad26ea282d28315cb2fe7/thumbnails/thumbnail.jpg" width="600" alt="映画のようなストリートバスケのシーン：男性が女性にブロックされる"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/371.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5cffa6aee60c3825ab98dc3b49c69fee/thumbnails/thumbnail.jpg" width="600" alt="映画のようなストリートバスケのシーン：男性が女性にブロックされる"></a>
 
 📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=371)**
 
@@ -1925,604 +2429,6 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 **作者:** [xAi✨](https://x.com/xai_42) | **ソース:** [Link](https://x.com/xai_42/status/2021637349247951131) | **公開日:** Feb 11, 2026
 
 ---
-### 鎖をつけた浮浪者の女性
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> あるユーザーが、ニュースメディアに革命を起こすと期待されている生成ツール Seedance 2.0 をテストしています。その際、鎖を使って注目を集める、年老いた傷だらけの猫を連れた女性の「浮浪者」について、非常に詳細で珍しいプロンプトを使用しています。
-
-#### 📝 プロンプト
-
-```
-浮浪者、ホーボー、女性版、古びたボロボロの猫、鎖で注目を集める
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="鎖をつけた浮浪者の女性"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=205)**
-
-**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **ソース:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **公開日:** Feb 11, 2026
-
----
-### レゴの組み立てタイムラプスアニメーション
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> タイムラプス形式で、男の子が部屋でレゴブロックを熱心に組み立てている様子を示す 3D アニメーション動画を生成するための詳細なプロンプト。このプロンプトは、ビジュアルスタイル、シーン設定、およびカメラの動きとフォーカスポイントを含む正確な 15 秒の絵コンテを指定します。
-
-#### 📝 プロンプト
-
-```
-部屋でレゴブロックを真剣に組み立てる男の子。3D アニメーション スタイルで、明るい色彩と滑らかな線が特徴。子供らしい楽しさと活気に満ちており、組み立て過程を示すタイムラプス効果が追加されています。
-
-0-3 秒: 部屋の全景。窓から差し込む日光が机に降り注ぎ、男の子は机に座ってレゴブロックの組み立てに集中しています。真剣な表情で、カメラがゆっくりとズームインします。
-
-3-6 秒: タイムラプス効果で、男の子がレゴブロックを素早く組み立てる様子が映し出されます。ブロックが手の中で徐々に形を成していく様子を、カメラが様々なアングルから捉えます。
-
-6-9 秒: 手のクローズアップ。男の子が器用にレゴブロックを組み立てる様子が詳細に映し出され、指がブロックを柔軟に操作する様子をカメラが追います。
-
-9-12 秒: タイムラプス効果が続き、組み立て過程が示されます。レゴ作品が徐々に完成し、男の子の表情は集中から満足へと変化します。
-
-12-15 秒: 男の子が顔を上げ、満足そうな笑顔を見せます。カメラが引いて、完成したレゴ作品が映し出されます。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="レゴの組み立てタイムラプスアニメーション"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=329)**
-
-**作者:** [维维](https://x.com/siveill) | **ソース:** [Link](https://x.com/siveill/status/2021635240985604526) | **公開日:** Feb 11, 2026
-
----
-### ワンピース風テキスト to ビデオプロンプト
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ワンピースのチャプターにインスパイアされた Seedance 2.0 の詳細な物語プロンプト。人質、悪役、そしてドラゴン形態のロキ、ギア 5 ルフィ、リスのラグニールが登場する劇的な救出シーンを描写しています。
-
-#### 📝 プロンプト
-
-```
-人質に取られた子供たちは歩みを止めることなく、港の縁と、船の破壊によって海霧に開いた穴へと着実に近づいていく。
-ソマーズは「死んでも構わない。後で他の巨人の子供たちを誘拐すればいいだけだ」と言う。リプリーと子供たちの家族は必死に止めようとするが、それができないと悟り、子供たちを抱きしめる。そして、全員が落下していく。しかし……!!!
-ロキが現れて彼らを救う。
-彼は巨大な黒いドラゴンに変身し、空から全員を掴む（ロキの悪魔の実の名前はこの章では明かされていない）。章は、ドラゴン形態のロキ、ギア 5 ルフィ、そしてロキの頭に乗ったリス形態のラグニールが、MMA の怪物たちに攻撃を仕掛ける準備を整えている場面で締めくくられる。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/199.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3013bb6302eea77a828bb35d06f05b6/thumbnails/thumbnail.jpg" width="600" alt="ワンピース風テキスト to ビデオプロンプト"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=199)**
-
-**作者:** [Cherry Blackcloud](https://x.com/cheryblackcloud) | **ソース:** [Link](https://x.com/cheryblackcloud/status/2021632514427859109) | **公開日:** Feb 11, 2026
-
----
-### Cozy Nighttime Pet Secret 短編映画
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 夜中に猫と犬がこっそりスマホを使っている様子をフィーチャーした、15秒の短編映画のための非常に詳細で映画的なプロンプト。プロンプトでは、スタイル（超リアルな CG、ドキュメンタリー品質）、照明（暖色と寒色のコントラスト）、設定、そしてカメラアングルとキャラクターの動きを含む正確な6ショットの絵コンテが指定されています。
-
-#### 📝 プロンプト
-
-```
-【スタイル】 超リアルなシネマティック CG、本格的なペットドキュメンタリーの質感、居心地が良く癒されるスタイル、リアルな毛並みの物理シミュレーション、クリアなディテール、8K 品質、柔らかな暖色系、室内の夜の雰囲気
-【尺】 15 秒 【シーン設定】 リアルで居心地の良い寝室、ドアは閉まっている、夜の環境、メイン照明は消えている、ベッドサイドランプだけが暖かく黄色い光を放っている、部屋全体は薄暗い。ベッドには毛布があり、2 匹のペットが顔を出している。
-🎞 絵コンテデザイン（ショットの種類 + 被写界深度 + 照明ロジックを含む）
-0～3 秒 【ショットの種類】 ミディアムショット 【カメラワーク】 わずかにゆっくりとプッシュイン 【被写界深度】 浅い被写界深度、背景はぼやけている
-【シーン】 ふっくらとしたオレンジ色の猫と可愛い柴犬がベッドに座り、毛布が首までかかっている。2 匹とも携帯電話を見ている。携帯電話の画面の光は非常に明るく、冷たい光が彼らの顔に当たっている。ベッドサイドランプは暖かい光を放ち、携帯電話の冷たい光と対照的である。2 匹のペットは画面を見て楽しそうに微笑んでいる。
-3～6 秒 【ショットの種類】 クローズアップ 【カメラワーク】 わずかに手持ち感 【被写界深度】 非常に浅い被写界深度 【シーン】 オレンジ色の猫の耳が突然ピンと立つ。表情が楽しそうから警戒に変わる。携帯電話の光が顔にちらつく。
-6～8 秒 【ショットの種類】 ニアショット 【アクション】 オレンジ色の猫が素早く携帯電話の電源を切る。冷たい携帯電話の光が消える。部屋にはベッドサイドランプの暖かい光だけが残る。オレンジ色の猫は毛布の中に潜り込み、小さな毛の束だけが見えている。
-8～10 秒 【ショットの種類】 ミディアムニアショット 【アクション】 オレンジ色の猫が毛布の中から小さな前足をそっと伸ばし、柴犬を優しくつつく。柴犬は一瞬呆然とする。素早く携帯電話の電源を切る。冷たい光が消える。毛布の中に潜り込み、目を閉じて寝たふりをする。
-10～13 秒 【ショットの種類】 ドアのロングショット 【カメラワーク】 固定ショット 【被写界深度】 深い被写界深度 【シーン】 寝室のドアがゆっくりと少し開く。ゴールデンレトリバーの頭が覗き込む。廊下からかすかに光が漏れる。ゴールデンレトリバーはベッドの上の 2 匹をじっと見つめる。
-13～15 秒 【ショットの種類】 ゴールデンレトリバーのクローズアップ 【アクション】 ゴールデンレトリバーは満足げに頷く。そっとドアを閉める。シーンはベッドに戻り、2 匹のペットは目を固く閉じている。柴犬はこっそり片目を開ける。フェードアウト。
-💡 キー生成強化ワード（追加推奨）リアルな毛並みシミュレーション 微妙な呼吸の動き 柔らかな影の移り変わり 暖色と寒色の光のコントラスト シネマティックな照明 自然な微表情 静かな夜の雰囲気 居心地の良い寝室の雰囲気
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/330.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4fdeb7e5b9878ad75cbd5a5002ac257/thumbnails/thumbnail.jpg" width="600" alt="Cozy Nighttime Pet Secret 短編映画"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=330)**
-
-**作者:** [Michelle](https://x.com/Michell81147285) | **ソース:** [Link](https://x.com/Michell81147285/status/2021625396027088907) | **公開日:** Feb 11, 2026
-
----
-### 高エネルギーコマーシャルスクリプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> AI に、マクロのクローズアップを多用し、ハイパーカー、ステルスジェットへとカットが切り替わる、高揚感のある映画のような携帯電話のコマーシャルを生成するよう指示するプロンプト。
-
-#### 📝 プロンプト
-
-```
-Seedance 2.0 を使って、ハイエナジーでシネマティックな、マクロクローズアップのスマホのCMを作りたい。ハイパーカーに切り替わって、次にステルスジェットに切り替わる感じで。最高にクールに仕上げてくれ。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/311.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/759a2697f46cb0190601f3ac52501b88/thumbnails/thumbnail.jpg" width="600" alt="高エネルギーコマーシャルスクリプト"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=311)**
-
-**作者:** [Kaiwen Li](https://x.com/realkaiwenli) | **ソース:** [Link](https://x.com/realkaiwenli/status/2021622619070746686) | **公開日:** Feb 11, 2026
-
----
-### クラーケン襲撃のシネマティックシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2 を使用して、巨大なクラーケンが海賊船を襲い、船長が剣で戦う様子を描いた、超リアルで映画のようなシーンを生成するプロンプト。
-
-#### 📝 プロンプト
-
-```
-巨大なクラーケンが海賊船を襲い、船長が剣で切り裂く。超リアルな映画のワンシーン。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/152.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d25ce31468e9f31a1d1488207419f044/thumbnails/thumbnail.jpg" width="600" alt="クラーケン襲撃のシネマティックシーン"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=152)**
-
-**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **ソース:** [Link](https://x.com/markgadala/status/2021615497670737953) | **公開日:** Feb 11, 2026
-
----
-### ルフィと悟空の壮大な戦いのシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 を使用して、サウザンドサニー号でのアニメキャラクター、ルフィと悟空の壮大な戦闘シーンを生成するためのプロンプト。
-
-#### 📝 プロンプト
-
-```
-サニー号でのルフィと悟空の壮大な戦い。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/163.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32f0b7733eb1fec3e2cf118814f08f90/thumbnails/thumbnail.jpg" width="600" alt="ルフィと悟空の壮大な戦いのシーン"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=163)**
-
-**作者:** [Mark Gadala-Maria](https://x.com/markgadala) | **ソース:** [Link](https://x.com/markgadala/status/2021611931480609139) | **公開日:** Feb 11, 2026
-
----
-### 東京のレースシーン向けマルチショット テキスト to ビデオ プロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 東京の夜の街を駆け抜ける高速レースを描写するために設計された、詳細なマルチショットプロンプト構造（Kling 3.0 で特に言及されているが、Seedance 2.0 のような高度なビデオモデルにも関連）をテキストからビデオ生成する。
-
-#### 📝 プロンプト
-
-```
-SHOT1
-コックピット内のクローズアップ。30代の男性ドライバーが、低く構えたレーシングカーのスエード製ステアリングホイールを握っている。彼は集中しており、こめかみには汗がにじむ。ダッシュボードの青い LED と、外から差し込むネオンの反射だけが彼を照らしている。東京の街の光がフロントガラスをちらつく。カメラはゆっくりとズームインし、バックミラーに映る彼の鋭い眼差しに固定される。
-
-SHOT2
-助手席からのサイドプロフィールミッドショット。ドライバーがギアをカチッと変えると、外のネオンサインが彼の顔に鋭い反射となって走る。街が猛スピードで過ぎ去り、タイヤの下で水たまりが跳ねる。彼が身を乗り出し、目を細めるのに合わせてカメラがパンする。
-
-SHOT3
-外からのローリアショット。彼が NOS ボタンを叩くと、車のテールライトが燃え上がる。排気口からは青い炎が噴き出す。車は前方に飛び出し、光り輝く東京の街へと消えていく。カメラは後を追い、ライトがぼやけ、エンジンの轟音が遠くに響く。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/265.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a388338869b672f323c27d89119ffc2/thumbnails/thumbnail.jpg" width="600" alt="東京のレースシーン向けマルチショット テキスト to ビデオ プロンプト"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=265)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **ソース:** [Link](https://x.com/CharaspowerAI/status/2021607724232868147) | **公開日:** Feb 11, 2026
-
----
-### 浮島で歌う猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 浮遊する島の上で、猫が回転しながら「Feel Good Inc.」の「oiiaoiia」バージョンを歌っているという、Seedance 2.0 用のシュールなプロンプト。
-
-#### 📝 プロンプト
-
-```
-浮遊する島で、猫がくるくる回りながら「Feel Good Inc.」の「oiiaoiia」バージョンを歌っている。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/164.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d5e2a3fbf36161d87ba92e5aad50770/thumbnails/thumbnail.jpg" width="600" alt="浮島で歌う猫"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=164)**
-
-**作者:** [goku](https://x.com/spinningsensei) | **ソース:** [Link](https://x.com/spinningsensei/status/2021602487195562068) | **公開日:** Feb 11, 2026
-
----
-### ビットコインが連邦準備制度を破壊する（アニメのパワーアップ）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 巨大に輝くビットコインのシンボルが形成され、それが連邦準備制度を爆破し破壊するために使われ、新しい黄金時代が到来する、劇的なパワーアップシーケンスを描写するアニメ風のプロンプト。
-
-#### 📝 プロンプト
-
-```
-両手を掲げると、浮かび上がっていた ₿ のパネルが彼の上で巨大な輝くビットコインのシンボルへと収束し、まるで元気玉のようになる。足元の地面はオレンジ色の光でひび割れている。まさにアニメのパワーアップの瞬間だ。そして彼は連邦準備制度を爆破し、既存の金融システムをビットコインで破壊し、それを置き換えることで、オレンジ色の豊かさに満ちた新しい黄金時代をもたらす。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/148.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c61727a4b73516f35692fce965f6f54e/thumbnails/thumbnail.jpg" width="600" alt="ビットコインが連邦準備制度を破壊する（アニメのパワーアップ）"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=148)**
-
-**作者:** [⚡️Mirthtime ⚡️](https://x.com/mirthtime) | **ソース:** [Link](https://x.com/mirthtime/status/2021595661997609201) | **公開日:** Feb 11, 2026
-
----
-### 海賊の酒場のシーンのプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 炎を噴射する装置やエールなど、特定の要素を含む海賊酒場のシーンを生成するための記述的なプロンプト。
-
-#### 📝 プロンプト
-
-```
-海賊の酒場。テーブルには火炎放射器。手にはエール。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/306.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e42263e6ac885990f65417929521aab2/thumbnails/thumbnail.jpg" width="600" alt="海賊の酒場のシーンのプロンプト"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=306)**
-
-**作者:** [Kaynat Kakar ✪](https://x.com/kaynat_kakar) | **ソース:** [Link](https://x.com/kaynat_kakar/status/2021591407731876220) | **公開日:** Feb 11, 2026
-
----
-### 仙侠アニメ映画バトルスクリプト：韓立 vs. 王林
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 中国の仙侠（仙人ヒーロー）アニメ映画風の、15秒間のハイテンションな決闘シーンの、詳細な4シーン構成のスクリプトプロンプト。このプロンプトでは、韓立（黄金の飛剣を使用）と王林（巨大な青い幻の手と破壊の黒い球体を使用）のキャラクター間の戦いが描かれており、超精密な 3D CG レンダリングと、強い金/シアンの色彩コントラストが強調されています。
-
-#### 📝 プロンプト
-
-```
-中国の仙侠アニメ映画スタイル、超高精細 3D CG レンダリング、15秒間の高エネルギーな決闘シークエンス、金とシアンのデュアルトーンによる強いコントラスト。
-
-0-3秒: エクストリームロングショット。混沌とした虚空の両側から、2つの光の筋が猛烈に衝突する。左側には、金色に微かに光るシアングレーの道士服をまとった中年修行者、韓立（ハン・リー）の姿が。彼の顔は水のように穏やかで、小さな緑の剣を手にしている。右側には、シアンブラックの邪悪なオーラをまとい、白髪と黒いローブを身につけた痩身の男、王林（ワン・リン）が腕を後ろに組んで立っている。彼の目は古井戸のように深く、世界を破壊するエネルギーに包まれている。二人は遠くから対峙し、彼らのオーラの衝突により虚空がひび割れ、低い雷鳴のような轟音が響く。
-
-4-8秒: 韓立は印を結び、青竹蜂雲剣（せいしちくほううんけん）を発動させる。72本の飛剣が金色の剣の嵐となり、一掃する。王林は右手を指し、彼の背後には空を覆う巨大なシアンの幻影の手が凝縮される。巨大な手は剣の嵐に打ちかかり、剣気と掌力が衝突した瞬間、金とシアンのエネルギーの奔流が噴出し、衝撃波は四方八方に広がり虚空を引き裂く。金属の衝突音と空間が砕ける音が響き渡る。
-
-9-12秒: フリーズフレームのスローモーション。韓立の背後には万仏の金色の幻影が現れ、彼の目は金色の光を放つ。万剣帰宗（ばんけんきそう）が百丈の金色の剣光に凝縮され、斬り下ろされる。王林の目には狂気が閃き、「天が我を許さぬなら、我は天に逆らわん！」と咆哮する。彼は右手を高く掲げ、掌には回転する黒い球体が凝縮され、空間を歪ませる破壊的なエネルギーを放つ。二つの究極の力が正面から衝突し、時間が止まったかのように見える。
-
-13-15秒: 巨大なエネルギーの爆発。画面は白い光に飲み込まれ、ゆっくりと消散する。煙と塵の中、二人の人物が砕け散った虚空に背中合わせに立っている。彼らのローブはぼろぼろになり、二人とも息を切らしている。韓立はかすかに「あなたの逆天の技には感服する」と語り、王林の唇にはわずかな笑みが浮かぶ。効果音は、虚空の破片が落ちる澄んだ音と、消えゆく風の音へと収束する。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/193.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3faf2fcba6019e82251b07ba8c7def0/thumbnails/thumbnail.jpg" width="600" alt="仙侠アニメ映画バトルスクリプト：韓立 vs. 王林"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=193)**
-
-**作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2021591223505662201) | **公開日:** Feb 11, 2026
-
----
-### ハイオクタン価のカーチェイスシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 で、ドリフト、F1 スタイル、衝突、爆発といったアクション要素に焦点を当てた、ペースの速いカーチェイス シーンを生成するためのシンプルかつインパクトのあるプロンプト。
-
-#### 📝 プロンプト
-
-```
-カーチェイス、ドリフト、ハイオクタン、F1、衝突、爆発。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/165.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09fc54ac2ca65c9bfc197069ef3b6b91/thumbnails/thumbnail.jpg" width="600" alt="ハイオクタン価のカーチェイスシーン"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=165)**
-
-**作者:** [ChatCut](https://x.com/chatcutapp) | **ソース:** [Link](https://x.com/chatcutapp/status/2021588236565369309) | **公開日:** Feb 11, 2026
-
----
-### New Amsterdam Simulator
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 を使用して、1670 年代のニューアムステルダム（現在のニューヨーク市）をシミュレートした動画を生成するためのプロンプト。やや様式化されたゲームのような見た目を目指す。
-
-#### 📝 プロンプト
-
-```
-ニューアムステルダム（現在のニューヨーク市）シミュレーター
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/181.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0682b946cc74576f1478d2a4be9d9926/thumbnails/thumbnail.jpg" width="600" alt="New Amsterdam Simulator"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=181)**
-
-**作者:** [@levelsio](https://x.com/levelsio) | **ソース:** [Link](https://x.com/levelsio/status/2021587482349895747) | **公開日:** Feb 11, 2026
-
----
-### SF 変身短編映画スクリプト：未来の目覚め
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> タイトル「Awakening Future」の短編映画用の、インパクトのある映画的な6つのシーンからなる詳細なスクリプトプロンプト。この動画は、古代の純粋な塩湖の女神がネオンに照らされたサイバーパンクの戦士へと劇的に変身する様子を描いており、IMAX クオリティ、高コントラスト、ARRI Alexa 65mm の美学を強調しています。
-
-#### 📝 プロンプト
-
-```
-[映像設定] 映画品質、IMAX アスペクト比、ARRI Alexa 65mm、高コントラスト、サイバーパンク美学、8K 解像度。
-
-[コアコンセプト] 時空の折り畳み。古代の純粋な塩湖の女神から、未来都市のネオン戦士への瞬間的な覚醒。
-
-ショット 1: ワイドショット、ゆっくりとしたプッシュイン。シーンは極めて静止している。赤と白の民族衣装をまとい、銀の装飾品を身につけた少女が、鏡のような白い塩湖の上に立っている。太陽の光は神聖で、背景には連なる雪山があり、風が彼女の服をなびかせ、神々しさに満ちている。
-
-ショット 2: エクストリームクローズアップ (ECU)、マッチカット。カメラが少女の目に急速にプッシュインする。彼女の瞳孔は瞬時に拡大し、逆流するデジタルストリームと青いデータ光のエフェクトを映し出す。
-
-ショット 3: ジャンプカット、グリッチアートの干渉。画面は強烈なネオンライトによって瞬時に引き裂かれる。白い塩湖の背景は、雨の夜のサイバーシティのちらつくホログラフィックビルボードへと瞬時に変貌する。
-
-ショット 4: ミディアムショット、ローアングルからの見上げ。視覚的なインパクト。彼女はまだフレームの中央に立っているが、民族衣装はハイテクな反射性機能服に変わっている。元の銀の頭飾りは、メタリックな流れる光のヘッドホンになっている。
-
-ショット 5: クローズアップ、光と影の流れ。雨が彼女の顔に降り注ぎ、ピンクと紫のネオンライトを反射する。彼女はカメラに冷たい笑みを向け、ゴーグルを装着するために手を伸ばし、そのオーラが完全に解き放たれる。
-
-ショット 6: エクストリームロングショット、フリーズフレーム。彼女は摩天楼の頂上に立ち、眼下に広がる鋼鉄のジャングルを見下ろしている。彼女の後ろには、巨大なホログラフィックのクジラが泳いでいる。字幕：「Awakening Future.」
-
-尺: 10 秒 | スタイル: トップハリウッドコマーシャルフィルム | 視覚的インパクト: 極めて強い
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/182.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/211e93688fe4d623c7603d2e3f97ecc3/thumbnails/thumbnail.jpg" width="600" alt="SF 変身短編映画スクリプト：未来の目覚め"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=182)**
-
-**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021577731826213121) | **公開日:** Feb 11, 2026
-
----
-### Urban Fantasy 短編ドラマプロンプト Seedance 2.0: 幸運が訪れる
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 向けの、詳細で複数のシーンからなる短編ドラマスクリプトのプロンプト。「Good Luck Arrives」というタイトルの都市ファンタジー動画を生成します。プロンプトでは、縦横比 (9:16)、スタイル (シネマティック、高精細、パーティクルエフェクト、ヒーリング)、キャラクターデザイン (不安を抱えた会社員と長身の「幸運の女神」)、そしてセリフと魔法の変身を伴う6つの具体的なカメラショットが指定されています。
-
-#### 📝 プロンプト
-
-```
-プロンプトタイプ：短編ドラマの絵コンテ/動画生成
-アスペクト比：9:16（縦型スクリーン）
-ビジュアルスタイル：アーバンファンタジー、現実からバーチャルへの移行、高精細、シネマティックライティング、パーティクルエフェクト、癒し。
-【登場人物設定】
-男性主人公：ダークブルーのスーツを着用、当初は不安そうな表情、平均身長、現実世界の「ワーカー」を表現。
-女性主人公：白い T シャツとショートパンツを着用、非常に長身、編み込みヘア、柔らかな白い光を放つ、高次元の「幸運の女神」を表現。
-【プロットの絵コンテとセリフ】
-ショット 1：ミディアムショット。
-内容：男性主人公が灰色のオフィスに立ち、報告書の山を抱え、眉をひそめ、非常にストレスを感じている様子。周囲の空気も灰色。
-字幕/セリフ：「このプロジェクトは難しすぎる、誰か助けてくれ…」
-ショット 2：クローズアップからワイドショットへ移行。
-内容：男性主人公の隣に突然温かい光が差し込む。カメラが引き上げられ、女性主人公の非常に長身な姿が映し出される。彼女は漫画から飛び出してきたかのように、何もないところから現れ、輝く笑顔を見せる。
-字幕/セリフ：「誰かが願い事をしていると聞いたわ？」
-ショット 3：二人組のミディアムショット、身長差のあるやり取り。
-内容：男性主人公は驚いて見上げる（この愛らしい上目遣いは必須）。女性主人公は少し身をかがめ、男性主人公の手にある書類を指でそっと叩く。
-視覚効果：指先が触れた場所で金色の魔法の粒子が爆発する。
-ショット 4：シーンチェンジ（ファンタジーの瞬間）。
-内容：金色の粒子が広がるにつれて、元々くすんでいたオフィスの背景は瞬時に消え去り、壮大なオーロラと雲海に変わる。男性主人公のスーツは新品のようにシャープになり、表情は不安から驚きに変わる。
-字幕/セリフ：「これからは、私があなたの幸運を管理するわ。」
-ショット 5：クローズアップ、アイコンタクト。
-内容：雲海の背景を背に、二人は見つめ合う。女性主人公はいたずらっぽくウィンクし、男性主人公は恥ずかしそうに頭をかく。
-雰囲気：画面はピンクとゴールドの泡で満たされ、非常に美しい。
-ショット 6：フリーズフレームで終了。
-内容：二人が並んで立ち、まばゆい未来の都市の夜景に背を向ける。
-字幕効果：大きな文字で「Good Luck Arrives」と表示される。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/188.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b71efcf49afce10b57521bbe958a2761/thumbnails/thumbnail.jpg" width="600" alt="Urban Fantasy 短編ドラマプロンプト Seedance 2.0: 幸運が訪れる"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=188)**
-
-**作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021575161917448307) | **公開日:** Feb 11, 2026
-
----
-### ディズニーのクラシック スタイル アニメーション アドベンチャー
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 用のプロンプト。親しみやすい白いオオカミと若い金髪の女性が雪の中で遊んでいる、クラシックなディズニー スタイルのアニメーションをリクエスト。その後、2 人は氷の洞窟に落ち、地図を持った骸骨を発見する。
-
-#### 📝 プロンプト
-
-```
-ディズニー風のクラシックアニメーション。雪の中で、人懐っこい白いオオカミが美しい金髪の可愛い若い女性と遊んでいる。様々なカット。突然、彼らは氷の洞窟に落ち、手に地図を持った骸骨を見つける。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/141.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9d228b1bc9874c38c43603f7e65aa4a/thumbnails/thumbnail.jpg" width="600" alt="ディズニーのクラシック スタイル アニメーション アドベンチャー"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=141)**
-
-**作者:** [FragZero](https://x.com/FragZero) | **ソース:** [Link](https://x.com/FragZero/status/2021568010452869227) | **公開日:** Feb 11, 2026
-
----
-### ファンタジー物語のプロンプト：蝶の妖精への変身
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 で、魔法のアーティファクトの物語に関する動画を生成するための、シンプルで物語性のあるプロンプト。蝶がフレームから飛び出し、美しい蝶の妖精に変身し、あたりを神経質に見回した後、誰かが近づくと壁に戻る。
-
-#### 📝 プロンプト
-
-```
-魔法のアーティファクトの物語。蝶が額縁から飛び出し、美しい蝶の妖精に変身し、あたりを見回します。突然、誰かが来る気配がして、蝶の妖精は壁に戻っていきました。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/112.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/800d54c49d233cc2f4e12a07e94a3021/thumbnails/thumbnail.jpg" width="600" alt="ファンタジー物語のプロンプト：蝶の妖精への変身"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=112)**
-
-**作者:** [小耳👂Jane｜Xiaoer](https://x.com/xiaoerzhan) | **ソース:** [Link](https://x.com/xiaoerzhan/status/2021564173642313750) | **公開日:** Feb 11, 2026
-
----
-### キャデラック フォーミュラ 1 カー 2026
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2026 年のキャデラック フォーミュラ 1 カーモデルに焦点を当てた、画像から動画への生成テストに使用されたシンプルな 1 文のプロンプト。
-
-#### 📝 プロンプト
-
-```
-キャデラックのフォーミュラ 1 カー 2026 の画像から動画へ。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/310.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ddb6df32c87aef263078beac7689a1ff/thumbnails/thumbnail.jpg" width="600" alt="キャデラック フォーミュラ 1 カー 2026"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=310)**
-
-**作者:** [HNNS.](https://x.com/ItsMeHannes) | **ソース:** [Link](https://x.com/ItsMeHannes/status/2021562705333625327) | **公開日:** Feb 11, 2026
-
----
-### ゴジラがジャカルタのモナスを襲撃
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ゴジラがジャカルタのモナス塔を攻撃し、インドネシア軍がそれを撃退しようとする様子を映した動画を生成するための Seedance 2.0 へのプロンプト。
-
-#### 📝 プロンプト
-
-```
-ゴジラがジャカルタのモナスを襲撃し、インドネシア軍が必死に応戦する動画を生成してください。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/90.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33bc90715d2c038276919dbb998a4a99/thumbnails/thumbnail.jpg" width="600" alt="ゴジラがジャカルタのモナスを襲撃"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=90)**
-
-**作者:** [Not Yours](https://x.com/neveryourbaee) | **ソース:** [Link](https://x.com/neveryourbaee/status/2021561566559420478) | **公開日:** Feb 11, 2026
-
----
-### 中国の将校のアニメ動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 を使用した画像から動画への生成プロンプトで、中国人将校が登場する短く面白いアニメシーケンスを作成しました。
-
-#### 📝 プロンプト
-
-```
-Seedance 2.0 を使ってアニメ動画を生成：中国人警官との面白いシーケンス
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/146.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5877af48805b8b569bb236d4902eb39f/thumbnails/thumbnail.jpg" width="600" alt="中国の将校のアニメ動画"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=146)**
-
-**作者:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **ソース:** [Link](https://x.com/airina_xyz/status/2021561114757345315) | **公開日:** Feb 11, 2026
-
----
-### 著作権回避：チャイナタウンにおけるナタとミニオンズ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> あるユーザーが、Seedance 2.0 でブランドや著作権の制限を回避するのに成功した戦略を共有しました。それは、特定のキャラクター名（Nezha や Minions）を、詳細で説明的なテキストに置き換えることで、同じ視覚的結果、つまりチャイナタウンで黄色いカプセル型生物と戦う中国神話の少年、を実現するというものです。
-
-#### 📝 プロンプト
-
-```
-お団子ヘアを二つ結い、額に赤い印をつけ、赤いリボンを身につけた中国神話の少年が、赤い提灯でいっぱいのチャイナタウンに足を踏み入れます。彼は、一つ目または二つ目の黄色いカプセル型の小さな生き物たちが、青いオーバーオールを着て集まっているのを探しています。その後、少年は赤いリボンを振って、この黄色い小さな生き物たちとコミカルな追いかけっこを繰り広げます。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/318.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/320e32e9711b1a0beff0e5f0712931ff/thumbnails/thumbnail.jpg" width="600" alt="著作権回避：チャイナタウンにおけるナタとミニオンズ"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=318)**
-
-**作者:** [Dow Ma](https://x.com/VoiceOfDow) | **ソース:** [Link](https://x.com/VoiceOfDow/status/2021549057899143610) | **公開日:** Feb 11, 2026
-
----
-### ジョン・ウィック スタイルのアクションシーン プロンプト
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 「ファッティ」というキャラクターが廊下でロボットと戦う、ジョン・ウィック風のアクションシーンの詳細な物語プロンプト。特定のアクションとカメラの動きを強調する。
-
-#### 📝 プロンプト
-
-```
-*ジョン・ウィック風アクション映画。
-@Image ファッティは深呼吸をして構えを取り、通路の狭さを利用してロボットをガラスの壁の方へ誘い込む。ファッティは反動を使い、両足で壁を蹴って空中回転キックを繰り出し、最初のロボットの首の接続ラインを破壊する。ロボットは地面に崩れ落ちる。残りのロボットは群がり続ける。パーカーの男は、通路のスペースが狭すぎて簡単に囲まれてしまうことに気づき、向きを変えてオフィスホールへと走り出す。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/319.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5573dc6e8cd6b942c8f8648d5834fd8/thumbnails/thumbnail.jpg" width="600" alt="ジョン・ウィック スタイルのアクションシーン プロンプト"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=319)**
-
-**作者:** [大宝](https://x.com/xiaolongli7697) | **ソース:** [Link](https://x.com/xiaolongli7697/status/2021545660277997984) | **公開日:** Feb 11, 2026
-
----
-### 映画のような登場シーンの脚本：バンクーバーの邸宅を駆け抜ける
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 映画のようなビデオシーケンスのための、詳細な3シーンのスクリプトプロンプトです。ダークスーツを着た人物が白い馬に乗り、バンクーバーの最高級マンションから疾走し、その後に旗や「Nothing」のサインを振る熱狂的な支持者の群衆が続く様子を描いており、スピード、ラグジュアリー、そして勢いを強調しています。
-
-#### 📝 プロンプト
-
-```
-シーン 1：邸宅ゲート前を疾走 (0:00-0:05, 5 秒)
-• ロケーション：ウェストバンクーバーの最高級邸宅の正面玄関前（大規模なエステートスタイルのヴィラ、石と木の構造のゲート、広い私道入口、常緑の生垣に囲まれている）
-• 被写体：ダークスーツを着た人物が馬に乗り、邸宅ゲートから疾走してくる
-• 馬の動き：白馬の四肢が空中に浮き、たてがみがなびき、速いペースまたは速足で駆け抜ける
-• 環境：冬、馬のひづめが蹴り上げる軽い雪、邸宅の建築様式がはっきりと見える（大きな床から天井までの窓、木と石の組み合わせ、多層テラス）、遠方にノースショア山脈または海の輪郭がかすかに見える、軽い雪に覆われた常緑の松の木
-• 群衆：両側の支持者がよけながら道を開け、黄色の龍の旗（青い龍の模様 + 日の丸の要素）を振り、歓声を上げ、「Nothing」と書かれた白いプラカードを持っている
-• カメラ：正面からのショット、白馬がカメラに向かって直接突進し、強い動きの感覚（インパクトを高めるためにわずかにローアングル）
-• 雰囲気：鮮烈な登場、止められない勢い、高級プライベートコミュニティでの華々しいデビュー
-
-シーン 2：群衆が追いかけるクローズアップ (0:05-0:09, 4 秒)
-• ロケーション：邸宅エリアの並木道に沿った私道の脇
-• 被写体：馬を追いかける支持者のグループ（主に若者、冬用ダウンジャケット/コートを着用）
-• 動き：手を上げ、叫び、拳を突き上げながら走り、馬の速度についていこうとする。一部は転びそうになりながらも興奮して追いかける
-• プラカード：黄色の龍の旗 + 白い「Nothing」のプラカードを走りながら掲げている（プラカードが揺れる）
-• 背景：邸宅の外壁と常緑の松の木が素早く通り過ぎる、軽い雪煙や木の影がぼやけて揺れる、遠くの山々が通り過ぎる
-• カメラ：追跡クローズアップ、緊急性と速度を出すためにわずかなカメラの揺れ（手持ちスタイルまたは素早いプッシュ/プル）
-• 雰囲気：熱狂的な追跡、切迫した興奮、地域住民からの熱烈な反応
-
-シーン 3：邸宅の脇を疾走 (0:09-0:15, 6 秒)
-• ロケーション：邸宅の脇の景観私道または広い芝生エリア（側面からは大きなテラス、プールサイドまたは庭園、常緑の生垣が見える）
-• 被写体：人物が白馬に乗り、フレームを横切って疾走する
-• 馬の動き：全速力で走り、四肢が地面を離れる瞬間がはっきりと見える、馬の尾が旗のようにひるがえり、雪が飛び散る
-• 環境：邸宅の側面が素早く通り過ぎる（木と石の壁、多層窓がぼやける）、左側には隣接する邸宅と常緑樹林、背景には山と海のスカイラインが通り過ぎる
-• 群衆：後ろの支持者が「Nothing」のプラカード + 黄色の龍の旗を持って追いかけるが、徐々に遅れをとる。一部は立ち止まって手を振り、叫ぶ
-• カメラ：高速サイドフォローショット、モーションブラーが速度感を高める（馬がフレームを横切り、背景がぼやける）
-• 雰囲気：電光石火の速さ、止められない、豪華なコミュニティでの英雄的な疾走
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/185.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4ab2f34987260a1f81bf777e8aa713/thumbnails/thumbnail.jpg" width="600" alt="映画のような登場シーンの脚本：バンクーバーの邸宅を駆け抜ける"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=185)**
-
-**作者:** [John](https://x.com/john87445528) | **ソース:** [Link](https://x.com/john87445528/status/2021545550772924579) | **公開日:** Feb 11, 2026
-
----
-### ハリー・ポッター vs ヴォルデモート アクションシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ChatCut が提供するプロンプトテンプレート。Seedance 2.0 を使用して、ハリー・ポッターとヴォルデモートの激しい戦闘シーンを生成します。
-
-#### 📝 プロンプト
-
-```
-ハリー・ポッターとヴォルデモートの、アクション満載の戦闘シーンを生成してください。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/153.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d35c838bb2cf6f063f41d64387fc4294/thumbnails/thumbnail.jpg" width="600" alt="ハリー・ポッター vs ヴォルデモート アクションシーン"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=153)**
-
-**作者:** [ChatCut](https://x.com/chatcutapp) | **ソース:** [Link](https://x.com/chatcutapp/status/2021540132390920592) | **公開日:** Feb 11, 2026
-
----
-### シネマティック ウィングスーツ フライト シーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance Pro 2.0 用の、非常に詳細なマルチショットプロンプト。雪に覆われた山頂からウィングスーツパイロットが飛び立ち、氷の造形物の間を近接飛行し、高山湖の上空でパラシュートを展開する、映画のような空中シーケンスを描写。
-
-#### 📝 プロンプト
-
-```
-夜明け、手つかずの雪に覆われた山頂の穏やかな広角空撮から始まるシネマティックな映像シーケンス。山頂は雲海を突き抜け、朝焼けが氷の造形をピンクと金色に染めている。カメラは、山頂から飛び降り、すぐに薄い雲の中を急降下するウィングスーツパイロットを追う。追跡ショットはパイロットのすぐ後ろ上方に位置し、パイロットが加速して降下するにつれて、カメラは空気の乱気流でわずかに揺れ、霜の粒子が流れ去っていく。パイロットは絶壁やギザギザの氷の造形から数メートル以内をかすめるように飛行するプロキシミティフライトに入り、カメラはパイロットの正確な動きに合わせてバンクしたりロールしたりする。パイロットが狭い氷の煙突を通り抜ける際、ウィングスーツの表面に影と光が戯れ、壁は青と白のぼやけた塊となって通り過ぎる。巨大な氷河谷に入ると速度は増し、巨大な氷柱や凍った滝の間を縫うように進み、霧と粉雪が渦を巻く軌跡となって舞い上がる。パイロットは独立した氷の尖塔の周りで劇的なバレルロールを実行し、ぎりぎりのタイミングでパラシュートを開く。カメラは減速しながら上方に追従し、その後、手つかずの雪原に囲まれた息をのむような隠れた高山湖を広角で捉える。湖面は完全に静止し、鏡のように朝の空を映し出している。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/132.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe76f232e00deffda567ecaefa3204b/thumbnails/thumbnail.jpg" width="600" alt="シネマティック ウィングスーツ フライト シーケンス"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=132)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2021540019668738238) | **公開日:** Feb 11, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -2584,6 +2490,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-15T05:19:36.537Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-15T08:36:26.446Z</sub>
 
 </div>
