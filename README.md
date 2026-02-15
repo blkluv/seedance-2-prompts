@@ -69,7 +69,7 @@ Why use our gallery?
 | Metric | Count |
 |--------|-------|
 | 📝 Total Prompts | **187** |
-| ⭐ Featured Prompts | **3** |
+| ⭐ Featured Prompts | **6** |
 | 🔄 Last Updated | **2026-02-15** |
 
 ---
@@ -78,6 +78,46 @@ Why use our gallery?
 
 > Hand-picked prompts with outstanding results
 
+### Bollywood Dance Distracted Boyfriend Meme Prompt
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Seedance 2.0 instructing the AI to summarize the Bollywood Dance style within the 'Distracted Boyfriend' meme context, with a humorous and attention-seeking tone.
+
+#### 📝 Prompt
+
+```
+Sum up the Bollywood Dance in the meme "Distracted Boyfriend" - make sure it's retarded and gets 50 likes.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood Dance Distracted Boyfriend Meme Prompt"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=379)**
+
+**Author:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Source:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Published:** Feb 14, 2026
+
+---
+### Speeder Chase Across a Cliff City (Single Continuous Shot)
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed, continuous-shot prompt describing a high-speed speeedr chase through a monumental cliffside city, focusing on dynamic camera movement, heat haze, debris, and culminating in a reveal of a waterfall-fed valley.
+
+#### 📝 Prompt
+
+```
+Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the ledge, warning lights flashing. A collapsing balcony rains debris; the rider snaps a last-inch swerve under a falling arch, then threads through hanging laundry lines and open windows in one fluid line. The camera darts through the same openings, staying glued to the motion. One final bend and sudden calm: the camera blasts outward into a reveal of the city opening onto a boundless waterfall-fed valley, mist turning into rainbow.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Speeder Chase Across a Cliff City (Single Continuous Shot)"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=393)**
+
+**Author:** [Umesh](https://x.com/umesh_ai) | **Source:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Published:** Feb 14, 2026
+
+---
 ### Luxury Car Transforming into Optimus Prime Fighting Godzilla in Tokyo
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -160,6 +200,26 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=189)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Published:** Feb 11, 2026
+
+---
+### Anime Girl Stage Dance with Motion Capture
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Use reference video 1 (scene video) to perform character 2's actions (motion capture video), and generate a video with the character from image 3. An anime-style blonde girl in a black dress performs an elegant dance on a stage.
+
+#### 📝 Prompt
+
+```
+参考视频 1 （场景视频）进行人物 2 的 动作（动作捕捉视频），用图片 3 的人物生成视频
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Anime Girl Stage Dance with Motion Capture"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=406)**
+
+**Author:** [Jackywine](https://x.com/Jackywine) | **Source:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **Published:** Feb 11, 2026
 
 ---
 ## 🎬 All Prompts
@@ -399,25 +459,6 @@ Fashion advertisement blockbuster quality, high-definition vertical screen, shal
 **Author:** [松果先森](https://x.com/songguoxiansen) | **Source:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **Published:** Feb 14, 2026
 
 ---
-### Bollywood Dance Distracted Boyfriend Meme Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Seedance 2.0 instructing the AI to summarize the Bollywood Dance style within the 'Distracted Boyfriend' meme context, with a humorous and attention-seeking tone.
-
-#### 📝 Prompt
-
-```
-Sum up the Bollywood Dance in the meme "Distracted Boyfriend" - make sure it's retarded and gets 50 likes.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="Bollywood Dance Distracted Boyfriend Meme Prompt"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=379)**
-
-**Author:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Source:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Published:** Feb 14, 2026
-
----
 ### Nami Programming Bug Fix Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -492,25 +533,6 @@ A heavily modified post-apocalyptic war vehicle – a massive V8 muscle car with
 📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=390)**
 
 **Author:** [TechyTricksAI](https://x.com/TechyTricksAI) | **Source:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **Published:** Feb 14, 2026
-
----
-### Speeder Chase Across a Cliff City (Single Continuous Shot)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An extremely detailed, continuous-shot prompt describing a high-speed speeedr chase through a monumental cliffside city, focusing on dynamic camera movement, heat haze, debris, and culminating in a reveal of a waterfall-fed valley.
-
-#### 📝 Prompt
-
-```
-Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on: a speeder hugging the wall at insane speed. The camera slingshots ahead, whips back, then drops tight to the rear thrusters: heat haze, grit snapping off the ledge, warning lights flashing. A collapsing balcony rains debris; the rider snaps a last-inch swerve under a falling arch, then threads through hanging laundry lines and open windows in one fluid line. The camera darts through the same openings, staying glued to the motion. One final bend and sudden calm: the camera blasts outward into a reveal of the city opening onto a boundless waterfall-fed valley, mist turning into rainbow.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="Speeder Chase Across a Cliff City (Single Continuous Shot)"></a>
-
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=393)**
-
-**Author:** [Umesh](https://x.com/umesh_ai) | **Source:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Published:** Feb 14, 2026
 
 ---
 ### Seedance 2.0 generation based on a short prompt
@@ -2427,13 +2449,56 @@ forcing Thanos to apologize before a Spider-Man-led group assault
 **Author:** [xAi✨](https://x.com/xai_42) | **Source:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Published:** Feb 11, 2026
 
 ---
+### Lumpen Hobo Woman with Chains Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The user shares a prompt used while testing Seedance 2.0, a generative tool they believe will change the world of news. The prompt describes a female version of a 'Lumpen Hobo' character, featuring an old, battered cat and attention-grabbing chains.
+
+#### 📝 Prompt
+
+```
+Lumpen, Hobo, female version, battered old cat, with chains to draw attention with chains
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Lumpen Hobo Woman with Chains Prompt"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=205)**
+
+**Author:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Source:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Published:** Feb 11, 2026
+
+---
+### Lego Assembly Time-Lapse Animation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 3D animated video in the style of a time-lapse, showing a boy intently assembling Lego bricks in his room. The prompt specifies the visual style, scene setting, and a precise 15-second storyboard with camera movements and focus points.
+
+#### 📝 Prompt
+
+```
+A boy seriously assembling Lego bricks in his room, the scene adopts a 3D animation style, with bright colors, smooth lines, full of childlike fun and vitality, adding a time-lapse effect to show the assembly process.
+0-3 seconds: Full view of the room, sunlight spills onto the desk through the window, the boy sits at the desk concentrating on assembling Lego bricks, with a serious expression, the camera slowly pushes in
+3-6 seconds: Time-lapse effect showing the boy quickly piecing together Lego bricks, the blocks gradually taking shape in his hands, the camera switches to different angles
+6-9 seconds: Close-up of the hands, showing the details of the boy skillfully assembling Lego bricks, fingers flexibly manipulating the blocks, the camera follows the hand movements
+9-12 seconds: Time-lapse effect continues to show the assembly process, the Lego creation gradually becomes complete, the boy's expression changes from focused to satisfied
+12-15 seconds: The boy raises his head, showing a satisfied smile, the camera pulls back to show his completed Lego creation.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Lego Assembly Time-Lapse Animation"></a>
+
+📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=329)**
+
+**Author:** [维维](https://x.com/siveill) | **Source:** [Link](https://x.com/siveill/status/2021635240985604526) | **Published:** Feb 11, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 84 more prompts not shown here
+### 🎯 81 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2488,6 +2553,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-02-15T08:36:17.767Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-02-15T12:52:00.077Z</sub>
 
 </div>

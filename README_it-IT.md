@@ -69,7 +69,7 @@ Perché usare la nostra galleria?
 | Metrica | Conteggio |
 |--------|-------|
 | 📝 Totale prompt | **187** |
-| ⭐ Prompt in evidenza | **3** |
+| ⭐ Prompt in evidenza | **6** |
 | 🔄 Ultimo aggiornamento | **2026-02-15** |
 
 ---
@@ -78,6 +78,46 @@ Perché usare la nostra galleria?
 
 > Prompt selezionati con risultati eccezionali
 
+### Prompt per il meme "Fidanzato Distratto" in stile Bollywood
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per Seedance 2.0 che istruisce l'IA a riassumere lo stile di danza Bollywood nel contesto del meme "Distracted Boyfriend", con un tono umoristico e che attiri l'attenzione.
+
+#### 📝 Prompt
+
+```
+Riassumi la Bollywood Dance nel meme "Distracted Boyfriend" - assicurati che sia ritardato e che ottenga 50 like.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Prompt per il meme "Fidanzato Distratto" in stile Bollywood"></a>
+
+📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=379)**
+
+**Autore:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Fonte:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Pubblicato:** Feb 14, 2026
+
+---
+### Inseguimento ad alta velocità attraverso una città sulla scogliera (Piano sequenza unico)
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt estremamente dettagliato, a ripresa continua, che descrive un inseguimento ad alta velocità attraverso una monumentale città scavata nella scogliera, concentrandosi sul movimento dinamico della telecamera, sulla foschia di calore, sui detriti e culminando nella rivelazione di una valle alimentata da una cascata.
+
+#### 📝 Prompt
+
+```
+Inseguimento ad alta velocità attraverso una città sulla scogliera (ripresa continua singola) Da una monumentale città scavata nella roccia, la telecamera si tuffa verso una minuscola scia di luce che sfreccia lungo una stretta strada a strapiombo. Aggancio: uno speeder che costeggia la parete a velocità folle. La telecamera scatta in avanti, si fionda indietro, poi si stringe ai propulsori posteriori: foschia di calore, detriti che si staccano dalla sporgenza, luci di avvertimento che lampeggiano. Un balcone che crolla fa piovere detriti; il pilota fa una sterzata all'ultimo secondo sotto un arco che sta cadendo, poi si infila tra stendibiancheria e finestre aperte con un unico movimento fluido. La telecamera si lancia attraverso le stesse aperture, rimanendo incollata al movimento. Un'ultima curva e una calma improvvisa: la telecamera esplode verso l'esterno rivelando la città che si apre su una valle sconfinata alimentata da cascate, la nebbia che si trasforma in arcobaleno.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Inseguimento ad alta velocità attraverso una città sulla scogliera (Piano sequenza unico)"></a>
+
+📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=393)**
+
+**Autore:** [Umesh](https://x.com/umesh_ai) | **Fonte:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Pubblicato:** Feb 14, 2026
+
+---
 ### Optimus Prime contro Godzilla a Tokyo
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -156,6 +196,26 @@ Spettacolo Effetti Speciali: Il drago d'acqua blu e il fulmine dorato esplodono 
 📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=189)**
 
 **Autore:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Pubblicato:** Feb 11, 2026
+
+---
+### Anime Girl Stage Dance con Motion Capture
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Usa il video di riferimento 1 (video della scena) per eseguire le azioni del personaggio 2 (video di motion capture) e genera un video con il personaggio dell'immagine 3. Una ragazza bionda in stile anime con un vestito nero esegue un ballo elegante su un palco.
+
+#### 📝 Prompt
+
+```
+Genera un video con il personaggio 2 (video di motion capture) che esegue le azioni del video di riferimento 1 (video di scena), utilizzando il personaggio dell'immagine 3.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Anime Girl Stage Dance con Motion Capture"></a>
+
+📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=406)**
+
+**Autore:** [Jackywine](https://x.com/Jackywine) | **Fonte:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **Pubblicato:** Feb 11, 2026
 
 ---
 ## 🎬 Tutti i prompt
@@ -395,25 +455,6 @@ Pubblicità di moda di qualità blockbuster, schermo verticale ad alta definizio
 **Autore:** [松果先森](https://x.com/songguoxiansen) | **Fonte:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **Pubblicato:** Feb 14, 2026
 
 ---
-### Prompt per il meme "Fidanzato Distratto" in stile Bollywood
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per Seedance 2.0 che istruisce l'IA a riassumere lo stile di danza Bollywood nel contesto del meme "Distracted Boyfriend", con un tono umoristico e che attiri l'attenzione.
-
-#### 📝 Prompt
-
-```
-Riassumi la Bollywood Dance nel meme "Distracted Boyfriend" - assicurati che sia ritardato e che ottenga 50 like.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="Prompt per il meme "Fidanzato Distratto" in stile Bollywood"></a>
-
-📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=379)**
-
-**Autore:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Fonte:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Pubblicato:** Feb 14, 2026
-
----
 ### Scena di correzione del bug di programmazione Nami
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -488,25 +529,6 @@ Un veicolo da guerra post-apocalittico pesantemente modificato – una massiccia
 📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=390)**
 
 **Autore:** [TechyTricksAI](https://x.com/TechyTricksAI) | **Fonte:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **Pubblicato:** Feb 14, 2026
-
----
-### Inseguimento ad alta velocità attraverso una città sulla scogliera (Piano sequenza unico)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estremamente dettagliato, a ripresa continua, che descrive un inseguimento ad alta velocità attraverso una monumentale città scavata nella scogliera, concentrandosi sul movimento dinamico della telecamera, sulla foschia di calore, sui detriti e culminando nella rivelazione di una valle alimentata da una cascata.
-
-#### 📝 Prompt
-
-```
-Inseguimento ad alta velocità attraverso una città sulla scogliera (ripresa continua singola) Da una monumentale città scavata nella roccia, la telecamera si tuffa verso una minuscola scia di luce che sfreccia lungo una stretta strada a strapiombo. Aggancio: uno speeder che costeggia la parete a velocità folle. La telecamera scatta in avanti, si fionda indietro, poi si stringe ai propulsori posteriori: foschia di calore, detriti che si staccano dalla sporgenza, luci di avvertimento che lampeggiano. Un balcone che crolla fa piovere detriti; il pilota fa una sterzata all'ultimo secondo sotto un arco che sta cadendo, poi si infila tra stendibiancheria e finestre aperte con un unico movimento fluido. La telecamera si lancia attraverso le stesse aperture, rimanendo incollata al movimento. Un'ultima curva e una calma improvvisa: la telecamera esplode verso l'esterno rivelando la città che si apre su una valle sconfinata alimentata da cascate, la nebbia che si trasforma in arcobaleno.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="Inseguimento ad alta velocità attraverso una città sulla scogliera (Piano sequenza unico)"></a>
-
-📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=393)**
-
-**Autore:** [Umesh](https://x.com/umesh_ai) | **Fonte:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Pubblicato:** Feb 14, 2026
 
 ---
 ### Generazione Seedance 2.0 basata su un breve prompt
@@ -2422,13 +2444,56 @@ costringendo Thanos a scusarsi prima di un assalto di gruppo guidato da Spider-M
 **Autore:** [xAi✨](https://x.com/xai_42) | **Fonte:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Pubblicato:** Feb 11, 2026
 
 ---
+### Donna senzatetto con catene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un utente testa Seedance 2.0, uno strumento generativo che si prevede rivoluzionerà i mezzi di informazione, utilizzando un prompt altamente descrittivo e insolito su una "Lumpen Hobo" (barbona stracciona) con un vecchio gatto malconcio, che usa delle catene per attirare l'attenzione.
+
+#### 📝 Prompt
+
+```
+Lumpen, Hobo, versione femminile, vecchia gatta malconcia, con catene per attirare l'attenzione con le catene
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Donna senzatetto con catene"></a>
+
+📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=205)**
+
+**Autore:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Fonte:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Pubblicato:** Feb 11, 2026
+
+---
+### Animazione in time-lapse dell'assemblaggio di Lego
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare un video animato in 3D in stile time-lapse, che mostra un ragazzo intento ad assemblare mattoncini Lego nella sua stanza. Il prompt specifica lo stile visivo, l'ambientazione della scena e uno storyboard preciso di 15 secondi con movimenti della telecamera e punti di messa a fuoco.
+
+#### 📝 Prompt
+
+```
+Un bambino che assembla seriamente mattoncini Lego nella sua stanza, la scena adotta uno stile di animazione 3D, con colori vivaci, linee morbide, piena di divertimento e vitalità infantile, aggiungendo un effetto time-lapse per mostrare il processo di assemblaggio.
+0-3 secondi: Vista completa della stanza, la luce del sole si riversa sulla scrivania attraverso la finestra, il bambino è seduto alla scrivania concentrato nell'assemblare i mattoncini Lego, con un'espressione seria, la telecamera si avvicina lentamente
+3-6 secondi: Effetto time-lapse che mostra il bambino che assembla rapidamente i mattoncini Lego, i blocchi prendono gradualmente forma nelle sue mani, la telecamera passa a diverse angolazioni
+6-9 secondi: Primo piano delle mani, che mostra i dettagli del bambino che assembla abilmente i mattoncini Lego, le dita manipolano agilmente i blocchi, la telecamera segue i movimenti delle mani
+9-12 secondi: L'effetto time-lapse continua a mostrare il processo di assemblaggio, la creazione Lego diventa gradualmente completa, l'espressione del bambino cambia da concentrata a soddisfatta
+12-15 secondi: Il bambino alza la testa, mostrando un sorriso soddisfatto, la telecamera si allontana per mostrare la sua creazione Lego completata.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Animazione in time-lapse dell'assemblaggio di Lego"></a>
+
+📥 *Fai clic sull'immagine per scaricare il video* | **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=329)**
+
+**Autore:** [维维](https://x.com/siveill) | **Fonte:** [Link](https://x.com/siveill/status/2021635240985604526) | **Pubblicato:** Feb 11, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 84 altri prompt non mostrati qui
+### 🎯 81 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2483,6 +2548,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-02-15T08:36:43.313Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-02-15T12:52:35.525Z</sub>
 
 </div>

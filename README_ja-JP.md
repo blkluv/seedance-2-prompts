@@ -69,7 +69,7 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 | 指標 | 数 |
 |--------|-------|
 | 📝 プロンプト総数 | **187** |
-| ⭐ おすすめプロンプト | **3** |
+| ⭐ おすすめプロンプト | **6** |
 | 🔄 最終更新 | **2026-02-15** |
 
 ---
@@ -78,6 +78,48 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 
 > 厳選された高品質プロンプト
 
+### ボリウッドダンスに気を取られる彼氏のミームプロンプト
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 に向けて、AI に「Distracted Boyfriend」ミームの文脈でボリウッドダンスのスタイルを要約するよう指示するプロンプト。ユーモラスで注目を集めるようなトーンで。
+
+#### 📝 プロンプト
+
+```
+ミーム「Distracted Boyfriend」のボリウッドダンスを要約して。バカっぽくして、50 いいねもらえるようにね。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="ボリウッドダンスに気を取られる彼氏のミームプロンプト"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=379)**
+
+**作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **ソース:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **公開日:** Feb 14, 2026
+
+---
+### 崖の街を駆け抜けるスピードチェイス（シングル連続ショット）
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 記念碑的な崖の都市を駆け抜ける高速スピードチェイスを描いた、非常に詳細で連続したショットのプロンプト。ダイナミックなカメラワーク、陽炎、破片に焦点を当て、最終的に滝が流れ込む谷が明らかになる。
+
+#### 📝 プロンプト
+
+```
+崖の都市を駆け抜けるスピーダーチェイス（ワンカット）
+
+石に刻まれた壮大な崖の都市から、カメラは狭い崖の道に沿って走る小さな光の筋へと急降下する。ロックオン：壁にへばりつくように猛スピードで走るスピーダー。カメラは前方に飛び出し、後方へ戻り、そしてリアスラスターにぴったりと張り付く。熱による霞、崖から飛び散る砂塵、点滅する警告灯。崩れ落ちるバルコニーから瓦礫が降り注ぎ、ライダーは落ちてくるアーチの下を間一髪でかわし、吊るされた洗濯物や開いた窓の間を流れるようにすり抜ける。カメラも同じ開口部を通り抜け、その動きにぴったりと追随する。最後のカーブを曲がると突然の静寂。カメラは外へと広がり、無限の滝が流れ込む谷へと開ける都市の全景を映し出す。霧は虹へと変わっていく。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="崖の街を駆け抜けるスピードチェイス（シングル連続ショット）"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=393)**
+
+**作者:** [Umesh](https://x.com/umesh_ai) | **ソース:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **公開日:** Feb 14, 2026
+
+---
 ### 東京でのオプティマス・プライム対ゴジラ
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -156,6 +198,26 @@ ByteDance の Seedance 2.0 向け高品質動画生成プロンプトコレク�
 📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=189)**
 
 **作者:** [John](https://x.com/johnAGI168) | **ソース:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **公開日:** Feb 11, 2026
+
+---
+### モーションキャプチャによるアニメ少女のステージダンス
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 参照動画 1 (シーン動画) を使用してキャラクター 2 のアクション (モーションキャプチャ動画) を実行し、画像 3 のキャラクターで動画を生成します。黒いドレスを着たアニメ風の金髪の少女がステージで優雅なダンスを披露します。
+
+#### 📝 プロンプト
+
+```
+参考動画 1（シーン動画）の人物 2 の動き（モーションキャプチャ動画）を使って、画像 3 の人物で動画を生成します。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="モーションキャプチャによるアニメ少女のステージダンス"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=406)**
+
+**作者:** [Jackywine](https://x.com/Jackywine) | **ソース:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **公開日:** Feb 11, 2026
 
 ---
 ## 🎬 すべてのプロンプト
@@ -393,25 +455,6 @@ Image1 と Image2 のキャラクターを戦わせる
 **作者:** [松果先森](https://x.com/songguoxiansen) | **ソース:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **公開日:** Feb 14, 2026
 
 ---
-### ボリウッドダンスに気を取られる彼氏のミームプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 に向けて、AI に「Distracted Boyfriend」ミームの文脈でボリウッドダンスのスタイルを要約するよう指示するプロンプト。ユーモラスで注目を集めるようなトーンで。
-
-#### 📝 プロンプト
-
-```
-ミーム「Distracted Boyfriend」のボリウッドダンスを要約して。バカっぽくして、50 いいねもらえるようにね。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="ボリウッドダンスに気を取られる彼氏のミームプロンプト"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=379)**
-
-**作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **ソース:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **公開日:** Feb 14, 2026
-
----
 ### Nami プログラミング バグ修正シーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -486,27 +529,6 @@ Image1 と Image2 のキャラクターを戦わせる
 📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=390)**
 
 **作者:** [TechyTricksAI](https://x.com/TechyTricksAI) | **ソース:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **公開日:** Feb 14, 2026
-
----
-### 崖の街を駆け抜けるスピードチェイス（シングル連続ショット）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 記念碑的な崖の都市を駆け抜ける高速スピードチェイスを描いた、非常に詳細で連続したショットのプロンプト。ダイナミックなカメラワーク、陽炎、破片に焦点を当て、最終的に滝が流れ込む谷が明らかになる。
-
-#### 📝 プロンプト
-
-```
-崖の都市を駆け抜けるスピーダーチェイス（ワンカット）
-
-石に刻まれた壮大な崖の都市から、カメラは狭い崖の道に沿って走る小さな光の筋へと急降下する。ロックオン：壁にへばりつくように猛スピードで走るスピーダー。カメラは前方に飛び出し、後方へ戻り、そしてリアスラスターにぴったりと張り付く。熱による霞、崖から飛び散る砂塵、点滅する警告灯。崩れ落ちるバルコニーから瓦礫が降り注ぎ、ライダーは落ちてくるアーチの下を間一髪でかわし、吊るされた洗濯物や開いた窓の間を流れるようにすり抜ける。カメラも同じ開口部を通り抜け、その動きにぴったりと追随する。最後のカーブを曲がると突然の静寂。カメラは外へと広がり、無限の滝が流れ込む谷へと開ける都市の全景を映し出す。霧は虹へと変わっていく。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="崖の街を駆け抜けるスピードチェイス（シングル連続ショット）"></a>
-
-📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=393)**
-
-**作者:** [Umesh](https://x.com/umesh_ai) | **ソース:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **公開日:** Feb 14, 2026
 
 ---
 ### 短いプロンプトに基づいた Seedance 2.0 の生成
@@ -2429,13 +2451,61 @@ Sora と Veo が自らの存在に疑問を抱くような、映画のような�
 **作者:** [xAi✨](https://x.com/xai_42) | **ソース:** [Link](https://x.com/xai_42/status/2021637349247951131) | **公開日:** Feb 11, 2026
 
 ---
+### 鎖をつけた浮浪者の女性
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> あるユーザーが、ニュースメディアに革命を起こすと期待されている生成ツール Seedance 2.0 をテストしています。その際、鎖を使って注目を集める、年老いた傷だらけの猫を連れた女性の「浮浪者」について、非常に詳細で珍しいプロンプトを使用しています。
+
+#### 📝 プロンプト
+
+```
+浮浪者、ホーボー、女性版、古びたボロボロの猫、鎖で注目を集める
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="鎖をつけた浮浪者の女性"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=205)**
+
+**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **ソース:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **公開日:** Feb 11, 2026
+
+---
+### レゴの組み立てタイムラプスアニメーション
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> タイムラプス形式で、男の子が部屋でレゴブロックを熱心に組み立てている様子を示す 3D アニメーション動画を生成するための詳細なプロンプト。このプロンプトは、ビジュアルスタイル、シーン設定、およびカメラの動きとフォーカスポイントを含む正確な 15 秒の絵コンテを指定します。
+
+#### 📝 プロンプト
+
+```
+部屋でレゴブロックを真剣に組み立てる男の子。3D アニメーション スタイルで、明るい色彩と滑らかな線が特徴。子供らしい楽しさと活気に満ちており、組み立て過程を示すタイムラプス効果が追加されています。
+
+0-3 秒: 部屋の全景。窓から差し込む日光が机に降り注ぎ、男の子は机に座ってレゴブロックの組み立てに集中しています。真剣な表情で、カメラがゆっくりとズームインします。
+
+3-6 秒: タイムラプス効果で、男の子がレゴブロックを素早く組み立てる様子が映し出されます。ブロックが手の中で徐々に形を成していく様子を、カメラが様々なアングルから捉えます。
+
+6-9 秒: 手のクローズアップ。男の子が器用にレゴブロックを組み立てる様子が詳細に映し出され、指がブロックを柔軟に操作する様子をカメラが追います。
+
+9-12 秒: タイムラプス効果が続き、組み立て過程が示されます。レゴ作品が徐々に完成し、男の子の表情は集中から満足へと変化します。
+
+12-15 秒: 男の子が顔を上げ、満足そうな笑顔を見せます。カメラが引いて、完成したレゴ作品が映し出されます。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="レゴの組み立てタイムラプスアニメーション"></a>
+
+📥 *画像をクリックして動画をダウンロード* | **[🎬 動画を見る →](https://youmind.com/ja-JP/seedance-2-0-prompts?id=329)**
+
+**作者:** [维维](https://x.com/siveill) | **ソース:** [Link](https://x.com/siveill/status/2021635240985604526) | **公開日:** Feb 11, 2026
+
+---
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 84 さらに多くのプロンプトがあります
+### 🎯 81 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2490,6 +2560,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-15T08:36:26.446Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-02-15T12:52:09.232Z</sub>
 
 </div>

@@ -69,7 +69,7 @@ Neden galerimizi kullanmalısınız?
 | Metrik | Sayı |
 |--------|-------|
 | 📝 Toplam İstem | **187** |
-| ⭐ Öne Çıkan İstemler | **3** |
+| ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-02-15** |
 
 ---
@@ -78,6 +78,46 @@ Neden galerimizi kullanmalısınız?
 
 > El ile seçilmiş olağanüstü sonuçlara sahip istemler
 
+### Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için, yapay zekaya 'Distracted Boyfriend' meme'i bağlamında Bollywood Dans stilini mizahi ve dikkat çekici bir tonla özetlemesini söyleyen bir komut.
+
+#### 📝 İstem
+
+```
+"Dikkatini Dağıtmış Erkek Arkadaş" memindeki Bollywood Dansını özetle - aptalca olduğundan ve 50 beğeni aldığından emin ol.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi"></a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=379)**
+
+**Yazar:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Kaynak:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Yayınlandı:** Feb 14, 2026
+
+---
+### Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Anıtsal bir uçurum kenarı şehrinde geçen, yüksek hızlı bir takip sahnesini betimleyen, dinamik kamera hareketlerine, sıcak hava dalgalanmalarına, enkazlara odaklanan ve şelalelerle beslenen bir vadinin ortaya çıkmasıyla sonuçlanan, son derece detaylı, kesintisiz çekim istemi.
+
+#### 📝 İstem
+
+```
+Bir uçurum şehrinde hız motoru kovalamacası (tek kesintisiz çekim) Taşa oyulmuş devasa bir uçurum kenarı şehrinden kamera, dar bir çıkıntı yolunda ilerleyen küçük bir ışık huzmesine doğru dalıyor. Kilitlenme: akıl almaz bir hızla duvara yapışmış bir hız motoru. Kamera öne fırlıyor, geriye doğru savruluyor, sonra arka iticilere sıkıca yapışıyor: sıcaklık dalgalanması, çıkıntıdan kopan kum taneleri, yanıp sönen uyarı ışıkları. Çöken bir balkon enkaz yağdırıyor; sürücü düşen bir kemerin altından son anda sıyrılıyor, ardından asılı çamaşır ipleri ve açık pencereler arasından tek bir akıcı hareketle geçiyor. Kamera da aynı açıklıklardan geçerek harekete yapışık kalıyor. Son bir viraj ve ani bir sakinlik: kamera dışarı doğru fırlayarak, sonsuz bir şelale ile beslenen vadiye açılan şehrin ortaya çıkışını gösteriyor, sis gökkuşağına dönüşüyor.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)"></a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=393)**
+
+**Yazar:** [Umesh](https://x.com/umesh_ai) | **Kaynak:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Yayınlandı:** Feb 14, 2026
+
+---
 ### Optimus Prime vs Godzilla Tokyo'da
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -156,6 +196,26 @@ Aksiyon: İki kılıç çerçevenin merkezinde şiddetle çarpışır.
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=189)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Yayınlandı:** Feb 11, 2026
+
+---
+### Hareket Yakalama ile Anime Kız Sahne Dansı
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakter 2'nin eylemlerini (hareket yakalama videosu) gerçekleştirmek için referans video 1'i (sahne videosu) kullanın ve görüntü 3'teki karakterle bir video oluşturun. Siyah elbiseli, anime tarzı sarışın bir kız sahnede zarif bir dans sergiliyor.
+
+#### 📝 İstem
+
+```
+Karakter 2'nin eylemlerini (hareket yakalama videosu) gerçekleştirmek için referans video 1'i (sahne videosu) kullanarak, resim 3'teki karakterden video oluşturma
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Hareket Yakalama ile Anime Kız Sahne Dansı"></a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=406)**
+
+**Yazar:** [Jackywine](https://x.com/Jackywine) | **Kaynak:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **Yayınlandı:** Feb 11, 2026
 
 ---
 ## 🎬 Tüm İstemler
@@ -395,25 +455,6 @@ Moda reklamı gişe rekorları kıran kalitede, yüksek çözünürlüklü dikey
 **Yazar:** [松果先森](https://x.com/songguoxiansen) | **Kaynak:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **Yayınlandı:** Feb 14, 2026
 
 ---
-### Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, yapay zekaya 'Distracted Boyfriend' meme'i bağlamında Bollywood Dans stilini mizahi ve dikkat çekici bir tonla özetlemesini söyleyen bir komut.
-
-#### 📝 İstem
-
-```
-"Dikkatini Dağıtmış Erkek Arkadaş" memindeki Bollywood Dansını özetle - aptalca olduğundan ve 50 beğeni aldığından emin ol.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="Bollywood Dansı Dikkat Dağıtan Erkek Arkadaş Meme İstemcisi"></a>
-
-📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=379)**
-
-**Yazar:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Kaynak:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Yayınlandı:** Feb 14, 2026
-
----
 ### Nami Programlama Hatası Düzeltme Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -488,25 +529,6 @@ Ağır şekilde modifiye edilmiş kıyamet sonrası bir savaş aracı – devasa
 📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=390)**
 
 **Yazar:** [TechyTricksAI](https://x.com/TechyTricksAI) | **Kaynak:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **Yayınlandı:** Feb 14, 2026
-
----
-### Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Anıtsal bir uçurum kenarı şehrinde geçen, yüksek hızlı bir takip sahnesini betimleyen, dinamik kamera hareketlerine, sıcak hava dalgalanmalarına, enkazlara odaklanan ve şelalelerle beslenen bir vadinin ortaya çıkmasıyla sonuçlanan, son derece detaylı, kesintisiz çekim istemi.
-
-#### 📝 İstem
-
-```
-Bir uçurum şehrinde hız motoru kovalamacası (tek kesintisiz çekim) Taşa oyulmuş devasa bir uçurum kenarı şehrinden kamera, dar bir çıkıntı yolunda ilerleyen küçük bir ışık huzmesine doğru dalıyor. Kilitlenme: akıl almaz bir hızla duvara yapışmış bir hız motoru. Kamera öne fırlıyor, geriye doğru savruluyor, sonra arka iticilere sıkıca yapışıyor: sıcaklık dalgalanması, çıkıntıdan kopan kum taneleri, yanıp sönen uyarı ışıkları. Çöken bir balkon enkaz yağdırıyor; sürücü düşen bir kemerin altından son anda sıyrılıyor, ardından asılı çamaşır ipleri ve açık pencereler arasından tek bir akıcı hareketle geçiyor. Kamera da aynı açıklıklardan geçerek harekete yapışık kalıyor. Son bir viraj ve ani bir sakinlik: kamera dışarı doğru fırlayarak, sonsuz bir şelale ile beslenen vadiye açılan şehrin ortaya çıkışını gösteriyor, sis gökkuşağına dönüşüyor.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="Uçurum Şehrinde Hızlı Takip (Tek Kesintisiz Çekim)"></a>
-
-📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=393)**
-
-**Yazar:** [Umesh](https://x.com/umesh_ai) | **Kaynak:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Yayınlandı:** Feb 14, 2026
 
 ---
 ### Kısa bir isteme dayalı Seedance 2.0 üretimi
@@ -2422,13 +2444,56 @@ Thanos'u, Örümcek Adam liderliğindeki bir grup saldırıdan önce özür dile
 **Yazar:** [xAi✨](https://x.com/xai_42) | **Kaynak:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Yayınlandı:** Feb 11, 2026
 
 ---
+### Zincirli, perişan evsiz kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kullanıcı, haber medyasında devrim yaratması beklenen üretken bir araç olan Seedance 2.0'ı, dikkat çekmek için zincirler kullanan, yaşlı, hırpalanmış bir kedisi olan kadın bir 'Lumpen Hobo' hakkında oldukça açıklayıcı ve sıra dışı bir bilgi istemi kullanarak test ediyor.
+
+#### 📝 İstem
+
+```
+Lumpen, Hobo, kadın versiyonu, eski püskü kedi, dikkat çekmek için zincirlerle
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Zincirli, perişan evsiz kadın"></a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=205)**
+
+**Yazar:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Kaynak:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Yayınlandı:** Feb 11, 2026
+
+---
+### Lego Montaj Hızlandırılmış Animasyon
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir çocuğun odasında Lego tuğlalarını dikkatle birleştirmesini gösteren, hızlandırılmış çekim (time-lapse) tarzında 3 boyutlu animasyonlu bir video oluşturmak için ayrıntılı bir komut istemi. Komut istemi, görsel stili, sahne ayarını ve kamera hareketleri ile odak noktalarını içeren kesin bir 15 saniyelik hikaye panosunu belirtir.
+
+#### 📝 İstem
+
+```
+Odada Lego parçalarını ciddi bir şekilde birleştiren bir çocuk, sahne 3D animasyon tarzında, parlak renkler, pürüzsüz çizgiler, çocuksu eğlence ve canlılık dolu, birleştirme sürecini göstermek için hızlandırılmış çekim efekti eklenmiş.
+0-3 saniye: Odanın tam görünümü, pencereden masaya güneş ışığı vuruyor, çocuk masada Lego parçalarını birleştirmeye konsantre olmuş, ciddi bir ifadeyle oturuyor, kamera yavaşça yaklaşıyor
+3-6 saniye: Hızlandırılmış çekim efekti, çocuğun Lego parçalarını hızla bir araya getirdiğini gösteriyor, bloklar ellerinde yavaş yavaş şekilleniyor, kamera farklı açılara geçiyor
+6-9 saniye: Ellerin yakın çekimi, çocuğun Lego parçalarını ustaca birleştirmesinin detaylarını gösteriyor, parmaklar blokları esnek bir şekilde manipüle ediyor, kamera el hareketlerini takip ediyor
+9-12 saniye: Hızlandırılmış çekim efekti birleştirme sürecini göstermeye devam ediyor, Lego eseri yavaş yavaş tamamlanıyor, çocuğun ifadesi odaklanmışlıktan memnuniyete dönüşüyor
+12-15 saniye: Çocuk başını kaldırıyor, memnun bir gülümseme gösteriyor, kamera geri çekilerek tamamlanmış Lego eserini gösteriyor.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Lego Montaj Hızlandırılmış Animasyon"></a>
+
+📥 *Videoyu indirmek için resme tıklayın* | **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=329)**
+
+**Yazar:** [维维](https://x.com/siveill) | **Kaynak:** [Link](https://x.com/siveill/status/2021635240985604526) | **Yayınlandı:** Feb 11, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 84 burada gösterilmeyen daha fazla istem
+### 🎯 81 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2483,6 +2548,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-15T08:36:45.031Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-02-15T12:52:44.754Z</sub>
 
 </div>

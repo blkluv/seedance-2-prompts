@@ -69,7 +69,7 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 | 지표 | 수 |
 |--------|-------|
 | 📝 총 프롬프트 수 | **187** |
-| ⭐ 추천 프롬프트 | **3** |
+| ⭐ 추천 프롬프트 | **6** |
 | 🔄 마지막 업데이트 | **2026-02-15** |
 
 ---
@@ -78,6 +78,46 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 
 > 엄선된 고품질 프롬프트
 
+### 볼리우드 댄스 '다른 여자에게 한눈파는 남자친구' 밈 프롬프트
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0에 대한 프롬프트로, AI에게 'Distracted Boyfriend' 밈의 맥락에서 볼리우드 댄스 스타일을 유머러스하고 시선을 끄는 톤으로 요약하도록 지시합니다.
+
+#### 📝 프롬프트
+
+```
+밈 "Distracted Boyfriend"에 나오는 볼리우드 댄스를 요약해 줘. 바보 같고 좋아요 50개는 받을 수 있게 해 줘.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="볼리우드 댄스 '다른 여자에게 한눈파는 남자친구' 밈 프롬프트"></a>
+
+📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=379)**
+
+**작성자:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **출처:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **게시일:** Feb 14, 2026
+
+---
+### 절벽 도시를 가로지르는 스피더 추격전 (단일 연속 촬영)
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 기념비적인 절벽 도시를 가로지르는 고속 추격전을 묘사하는 매우 상세하고 연속적인 샷 프롬프트로, 역동적인 카메라 움직임, 아지랑이, 파편에 초점을 맞추고 폭포수가 흐르는 계곡을 드러내며 절정에 달합니다.
+
+#### 📝 프롬프트
+
+```
+절벽 도시를 가로지르는 스피더 추격전 (단일 연속 촬영) 돌로 조각된 거대한 절벽 도시에서 카메라가 좁은 벼랑길을 따라 찢어지는 작은 빛줄기를 향해 돌진합니다. 조준: 미친 속도로 벽에 바싹 붙어 달리는 스피더. 카메라는 앞으로 튀어나갔다가 뒤로 채찍처럼 돌아오고, 이어서 후방 추진 장치에 바싹 붙습니다. 열 아지랑이, 벼랑에서 튀어 오르는 흙먼지, 번쩍이는 경고등. 무너지는 발코니에서 잔해가 쏟아지고, 운전자는 떨어지는 아치 아래에서 간발의 차이로 방향을 틀고, 이어서 매달린 빨랫줄과 열린 창문 사이를 유려하게 통과합니다. 카메라는 같은 틈새를 뚫고 들어가 움직임에 바싹 붙어 있습니다. 마지막 커브와 갑작스러운 고요함: 카메라는 밖으로 튀어나가 도시가 끝없이 펼쳐진 폭포 계곡으로 이어지는 모습을 드러내고, 안개는 무지개로 변합니다.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="절벽 도시를 가로지르는 스피더 추격전 (단일 연속 촬영)"></a>
+
+📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=393)**
+
+**작성자:** [Umesh](https://x.com/umesh_ai) | **출처:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **게시일:** Feb 14, 2026
+
+---
 ### 도쿄의 옵티머스 프라임 대 고질라
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -156,6 +196,26 @@ ByteDance Seedance 2.0을 위한 고품질 비디오 생성 프롬프트 컬렉�
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=189)**
 
 **작성자:** [John](https://x.com/johnAGI168) | **출처:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **게시일:** Feb 11, 2026
+
+---
+### 모션 캡처를 활용한 애니메이션 소녀의 스테이지 댄스
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참고 영상 1(장면 영상)을 사용하여 캐릭터 2의 동작(모션 캡처 영상)을 수행하고, 이미지 3의 캐릭터로 영상을 생성합니다. 검은색 드레스를 입은 애니메이션 스타일의 금발 소녀가 무대에서 우아한 춤을 춥니다.
+
+#### 📝 프롬프트
+
+```
+참고 영상 1(장면 영상)을 바탕으로 인물 2의 동작(모션 캡처 영상)을 만들고, 이미지 3의 인물로 영상을 생성합니다.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="모션 캡처를 활용한 애니메이션 소녀의 스테이지 댄스"></a>
+
+📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=406)**
+
+**작성자:** [Jackywine](https://x.com/Jackywine) | **출처:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **게시일:** Feb 11, 2026
 
 ---
 ## 🎬 모든 프롬프트
@@ -393,25 +453,6 @@ Image1과 Image2의 캐릭터들이 싸우게 하세요.
 **작성자:** [松果先森](https://x.com/songguoxiansen) | **출처:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **게시일:** Feb 14, 2026
 
 ---
-### 볼리우드 댄스 '다른 여자에게 한눈파는 남자친구' 밈 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0에 대한 프롬프트로, AI에게 'Distracted Boyfriend' 밈의 맥락에서 볼리우드 댄스 스타일을 유머러스하고 시선을 끄는 톤으로 요약하도록 지시합니다.
-
-#### 📝 프롬프트
-
-```
-밈 "Distracted Boyfriend"에 나오는 볼리우드 댄스를 요약해 줘. 바보 같고 좋아요 50개는 받을 수 있게 해 줘.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="볼리우드 댄스 '다른 여자에게 한눈파는 남자친구' 밈 프롬프트"></a>
-
-📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=379)**
-
-**작성자:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **출처:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **게시일:** Feb 14, 2026
-
----
 ### Nami 프로그래밍 버그 수정 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -486,25 +527,6 @@ Image1과 Image2의 캐릭터들이 싸우게 하세요.
 📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=390)**
 
 **작성자:** [TechyTricksAI](https://x.com/TechyTricksAI) | **출처:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **게시일:** Feb 14, 2026
-
----
-### 절벽 도시를 가로지르는 스피더 추격전 (단일 연속 촬영)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 기념비적인 절벽 도시를 가로지르는 고속 추격전을 묘사하는 매우 상세하고 연속적인 샷 프롬프트로, 역동적인 카메라 움직임, 아지랑이, 파편에 초점을 맞추고 폭포수가 흐르는 계곡을 드러내며 절정에 달합니다.
-
-#### 📝 프롬프트
-
-```
-절벽 도시를 가로지르는 스피더 추격전 (단일 연속 촬영) 돌로 조각된 거대한 절벽 도시에서 카메라가 좁은 벼랑길을 따라 찢어지는 작은 빛줄기를 향해 돌진합니다. 조준: 미친 속도로 벽에 바싹 붙어 달리는 스피더. 카메라는 앞으로 튀어나갔다가 뒤로 채찍처럼 돌아오고, 이어서 후방 추진 장치에 바싹 붙습니다. 열 아지랑이, 벼랑에서 튀어 오르는 흙먼지, 번쩍이는 경고등. 무너지는 발코니에서 잔해가 쏟아지고, 운전자는 떨어지는 아치 아래에서 간발의 차이로 방향을 틀고, 이어서 매달린 빨랫줄과 열린 창문 사이를 유려하게 통과합니다. 카메라는 같은 틈새를 뚫고 들어가 움직임에 바싹 붙어 있습니다. 마지막 커브와 갑작스러운 고요함: 카메라는 밖으로 튀어나가 도시가 끝없이 펼쳐진 폭포 계곡으로 이어지는 모습을 드러내고, 안개는 무지개로 변합니다.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="절벽 도시를 가로지르는 스피더 추격전 (단일 연속 촬영)"></a>
-
-📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=393)**
-
-**작성자:** [Umesh](https://x.com/umesh_ai) | **출처:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **게시일:** Feb 14, 2026
 
 ---
 ### 짧은 프롬프트 기반의 Seedance 2.0 생성
@@ -2427,13 +2449,56 @@ Sora와 Veo가 자신들의 존재에 의문을 품게 만드는 영화 같은 2
 **작성자:** [xAi✨](https://x.com/xai_42) | **출처:** [Link](https://x.com/xai_42/status/2021637349247951131) | **게시일:** Feb 11, 2026
 
 ---
+### 사슬을 찬 룸펜 호보 여성
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 한 사용자가 뉴스 미디어에 혁명을 가져올 것으로 기대되는 생성형 도구인 Seedance 2.0을 테스트합니다. 이 사용자는 낡고 닳은 고양이를 데리고 체인을 이용해 관심을 끄는 여성 '룸펜 호보'에 대한 매우 상세하고 특이한 프롬프트를 사용합니다.
+
+#### 📝 프롬프트
+
+```
+룸펜, 호보, 여성 버전, 낡고 지친 고양이, 체인으로 시선을 끄는 체인
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="사슬을 찬 룸펜 호보 여성"></a>
+
+📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=205)**
+
+**작성자:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **출처:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **게시일:** Feb 11, 2026
+
+---
+### 레고 조립 타임랩스 애니메이션
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 소년이 방에서 레고 브릭을 집중해서 조립하는 모습을 타임랩스 스타일로 보여주는 3D 애니메이션 비디오 제작을 위한 상세 프롬프트입니다. 이 프롬프트는 시각적 스타일, 장면 설정, 그리고 카메라 움직임 및 초점 지점을 포함한 정확한 15초짜리 스토리보드를 명시합니다.
+
+#### 📝 프롬프트
+
+```
+방에서 레고 브릭을 진지하게 조립하는 소년의 모습. 3D 애니메이션 스타일로 밝은 색상과 부드러운 선이 특징이며, 아이 같은 즐거움과 활력이 넘칩니다. 조립 과정을 보여주기 위해 타임랩스 효과를 추가합니다.
+0-3초: 방 전체 모습. 창문을 통해 햇살이 책상 위로 쏟아지고, 소년은 책상에 앉아 진지한 표정으로 레고 브릭 조립에 집중합니다. 카메라가 천천히 다가갑니다.
+3-6초: 타임랩스 효과로 소년이 레고 브릭을 빠르게 조립하는 모습을 보여줍니다. 블록들이 손에서 점차 형태를 갖춰갑니다. 카메라 앵글이 바뀝니다.
+6-9초: 손 클로즈업. 소년이 레고 브릭을 능숙하게 조립하는 섬세한 모습을 보여줍니다. 손가락이 블록을 유연하게 조작합니다. 카메라가 손의 움직임을 따라갑니다.
+9-12초: 타임랩스 효과가 계속되어 조립 과정을 보여줍니다. 레고 작품이 점차 완성되어 가고, 소년의 표정은 집중에서 만족감으로 바뀝니다.
+12-15초: 소년이 고개를 들고 만족스러운 미소를 짓습니다. 카메라가 뒤로 물러나 완성된 레고 작품을 보여줍니다.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="레고 조립 타임랩스 애니메이션"></a>
+
+📥 *이미지를 클릭하여 동영상 다운로드* | **[🎬 비디오 보기 →](https://youmind.com/ko-KR/seedance-2-0-prompts?id=329)**
+
+**작성자:** [维维](https://x.com/siveill) | **출처:** [Link](https://x.com/siveill/status/2021635240985604526) | **게시일:** Feb 11, 2026
+
+---
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 84 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 81 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2488,6 +2553,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-15T08:36:29.342Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-02-15T12:52:12.311Z</sub>
 
 </div>

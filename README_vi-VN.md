@@ -69,7 +69,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 | Chỉ số | Số lượng |
 |--------|-------|
 | 📝 Tổng số prompt | **187** |
-| ⭐ Prompt nổi bật | **3** |
+| ⭐ Prompt nổi bật | **6** |
 | 🔄 Cập nhật lần cuối | **2026-02-15** |
 
 ---
@@ -78,6 +78,46 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 > Các prompt chất lượng cao được chọn lọc
 
+### Meme "Bạn trai xao nhãng" phiên bản vũ điệu Bollywood
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc cho Seedance 2.0 hướng dẫn AI tóm tắt phong cách Bollywood Dance trong bối cảnh meme 'Distracted Boyfriend', với giọng điệu hài hước và thu hút sự chú ý.
+
+#### 📝 Prompt
+
+```
+Tóm tắt điệu nhảy Bollywood trong meme "Distracted Boyfriend" - đảm bảo nó thật ngớ ngẩn và nhận được 50 lượt thích.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Meme "Bạn trai xao nhãng" phiên bản vũ điệu Bollywood"></a>
+
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=379)**
+
+**Tác giả:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Nguồn:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Đã xuất bản:** Feb 14, 2026
+
+---
+### Đuổi Bắt Tốc Độ Qua Thành Phố Vách Đá (Một Cảnh Quay Liên Tục)
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc cực kỳ chi tiết, quay liên tục mô tả một cuộc rượt đuổi tốc độ cao qua một thành phố vách đá hùng vĩ, tập trung vào chuyển động camera linh hoạt, hơi nóng, mảnh vỡ và kết thúc bằng cảnh tiết lộ một thung lũng được cấp nước bởi thác nước.
+
+#### 📝 Prompt
+
+```
+Cuộc rượt đuổi tốc độ xuyên thành phố vách đá (một cảnh quay liên tục) Từ một thành phố vách đá hùng vĩ được chạm khắc vào đá, camera lao xuống theo một vệt sáng nhỏ xé gió dọc theo con đường hẹp ven vách đá. Khóa mục tiêu: một chiếc speeder bám sát vách tường với tốc độ điên cuồng. Camera phóng vút lên phía trước, lướt ngược lại, rồi bám sát vào các động cơ đẩy phía sau: hơi nóng bốc lên, bụi đá văng ra từ gờ đá, đèn cảnh báo nhấp nháy. Một ban công đổ sập làm mưa mảnh vỡ; người lái lách mình kịp thời dưới một mái vòm đang rơi, rồi luồn lách qua những dây phơi quần áo và cửa sổ mở trong một đường đi uyển chuyển. Camera lướt qua những khe hở tương tự, bám sát chuyển động. Một khúc cua cuối cùng và sự tĩnh lặng bất ngờ: camera phóng ra ngoài, hé lộ toàn cảnh thành phố mở ra một thung lũng vô tận được nuôi dưỡng bởi thác nước, sương mù biến thành cầu vồng.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Đuổi Bắt Tốc Độ Qua Thành Phố Vách Đá (Một Cảnh Quay Liên Tục)"></a>
+
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=393)**
+
+**Tác giả:** [Umesh](https://x.com/umesh_ai) | **Nguồn:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Đã xuất bản:** Feb 14, 2026
+
+---
 ### Optimus Prime đấu Godzilla ở Tokyo
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -156,6 +196,26 @@ Cảnh tượng hiệu ứng đặc biệt: Rồng nước xanh và sét vàng n
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=189)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **Đã xuất bản:** Feb 11, 2026
+
+---
+### Cô Gái Anime Nhảy Trên Sân Khấu Với Motion Capture
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sử dụng video tham chiếu 1 (video cảnh) để thực hiện các hành động của nhân vật 2 (video ghi hình chuyển động), và tạo một video với nhân vật từ hình ảnh 3. Một cô gái tóc vàng theo phong cách anime trong chiếc váy đen đang thực hiện một điệu nhảy thanh lịch trên sân khấu.
+
+#### 📝 Prompt
+
+```
+Tạo video nhân vật 2 (video ghi lại chuyển động) thực hiện hành động từ video tham khảo 1 (video cảnh quay), sử dụng hình ảnh 3 của nhân vật.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Cô Gái Anime Nhảy Trên Sân Khấu Với Motion Capture"></a>
+
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=406)**
+
+**Tác giả:** [Jackywine](https://x.com/Jackywine) | **Nguồn:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **Đã xuất bản:** Feb 11, 2026
 
 ---
 ## 🎬 Tất cả prompt
@@ -393,25 +453,6 @@ Quảng cáo thời trang chất lượng bom tấn, màn hình dọc độ nét
 **Tác giả:** [松果先森](https://x.com/songguoxiansen) | **Nguồn:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **Đã xuất bản:** Feb 14, 2026
 
 ---
-### Meme "Bạn trai xao nhãng" phiên bản vũ điệu Bollywood
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc cho Seedance 2.0 hướng dẫn AI tóm tắt phong cách Bollywood Dance trong bối cảnh meme 'Distracted Boyfriend', với giọng điệu hài hước và thu hút sự chú ý.
-
-#### 📝 Prompt
-
-```
-Tóm tắt điệu nhảy Bollywood trong meme "Distracted Boyfriend" - đảm bảo nó thật ngớ ngẩn và nhận được 50 lượt thích.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="Meme "Bạn trai xao nhãng" phiên bản vũ điệu Bollywood"></a>
-
-📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=379)**
-
-**Tác giả:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **Nguồn:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **Đã xuất bản:** Feb 14, 2026
-
----
 ### Nami Programming Bug Fix Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -486,25 +527,6 @@ Một phương tiện chiến tranh hậu tận thế được độ lại rất
 📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=390)**
 
 **Tác giả:** [TechyTricksAI](https://x.com/TechyTricksAI) | **Nguồn:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **Đã xuất bản:** Feb 14, 2026
-
----
-### Đuổi Bắt Tốc Độ Qua Thành Phố Vách Đá (Một Cảnh Quay Liên Tục)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc cực kỳ chi tiết, quay liên tục mô tả một cuộc rượt đuổi tốc độ cao qua một thành phố vách đá hùng vĩ, tập trung vào chuyển động camera linh hoạt, hơi nóng, mảnh vỡ và kết thúc bằng cảnh tiết lộ một thung lũng được cấp nước bởi thác nước.
-
-#### 📝 Prompt
-
-```
-Cuộc rượt đuổi tốc độ xuyên thành phố vách đá (một cảnh quay liên tục) Từ một thành phố vách đá hùng vĩ được chạm khắc vào đá, camera lao xuống theo một vệt sáng nhỏ xé gió dọc theo con đường hẹp ven vách đá. Khóa mục tiêu: một chiếc speeder bám sát vách tường với tốc độ điên cuồng. Camera phóng vút lên phía trước, lướt ngược lại, rồi bám sát vào các động cơ đẩy phía sau: hơi nóng bốc lên, bụi đá văng ra từ gờ đá, đèn cảnh báo nhấp nháy. Một ban công đổ sập làm mưa mảnh vỡ; người lái lách mình kịp thời dưới một mái vòm đang rơi, rồi luồn lách qua những dây phơi quần áo và cửa sổ mở trong một đường đi uyển chuyển. Camera lướt qua những khe hở tương tự, bám sát chuyển động. Một khúc cua cuối cùng và sự tĩnh lặng bất ngờ: camera phóng ra ngoài, hé lộ toàn cảnh thành phố mở ra một thung lũng vô tận được nuôi dưỡng bởi thác nước, sương mù biến thành cầu vồng.
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="Đuổi Bắt Tốc Độ Qua Thành Phố Vách Đá (Một Cảnh Quay Liên Tục)"></a>
-
-📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=393)**
-
-**Tác giả:** [Umesh](https://x.com/umesh_ai) | **Nguồn:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **Đã xuất bản:** Feb 14, 2026
 
 ---
 ### Seedance 2.0 được tạo ra dựa trên một lời nhắc ngắn
@@ -2423,13 +2445,56 @@ buộc Thanos phải xin lỗi trước cuộc tấn công tập thể do Spider
 **Tác giả:** [xAi✨](https://x.com/xai_42) | **Nguồn:** [Link](https://x.com/xai_42/status/2021637349247951131) | **Đã xuất bản:** Feb 11, 2026
 
 ---
+### Người phụ nữ vô gia cư rách rưới với những sợi xích
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một người dùng thử nghiệm Seedance 2.0, một công cụ tạo sinh được kỳ vọng sẽ cách mạng hóa truyền thông tin tức, sử dụng một câu lệnh rất mô tả và khác thường về một nữ 'Lumpen Hobo' với một con mèo già, tả tơi, dùng dây xích để thu hút sự chú ý.
+
+#### 📝 Prompt
+
+```
+Lumpen, Hobo, phiên bản nữ, mèo già tả tơi, với dây xích để thu hút sự chú ý
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="Người phụ nữ vô gia cư rách rưới với những sợi xích"></a>
+
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=205)**
+
+**Tác giả:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **Nguồn:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **Đã xuất bản:** Feb 11, 2026
+
+---
+### Hoạt ảnh Time-Lapse Lắp Ráp Lego
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một lời nhắc chi tiết để tạo video hoạt hình 3D theo phong cách tua nhanh thời gian (time-lapse), cho thấy một cậu bé đang say sưa lắp ráp các mảnh Lego trong phòng của mình. Lời nhắc chỉ định phong cách hình ảnh, bối cảnh và một bảng phân cảnh chính xác dài 15 giây với các chuyển động máy quay và điểm lấy nét.
+
+#### 📝 Prompt
+
+```
+Một cậu bé đang say sưa lắp ráp những viên gạch Lego trong phòng của mình, cảnh quay theo phong cách hoạt hình 3D, với màu sắc tươi sáng, đường nét mượt mà, tràn đầy sự vui tươi và sức sống trẻ thơ, thêm hiệu ứng tua nhanh thời gian để thể hiện quá trình lắp ráp.
+0-3 giây: Toàn cảnh căn phòng, ánh nắng mặt trời chiếu qua cửa sổ xuống bàn học, cậu bé ngồi ở bàn tập trung lắp ráp những viên gạch Lego, với vẻ mặt nghiêm túc, camera từ từ tiến vào.
+3-6 giây: Hiệu ứng tua nhanh thời gian cho thấy cậu bé nhanh chóng ghép các viên gạch Lego lại với nhau, các khối hình dần thành hình trong tay cậu, camera chuyển sang các góc khác nhau.
+6-9 giây: Cận cảnh đôi tay, cho thấy chi tiết cậu bé khéo léo lắp ráp những viên gạch Lego, các ngón tay linh hoạt điều khiển các khối, camera theo dõi chuyển động của bàn tay.
+9-12 giây: Hiệu ứng tua nhanh thời gian tiếp tục cho thấy quá trình lắp ráp, tác phẩm Lego dần hoàn thiện, biểu cảm của cậu bé thay đổi từ tập trung sang hài lòng.
+12-15 giây: Cậu bé ngẩng đầu lên, nở một nụ cười mãn nguyện, camera lùi lại để hiển thị tác phẩm Lego đã hoàn thành của cậu.
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Time-Lapse Lắp Ráp Lego"></a>
+
+📥 *Nhấp vào hình ảnh để tải video* | **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=329)**
+
+**Tác giả:** [维维](https://x.com/siveill) | **Nguồn:** [Link](https://x.com/siveill/status/2021635240985604526) | **Đã xuất bản:** Feb 11, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 84 prompt khác không hiển thị ở đây
+### 🎯 81 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2484,6 +2549,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-15T08:36:35.047Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-02-15T12:52:18.653Z</sub>
 
 </div>

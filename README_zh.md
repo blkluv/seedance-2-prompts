@@ -69,7 +69,7 @@
 | 指标 | 数量 |
 |--------|-------|
 | 📝 提示词总数 | **187** |
-| ⭐ 精选提示词 | **3** |
+| ⭐ 精选提示词 | **6** |
 | 🔄 最后更新 | **2026-02-15** |
 
 ---
@@ -78,6 +78,48 @@
 
 > 精心挑选的高质量提示词
 
+### 宝莱坞舞蹈分心男友梗图提示
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 给 Seedance 2.0 的提示，指示 AI 在“分心男友”表情包的背景下，以幽默和引人注目的语气总结宝莱坞舞蹈风格。
+
+#### 📝 提示词
+
+```
+用“分心的男朋友”这个梗来总结宝莱坞舞蹈——确保它很蠢，能获得 50 个赞。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="宝莱坞舞蹈分心男友梗图提示"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=379)**
+
+**作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **来源:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **发布时间:** Feb 14, 2026
+
+---
+### 飞车追逐悬崖之城（一镜到底）
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个极其详细、一镜到底的提示，描述了一场高速飞车追逐，穿梭于一座宏伟的悬崖城市中，重点突出动态的镜头运动、热浪、碎片，最终揭示出一个由瀑布滋养的山谷。
+
+#### 📝 提示词
+
+```
+飞车追逐，穿越悬崖城市（单次连续镜头）
+
+镜头从一座雕刻在巨石中的宏伟悬崖城市俯冲而下，追逐着一道沿着狭窄崖边道路疾驰的微弱光线。锁定目标：一辆飞车以惊人的速度紧贴峭壁行驶。镜头猛地向前冲刺，然后迅速拉回，紧接着贴近飞车尾部的推进器：热浪翻滚，碎石从崖边飞溅，警示灯闪烁。一个坍塌的阳台碎片如雨般落下；骑手在最后一刻急转弯，躲过一道坠落的拱门，然后流畅地穿梭于晾晒的衣物和敞开的窗户之间。镜头也穿过同样的开口，紧随飞车的动作。最后一个弯道，突然归于平静：镜头猛然向外拉伸，展现出城市通向一个无边无际、瀑布滋养的山谷，薄雾化作彩虹。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="飞车追逐悬崖之城（一镜到底）"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=393)**
+
+**作者:** [Umesh](https://x.com/umesh_ai) | **来源:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **发布时间:** Feb 14, 2026
+
+---
 ### 擎天柱大战哥斯拉在东京
 
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -156,6 +198,26 @@
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=189)**
 
 **作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2021610292979876208) | **发布时间:** Feb 11, 2026
+
+---
+### 动漫少女舞台动感舞蹈与动作捕捉
+
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 使用参考视频 1（场景视频）来执行角色 2 的动作（动作捕捉视频），并生成一个包含图片 3 中角色的视频。视频中，一位身穿黑色连衣裙的动漫风格金发女孩在舞台上跳着优雅的舞蹈。
+
+#### 📝 提示词
+
+```
+参考视频 1（场景视频）进行人物 2 的动作（动作捕捉视频），用图片 3 的人物生成视频
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="动漫少女舞台动感舞蹈与动作捕捉"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=406)**
+
+**作者:** [Jackywine](https://x.com/Jackywine) | **来源:** [Link](https://x.com/Jackywine/status/2021534129368768671) | **发布时间:** Feb 11, 2026
 
 ---
 ## 🎬 所有提示词
@@ -394,25 +456,6 @@
 **作者:** [松果先森](https://x.com/songguoxiansen) | **来源:** [Link](https://x.com/songguoxiansen/status/2022669345395216626) | **发布时间:** Feb 14, 2026
 
 ---
-### 宝莱坞舞蹈分心男友梗图提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 给 Seedance 2.0 的提示，指示 AI 在“分心男友”表情包的背景下，以幽默和引人注目的语气总结宝莱坞舞蹈风格。
-
-#### 📝 提示词
-
-```
-用“分心的男朋友”这个梗来总结宝莱坞舞蹈——确保它很蠢，能获得 50 个赞。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="600" alt="宝莱坞舞蹈分心男友梗图提示"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=379)**
-
-**作者:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple) | **来源:** [Link](https://x.com/13enZGN_temple/status/2022646748410425685) | **发布时间:** Feb 14, 2026
-
----
 ### Nami 编程 Bug 修复场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -487,27 +530,6 @@
 📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=390)**
 
 **作者:** [TechyTricksAI](https://x.com/TechyTricksAI) | **来源:** [Link](https://x.com/TechyTricksAI/status/2022569814737248514) | **发布时间:** Feb 14, 2026
-
----
-### 飞车追逐悬崖之城（一镜到底）
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极其详细、一镜到底的提示，描述了一场高速飞车追逐，穿梭于一座宏伟的悬崖城市中，重点突出动态的镜头运动、热浪、碎片，最终揭示出一个由瀑布滋养的山谷。
-
-#### 📝 提示词
-
-```
-飞车追逐，穿越悬崖城市（单次连续镜头）
-
-镜头从一座雕刻在巨石中的宏伟悬崖城市俯冲而下，追逐着一道沿着狭窄崖边道路疾驰的微弱光线。锁定目标：一辆飞车以惊人的速度紧贴峭壁行驶。镜头猛地向前冲刺，然后迅速拉回，紧接着贴近飞车尾部的推进器：热浪翻滚，碎石从崖边飞溅，警示灯闪烁。一个坍塌的阳台碎片如雨般落下；骑手在最后一刻急转弯，躲过一道坠落的拱门，然后流畅地穿梭于晾晒的衣物和敞开的窗户之间。镜头也穿过同样的开口，紧随飞车的动作。最后一个弯道，突然归于平静：镜头猛然向外拉伸，展现出城市通向一个无边无际、瀑布滋养的山谷，薄雾化作彩虹。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="600" alt="飞车追逐悬崖之城（一镜到底）"></a>
-
-📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=393)**
-
-**作者:** [Umesh](https://x.com/umesh_ai) | **来源:** [Link](https://x.com/umesh_ai/status/2022564055957811600) | **发布时间:** Feb 14, 2026
 
 ---
 ### Seedance 2.0：基于简短提示词生成
@@ -2423,13 +2445,56 @@ Seedance 2.0 提示词
 **作者:** [xAi✨](https://x.com/xai_42) | **来源:** [Link](https://x.com/xai_42/status/2021637349247951131) | **发布时间:** Feb 11, 2026
 
 ---
+### 衣衫褴褛、戴着镣铐的流浪女
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一位用户测试了 Seedance 2.0，这是一款有望彻底改变新闻媒体的生成式工具。他使用了一个描述性极强且不同寻常的提示，内容是一名女性“流浪汉”，带着一只破旧的老猫，用铁链吸引人们的注意。
+
+#### 📝 提示词
+
+```
+流浪汉、无家可归者、女性版本、饱经风霜的老猫，用链条吸引注意力。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/205.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2cb7529a49191127f9e5d4aec52a6b19/thumbnails/thumbnail.jpg" width="600" alt="衣衫褴褛、戴着镣铐的流浪女"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=205)**
+
+**作者:** [Mauro L マウロ](https://x.com/Lo_Mauro) | **来源:** [Link](https://x.com/Lo_Mauro/status/2021637023329923462) | **发布时间:** Feb 11, 2026
+
+---
+### 乐高拼装延时动画
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一个详细的提示，用于生成一个时间流逝风格的 3D 动画视频，展示一个男孩在他的房间里专心组装乐高积木。该提示明确了视觉风格、场景设置，以及一个精确的 15 秒故事板，包括摄像机运动和焦点。
+
+#### 📝 提示词
+
+```
+一个男孩在他的房间里认真地拼装着乐高积木，场景采用 3D 动画风格，色彩明亮，线条流畅，充满童趣和活力，并加入了延时摄影效果来展示拼装过程。
+0-3 秒：房间全景，阳光透过窗户洒在书桌上，男孩坐在书桌前专注地拼装乐高积木，表情认真，镜头缓慢推近。
+3-6 秒：延时摄影效果展示男孩快速拼装乐高积木，积木在他手中逐渐成形，镜头切换到不同角度。
+6-9 秒：手部特写，展示男孩熟练拼装乐高积木的细节，手指灵活地操作积木，镜头跟随手部动作。
+9-12 秒：延时摄影效果继续展示拼装过程，乐高作品逐渐完成，男孩的表情从专注变为满足。
+12-15 秒：男孩抬起头，露出满意的笑容，镜头拉远，展示他完成的乐高作品。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/329.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6dada77720df4132da3dea2eda76c633/thumbnails/thumbnail.jpg" width="600" alt="乐高拼装延时动画"></a>
+
+📥 *点击图片下载视频* | **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=329)**
+
+**作者:** [维维](https://x.com/siveill) | **来源:** [Link](https://x.com/siveill/status/2021635240985604526) | **发布时间:** Feb 11, 2026
+
+---
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 84 更多提示词未在此显示
+### 🎯 81 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2484,6 +2549,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-02-15T08:36:20.714Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-02-15T12:52:03.160Z</sub>
 
 </div>
