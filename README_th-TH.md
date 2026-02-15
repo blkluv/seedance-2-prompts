@@ -70,7 +70,7 @@
 |--------|-------|
 | 📝 พรอมต์ทั้งหมด | **187** |
 | ⭐ พรอมต์แนะนำ | **3** |
-| 🔄 อัปเดตล่าสุด | **2026-02-14** |
+| 🔄 อัปเดตล่าสุด | **2026-02-15** |
 
 ---
 
@@ -2574,6 +2574,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-0-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-14T20:27:35.510Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-02-15T02:12:54.229Z</sub>
 
 </div>
